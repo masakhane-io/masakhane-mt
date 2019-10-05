@@ -73,4 +73,4 @@ In order for us to consider your result submission official, we need a couple of
 
 ### 5. I've got a baseline. What do I do to improve it?
 
-Cool! So there are many ways to improve results. We're busy working on a wiki to aid that! 
+Cool! So there are many ways to improve results. We're busy working on a wiki to aid that! Got ideas for this? Drop us a line!
