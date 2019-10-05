@@ -42,7 +42,7 @@ We have an [example colab notebook](https://github.com/jaderabbit/masakhane/blob
 
 This is a huge challenge, but luckily we have a place to start! At ACL 2019, [this](https://www.aclweb.org/anthology/P19-1310/) paper was published. The short story? Turns out the Jehovah's Witness community has been translating many many documents and not all of them are religious. And their language representation is DIVERSE. 
 
-Check out this spreadsheet [HERE](https://docs.google.com/spreadsheets/d/1p_HpKkrAlRDte04pgStsxaN8IJ4I0GgidVGIE_6VtMw/edit?usp=sharing) to see if your language is featured, then go to Opus to find your language:  http://opus.nlpl.eu/JW300.php
+Check out this spreadsheet [HERE](https://docs.google.com/spreadsheets/d/1p_HpKkrAlRDte04pgStsxaN8IJ4I0GgidVGIE_6VtMw/edit?usp=sharing) to see if your language is featured, then go to Opus to find the links to the data:  http://opus.nlpl.eu/JW300.php
 
 #### Can't find your language in the JW300 dataset?
 
