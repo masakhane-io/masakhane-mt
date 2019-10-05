@@ -1,13 +1,14 @@
 # Masakhane - A living translation project for Africans, by Africans
 
-Let's put Africa on the NLP Map!
+We need African researchers from ACROSS the continent to join our effort in building translation models for African languages. Masakhane means "We Build Together" in isiZulu. Phase 1 consists of getting baseline translation results for as many languages as possible. Phase 2 consists of combining all our powers and doing some transfer learning to get significant improvement on the models. 
 
 First, we encourage you read up on our website: [masakhane.io](https://masakhane.io)
 
 ## Outcomes
 
-1. Put African NLP on the map by publishing a paper at a top-tier NLP conference featuring as many languages and countries and researchers as possible.
+1. Put African NLP on the map by publishing a paper at a top-tier NLP conference featuring as many languages and countries and researchers as possible. 
 2. Faciliate the development of an NLP community in Africa
+
 3. Spur research and focus on African languages, by providing a starting point for other researchers to begin
 
 ## To officially join the project
@@ -69,3 +70,7 @@ In order for us to consider your result submission official, we need a couple of
 4. The model itself. This can be in the form of a google drive or dropbox link. We will be finding a home for our trained models soon
 
 5. The results - the train, dev, and test set BLEU are all we required right now
+
+### 5. I've got a baseline. What do I do to improve it?
+
+Cool! So there are many ways to improve results. We're busy working on a wiki to aid that! 
