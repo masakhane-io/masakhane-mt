@@ -69,7 +69,43 @@ In order for us to consider your result submission official, we need a couple of
 
 4. The model itself. This can be in the form of a google drive or dropbox link. We will be finding a home for our trained models soon
 
-5. The results - the train, dev, and test set BLEU are all we required right now
+5. The results - the train, dev, and test set BLEU score
+
+We will be further expanding our analysis techniques so it's super important we have a copy of the model and test sets now so we don't need to rerun the training just to do the analysis
+
+Once you have all of the above, please create a pull request into the repository. See guidelines [here](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork).
+
+#### Structure of my PR:
+
+ Also see this as an example for the structure of your contribution
+ 
+ Structure:
+ ```
+ /<src-lang>-<tgt-lang>
+    /<technique> -- this could be "jw300-baseline" or "fine-tuned-baseline" or "nig-newspaper-dataset"
+      - notebook.ipynb
+      - README.md
+      - test.src
+      - test.tgt
+      - results.txt
+      - any other files, if you have any
+```
+
+Example:
+```
+/en-xh
+  /xhnavy-data-baseline 
+    - notebook.ipynb
+    - README.md
+    - test.xh
+    - test.en
+    - results.txt
+    - preprocessing.py
+```
+
+Here is a link to a pull request that has the relevant things. 
+
+**Feeling nervous about contributing your first pull request or unsure how to proceed? Please don't feel discouraged! Drop us an email or a slack message and we will work together to get your contribution in ship shape!**
 
 ### 5. I've got a baseline. What do I do to improve it?
 
