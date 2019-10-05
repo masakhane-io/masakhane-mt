@@ -1,4 +1,4 @@
-# Masakhane - A living translation project for Africans, by Africans
+# Masakhane - A living machine translation project for Africans, by Africans
 
 We need African researchers from ACROSS the continent to join our effort in building translation models for African languages. Masakhane means "We Build Together" in isiZulu. Phase 1 consists of getting baseline translation results for as many languages as possible. Phase 2 consists of combining all our powers and doing some transfer learning to get significant improvement on the models. 
 
