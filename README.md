@@ -110,3 +110,7 @@ Here is a link to a pull request that has the relevant things.
 ### 5. I've got a baseline. What do I do to improve it?
 
 Cool! So there are many ways to improve results. We're busy working on a wiki to aid that! Got ideas for this? Drop us a line!
+
+# Code of Conduct
+
+See [Code of Conduct](https://github.com/jaderabbit/masakhane/blob/master/CODE_OF_CONDUCT.md)
