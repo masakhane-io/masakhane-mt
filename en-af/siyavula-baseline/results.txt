@@ -1,0 +1,2 @@
+2019-10-12 13:18:22,676 -  dev bleu:  18.23 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2019-10-12 13:18:51,804 - test bleu:  13.60 [Beam search decoding with beam size = 5 and alpha = 1.0]
