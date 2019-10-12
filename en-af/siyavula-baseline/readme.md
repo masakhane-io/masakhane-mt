@@ -18,6 +18,9 @@ Changes to model
 I made very limited changes to the setup from the original example codebook,
 apart from changing the batch sizes and some of the validation settings.
 
+A trained model can be obtained here:
+https://drive.google.com/open?id=1VWgWP7IXto56gX7xL2a0cGah9ZGNRyv-
+
 
 Example input-output sentences
 ------------------------------
@@ -37,10 +40,8 @@ Example 1:
 Example 2:
 
     Source:     it means to clean water; to remove pollutants from the water .
-    Reference:  om water te suiwer beteken om besoedeling uit water te
-                verwyder .
-    Hypothesis: dit beteken om skoon water te skoon water om die besoedelende
-                stowwe te verwyder .
+    Reference:  om water te suiwer beteken om besoedeling uit water te verwyder .
+    Hypothesis: dit beteken om skoon water te skoon water om die besoedelende stowwe te verwyder .
 
 Example 3:
 
