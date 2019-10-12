@@ -12,42 +12,42 @@ If the data is further distributed or adapted, it needs to also be released
 under the [CC BY](https://creativecommons.org/licenses/by/3.0/) license, with
 credit to Siyavula for the content and Herman Kamper for the data compilation.
 
+The data can be downloaded from:
+https://www.kamperh.com/data/siyavula_en_af.noweb.3.zip
+
 
 Changes to model
 ----------------
 I made very limited changes to the setup from the original example codebook,
 apart from changing the batch sizes and some of the validation settings.
 
-A trained model can be obtained here:
-https://drive.google.com/open?id=1VWgWP7IXto56gX7xL2a0cGah9ZGNRyv-
-
 
 Example input-output sentences
 ------------------------------
 
-Example 0:
+Example 1:
 
     Source:     resources about water
     Reference:  hulpbronne oor water
-    Hypothesis: bronne oor water
+    Hypothesis: bronne van water
 
-Example 1:
+Example 2:
 
     Source:     what does it mean to purify water ?
     Reference:  wat beteken dit om water te suiwer ?
     Hypothesis: wat beteken dit om water te suiwer ?
 
-Example 2:
+Example 3:
 
     Source:     it means to clean water; to remove pollutants from the water .
     Reference:  om water te suiwer beteken om besoedeling uit water te verwyder .
-    Hypothesis: dit beteken om skoon water te skoon water om die besoedelende stowwe te verwyder .
+    Hypothesis: dit beteken om skoon te skoon waterbesoedeling uit die water te verwyder .
 
-Example 3:
+Example 4:
 
     Source:     what is clean water ?
     Reference:  wat is skoon water ?
-    Hypothesis: wat is water skoon ?
+    Hypothesis: wat is skoon ?
 
 
 Contributors
