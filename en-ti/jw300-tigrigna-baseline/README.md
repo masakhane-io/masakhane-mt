@@ -17,5 +17,5 @@ Author: Musie Meressa Berhe
 
 ## Results
 	
-	- BLEU dev: 5.86
-	- BLEU test: 5.31
+	- BLEU dev: 2.95
+	- BLEU test: 4.02
