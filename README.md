@@ -45,6 +45,9 @@ This is a huge challenge, but luckily we have a place to start! At ACL 2019, [th
 
 Check out this spreadsheet [HERE](https://docs.google.com/spreadsheets/d/1p_HpKkrAlRDte04pgStsxaN8IJ4I0GgidVGIE_6VtMw/edit?usp=sharing) to see if your language is featured, then go to Opus to find the links to the data:  http://opus.nlpl.eu/JW300.php
 
+We also provide a script for easy downloading and BPE-preprocessing of JW300 data from OPUS: `get_jw300.py`. It requires the installation of the [opustools-pkg Python package](https://pypi.org/project/opustools-pkg/). Example: For dowloading and pre-processing the Acholi (ach) and the Nyaneka (nyk) portions of JW300, call the script like this:
+`python get_jw300.py ach nyk --output_dir jw300`
+
 #### Can't find your language in the JW300 dataset?
 
 Then we still have some options! Our community has been searching wide and far! Drop us a mail and we'll get you onboarded on our slack: masakhanetranslation@gmail.com. We will be updating our wiki with other resources as we find them!
