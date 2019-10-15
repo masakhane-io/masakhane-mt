@@ -1,1000 +1,2981 @@
-Ke wa fĩ si ngɛ fiɛɛmi ní tsumi ɔ mi ɔ , wa le kaa lɔ ɔ saa Yehowa kɛ Yesu a hɛ mi . Enɛ ɔ haa nɛ wa nuɔ he ngɛ wa tsui mi kaa wa ngɛ tue mi jɔmi nitsɛnitsɛ . ( La 149 : 4 ; Rom .
-Kɛ o ma plɛ kɛ kɔ nɔ́ se kaa bɔ nɛ Yesu pee ɔ ha kɛɛ ?
-Yehowa ha wɔ Baiblo ɔ , ejakaa e suɔ wɔ saminya .
-Nyɛminyumu Rutherford tu munyu ko nɛ e yi ji “ The kingdom of heaven is at hand ” ( Hiɔwe matsɛ yemi ɔ su si ta ) .
-Se pi nɛ Yehowa suɔ kaa e we bi nɛ a ko de nɔ́ ko nɛ be mi kɛkɛ , mohu ɔ , e suɔ nɛ a tu anɔkuale sisiisi .
-Nɔ́ Nɛ Mawu Maa Pee Ngɛ Haomihi A He 7
-Ke wɔ tsuo wa baa wa he si kɛ haa nyumuhi nɛ Yesu kɛ mɛ ngɛ ní tsue mwɔnɛ ɔ , lɔ ɔ tsɔɔ kaa wa buɔ wa Hɛ Mi Nyɛɛlɔ nɛ ji Yesu ɔ tue . ​ — Heb .
-Bɔ nɛ Yesu ye aywilɛho wawɛɛ ha benɛ Lazaro gbo ɔ ji bua womi munyuhi nɛ ngɛ Mawu Munyu ɔ mi ɔ a kpɛti kake pɛ .
-Nyɛmimɛ nyumuhi kɛ yihi ngma sɛ womi akpehi abɔ kɛ ya Yehowa Odasefohi asafo ɔ ní tsumi yi ɔ ngɛ Brooklyn , ngɛ New York , kɛ tsɔɔ kaa a bua jɔ Baiblo ɔ he .
-O bua maa jɔ kaa Yehowa to be nɛ sa , nɛ e kpata je ɔ hɛ mi . O bua maa jɔ hu kaa e bɔ e we bi kɔkɔ kaa a ya nɔ nɛ a hyɛ nyagbe ɔ blɔ . ​ — Bɔfo Ɔmɛ A Ní Tsumi 1 : 7 ; 1 Petro 4 : 7 .
-“ E tsɔ eko nɛ e ye , nɛ e ha e huno ɔ hu eko nɛ e ye . ”
-Ke wa yaa nɔ nɛ wa susuɔ Baiblo gbamihi nɛ a ngɛ mi bae ngɛ wa be nɛ ɔ mi ɔ a he ɔ , Satan je ɔ be nyɛe ma je wa juɛmi kɛ je Yehowa sɔmɔmi nɔ . Wa maa nu níhi nɛ ngɛ nɔ yae ngɛ je ɔ mi ɔ a sisi .
-Se nɔ́ nɛ ma nyɛ ma puɛ wa tue mi jɔmi pe kulaa ji ke wa weku li be asafo ɔ mi .
-Enɛ ɔ ma bli blɔ ha mo konɛ o tsɔɔ o bi ɔ hɛdɔ nɛ ngɛ he kaa nɔ ko maa jɔɔ e he nɔ ha Yehowa nɛ e ba e je mi kaa Kristofo no nɛ a baptisi lɛ , kɛ jehanɛ hu ɔ , jɔɔmihi nɛ e ma ná .
-Mɛni he je nɛ wa tsɔɔ kaa ke a kpata Babilon Ngua a hɛ mi ɔ , a be e mi bimɛ ɔmɛ tsuo a hɛ mi kpatae ɔ ?
-Nyɛminyumu ko nɛ e kɔni mi jɔ̃ we ɔ de ke : “ Wa ya du ní ɔ , wa ya pue nɔ nyu , nɛ wa ngɛ sɔlee kaa Yehowa nɛ ha nɛ sɛ gbi ɔ he bua jɔmi nɛ e wa ngɛ a tsui mi . ” ​ — 1 Kor .
-* ( 4 Mose 35 : 25 ) Se e hi kaa e kɛ ní nɛ ɔmɛ maa sã afɔle .
-E ngɛ heii kaa ke wa bua he lo nya níhi a nya a , lɔ ɔ be wa yi wami hee ngɛ hɛ mi kpatami nɛ ma a mi .
-Nihi tsuo nɛ a suɔ kaa a sɔmɔ Yehowa a ngɛ ta hwue kɛ ngɛ Satan kɛ e je ɔ sie !
-Blɔ nya ní tsumi agbo hu fɔɔ si ngɛ e nɔ kaa e ma tsɔse Mawu Bi ɔ kaa adesa nɛ e maa hyɛ e nɔ !
-Nyɛminyumu ko kpale ya slaa nyumu nɔkɔtɔma ko nɛ e kɛ jehahi fuu kane wa womi tɛtlɛɛ ɔmɛ .
-Benɛ Yesu Kristo hu kɛ kahi ngɛ kpee ngɛ e hemi kɛ yemi ɔ he ɔ , e ya nɔ nɛ e bu Yehowa tue , nɛ Yehowa jɔɔ lɛ .
-Wa he nyɛ ye .
-Lɔ ɔ se ɔ , oti nɛ i kɛ ma ye hɛ mi ji blɔ gbami ní tsumi ɔ .
-Ngɛ anɔkuale mi ɔ , Yesu kaselɔ nɛ o maa pee ɔ biɔ nɛ o jɔɔ o he nɔ ha Yehowa nɛ o ha nɛ a baptisi mo .
-Mohu ɔ , Mawu ma kpata “ nihi nɛ kpataa zugba a hɛ mi , ” nɛ ji adesa nɔ yemihi nɛ ngɛ nɔ yee mwɔnɛ ɔ a hɛ mi . Mawu maa ngɔ “ hiɔwe he , kɛ zugba he ɔ ” kɛ to blɔ nya tomi nɛ ngɛ mwɔnɛ ɔ nane mi .
-Benɛ e ye jeha 14 ɔ , e bɔni sɔmɔmi kaa blɔ gbalɔ , nɛ i kɛ lɛ tsu blɔ gbami ní tsumi ɔ jeha enyɔ .
-Ejakaa Yehowa wo wɔ si kaa e be kɛe nɛ Matsɛ Yemi ɔ ma kpata je yaya nɛ ɔ hɛ mi , nɛ e maa ngɔ Mawu je ehe ɔ kɛ ba .
-Loko wa ma nyɛ maa da ka ko nya a , e he hia nɛ waa pee ní enyɔ komɛ : kekleekle ɔ , e he hia nɛ waa hi Yehowa kasa mi daa .
-Ke wa ngɛ fiɛɛmi tso mi ɔ , nihi hyɛɔ bɔ nɛ wa peeɔ wa ní ha .
-Benɛ Israelbi ɔmɛ je Egipt nɛ a kɛ jeha 40 maa nyɛɛ “ nga kplanaa ” a nɔ ɔ , Yehowa tsɔɔ we mɛ blɔ pɔtɛɛ nɛ e maa gu nɔ kɛ kudɔ mɛ , kɛ bu a he , kɛ blɔ pɔtɛɛ nɛ e maa gu nɔ kɛ hyɛ a nɔ .
-Nɛ eko ɔ , nɔ ko po be lee kaa a hi si hyɛ . Sara hyɛ we e se , mohu ɔ , e kɛ e hɛ ma níhi nɛ a ngɛ e hɛ mi ɔ nɔ .
-I he ye hu kaa Yehowa haa wɔ níhi nɛ wa ngɛ hlae ɔ .
-( Hiob 3 : 3 , 11 ) Nɔ́ nɛ puɛ sane ɔ kulaa ji kaa Hiob nui nɔ́ heje nɛ jamɛ a ní ɔmɛ ba e nɔ ɔ sisi saminya .
-( b ) Mɛni Yehowa suɔ kaa huno kɛ e yo nɛ a pee ?
-E he hia nɛ wa ha nɛ suɔmi nɛ wa ngɛ kɛ ha wa nyɛmimɛ ɔ mi nɛ wa amlɔ nɛ ɔ , ejakaa lɔ ɔ maa ye bua wɔ nɛ wa maa da ka saisaa nɛ waa kɛ ma kpe hwɔɔ se ɔ nya
-Yuda bi kpahi nɛ a ngɛ Roma mlaa a sisi ɔ hu ngɛ he blɔ nɛ ɔ nɔuu .
-Jã kɛ̃ nɛ ke nɔ ko fia yɔkɔ kɛ ha e suɔlɔ ko nɛ gbo ɔ , tsa pi tɔmi .
-Mɛni blɔhi a nɔ wa maa gu kɛ tsɔɔ kaa wa bua jɔ Yehowa tsui si tomi ɔ he ?
-2 : 5 , 6 ) Moo hyɛ bɔnɛ enɛ ɔ ma ha nɛ Nehemia hemi kɛ yemi ɔ mi maa wa ha !
-Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ tsɔɔ kaa wa yaa nɔ nɛ wa peeɔ jã ?
-( La 45 : 4 ) Kekleekle nɔ́ nɛ e maa pee ji , e ma je Satan kɛ e daimonio ɔmɛ kɛ je hiɔwe . — Kpojemi 6 : 2 ; 12 : 9 .
-Ngɛ anɔkuale mi ɔ , tsa pi nike ní nɛ nɔ ko ma ha nɔ ko ɔ nɛ tsɔɔ kaa e haa nɔ nɔ́ faa , se mohu e tsui mi nɛ e jeɔ kɛ peeɔ jã a nɛ tsɔɔ .
-Mɛni he je nɛ e sa kaa asafo mi nikɔtɔmahi nɛ a tsɔse nyumuhi nɛ a ngɛ asafo ɔ mi ɔ ?
-Blɔ gbami ní tsumi ɔ ngɛ zugba kpɔ nɛ ɔ mi ngɔɔ saminya .
-Kaa nɔ hyɛmi nɔ́ ɔ , mo susu ais nɛ ha wo ɔ hɛ mi ngɛ hehi komɛ ɔ he nɛ o hyɛ .
-A bi jamɛ a nyɛmimɛ ɔmɛ nɔuu ke , “ Mɛni ji su nɛ o suɔ wawɛɛ ngɛ asafo mi nɔkɔtɔma ko he ? ”
-Klaali ɔmɛ daa bɔ nɛ nɔ ko peeɔ e ní ha a nɔ kɛ tsɔɔ nɔ́ nɛ maa ba nɔ ɔ nɔ hwɔɔ se .
-( Yoel 2 : 11 ) Gbalɔ Zefania de ke : ‘ Ligbi ngua a nɛ Yehowa maa gbla e ma a tue ɔ ma kɛ fo ; e su si ta ! ’
-Loko Hiob kɛ kahi maa kpe ɔ , lɛ ji “ nɔmlɔ ngua pe kulaa ngɛ beleku je ma amɛ a mi . ”
-( b ) Kɛ Kristofohi ná Roma mlaa a he se ha kɛɛ ?
-A ngma 1 Petro 1 : 8 , 9 ɔ kɛ ha Kristofohi nɛ a ngɛ hɛ nɔ kami kaa a maa ya hiɔwe ɔ .
-Wa ma nyɛ maa hia kɛ ho he kpa ya jio , wa be nyɛe jio , wɔ tsuo wa ma nyɛ ma tsu wa blɔ fa mi nɔ́ kɛ ye bua nihi ngɛ wa we asafo ɔmɛ a mi .
-‘ Ke nyɛ maa bu Yehowa , nyɛ Mawu ɔ tue anɔkuale mi ɔ , lɛɛ ní nɛ ɔmɛ tsuo maa ba mi . ’ ​ — ZAK .
-Pee se ɔ , benɛ Yuda bi ɔmɛ a kojomi he ngua a bi Yesu munyu ɔ , Yesu kɛ kã de mɛ ke lɛ ji Kristo , Mawu Bi ɔ nɛ .
-Kaa nibɔ níhi tsuo a kpɛti tɛte kɛ Mawu bi kake ɔ , Yesu ba pee wa “ hɛngmɛ ” nɛ waa kɛ hyɛɛ hiɔwe .
-Mɛni blɔ nɔ Daniel 2 : 41 - 45 tsɔɔ kaa e he hia nɛ waa kɛ hɛdɔ nɛ tsu wa sɔmɔmi nítsumi ɔ ?
-Nyɛminyumu ko hu nɛ e ye pe jeha 60 tsɔɔ kaa Yehowa Odasefohi ngɛ hemi kɛ yemi nitsɛnitsɛ ngɛ Yesu mi .
-Mɛni Yesu kaseli ɔmɛ pee kɛ wo a nyɛmimɛ ɔmɛ he wami ?
-Ke wa susu níhi tsuo nɛ Mawu haa wɔ ɔ he ɔ , e sa nɛ wa bi wa he ke : ‘ Anɛ i fiɛɛɔ kɛ kã kɛ tsɔɔ kaa ye bua jɔ níhi nɛ Yehowa peeɔ haa mi ɔ he lo ?
-( 1 Ma . 8 : 46 ) Ke wa ngɛ nile kɛ níhi a si kpami kaa mɛni po , wa ngɛ kaa jokuɛwi ngɛ Yehowa hɛ mi . ​ — Yes .
-Baiblo ɔ de ke : “ Ngɔɔ nile nitsɛnitsɛ , kɛ juɛmi ngɔ to saminya ; ko ha nɛ a je o dɛ .
-A ngɛ hlae nɛ ma je ma a mi konɛ nyumuyo ko nɛ ngɛ ye se nyɛɛe ɔ nɛ ko na mi hu .
-Se ke wa ngɛ wae ɔ , waa kɛ nyagba slɔɔtohi nɛ a mi wa kpeeɔ .
-Ke wa peeɔ jã a , wa ma ná bua jɔmi , ejakaa “ gbaami ngɛ nɔ́ hami mi pe nɔ́ hemi . ” — Níts . 20 : 35 .
-Kaa bɔ nɛ Yonatan pee ɔ , wɔ hu wa ma nyɛ maa ye Yehowa anɔkuale , nɛ wa maa bu ma nɔ yeli tue ke e he hia kaa waa pee jã .
-Jokuɛwi ​ — Kɛ Nyɛ Ma Plɛ Kɛ Dla Nyɛ He Kɛ Ha Baptisimi Ha Kɛɛ ?
-Bɔ nɛ pee nɛ wa nyɛ nɛ waa pee jã a , e sa nɛ wa kua yayamihi nɛ hɛdɔ ngɛ a he nɛ ni komɛ nɛ a ngɛ Korinto ɔ pee ɔ .
-( Hiob 14 : 1 , 2 ) Baiblo ɔ tsɔɔ kaa ní leli po susuɔ sane bimi nɛ ɔ he . ​ — Kane Fiɛlɔ 2 : 11 .
-Ja wa to wa tsui si kɛ ya si nyagbe loko wa ma ná neneene wami .
-Lɛɛ mwɔnɛ ɔ , ke nihi kase Mawu Munyu ɔ , nɛ a pee tsakemi nguahi ngɛ a si himi mi ɔ , anɛ e sa nɛ e pee wɔ nyakpɛ lo ?
-Irene de ke : “ Loloolo ɔ , i nyɛ we Russia gbi ɔ tumi saminya . ”
-Munyu nɛ ɔ wo Israel bi ɔmɛ he wami nɛ a nyɛ da haomihi nɛ a kɛ kpe benɛ a su Si Womi Zugba a nɔ ɔ nya .
-Enɛ ɔ he ɔ , Satan de Yesu kaa e ma nyɛ ma ha nɛ e bɔni nɔ yemi nɔuu .
-Kaa nɔ hyɛmi nɔ́ ɔ , wa biɔ si ke , “ Nɔ ko ngɛ hiɛ ɔ nɛ ngɛ na juae lo ? ”
-15 - 17 . ( a ) Mɛni heje nɛ e he hia nɛ tsɔlɔ nɛ ye anɔkuale ɔ ?
-Yehowa tĩ somi nɛ e kɛ Abraham so ɔ mi si abɔ . Be tsuaa be nɛ Yehowa maa pee jã a , e tsɔɔ Abraham níhi a mi fitsofitso .
-11 : 31 .
-Se kɛ̃ ɔ , ngɛ blɔ ko nɔ ɔ , i ngɛ lɛ dee ke : ‘ O suɔmi ɔ nya wɛ bɔ nɛ e maa su ye nɔ .
-Nihi le lɛ kaa e ji nɔ ko nɛ e suɔ nɔmlɔ , nɛ e susuɔ nihi a he . A yeɔ e he odase kaa e ji nɔ ko nɛ e hɛ mi wa kɛ ní tsumi .
-Wa kpɛti nihi nɛ piɛ ɔ lɛɛ wa gbɛ fĩa . ”
-Atua nɛ Adam kɛ Hawa tsɔ ɔ sa a gba si himi ɔ he , nɛ e sa gba si himi kpahi hu a he .
-Abigail
-Ke nihi wo wa mi mi la , nɛ wa ya nɔ nɛ wa to wa tsui si ɔ , bɔɔbɔɔbɔɔ ɔ , nihi nɛ a tuɔ níhi a he munyu nyanyaanya a ma nyɛ ma tsake a subai .
-( a ) Ngɛ mɛni blɔhi a nɔ nɛ nihi a suɔmi nya jɔ mwɔnɛ ɔ ?
-Nɔ́ heje ji kaa a buɔ Yesu munyu nɛ ji : ‘ Ke nɔ́ ɔ ngɛ mi ɔ , nɔ́ nɛ kɛkɛ nɛ o ma de ji , Ee ’ ɔ tue .
-( 1 Samuel 13 : 13 , 14 ) Jamɛ a be ɔ mi ɔ , Filisti ta buli fuu ba kɛ a zugba lɛhi 30,000 konɛ a ba tua Israel bi ɔmɛ .
-Yakobo hu tsɔɔ kaa e ji Kristofohi a blɔ nya ní tsumi kaa a maa hyɛ awusahi , kɛ yalɔyihi , kɛ nihi nɛ e fĩ mɛ ɔ a nɔ .
-LAHI : 22 , 75
-Mɛni ga womi nɛ daa si ngɛ Ngmami ɔ nɔ Paulo kɛ ha Kristofohi a wekuhi nɛ ngɛ Kolose ɔ ?
-E ní peepee .
-Eko ɔ , o le nyɛmimɛ komɛ ngɛ o we asafo ɔ mi kaa jã .
-2 : 7 .
-Dɔkita a su ye papaa hɛmi haa nɛ e de lɛ ke , “ Ke nyumu ji mo ɔ , moo ta ye he nɛ o hyɛ , fɔ̃lɔ ! ”
-Kaa bɔnɛ a gba kɛ fɔ si ɔ , ‘ ta hwumi ’ ha nɛ tue mi jɔmi be zugba a nɔ .
-Moo hla nihi nɛ a hemi kɛ yemi mi wa nɛ a buɔ Yesu tue .
-Ke fɔli ye bua a bimɛ nɛ a nu sisi kaa Yehowa ji a hiɔwe Tsɛ , nɛ a tsɔɔ mɛ kaa a sɔle kɛ ha lɛ ɔ , lɔ ɔ tsɔɔ kaa a kɛ nike ní kpakpa ngɛ a bimɛ hae .
-55 : 9 .
-E susuɔ kaa nihi nɛ e kɛ sɛ gbi ɔ maneɔ mɛ ɔ ma hla níhi a mi konɛ a hyɛ kaa e ngɛ mi loo e be mi .
-( a ) Mɛni ha nɛ Yudabi nɛ a nuu mɛ nyɔguɛ kɛ ho Babilon ya a a ti nihi fuu kplɛɛ lakpa jami mi tsɔɔmihi a nɔ ɔ ?
-Ke wa jeɔ he si bami mi nɛ wa sɔleɔ kaa wa hiɔwe Tsɛ ɔ nɛ ye bua wɔ ɔ , e maa pee jã . ​ — 1 Yohane 5 : 14 , 15 .
-( 1 Mose 29 : 10 ) Behi fuu ɔ , nihi nɛ a li afukpɔngɔ nɔ himi ɔ , ke a hi nɔ be kpiti po ɔ , a he mi dɛ mɛ !
-Mɛni he a ngɔ Yehowa kɛ to ngɛ La 90 : 1 ɔ , nɛ mɛni heje ?
-Ejakaa a suɔ nɛ a he nɛ pee fɛu .
-( 1 Mose 6 : 4 , 5 , 11 ; Jud 6 ) Se Yehowa de lɛ nɔ́ ko nɛ wo lɛ he wami , nɛ lɔ ɔ ha nɛ e ya nɔ nɛ e ‘ pee Mawu suɔmi nya ní . ’
-Mɛni he je nɛ nile ngɛ mi kaa wa be nɔ́ ko pee nɛ ma ha nɛ waa hɛɛ nihi hiɔ ɔ ?
-Anɛ o bua be jɔe lo ?
-Ni ɔmɛ a mi mi fu wawɛɛ .
-( La 90 : 10 ) Ni komɛ susuɔ kaa adesa nɔ yemi maa po haomihi nɛ ngɛ je ɔ mi ɔ se .
-E hi kaa o ma hla be nɛ sa , nɛ o bimɛ ɔmɛ maa suɔ kaa a je a juɛmi kpo , nɛ o kɛ mɛ nɛ sɛɛ ní .
-Kaa bɔ nɛ nyumu ɔ ha e tsɔli ɔmɛ sika a , jã kɛ̃ nɛ Yesu hu ngɔ ní tsumi kɛ wo e se nyɛɛli nɛ a pɔ mɛ nu ɔ a dɛ kaa a ya pee nihi kaseli .
-Kane Bɔfo Ɔmɛ A Ní Tsumi 16 : 4 , 5 .
-Kɛ suɔmi nitsɛnitsɛ he hia ha kɛɛ ?
-Ke jã a , lɛɛ mɛnɔmɛ nɛ e sa kaa a ye abolo ɔ eko nɛ a nu wai ɔ eko ?
-Yesu kpa we ngmlaa kɛ wui a yi , nɛ e mi mi fu we mɛ .
-( Kane Marko 10 : 28 - 30 . )
-Ke nɔ ko ji Roma no ɔ , e náa he blɔ kɛ blɔ nya komɛ ngɛ ma tsuaa ma nɛ ngɛ Roma nɔ yemi ɔ sisi nɛ e maa ya mi ɔ mi .
-A tsɛɛ jamɛ a oplɛmi ɔmɛ ke doodlebugs.E ji ta ko nɛ wo wa he gbeye wawɛɛ , ejakaa ke o nu kɔɔhiɔ mi lɛ ɔ he pɛ , o le kaa ngɛ tsuifia bɔɔ ko mi ɔ , kɔɔhiɔ mi lɛ ɔ ma ba nɔ si nɛ oplɛmi ɔ ma pɛ .
-I ngɔɔ ye be fã kɛ yeɔ bua nyɛminyumu ko nɛ e maa tsu , nɛ i kɛ hyɛɛ ye he .
-Mɛni blɔ nɔ adafi fiami womihi kɛ hleedio ye bua ngɛ sane kpakpa a fiɛɛmi mi , nɛ mɛni he je nɛ blɔ nɛ ɔmɛ a nɔ nɛ a gu kɛ fiɛɛ sane kpakpa a ye manye ɔ ?
-Nɛ mɛni he je nɛ e sa kaa fɔli nɛ a ji Kristofohi nɛ a bɔ mɔde kaa a ma ha Mawu Munyu ɔ nɛ e sɛ a bimɛ ɔmɛ a tsui mi ?
-Daa mɔtu ɔ , e haa i hlaa kaa nɔ́ nɛ e maa tsɔɔ mi ɔ , ma bu tue kaa ní kaselɔ .
-Mɛni o ma nyɛ maa pee konɛ o nyɛ nɛ o ye o he nɔ saminya ?
-Eko ɔ , lo ɔmɛ nɛ pueɔ si ngɛ lejɛ ɔ , aloo wo yami ní tsumi ɔ Yesu ngɛ tsɔɔe ɔ nɛ .
-Nɛ ngɛ munyu nɛ nyɛɛ enɛ ɔ se ɔ hu mi ɔ , wa ma susu blɔ eywiɛ nɛ wa ma nyɛ maa gu nɔ kɛ tsɔɔ kaa wa suɔ Yehowa a he .
-Ke nɔ ko ngɛ june , aloo weto ní ko nɛ he jua wa nɛ e suɔ kaa e kɛ ma ha a , e ma nyɛ maa pee jã .
-Benɛ Riana gbe sukuu ɔ nya a , e ye si nɛ e wo Yehowa a nɔ .
-Hemi kɛ yemi kuali a ní peepee hao Timoteo kɛ anɔkualetsɛmɛ kpahi .
-Benɛ a ngɛ kekleekle je mi ta a hwue ɔ , kɛ Mawu we bi na Babilon Ngua a ha kɛɛ ?
-Enɛ ɔ tsɔɔ kaa e ná tsɔsemi kpakpa kɛ je e fɔli ɔmɛ a ngɔ .
-Mɛni ji blɔ kake nɔ nɛ Yehowa guu kɛ tsɔɔ kaa lɛ ji ‘ nike ní kpakpahi tsuo ’ a Halɔ ?
-E na nyumuhi kɛ yihi fuu nɛ a ngɛ nɔmlɔ tso mi he wami kpakpa .
-( Abɛ 15 : 3 ) Nyɛ ha nɛ wa hla blɔ kpahi a nɔ nɛ wa ma nyɛ maa gu kɛ tsɔɔ kaa wa fĩ Mawu se .
-E ngɛ heii kaa Satan sume kulaa kaa waa ye Yehowa anɔkuale .
-Yehowa ngɔ hiɔ ngua ko kɛ ke wɔ kaa bɔ nɛ matsɛ nɛ ɔ pee ɔ .
-19 : 11 - 21 .
-Jamɛ a be ɔ mi ɔ , Timoteo wa momo . Eko ɔ , e ye jeha 30 kɛ se .
-Nimli asafo ɔ nya e he kaa a Matsɛ .
-Anɛ Mawu Mlaa Nɛ E Kɛ Ha Israel Bi Ɔmɛ Da Nɛ E Hi Lo ?
-“ Nyɛ hla Mawu matsɛ yemi ɔ mohu , nɛ a maa ngɔ ní nɛ ɔmɛ tsuo ngɔ piɛɛ he ha nyɛ . ” ​ — LUKA 12 : 31 .
-Mɛni he je nɛ nihi nɛ a pɔ mɛ nu ɔ a bua jɔ ngmami nɛ ngɛ Roma Bi yi 8 ɔ he wawɛɛ ɔ ?
-E le kaa e be kɛe nɛ ka a se maa po , se hiɔwo nɛ e ma ná ngɛ hiɔwe ɔ lɛɛ , e maa hi si kɛ ya neneene .
-Wa naa ekomɛ ngɛ tiivi nɔ , Intanɛti ɔ nɔ , ní tsumi hehi , kɛ sukuuhi a mi .
-( Kane Abɛ 2 : 1 - 5 . )
-E fia mi , nɛ e de mi ke : ‘ Ngɛ Myanmar a , lɔle nɛ nihi kɛ yaa kɛ baa titli ji bɔɔsu .
-HETO : Yesu Tsɛ Yehowa ji Mawu Ope , nɛ lɛ nɛ e bɔ níhi tsuo .
-( Kane La 131 : 1 - 3 . )
-Kaa bɔ nɛ wa kase ngɛ munyu nɛ sɛ hlami ɔ mi ɔ , Yehowa , nɔ nɛ bɔ nɔ́ fɛɛ nɔ́ ɔ pɛ lɛ ngɛ he yemi nɛ huzu be he .
-Benɛ bɔfo Petro wo asafo mi nikɔtɔma amɛ ga kaa a ko ‘ ye nihi nɛ Mawu ngɔ ha mɛ ɔ a nɔ ’ ɔ se ɔ , e wo mɛ he wami kaa , ‘ a ngɔ a he ngɔ pee nɔ hyɛmi nɔ́ ngɔ ha Mawu asafo ɔ . ’
-Dɛbi , Mose ‘ ngɔ a sane ɔ kɛ ya fɔ Yehowa hɛ mi . ’
-Zeynep
-Nyɛ Mawu ɔ yeɔ e siwo nɔ ; yayami ko be e he ; nɔ́ nɛ da , kɛ nɔ́ nɛ sa pɛ e peeɔ . ’ ​ — 5 Mose 32 : 4 .
-Ngɛ kuku 10 kɛ 13 ɔ mi ɔ , Yehowa ngɛ e sɔmɔli ɔmɛ a ti nɔ tsuaa nɔ dee ke : ‘ Koo ye gbeye .
-Kɛkɛ nɛ vo nyu bɔni imi hu ye hɛ ngmɛ mi jemi , nɛ i kpa lɛ pɛɛ .
-Anɛ i suɔ nɛ ma pee ye ní kaa Esau , nɛ benɛ e yɔse nɔ́ nɛ e pee ɔ , e fo ya wawɛɛ ɔ lo ? ’
-Se ngɛ e be ɔ mi ɔ , nihi fuu nɛ a ngɛ England ɔ a nine sui Baiblo ɔ eko nɔ .
-Afrika : “ A waa yihi a yi mi , nɛ a sisiɔ mɛ ngɛ mahi fuu a nɔ . ” ​ — Amnesty International Report 2012 .
-ɔ ngɛ e dɛ nɛ a de lɛ ke e ha mɛ eko .
-Hyɛ bɔ nɛ nile ngɛ mi ha kaa wa maa kase ní nɛ ɔmɛ nɛ wa pue wa yi mi tɛ ngɛ he !
-Kaa bɔnɛ wa ma nyɛ maa ngɔ nihi he wami nɛ wa maa wo konɛ a je suɔmi kpo , nɛ a tsu nítsumi kpakpahi ɔ kɛ to bɔnɛ a buaa lɛ nya kɛ woɔ la mi konɛ la a nɛ e ko gbo ɔ he ɔ , wa ma nyɛ maa ngɔ nihi he wami nɛ wa maa wo ɔ hu kɛ to bɔnɛ a plɛɔ klaazii kɛ woɔ la mi nɛ la a tsoɔ gegeege ɔ he .
-Ngɛ anɔkuale mi ɔ , Yesu ba konɛ e ba fiɛɛ Mawu sɛ gbi nɛ ji anɔkuale ɔ kɛ tsɔɔ nihi , se pi nɛ e ngɔ mi gbami kɛ ba .
-Yeroboam ji kekleekle nɔ nɛ e ye matsɛ ngɛ Israel yiti je wɛtso nyɔngma matsɛ yemi ɔ mi . E je Efraim wɛtso ɔ mi .
-Se e ha nɛ e we asafo ɔ ngɛ wɔ ye buae konɛ wa hɛ nɛ hi wa he nɔ .
-Wa suɔ mɛ wawɛɛ !
-Yehowa maa gu e Matsɛ Yemi ɔ nɔ kɛ jɔɔ adesahi nɛ a buɔ lɛ tue ɔ .
-Ke jã a , lɛɛ moo hyɛ kaa o ma nyɛ ma ha sane bimihi nɛ nyɛɛ se nɛ ɔ a heto :
-Mɛni blɔ nɔ Hezekia , Yesaya , Mika , kɛ Yerusalem ma nimeli ɔmɛ tsɔɔ kaa a ji to hyɛli kpakpahi ngɛ ?
-3 SANE BIMI : Mɛni ji mumi klɔuklɔu ɔ ?
-Nihi nɛ a ngma Baiblo ɔ gba we munyu ɔmɛ a mi kɛ wui yihi kɛ kukuhi a mi .
-LAHI : 45 , 42
-Mɛni Shifra kɛ Pua pee kɛ tsɔɔ kaa a ngɛ kã ?
-‘ Nihi nɛ a ngɛ nihi nɛ pee we nɔ́ ko ɔ haoe ɔ , Mawu maa hao mɛ ngɔ to nane mi .
-Ngɛ mɛni blɔ nɔ nɛ Mawu mumi ɔ yiblii ɔ nɛ o maa wo ɔ ma nyɛ maa ye bua mo konɛ o ko pee yeyeeye tsɔ , aloo o ko pee yeyeeye kulaa ?
-3 , 4 . ( a ) Mɛni wo David he wami nɛ e nyɛ ye Goliat nɔ kunimi ɔ ?
-Nɔ́ nɛ ji etɛ ɔ , suɔmi nɛ Yehowa ngɛ ha wɔ ɔ woɔ wɔ he wami konɛ waa kɛ wa nyɛmimɛ a tɔmi nɛ pa mɛ .
-Mɛni ha fiɛɛmi ní tsumi ɔ he wa ngɛ wa be nɛ ɔ mi ?
-Jehanɛ se hu ɔ , Baiblo ɔ de ke Mawu mumi ɔ lɛ ha nɛ a ngma .
-Ke wa suɔ nɛ wa ná hemi kɛ yemi kaa jã a , lɛɛ e sa nɛ waa ya nɔ nɛ waa kase Mawu he ní ngɛ Baiblo ɔ mi .
-Yehowa sume nɛ nɔ ko nɛ hɛɛ tsui kpakpa a hɛ mi nɛ kpata .
-Lɔ ɔ he ɔ , Yesu ba pee adesa nɛ ye mluku kaa bɔ nɛ jinɛ Adam hu ye mluku ɔ .
-A ha nɛ je ɔ mi ‘ níhi nɛ he lo ɔ dii se , kɛ níhi nɛ hɛngmɛ dii se ’ ɔ he a juɛmi .
-Anɛ o maa ya nɔ nɛ o fiɛɛ pe bɔ nɛ o ngɛ fiɛɛe amlɔ nɛ ɔ lo ? ​ — 1 Tim .
-Mɛni he je nɛ Yesu bui ni komɛ kaa a nɔ kuɔ pe ni komɛ ?
-Se kpakpa ko ngɛ nɛ ke nɔ ko pee wɔ ɔ , e taa wa tsui he , nɛ wa hɛ ji nɔ gblegbleegble , nɛ e ma nyɛ ma tsake wa si himi .
-Kaa Mawu yi dami sane ngɛ si fɔfɔɛ nɛ ɔ mi ɔ , jinɛ nihi ma susu kaa e be dami sane yee ngɛ ní kpahi hu a mi .
-Mwɔnɛ ɔ , tsɔlɔ nɛ ɔ ji Blɔ Tsɔɔmi Ajla Toli ɔmɛ ɔ nɛ
-A pia a he ngɛ yayamihi nɛ a pee ɔ he .
-( Hiob 42 : 2 ) Yehowa ma nyɛ maa pee nɔ́ tsuaa nɔ́ nɛ e to e yi mi kaa e maa pee nɛ́ nɔ ko nɔ ko yemi kɛ buami he hia we lɛ .
-Yehowa jɔɔ sɔmɔmi nɛ wa sɔmɔ lɛ ngɛ ‘ tue mi jɔmi kɛ haomi behi tsuo a mi ’ ɔ nɔ .
-Matsɛmɛ eywiɛ ɔmɛ a kpɛti mɛnɔ nɛ o maa suɔ nɛ o kase , nɛ mɛni he je ?
-( Lahi A Mi La 2 : 7 , NW ; 3 : 5 ) Ke jã a , anɛ e da blɔ kaa nɔ ko ma ná suɔmi nɛ hii nyumu kɛ yo a kpɛti ɔ kɛ ha nɔ saisaa ko kɛkɛ lo ?
-7 : 1 ) Kaa nɔ hyɛmi nɔ́ ɔ : Ke nɔ ko kɛ moto ya nɔ si nɛ e plaa wawɛɛ nɛ a ngɔ lɛ kɛ ho hiɔ tsami he ya a , anɛ dɔkita amɛ kɛ nɛɛsi ɔmɛ bɔɔ mɔde kaa a maa le nɔ́ nɛ ha nɛ e kɛ moto ɔ ya nɔ si ɔ loko a tsa lɛ lo ?
-Ngɛ jeha 1934 ɔ mi ɔ , Watch Tower Society ɔ pee mɛ nitsɛmɛ a glamafoo nyafinyafihi konɛ nyɛmimɛ nɛ a kɛ tsu ní ngɛ fiɛɛmi mi .
-O ma nyɛ maa na kaa nihi bɔɔ ko pɛ lɛ fiɛɛli nɛ a ngɛ ma nɛ ɔ mi ɔ a nine su a nɔ .
-Anɛ Petro mi mi fu ngɛ ga nɛ a wo lɛ ɔ he nɛ e kpa wami he fo ɔ tumi lo ?
-Ngɛ Mateo Sane Kpakpa a sisije ɔ , a tsɛ Yosef biɛ si kpaanyɔ , se a tsɛ Maria biɛ si eywiɛ pɛ .
-Enɛ ɔ ha nɛ Natanael tsake e juɛmi .
-Enɛ ɔ he je ɔ , e he hia nɛ waa kɛ juɛmi nɛ da nɛ kane Baiblo ɔ .
-Se akɛnɛ wa nɛ Mawu kɛ wa hɛngmɛ ɔ , anɛ lɔ ɔ tsɔɔ kaa wa be nyɛe maa suɔ lɛ lo ?
-Nɔ́ heje ji kaa Mawu suɔ wɔ , nɛ wa ngɛ hemi kɛ yemi ngɛ e kɛ e Bi ɔ a mi .
-Mɛni he je nɛ wa ma nyɛ ma de ke níhi tsuo nɛ ngɛ ɔ ji Yehowa nɔ́ ɔ ?
-Se kɛ̃ ɔ , níhi a mi hlami nɛ dɔkitahi pee ɔ ngɛ hlae maa tsɔɔ kaa bɔ nɛ IUD ɔmɛ tsuɔ ní ha he je ɔ , e he maa wa kaa nɔ ko maa ngɔ hɔ .
-Ko ha nɛ haomihi nɛ o kɛ kpeɔ ɔ nɛ jɔ̃ o kɔni mi , mohu ɔ , moo bu haomi nɛ ɔmɛ kaa a ji he blɔhi nɛ o ná nɛ o kɛ maa tsɔɔ kaa o ngɛ hemi kɛ yemi kaa Mawu ngɛ he wami nɛ e kɛ maa ye bua mo .
-Moo bu Yehowa tue konɛ o kane Baiblo ɔ , nɛ o pue o yi mi tɛ ngɛ níhi nɛ o kaneɔ ɔ a he .
-E kɛ mɛ maa “ so somi he ko . ”
-1 : 7 .
-Mɛni o kase ngɛ bɔ nɛ Yehowa wo e Bi ɔ hɛ mi nyami ha a mi ?
-Ngmami ɔ ma nɔ mi ke : ‘ Yehowa hɛ ngmɛ ngɛ je ɔ tsuo he ; nihi nɛ yeɔ lɛ anɔkuale ɔ , e woɔ mɛ he wami . ’
-Mɛni ma nyɛ maa ye bua wɔ konɛ wa ná bua jɔmi ngɛ Yehowa sɔmɔmi mi ?
-Se e kɛ we nɛ i ya sɛ ta buli a ní tsumi ko nɛ ngɛ slɔɔto kulaa mi .
-Paulo tsɔɔ kaa e sa nɛ wa susu ni kpahi a he nile he . E de ke : “ Nɔ́ nɛ hi pe kulaa ji kaa o be muɔ lo yee aloo o be wai nue aloo o be nɔ́ kpa ko nɛ maa tɔ̃tɔ̃ o nyɛmi nane ɔ pee . ”
-Eko ɔ , Henok susu bɔ nɛ je ɔ mi si fɔfɔɛ maa pee ha ke nɔ tsuaa nɔ ngɛ Yehowa sɔmɔe ɔ he . ​ — Kane Hebri Bi 11 : 6 .
-Yesu gbenɔ ɔ bli blɔ ha wɔ konɛ waa hi si ngɛ bua jɔmi mi kɛ ya neneene
-Yeyeeye nɛ wa maa pee ngɛ wa nɔmlɔtso mi he wami nami he wawɛɛ ɔ be nyɛe ma tsu nɔ́ ko ha wɔ .
-Se moo hyɛ bɔ nɛ Yehowa bua maa jɔ ha ke e na kaa o jɔɔ o he nɔ ha lɛ kaa o maa pee lɛ pɛ e suɔmi nya ní akɛnɛ o suɔ nɛ e ye o nɔ ɔ he je .
-Níhi a si kpami ko nɛ weku ko nɛ a hi si ngɛ kaseli ɔmɛ a be ɔ mi ɔ ná a ma nyɛ maa ye bua fɔli .
-( a ) Mɛni sɔlemi Paulo sɔle kɛ ha Kristofoli nɛ a ngɛ Filipi ɔ , nɛ kɛ a ti nihi fuu pee a ní ngɛ sɔlemi nɛ ɔ he ha kɛɛ ?
-Enɛ ɔ he ɔ , e he hia nɛ waa baa zugba nɛ Mawu bɔ ɔ yi ; nɛ Mawu maa baa yi kɛ maa ya neneene . ”
-Niinɛ , be komɛ ngɛ nɛ wa kpaa ngmlaa ke : ‘ Yehowa , kɛ yaa si mɛni be ? ’
-Christoph de ke : “ Yehowa tsɔ ga woli kpakpahi kɛ ba ye ngɔ .
-Kaa nɔ hyɛmi nɔ́ ɔ , bɔfo Gabriel de lɛ ke e maa ngɔ hɔ be mi nɛ e kɛ nyumu ko ná we bɔmi .
-Mawu tsɔ gbalɔ Hanani konɛ e ya kã Asa hɛ mi ngɛ e hɛ nɛ e kɛ fɔɛ Yehowa nɔ ɔ he je .
-Ke wa susu bɔnɛ Yehowa kɛ yayami paa a ha a he ɔ , e maa wo wa bua .
-Ngɛ Mawu dloomi ɔ nya a , mɛni hɛ nɔ kami wa ná ?
-E ngɛ mi kaa huno ɔ ji weku ɔ yi mohu lɛɛ , se Baiblo ɔ tsɔɔ kaa e sa nɛ e bu e yo ɔ .
-( Kane Yesaya 55 : 10 , 11 . )
-Anɛ Mawu Munyu ɔ ma nyɛ maa ye bua wɔ niinɛ konɛ waa le Mawu , nɛ wa tsui nɛ nɔ wa mi lo ?
-Akɛnɛ wa ji be tsuo sɔmɔli he je ɔ , wa hyɛ blɔ kaa a maa bu wɔ kaa sane kpakpa fiɛɛli , nɛ a be hae nɛ waa ya ta a .
-Nɔ nɛ kɛ adafi fiami womi nɛ ji The Witness ɔ ba a , tsɔɔ kaa a “ be lakpa munyu ko ngmae ngɛ womi ɔ mi gblegbleegble . Anɔkuale munyuhi pɛ nɛ a maa ngma ngɛ mi . ”
-Yesu huɛ Lazaro Yesu huɛ Lazaro gbo , nɛ ligbi eywiɛ se ɔ , Yesu tle lɛ si ngɛ nihi babauu a hɛ mi . ​ — Yohane 11 : 38 - 44 .
-Amã ji nɔ́ ko nɛ a náa ngɛ nɔ́ nɛ a jeɔ pɛtloo ngɛ mi ɔ mi .
-October 2008 Wa Matsɛ Yemi Sɔmɔmi ɔ nɛ ji Blɛfo gbi nɔ́ ɔ de ke : “ Wa ngɛ wekuyihi he wami woe konɛ a tsu blɔ nya ní tsumi nɛ Yehowa kɛ wo a dɛ ɔ he ní , konɛ a bɔ mɔde nɛ a pee weku Baiblo mi ní kasemi daa . ”
-To hyɛlɔ ɔ he ngɛ fɛu ha lɛ kaa “ odabɔ . ”
-Munyu nɛ ɔ maa ye bua wɔ konɛ waa na blɔ slɔɔtohi a nɔ nɛ wa maa gu kɛ na Yehowa si kaa e ha wɔ he blɔ klɛdɛɛ nɛ ɔ .
-( Kane La 147 : 8 , 9 . )
-Benɛ Yesaya na Mawu hɛ mi nyami ɔ ngɛ nina ko mi ɔ , e yɔse kaa e ji yayami peelɔ . Enɛ ɔ he ɔ , e de ke : ‘ Akuanyɛ ! Ye yi ta pɛ !
-Ke nɔ ko je blɔ nɛ e gbe nɔmlɔ ɔ , nɔ nɛ a gbe lɛ ɔ weku no nɛ ji nyumu nɛ a tsɛɛ lɛ ke “ muɔ he lue yelɔ ɔ ” gbeɔ nɔ ɔ kɛ toɔ nane mi .
-Moo kase Timoteo nɛ o “ hyɛ mo nitsɛ o he nɔ kɛ o ní tsɔɔmi ɔ hu nɔ saminya . ” ​ — 1 Tim .
-Benɛ Mike wɛ lolo ɔ , be tsuaa be ɔ , e suɔ kaa e ma ya fiɛɛ ngɛ ma kpa nɔ .
-Mɛni ji jɔɔmi komɛ nɛ wa náa amlɔ nɛ ɔ ?
-9 : 6 , 7 ; 56 : 10 ; Dan .
-E de ke : “ O hɛ mi ko pee mo yaa kaa i de mo ke e hia nɛ a dla fɔ mo ehe .
-Kɛ bɔ nɛ Yehowa tsu sane ɔ he ní ha a ha nɛ nihi nɛ a le kaa Ahab pee yayami nɛ hɛdɔ ngɛ he ɔ pee a ní kɛɛ ?
-Paradeiso Ngɛ Zugba a Nɔ ​ — Nyazia Aloo Nɔ́ Nitsɛ ?
-Mɛni blɔ nɔ Dennis ná tsɔsemi ɔ he se ngɛ ?
-Enɛ ɔ he ɔ , e jɔɔ Abraham nɛ e je Mawu yi kaa e ha nɛ Abraham ya ye e he nyɛɛli ɔmɛ a nɔ kunimi .
-Hyɛ bɔnɛ Kristo kpɔmi afɔle sami ɔ ha nɛ adesahi ná jɔɔmi ha !
-Yakobo ngma ke : “ Tsɔɔ mi o hemi kɛ yemi nɛ o tsu we he ní ɔ , nɛ imi hu i kɛ níhi nɛ i tsuɔ ɔ maa tsɔɔ mo kaa i heɔ yeɔ . ”
-11 : 1 ; Mat . 2 : 23 , sisi ningma .
-5 : 33 .
-Ngɛ anɔkuale mi ɔ , Yehowa na e mɔde bɔmi , nɛ e kɛ lɛ tsu ní .
-Baiblo ɔ tsɔɔ kaa amlɔ nɔuu nɛ e te si nɛ e ya wo mɛ he wami . ( Neh .
-ɔ ngɛ intanɛti ɔ nɔ ngɛ www.jw.org .
-Ha nɛ wa susu nyɛmiyo ko nɛ a tsɛɛ lɛ ke Kayla a he nɛ waa hyɛ .
-Mo susu Nyɛminyumu Uwe nɔ hyɛmi nɔ́ ɔ he nɛ o hyɛ .
-17 : 16 ) Baiblo ɔ tsɔɔ si fɔfɔɛ slɔɔtoslɔɔtohi nɛ a hiɛ pe 40 a mi nɛ Yehowa Mawu kã kita ngɛ .
-Wɔɔ lɛɛ Yehowa , wa Mawu ɔ maa piɛ wa he ; lɛ ji nɔ nɛ maa hwu ta amɛ ha wɔ . ’
-4 : 13 .
-Ke o ya a , loloolo ɔ , o ma nyɛ ma sɔmɔ Yehowa ngɛ lejɛ ɔ . ”
-Yehowa hɛ ji níhi tsuo nɛ e sɔmɔli peeɔ konɛ a nyɛ nɛ a sɔmɔ lɛ ɔ nɔ . E bua jɔ nihi nɛ a nyɛɔ tsuɔ babauu kɛ nihi nɛ a tsuɔ bɔɔ ɔ tsuo a he . ​ — Hebri Bi 6 : 10 .
-Lɔ ɔ he ɔ , bɔ nɛ yayami ye tsɛ kɛ gu gbenɔ nɔ ɔ , jã nɔuu Mawu dloomi ɔ ngɛ tsɛ yee kɛ gu dami nɔ ; nɛ kɛ gu wa Nyɔmtsɛ Yesu Kristo nɔ ɔ , wa ma ná neneene wami . ” ​ — Rom .
-Lɔ ɔ se ɔ , mo ha o bi ɔ tso yiblii ko kaa akutu , nɛ o bi lɛ ke : “ Anɛ o le kaa ‘ blɔ tsɔɔmi ’ ko se nɛ a nyɛɛ kɛ pee tso yiblii nɛ ɔ lo ? ”
-MUNYUHI NƐ KƆƆ HƐ MI MUNYU Ɔ HE | OKPƆNGƆ NƆ HILI EYWIƐ ƆMƐ ​ — BƆ NƐ A NÍ TSUMI SAA O HE HA
-Jã nɔuu nɛ e ngɛ ngɛ Kristofohi nɛ a pɔ mɛ nu ɔ hu a blɔ fami . A ma nyɛ maa bu a ‘ he kaa nihi nɛ gbo ngɛ yayami peemi blɔ fa mi ; se ngɛ Yesu Kristo mi ɔ , Mawu ha nɛ a hɛ ngɛ . ’
-( 1 Mose 41 : 1 , 37 - 43 ) Benɛ Yosef yo ɔ fɔ binyumuhi enyɔ ha lɛ ɔ , “ E wo e bitɛte ɔ Manase , nɛ e de ke , ‘ Mawu ha nɛ ye hɛ je ye haomi ɔ tsuo , kɛ ye weku li tsuo a nɔ . ’
-E je bumi mi nɛ e kpa David pɛɛ kaa e hyɛ Yehowa hɛ mi nɛ e ko pee yayami ko .
-Nɔ́ tsuaa nɔ́ mi ɔ , mo kai Yehowa , nɛ e maa tsɔɔ mo blɔ nɛ da . ’ ​ — Abɛ 3 : 5 , 6 .
-Odasefohi a yibɔ nɛ ngɛ hɛ mi yae ɔ ha nɛ wa bua jɔɔ wawɛɛ
-Ye bua jɔɔ wa kpokpa nɔ kpe ɔmɛ a he wawɛɛ , enɛ ɔ he ɔ , ke i ye bua kɛ to kpe nɛ ɔmɛ a he blɔ nya a , ye bua jɔɔ wawɛɛ .
-Kristo gbo kɛ kpɔ̃ wɔ konɛ wa ná wami .
-( 1 Mose 22 : 15 - 18 ) E ná he blɔ kaa e maa hi si himi nɛ ngɛ gbɔjɔɔ mi ngɛ Egipt , se e ngmɛɛ he blɔ nɛ ɔ he , nɛ “ e suɔ mohu kaa e kɛ Mawu ma a nɛ na amanehlu pe nɔ́ nɛ e maa ye ngɔɔmi ngɛ yayami peemi mi be bɔɔ ko . ”
-11 : 40 , 44 , 45 ; Kpoj . 19 : 19 ) Ezekiel gbami ɔ tsɔɔ kaa tabo nɛ ɔmɛ ha zugba a nɔ kaa bɔku , a hii si ngɛ okpɔngɔhi a nɔ , nɛ a kɛ abofu ma wɔ tuami . ( Eze .
-Gbenɔ enyɔne ɔ be he wami ngɛ a nɔ , se mohu a maa ye osɔfo , nɛ a ma sɔmɔ Mawu kɛ Kristo ; nɛ a kɛ Kristo maa ye matsɛ jeha akpe . ” Nihi nɛ a ma tle mɛ si kɛ ya hiɔwe ɔ maa pee osɔfohi , nɛ a kɛ Kristo maa ye zugba a nɔ matsɛ .
-E baptisimi ɔ tsɔɔ kaa e ngɔ e he tsuo kɛ ha kaa e maa pee Mawu suɔmi nya ní . ​ — Heb .
-Luka sane kpakpa a tsɔɔ kaa be ko ɔ , Yesu bli Yesaya womi kpo ɔ nɛ e kane , nɛ e kpale koklo .
-( Kane 1 Korinto Bi 7 : 3 - 5 . )
-I bɔni jumi loko i ye jeha nyɔngma .
-22 : 1 , 2 .
-Benɛ Paulo na mɛ jee ɔ , “ e na Mawu si , nɛ e ná kã . ”
-E ngɛ mi kaa a hɛ je nɔ kaa Yehowa ngɛ he wami nɛ e kɛ kpɔɔ nɔ mohu lɛɛ , se Mawu lɛɛ loloolo ɔ , e kaiɔ e we bi .
-Nɔ nɛ ‘ sɔmɔɔ Mawu kɛ e tsui tsuo ’ ɔ ngɛ suɔmi nɛ mi kuɔ kɛ ha lɛ , nɛ e suɔ kaa e ma sɔmɔ lɛ daa .
-10 Si Womihi Nɛ A Maa Ba Mi
-O kɛ mɛ nɛ tu munyu blɛuu .
-7 , 8 . ( a ) Mɛni ji nɔ hɛ mi hyɛmi , nɛ kɛ e kɔ he nɔ womi he ha kɛɛ ?
-Jehanɛ hu , o ma ba le si himi kpakpa nɛ maa ba hwɔɔ se ɔ he ní fuu . Benɛ wa ma ná “ wami nɛ ngɛ kɛ yaa neneene ” ɔ .
-Niinɛ , kaa bɔ nɛ e ma bi nɛ a tsɔɔ pa bɔɔbɔɔbɔɔ loko e ma gbo ɔ , jã kɛ̃ nɛ e ma he be kɛ bua womi loko aywilɛho ɔ maa ba si .
-Yesu munyu tumi kɛ e ní peepee tsɔɔ kaa e suɔ nɛ e pee Yehowa * nɛ ji e hiɔwe Tsɛ ɔ suɔmi nya ní .
-( Kane Yohane 8 : 43 - 47 . )
-Enɛ ɔ he ɔ , Paulo ngma ke : “ Amlɔ nɛ ɔ , ní etɛ nɛ ɔmɛ nɛ ngɛ : hemi kɛ yemi , hɛ kɛ nɔ fɔmi , kɛ suɔmi . Se nɔ́ nɛ pe mɛ tsuo ji suɔmi . ” ​ — 1 Kor .
-Ke wa de nɔ́ ko ɔ , e sa nɛ waa ye nɔ .
-Mɛni heje nɛ e sa kaa ye bua nɛ jɔ Hetsɔmi ɔ he ? ’
-Ke i hɛɛ lɔle nɛ i na nɔ ko nɛ e je Asiano ɔ , i jeɔ ye yi kpo nɛ i kpaa ngmlaa woɔ e yi ke , “ Asia no , ho o ma mi ya ! ”
-Kɛ Yesu kaseli ɔmɛ plɛ kɛ le kaa Yesu suɔ mɛ ha kɛɛ ?
-Satan ji nɔ nɛ ngɛ je ɔ nɔ yee . Ninyɛ hyi je ɔ tɔ , enɛ ɔ he ɔ , ja wa peeɔ kã loko wa nyɛ maa ye odase kaa Yesu .
-( a ) Ke wa yaa nɔ nɛ wa jeɔ su kpakpa kpo ɔ , lɔɔ maa ye bua wɔ nɛ waa yu wa he ngɛ mɛni he ?
-Se ke wa suɔ wa nyɛmimɛ ɔmɛ , wa ma susu a he loko wa ma de nɔ́ ko , loo wa maa pee nɔ́ ko .
-Mo yɔse kaa kekleekle ɔ , Paulo wo su komɛ kaa he si bami , humi peemi , tsui si tomi , kɛ suɔmi ta .
-I tsui po wawɛɛ , se ye bua jɔ nɔ́ nɛ ye papaa pee ɔ he .
-Mɛni blɔ gbali klɛdɛɛ peeɔ ?
-Mose kekleekle womi ɔ nɛ e tu adebɔ he munyu ɔ de ke : ‘ Yehowa Mawu ngɔ zugba zu kɛ puɛ nɔmlɔ , nɛ e mu mumi nɛ haa nɔ wami ngɔ wo nɔmlɔ gugwɔ puɔ mi ; nɛ nɔmlɔ pee adesa hɛngmengmletsɛ . ’
-Benɛ binyumu ɔ wɛ ɔ , e hyɛɛ e papaa kɛkɛ .
-Benɛ a to Kristofohi asafo ɔ sisi ɔ , a ya nɔ nɛ a kɛ la tsu ní wawɛɛ ngɛ anɔkuale jami mi .
-Hemi kɛ yemi ma nyɛ ma ha nɛ wɔ hu waa pee nɔ́ ko nɛ nihi ma susu kaa adesa ko be nyɛe maa pee .
-Kaa nɔ hyɛmi nɔ́ ɔ , huno ma nyɛ maa ngɔ e munyu tutui kɛ tsɔɔ kaa e suɔ e yo , nɛ yo hu ma nyɛ maa pee jã .
-( b ) Ke a ke “ mumi mi níhi a he juɛmi ” ɔ , mɛni lɔ ɔ tsɔɔ we ?
-Mɛni he e sa kaa waa pɛtɛ , nɛ mɛni heje e sa kaa waa pee jã ?
-Atsinyɛ jemi ko be he kaa wa le ní tsumi nɛ Mawu kɛ wo Kristo se nyɛɛli ɔmɛ a dɛ .
-Se benɛ ni ɔmɛ su pa a nya a , a na kaa hiɔmi nɛ , nɛ Yordan Pa a ywia nga .
-Suɔmi nɛ a wo ta ngɛ 2 Timoteo 3 : 2 ɔ pi suɔmi kpakpa .
-Mɛni wɔ tsuo wa suɔ kaa wa ná ?
-Se Yoshua pee e ní ngɛ blɔ kpa nɔ . Ngɛ e be ɔ mi ɔ , e de Israelbi ɔmɛ ke : ‘ Ke nyɛ sume kaa nyɛ ma sɔmɔ Yehowa a , nyɛ tsɔɔ mwɔnɛ nɛ ɔ nɔ nɛ nyɛ ma sɔmɔ .
-22 ‘ E Ma Ha Nɛ Níhi Tsuo Nɛ O To Ke O Maa Pee ɔ Maa Ba Mi ’
-NGƆƆ lɛ kaa o suɔ nɛ o hia blɔ kɛ ya tsitsaa he ko konɛ o ya tsu nɔ́ ko nɛ he hia he ní .
-Mɛ ji nihi titli nɛ Yehowa maa ‘ dloo mɛ babauu . ’
-Be mi nɛ o ngɛ jã pee ɔ , mo kai kaa Baiblo ɔ kasemi be kaa sukuu ní kasemi .
-Se Lily ngɔ e juɛmi kɛ ma su kpakpahi nɛ Carol ngɛ ɔ nɔ , nɛ e ye bua lɛ jehahi abɔ kɛ ya si be nɛ Carol ba nu hiɔ wawɛɛ nɛ e gbo .
-Ke o ngɛ hlae nɛ o le níhi fuu kɛ kɔ nítsumi nɛ o ma tsu ɔ he ɔ , moo hyɛ womi nɛ ji , Questions Young People Ask — Answers That Work , Kpo 2 ɔ yi 38 .
-Kɔpe ko hu ngɛ ma a kpɛti tutuutu , nɛ nihi nɛ a ngɛ lejɛ ɔ a he pi . E ji nga kplanaa , nɛ e kle pe United States nɛ a gba mi enyɔ .
-35 : 23 , 25 ) Se Baiblo ɔ tsɔɔ we kaa e pee jã .
-Kaa bɔ nɛ Yohane 3 : 16 ya nɔ nɛ e tsɔɔ ɔ , Mawu je suɔmi kpo kɛ ha wɔ . E pee enɛ ɔ kɛ gu e Bi Yesu nɛ e tsɔ lɛ kɛ ba zugba a nɔ nɛ́ e ba tsɔɔ wɔ Mawu nɛ ji e Tsɛ ɔ he ní , nɛ e ba gbo ha wɔ ɔ nɔ .
-Wa hɛ be níhi a si kpamihi nɛ wa ná a nɔ jee gblegbleegble . ”
-Kristofohi nɛ a hi si ngɛ kaseli ɔmɛ a be ɔ mi ɔ pee kake kɛ la kɛ je Mawu yi , nɛ a kɛ pee nɔ hyɛmi nɔ́ ha wɔ .
-Yesu .
-Moo ye bua nihi .
-Ke Yehowa kpata Satan , e daimonio ɔmɛ kɛ je yaya nɛ ɔ hɛ mi ta a , suɔmi ma hyi zugba a nɔ tsuo tɔ .
-( b ) Mɛni Yehowa asafo ɔ peeɔ kɛ yeɔ bua asafohi nɛ a be sika nɛ a kɛ maa ma Matsɛ Yemi Asa a ?
-E ha we nɛ nihi nɛ a bɔle lɛ ɔ a ní peepee nɛ je e juɛmi ngɛ Yehowa nɔ .
-Akɛnɛ yo ɔ le nɔ́ nɛ e pee he je ɔ , e kɛ gbeye yemi kɛ he domi ba kpla si ngɛ Yesu hɛ mi , “ nɛ e de lɛ anɔkuale ɔ tsuo . ” — Mar . 5 : 33 .
-Baiblo ɔ Da Ngɛ Je Mi Si Kpami Nya : Baiblo ɔ pi je mi si kpami womi , se ke e ngɛ je mi si kpami he munyu tue ɔ , níhi nɛ e deɔ ɔ da kɛ pi si .
-( La 12 : 8 ) Se Yehowa ma nyɛ maa ye bua wɔ konɛ waa sa e hɛ mi .
-Munyu nɛ ɔ maa tsɔɔ wɔ bɔ nɛ wa maa gu he lo nya níhi nɛ wa ngɛ ɔ nɔ kɛ “ ná huɛmɛ ” ngɛ hiɔwe ha .
-Ke a ye mluku nɛ a ya nɔ nɛ a ye Yehowa anɔkuale ngɛ nyagbe ka a mi ɔ , a ma tsɛ mɛ ke “ Mawu bimɛ . ” ​ — Roma Bi 8 : 21 ; Kpojemi 20 : 7 , 8 .
-19 Nɔ He Sane ​ — Yehowa Kua We Mi Gblegbleegble !
-Akɛnɛ Yesu baa e he si nɛ e buɔ e Tsɛ ɔ tue he je ɔ , tsui kpakpatsɛmɛ nyɛ nɛ a hɛ kɛ su e he , nɛ lɔ ɔ ha nɛ Yesu ba pee tsɔɔlɔ nɛ e mi mi jɔ nɛ e naa nɔ mɔbɔ .
-Mɛni o ma nyɛ maa pee konɛ yi mi tomi kpakpa nɛ hi o ní kemi ɔ se ?
-Enɛ ɔ tsɔɔ kaa a maa fiɛɛ sane kpakpa a ngɛ je kɛ wɛ .
-( Kane Hebri Bi 13 : 3 . )
-Ma nya dali ɔmɛ yi ma bi ɔmɛ anɔkuale , nɛ osɔfo ɔmɛ hu sisi ma bi ɔmɛ , nɛ tatsɛmɛ ɔmɛ hu je ma bi ɔmɛ a se
-Yo ɔ nyɛ we nɛ e pee ojo fiami aloo sisimi nɛ ngɛ nɔ yae ngɛ sɔlemi we ɔ he nɔ́ ko .
-Mohu ɔ , a je mi bami puɛ , nɛ nɔ́ yaya pɛ a peeɔ . ​ — Kane 1 Samuel 8 : 1 - 5 .
-Kpojemi womi ɔ wo wa bua kaa ‘ be bɔɔ kɛkɛ nɛ piɛ ha Satan . ’
-A kã we ye hɛ mi , nɛ a bui mi fɔ hulɔ , mohu ɔ , a wo mi he wami , nɛ i ná kã .
-E de ke : “ Ke i ngɛ hlae nɛ ma mwɔ yi mi kpɔ ko ɔ , e kle jio , e klee we jio , i sɔleɔ konɛ Yehowa nɛ e ye bua mi .
-Kaa nɔ hyɛmi nɔ́ ɔ , eko ɔ , ke nɔ ko nɛ hɛɛ blɔ nya wo nihi ga a , ni komɛ maa kplɛɛ nɔ , se ke a juamibi aloo nɔ ko nɛ ngɛ a sisi wo mɛ ga a , a be nɔ kplɛɛe .
-Mɛni sane ko nɛ mi jiɔ nɛ Rut mwɔ e yi mi kpɔ ngɛ he , nɛ mɛni he je nɛ e be gbɔjɔɔ ɔ ?
-“ I susu kaa Baiblo ɔ sisi numi maa ye . ” ​ — Jovy
-Dɛbi , ejakaa tɔmi ko be zugba a he .
-Huɛmɛ kaa jã yeɔ bua wɔ nɛ wa nuɔ he kaa wa ngɛ slɔkee , nɛ a suɔ wɔ . ​ — Abɛ 17 : 17 .
-Nyagbe ɔ , ngɛ jeha 1939 ɔ mi ɔ , je mi ta nɛ ji enyɔne ɔ hu fɛ .
-nyumu ɔ nɛ e nyɛɛ Israelbi ɔmɛ a hɛ mi nɛ a je Egipt ma a mi ɔ lo ?
-( a ) Benɛ Israel ma a tsuo pee yayami nɛ a pia we a he ɔ , mɛni ba a nɔ ?
-Lɔ ɔ se ɔ , ngɛ nɔ́ hetomi nɔ́ nɛ kɔɔ yihewi nyɔngma amɛ a he ɔ mi hu ɔ , Yesu tu yihewi enuɔ nɛ a ji kuasiahi a he munyu .
-Ngɛ nɔ hyɛmi ní nɛ ɔmɛ tsuo a mi ɔ , hiɔwe bɔfo ɔmɛ nɛ a je ní sɛɛmi ɔ sisi .
-Anɛ enɛ ɔ tsɔɔ we kaa Yehowa jɔɔ blɔ nya nɛ e Bi ɔ to nɛ e gu nɔ kɛ lɛ asafo ɔmɛ ɔ nɔ lo ?
-Mɛni he je nɛ Yehowa asafo ɔ pee New World Translation ɔ ?
-Wa bua jɔ kaa wa ba le kaa kɛ je jeha 1919 kɛ ma nɛ ɔ , Yehowa ha nɛ adesahi nɛ a yi mluku ngɛ lɛ ye buae kɛ ngɛ mumi mi paradeiso ɔ he blɔ nya toe , a ha nɛ e mi ngɛ ngɔe , nɛ e mi hu ngɛ blie .
-Enɛ ɔ he ɔ , wa nyɛ we sanehi a nya si mami ngɛ blɔ nɛ da nɔ .
-( 2 Mose 23 : 5 ) Nihi ngɔ ga womi nɛ ɔmɛ kɛ tsu ní , nɛ lɔ ɔ ha nɛ a he nyɛli ba pee a huɛmɛ .
-Mɛni ma nyɛ maa ye bua wɔ konɛ waa le tsakemihi nɛ e sa kaa waa pee ?
-( 2 Mose 12 : 46 ) Eko ɔ , oti nyafinyafi ɔmɛ eko ji nɛ ɔ nɛ .
-Nɔ ko be nyɛe maa pee jã kɛ ha wɔ .
-“ Hii okpɔngɔ nɔ kɛ ya ye kunimi . ” — LA 45 : 4 .
-Wa kaneɔ ke : ‘ Ma a tsuo daa si ngɛ Mose kuɛ nɔ kɛ je mɔtu kɛ ya si gbɔkuɛ . ’
-Se wɔɔ lɛɛ wa ngɛ tue mi jɔmi , nɛ kake peemi ngɛ wa kpɛti .
-Se Mawu ma tle nɔ tsuaa nɔ si ngɛ benɛ sa mi . Kekleekle nɔ ji Kristo , nɛ lɔ ɔ se ke Kristo ma a , a ma tle e we bi ɔmɛ hu si . Lɔ ɔ se ɔ , je mi nyagbe maa ba .
-Nyumu nɛ ɔ bɔni asafo mi kpehi tsuo yami . E kɛ we nɛ e ha nɛ a baptisi lɛ .
-Ngɛ anɔkuale mi ɔ , nɔ́ kpakpa ko be nɛ Satan ma nyɛ ma ha lɛ . ​ — Hiob 21 : 7 - 17 ; Gal .
-‘ Gbali ɔmɛ a sɛ gbi ɔ , lakpa sɔuu : nɛ osɔfo ɔmɛ kɛ a he wami yeɔ nihi a nɔ . . .
-E ngɛ mi kaa ni komɛ ngɛ tsu nitsɛ mae mohu lɛɛ , se Kristofohi tsuo ngɛ mumi mi tsu mae . Lɔ ɔ ji fiɛɛmi ní tsumi ɔ nɛ .
-Noa ngɔ maa pee jeha 40 loo 50 kɛ kpɛ daka a .
-* Lɛɛ mɛni be Yesu ma bɔni je ma amɛ kojomi mɔ ?
-‘ Ejakaa e pee we Yehowa suɔmi nya ní . ’ ​ — 2 Kron .
-I ná we lɛ gbɔjɔɔ , se Yehowa wo mi he wami .
-Ke o suɔ Mawu ɔ , mɛni blɔ nɔ o maa gu nɛ o kɛ Yakobo 1 : 22 - 25 ɔ ma tsu ní ?
-E ma bɔni mahe hwɔmi be gagaa .
-Yesu tsɔɔ e se nyɛɛli ɔmɛ kaa a sɔle ke : ‘ Wa Tsɛ nɛ ngɛ hiɔwe . O Matsɛ Yemi ɔ nɛ ba .
-Se mɛni ji wa ní tsumi ?
-Dã nɛ nya wa numi , tsopa yayahi kɛ nítsumi , asɔ fiɛmi , bɔmi nami , kɛ ní kpahi a he akɔnɔ ha nɛ nihi fuu nɛ a buu mɛ ngɛ a mahi a mi ɔ , a hɛ mi kpata , nɛ enɛ ɔ ngɔ haomihi kɛ ba a wekuli , a huɛmɛ , kɛ ni kpahi a nɔ .
-Mɛni o fia o pɛɛ si kaa o maa pee konɛ o kɛ po o mumi mi juetli ɔmɛ a he piɛ ?
-12 : 9 ; 1 Mose 2 : 9 , 16 , 17 ; 3 : 1 - 6 .
-E le wa gbɔjɔmihi .
-Suɔmi kpo jemi : Wa guu blɔhi fuu a nɔ kɛ jeɔ suɔmi kpo kɛ haa nihi .
-Baiblo ɔ ha heto ke Mawu kpata nimli yayami ɔmɛ nɛ a hi si blema a , a hɛ mi konɛ e kɛ “ to okadi kɛ tsɔɔ nɔ́ nɛ maa ba yayami peeli a nɔ . ”
-Ngɛ níhi nɛ wa sɛ hlami susu he ɔ nya a , kɛ wa maa mwɔ sane ɔ nya ha kɛɛ ?
-Se mɛni ma nyɛ ma ha nɛ waa pee jã ?
-( Kane 5 Mose 6 : 5 - 8 ; Luka 6 : 45 . )
-Mɛni Abraham kɛ e weku ɔ hyɛ blɔ kaa a nine maa su nɔ , nɛ mɛni ye bua mɛ nɛ a hɛɛ a hemi kɛ yemi ɔ mi wawɛɛ ɔ ?
-* Israel bi ɔmɛ kpale tu munyu nyanyaanya ngɛ nyu nɛ a nɛ a maa nu ɔ he .
-Kɛ wa ma plɛ kɛ le kaa wa ngɛ suɔmi nitsɛnitsɛ ha kɛɛ ?
-Mo kadi kaa , a kɛ munyuhi komɛ kaa , “ nihi tsuo nɛ a yi Mawu gbeye , ” “ yayami peeli ” kɛ “ musu bɔmi munyuhi ” kale ni ɔmɛ a su , kɛ bɔ nɛ a peeɔ a ní ha .
-Loko Mawu maa kplɛɛ nɔ ko nɔ ɔ , e biɔ babauu pe nɛ nɔ ɔ ma he ye kaa Yesu ji Yi Wami Helɔ kɛkɛ .
-Benɛ Yehowa hla Amos konɛ e ya tu munyu kɛ si ní yayahi nɛ Israel wɛtso nyɔngma matsɛ yemi ɔ ngɛ pee ɔ , eko ɔ , Israel bi komɛ susu kaa e sɛ nɛ Yehowa nɛ hla lɛ . ​ — Kane Amos 7 : 14 , 15 .
-Nihi nɛ a ji tsɔlɔ anɔkualetsɛ ɔ nine maa su nítsumi nɛ ɔ nɔ ke a ho hiɔwe ya nɛ a ya piɛɛ Kristo he kɛ ngɛ matsɛ yee ɔ .
-Bɔ nɛ nyɛ kusumi ɔ ngɛ ha fɛɛ ko ɔ , o maa kplɛɛ nɔ kaa Rebeka li bɔ nɛ níhi maa ba ha .
-Nɔ ko ma nyɛ maa ngɔ sika kɛ ha Watch Tower Bible and Tract Society of Ghana konɛ a kɛ fĩ je kɛ wɛ ní tsumi ɔ se .
-Loko a ma fɔ Yesu ɔ , bɔfo ko de Yosef nɛ ji Yesu papaa a ke , hɔ nɛ Maria hɛɛ ɔ je mumi klɔuklɔu ɔ mi . Bɔfo ɔ de hu ke : ‘ Maria ma fɔ binyumu , nɛ o maa wo lɛ biɛ ke Yesu , ejakaa e ma he e ma a yi wami kɛ je a he yayami ɔmɛ a mi . ’
-14 : 8 ; La 51 : 1 , 17 ; 63 : 1 .
-Suɔmi “ ngɔɔ e hɛ ngɔ fɔɔ Mawu nɔ . ”
-E de ke : “ Níhi a si kpami nɛ ɔ ha nɛ i na kaa Yehowa susuɔ nɔ he .
-Benɛ i ngɛ Baiblo ɔ kasee ɔ , i kɛ níhi nɛ i ngɛ kasee ɔ to bɔ nɛ Yehowa Odasefo ɔmɛ baa a je mi ha a he .
-Mo susu nɔ́ nɛ Mawu de Abraham kaa e ngɔ Isak kɛ pee ɔ he nɛ o hyɛ . Abraham mlɛ hluu loko e fɔ bi nɛ ɔ .
-* ​ — Mat .
-7 : 7 ; Kol .
-Mɛni wa le ngɛ be nɛ a ma tle nihi si kɛ ya hiɔwe ɔ he ?
-Mo kai kaa ja wa ná hemi kɛ yemi ngɛ Mawu mi loko wa be nɔmlɔ hɛ mi gbeye yee hu .
-APRIL 29 , 2013 – MAY 5 , 2013
-Benɛ je mi ta enyɔne ɔ ba nyagbe ɔ , Gleissner ngɔ he blɔ nɛ e ngɛ ɔ kɛ ye bua Odasefohi nɛ a ngɛ Austria a si abɔ .
-Mɛni tsakemihi a pee lingmi nɛ ɔ nɛ o bua jɔ he , nɛ mɛni he je ?
-Lejɛ ɔ nɛ wa ma nyɛ maa yaa nɔ maa “ wo wa sibi he wami ” ngɛ .
-Wa ngɛ he blɔhi fuu nɛ waa kɛ ma je su kpakpa kpo ngɛ bɔnɛ waa kɛ nihi hiɔ si ha a mi .
-Ye nyɛminyumu bi ji nyumu nɛ ɔ nɛ .
-Nɛ a maa ye matsɛ kɛ maa ya neneene !
-“ Je ɔ , Abosiami lɛ ngɛ nɔ yee . ”
-Nyɛmimɛ nɛ ɔmɛ woɔ asafo ɔmɛ he wami .
-Nyɛ bla kɛ je nyɛ hɛja .
-Saulo to e yi mi kaa e maa ya Damasko nɛ e ya nuu Yesu se nyɛɛli ɔmɛ ngɛ a wehi a mi , nɛ e kɛ mɛ nɛ ho Yerusalem ya nɛ a ya gbla a tue ngɛ Yudabi ɔmɛ a kojomi he ngua a nɛ a tsɛɛ ke Sanhedrin ɔ .
-Nihi fuu he we yi kaa Satan ngɛ nitsɛnitsɛ .
-E NƆ HYƐMI NƆ́ : Yesu nitsɛ hu sɔle kaa bɔ nɛ e tsɔɔ nihi kaa a sɔle ɔ . E sɔle ke : “ Tsaatsɛ , hiɔwe kɛ zugba Nyɔmtsɛ , i naa mo si . ”
-Ke wa le bɔ nɛ Mawu buu nihi nɛ a bwɔ ɔ ha a , e maa ye bua wɔ tsuo .
-Se e susu kaa jami hɛ mi nyɛɛli ɔmɛ suɔ nɛ a kpakpaa sika ngɛ nihi a he pe nɛ a maa ye bua nihi . Enɛ ɔ he ɔ , behi fuu ɔ , e biɔ ke , “ Yesu nɛ e fiɛɛ , nɛ e tsɔɔ nihi ní ɔ , mɛnɔ po lɛ wo lɛ hiɔ ? ”
-Koo pee yeyeeye tsɔ , mohu ɔ , moo pee nɔ́ tsuaa nɔ́ nɛ o ma nyɛ konɛ o nyɛ nɛ o da haomi ɔmɛ a nya , nɛ o ná nɔmi mami kaa Yehowa ma tsu nɔ́ nɛ piɛ ɔ he ní .
-Wa wekuli tsuo ngɛ mɛ nitsɛmɛ a biɛhi nɛ a kɛ tsɛɔ mɛ .
-( Abɛ 31 : 10 , 27 , 28 ) Ke bimɛ na kaa a fɔli pɔɔ Yehowa he munyu tumi , nɛ a sɔmɔɔ lɛ daa ligbi ɔ , mɛ hu a ma nyɛ maa pee jã .
-Abraham si we ní tsumi ɔ tsuo ngɔ fɔɛ e yo ɔ nɔ ; e sa fo nɛ e ya gbe na bɔbɔyoo ko nɛ e kɛ pee niye ní nɛ e ngɔ ha mɛ nɛ e ha mɛ nɔ́ ko nɛ a nu .
-Mɛni Baiblo mi munyu komɛ lɛ a daa si kɛ ha nɔ́ ngua ko nɛ maa ba hwɔɔ se ?
-Gbami nɛ ngɛ Ezekiel 37 : 1 - 14 tsɔɔ kaa a ngɔ Mawu we bi ɔmɛ tsuo nyɔguɛ be kɛkɛɛ nɛ a ngmɛɛ a he ngɛ jeha 1919 ɔ mi , nɛ a kpale bɔni Yehowa jami ngɛ anɔkuale mi ekohu .
-Mɛni ba ngɛ Luz ?
-Benɛ a ngmɛɛ nimli nɛ ɔmɛ a he ɔ , nihi fuu ba Kyrgyzstan , nɛ a ti ni komɛ ngɔ anɔkuale ɔ kɛ ba .
-Ke tsakemi ko sa wa he ɔ , e sa nɛ waa ba wa he si nɛ waa kɛ wa juɛmi nɛ ma nɔ́ nɛ Yehowa suɔ ɔ nɔ , se pi nɔ́ nɛ wɔɔ wa suɔ .
-Geoffrey Jackson nya mi munyu
-Lɔ ɔ se ɔ , “ Mumi Klɔuklɔu ɔ tsɛ e yi se kɛ ho nga a nɔ ya . ”
-Mɛni he blɔ Mawu sɔmɔli babauu ma ná ?
-Kaa nɔ hyɛmi nɔ́ ɔ , kɛ o buɔ o nyɛmimɛ Kristofohi nɛ a je ma kpahi a nɔ ɔ ha kɛɛ ?
-Wa jaa “ lɛ pɛ , ” nɛ wa be wa hɛ mae kɛ fɔ e mlaahi kɛ e sisi tomi mlaahi nɛ da a nɔ kɔkɔɔkɔ . ​ — Mateo 4 : 10 .
-Ke wa pueɔ wa yi mi tɛ ngɛ kpɔmi nɔ́ ɔ nɛ Yehowa je suɔmi mi nɛ e to he blɔ nya ha wɔ ɔ he ɔ , lɔ ɔ maa wo wɔ he wami , aloo e ma ha nɛ waa suɔ wawɛɛ kaa wa maa nyɛɛ Yesu se haa
-Anɛ o suɔ kaa o maa gu blɔ kpahi a nɔ kɛ ye nihi odase ngɛ o zugba kpɔ ɔ mi lo ?
-[ Ngɛ gbihi 120 mi ]
-Eko ɔ , Yuda hu da jamɛ a blema ní ɔmɛ nɔuu a nɔ kɛ ngma Enok gbami ɔ he sane ɔ . Aloo eko ɔ , Yuda kase Enok he ní kɛ je Yesu ngɔ .
-Enɛ ɔ he ɔ , wa ngɛ hɛ nɔ kami kaa wa maa ya hiɔwe jio , wa maa hi zugba a nɔ jio , e he hia nɛ waa nu nɔ́ hetomi nɔ́ nɛ ɔ sisi .
-4 : 18 .
-( a ) Mɛni blɔ nɔ Yesu gu kɛ tsɔɔ e kaseli ɔmɛ kaa e sa nɛ a ba a he si nɛ a ko fo mɛ pɛ a nɔ́ mi ?
-Jehanɛ se hu ɔ , anɛ wa ‘ sɔleɔ daa ’ kɛ tsɔɔ kaa waa kɛ wa hɛ fɔ Yehowa nɔ lo .
-Noa ngɛ hemi kɛ yemi ngɛ Yehowa mi , lɔ ɔ he ɔ , a kpataa we e hɛ mi ngɛ Nyu Kpekpemi ɔ mi .
-Anɛ o le nɔ́ nɛ enɛ ɔ tsɔɔ lo ?
-( Kane 1 Timoteo 5 : 17 . )
-E ga tsɔmi ɔ ye manye .
-Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ kase Maria konɛ waa kɛ wa juɛmi nɛ ma Yehowa sɔmɔmi nɔ ?
-Yehowa ngɔ nihi nɛ a maa ya hiɔwe ɔ kɛ pee e bimɛ , enɛ ɔ he ɔ , ngɛ a blɔ fa mi ɔ , Yehowa ji a Tsɛ ngɛ blɔ klɛdɛɛ ko nɔ .
-Se kɛ̃ ɔ , e suɔ kaa wɔ nitsɛmɛ waa mwɔɔ wa yi mi kpɔ ngɛ níhi a he , nɛ e suɔ kaa waa je wa tsui nɛ waa ba wa he si ha lɛ .
-Wa to blɔ nya nɛ nyɛmimɛ nɛ a kɛ a be tsuo ngɛ sɔmɔe ɔ ekomɛ ba hi wa we ɔ mi .
-Mɛni heje e sa nɛ anɔkuale Kristofoli nɛ a sɔle daa a ?
-( Kane Yeremia 5 : 23 , 24 ; 7 : 24 - 26 . )
-Moo po je ko nɛ tsui hiɔ , kansa , asla , aloo hiɔ kpa ko be mi he foni ngɛ o juɛmi mi nɛ o hyɛ .
-“ Esau ba pee de dalɔ kpanaa , nɛ daa nɛ ɔ , e nyɛɛ nga mi kɛ bee . ” Se “ Yakob lɛɛ nɔmlɔ kpoo ji lɛ , nɛ daa nɛ ɔ , e ngɛ we mi . ”
-Se afɔle kpakpa ko ngɛ nɛ ma nyɛ ma ha nɛ adesahi nɛ a ná neneene wami .
-Mohu ɔ , a de ke nihi nɛ a je ‘ je kɛ wɛ . ’ ”
-( 2 Kronika 32 : 7 , 8 ) Be ko ɔ , Hezekia ba wo e he nɔ , se benɛ Yehowa tsɔse lɛ ɔ , e ba e he si .
-( 1 Mose 28 : 15 ) Munyu nɛ ɔ nɛ Yehowa je mi mi jɔmi mi nɛ e tu ɔ maa wo Yakob bua wawɛɛ nitsɛ !
-I kase níhi fuu ngɛ ní tsumi nɛ ɔ mi , se nɔ́ nɛ i kase titli ji kaa pi adesa ko nɛ e nyɛɛ Kristofohi asafo ɔ hɛ mi , se mohu , Yesu Kristo .
-Ke a wo mo tsu ngɛ o hemi kɛ yemi ɔ he je ɔ , eko ɔ , o tsɔɔ nihi anɔkuale ɔ ke o ná he blɔ ɔ , nɛ enɛ ɔ haa nɛ Yehowa bua jɔɔ wawɛɛ . ( Abɛ .
-A le hu kaa Yehowa nɛ ji nɔ klɔuklɔu ɔ ‘ ha mɛ mumi klɔuklɔu ɔ , ’ aloo e pɔ mɛ nu .
-David yɔse kaa ke a ngɔ nɔ ko nɛ e je oblai kɛ to Yehowa Mawu he ɔ , jamɛ a oblai ɔ ngɛ kaa tatu kɛkɛ
-Ke a du Matsɛ Yemi wu ɔ ‘ ngɛ miohi a mi ɔ , ní kpahi a he akɔnɔ sɛɛ a mi , nɛ a gbee munyu ɔ ngɛ a mi , nɛ a wui yiblii . ’ ​ — Mar . 4 : 14 , 18 , 19 .
-Munyu nɛ wui nɔ he wami nɛ slaali nyɔngma amɛ tu ɔ po a tsui .
-( b ) Mɛni sane bimihi nɛ kɔɔ sɔlemi nɛ Yesu sɔle nɛ a ngma ngɛ Yohane yi 17 ɔ he nɛ e sa kaa wa susu ?
-Mele nɛ bɔfo Paulo sɛ mi kɛ yaa Italia a ngɛ kɔɔhiɔ nɛ nya wa wawɛɛ kpee .
-A ya he nɛ a ma je sini ɔ ngɛ ɔ . Benɛ a hyɛ sini ɔ he womihi nɛ a kɛ mɛtɛ si ngɛ gbogbo ɔ he ɔ , o ba nɛ ta hwumi ní nguanguahi kɛ yihi nɛ a wo ajuama bɔli a tadehi ngɛ nɔ .
-Ke nɔ ko je blɔ nɛ e gbe nɔmlɔ ɔ , kɛ Israel bi ɔmɛ tsuɔ sane ɔ he ní ha kɛɛ ?
-Loko Yesu maa ba zugba a nɔ ɔ , Yehowa ngɔ ní tsumi ko nɛ haa nɔ tsui nɔɔ nɔ mi kɛ wo adesahi a dɛ .
-Mawu Mlaa de ke : “ Nɔ kake pɛ ko ye odase kɛ si nɔ ko nɛ pee yayami ko .
-Kɛ wa plɛ kɛ le kaa fiɛɛmi nítsumi ɔ he hia kɛɛ ?
-Mɛni he je nɛ eko ɔ , Satan je e hɛ pi Sara a ?
-A kpɛti nihi fuu je anɔkuale ɔ mi .
-E ngɛ mi kaa baptisimi bliɔ blɔ kɛ haa jɔɔmihi fuu mohu lɛɛ , se ní tsumi hu piɛɛ he .
-Baiblo ɔ tsɔɔ kaa bɔfo nɛ ɔmɛ kɛ bua jɔmi sɔmɔɔ Yehowa . A ji ‘ e sɔmɔli nɛ a peeɔ e suɔmi nya ní . ’
-“ Nibwɔhi , ” Nyɛɛ Ye Bua Nyɛ Bimɛ , ” May
-Moo hyɛ bɔ nɛ nimli babauu nɛ ɔmɛ a gbenɔ ɔ maa ngɔ ya fomi , aywilɛho kɛ nɔ́ nami kɛ ba ha .
-Yehowa he nyɛlɔ nɛ pe kulaa a ngɛ lɛ ahlua bɔe .
-Mɛni Paulo de si abɔ ngɛ sɛ womihi nɛ e ngma ya ha asafo ɔmɛ ɔ mi ?
-A kɛ nyɔhiɔ kake ma tsɔse asafo nɔ hyɛli , kpɔ mi nɔ hyɛli kɛ kpokpa nɔ hyɛli .
-Se akɛnɛ e bua jɔ hɛja jemi he wawɛɛ he je ɔ , e kɛ Yehowa we bi kpa bɔmi .
-Kristofoli nɛ a hi si ngɛ kaseli ɔmɛ a be ɔ mi ɔ kɛ mumi klɔuklɔu ɔ tsu ní nɛ a baa kake peemi nɛ ngɛ a kpɛti ɔ yi ( Hyɛ kuku 13 )
-Haomi nɛ ɔ saa nɔ tsuaa nɔ he , ejakaa e haa nɛ hiɔ tsami he hiɔ yaa hiɔwe .
-Wa yi mi tɛ nɛ wa ma pue ngɛ Yehowa suɔmi nɛ ngɛ daa a he : Nɛ wa ma susu blɔhi fuu nɛ Yehowa guɔ nɔ kɛ jeɔ suɔmi kpo kɛ haa wɔ ɔ a he saminya
-Benɛ Israel bi ɔmɛ kpale kɛ ho Yerusalem ya a , la polɔ ɔ kai bɔ nɛ Yehowa ye bua mɛ ha a , nɛ e la ke : “ E peeɔ o we agbo ɔmɛ a se lami ní ɔmɛ kpɛii , nɛ e gbaa o bimɛ ɔmɛ .
-Jeha komɛ a se ɔ , bɔfo Paulo tu Yesu he munyu kaa e “ ye Mawu he odase wawɛɛ ngɛ Pontio Pilato hɛ mi . ”
-Ngɛ je mi ta enyɔ ɔmɛ tsuo a se ɔ , je ma amɛ hla tue mi jɔmi se blɔ wawɛɛ nitsɛ .
-( Abɛ 9 : 1 - 5 , 13 - 17 ) Enɛ ɔ he ɔ , e sa nɛ waa hla a kpɛti ni nɛmɛ nɛ wa maa bu mɛ tue .
-Se e tsɔɔ kaa nihi nɛ a tsɔɔ atua nɛ a teɔ si kɛ woɔ Mawu ɔ lɛɛ , a ji mi mi fumi buɛhi nɛ sa kaa a ‘ kpata a hɛ mi . ’ ​ — Rom .
-I na kaa Yehowa ngɛ wa he piɛ poe niinɛ . ”
-( La 31 : 5 ) Enɛ ɔ he ɔ , e suɔ kaa e sɔmɔli ɔmɛ a ti “ nɔ tsuaa nɔ kɛ e nyɛmi nɛ tu anɔkuale sisiisi ” nɛ ‘ wa ko ye lakpa . ’
-Ngɛ anɔkuale mi ɔ , lɔ ɔ he je nɛ a tsɛɛ lɛ “ lahi a mi la ” a nɛ .
-Benɛ waa kɛ Mawu we bi bɔni bɔmi ɔ , wa ba kase anɔkuale komɛ nɛ a he jua wa .
-YOSEF NƐ E JE ARIMATIA a li kaa e ngɛ kã nɛ e kɛ ma nyɛ ma ya da Roma amlaalo ɔ hɛ mi .
-Se Rut ha nɛ e Dɛbi pee Dɛbi .
-Anɛ i suɔ kaa ma kase gbi nɛ a tuɔ ngɛ ma a mi ɔ lo ?
-( Ezekiel 38 : 2 , 10 - 13 ; Daniel 11 : 40 , 44 , 45 ; Kpojemi 17 : 14 ; 19 : 19 ) Anɛ e slo tuami nɛ ɔmɛ eko tsuaa eko lo ?
-Ke wa susu kaa a ye wɔ nitsɛmɛ aloo nɔ ko sane yaya a , lɔ ɔ ma nyɛ ma ha nɛ e he nɛ wa ha wɔ kaa wa ma je hemi kɛ yemi kpo , wa maa ba wa he si , aloo wa maa ye anɔkuale .
-Ma ngɔ ye níhi fã kɛ ha ohiatsɛmɛ . Ke i sisi nɔ ko ɔ , nɔ́ nɛ i kpɔ̃ ngɛ e dɛ yaka a , ma ku ngɔ bɔ he si eywiɛ ha lɛ . ”
-Yehowa wo Yesu he wami benɛ e je e sɔmɔmi ɔ sisi ngɛ zugba a nɔ , kɛ benɛ e piɛ bɔɔ nɛ e maa gbe nya a . E ngɛ heii kaa enɛ ɔ wo Yesu he wami wawɛɛ .
-Yesu Kristo kɛ nihi hi si saminya .
-Mohu ɔ , Adam yɔse kaa ke e bo Mawu tue nɛ e yi jamɛ a tso ɔ yiblii ɔ , e maa hi si daa ​ — e be gboe .
-BENƐ wa ba plɛ Kristofohi ɔ , e ngɛ kaa nɔ́ nɛ wa je blɔ hiami ko sisi .
-Enɛ ɔ yeɔ bua asafo ɔ nɛ e leɔ bɔ nɛ e sa kaa e to fiɛɛmi ní tsumi ɔ he blɔ nya ha .
-Anɛ Mawu susu ɔ ye he lo ?
-Amlɔ nɔuu ɔ , Mutsuo na munyu ko nɛ e yi ji “ The Deadliest Tsunamis Ever Recorded ” ( Tsunami Slɔɔtohi Nɛ Gbe Nihi Pe Kulaa ) a .
-Ke Yehowa na kaa kake peemi ngɛ e we bi a kpɛti , a he tsɔ , a buɔ lɛ tue , nɛ a kɛ anɔkuale yemi nyɛɛɔ To Hyɛlɔ Yesu se ɔ , e bua jɔɔ wawɛɛ
-Kaa nɔ hyɛmi nɔ́ ɔ , mo susu Michael he nɛ o hyɛ .
-“ Baiblo sisi tomi mlaahi ye bua mi nɛ i na kaa ye he hia , nɛ e bu ye he ngɛ ye gba si himi ɔ mi . ” — Kolosebi 3 : 13 , 18 , 19 .
-Marta de Yesu ke : “ Nyɔmtsɛ , nɛ ye nyɛmi ɔ si ní tsumi ɔ tsuo ngɔ fɔ imi nɔ kake too ye nɔ nɛ i ngɛ tsue ɔ , anɛ e hɛwi mo lo ?
-Mɛni he je nɛ pi be tsuaa be nɛ Yehowa haa sɔlemihi a heto ɔ ?
-Mɛni wa maa pee konɛ haomihi nɛ waa kɛ kpeɔ ngɛ si himi mi ɔ nɛ ko ha nɛ wa kɔni mi nɛ jɔ̃ ?
-Se Baiblo ɔ tsɔɔ heii kaa ‘ ngmami tsuaa ngmami ɔ , Mawu mumi ɔ lɛ ha nɛ nihi ngma , nɛ e hi . ’
-A ha nɛ nyɛmimɛ fuu ya sɔmɔ kaa blɔ gbali benɛ a bla Denmark , kɛ Norway , kɛ Sweden Betel ɔmɛ kɛ pee Scandinavia Betel ɔ .
-Yehowa be bie nɛ waa pee nɔ́ ko nɛ e le kaa wa be nyɛe maa pee . ​ — 5 Mose 30 : 11 - 14 .
-A ya dii kuasia níhi , kɛ akɔnɔ yayami se . Enɛ ɔ haa nɛ a hemi kɛ yemi taa , nɛ a hɛ mi kpataa .
-17 : 37 , 50 ) Enɛ ɔ he ɔ , Yehowa ji nɔ nɛ a ngɔ yi jemi ɔ tsuo kɛ ha ngɛ ní nguanguahi nɛ a pee ɔ he .
-womi tɛtlɛɛ ɔ nɛ Yehowa Odasefoli pee ɔ eko , nɛ e mi munyu ɔ ekomɛ kɔɔ Mormonbi a hemi kɛ yemi ɔ he .
-Dɛ womi nɛ ji , Mɛni Ji Nɔ́ Titli Nɛ Kɛ Bua Jɔmi Baa Weku Mi ?
-Nihewi kɛ yihewi , anɛ nyɛ suɔ kaa nyɛɛ kɛ asafo nɛ tuɔ gbi nɛ a tuɔ ngɛ nyɛ kpɔ ɔ mi ɔ ma bɔni asafo mi kpehi yami lo ?
-I he we jami ko yi hu .
-Pohu David ha nɛ a gbe Uria nɛ pee we lɛ nɔ́ ko ɔ momo .
-Anɛ a pɔɔ nihi a he munyu yaya tumi , nɛ a tsuaa yakayaka ní lo ?
-Benɛ mo hu o fɔ̃ nyɛmimɛ komɛ nɛ a ngɛ nyɛ asafo ɔ mi ɔ nine ɔ , anɛ lɔ ɔ ha we nɛ huɛ bɔmi nɛ ngɛ nyɛ kpɛti ɔ mi nɛ wa lo ?
-Jehanɛ hu ɔ , a wo Abraham biɛ ta pe si 70 ngɛ Kristofohi A Hela Ngmami ɔ mi .
-I kɛ nihi pɔɔ nya sami wawɛɛ ​ — I peeɔ basabasa , nɛ ye mi mi fu nɔ tsuaa nɔ .
-5 : 15 ; Mat .
-18 , 19 . ( a ) Mɛni he blɔ Mawu ha nyumuhi kɛ yihi tsuo ?
-Paulo ngmɛɛ he blɔ nɛ e ngɛ ɔ he nɛ e kɛ e juɛmi ma “ níhi nɛ a he hia wawɛɛ ” ɔ a nɔ
-Enɛ ɔ he ɔ , be komɛ ɔ , nihi nɛ waa kɛ mɛ tsuɔ ní , nihi nɛ waa kɛ mɛ yaa sukuu , nihi nɛ waa kɛ mɛ ngɛ kpɔ mi , aloo wa weku li ma susu kaa wa je muno kulaa tsɔ .
-Ngɛ jeha 1919 ɔ mi ɔ , Yesu ngɔ tsɔlɔ anɔkualetsɛ ɔ kɛ ní lelɔ ɔ kɛ da ‘ níhi tsuo nɛ e ngɛ ’ nɛ ji nɔ́ tsuaa nɔ́ nɛ ngɛ zugba a nɔ nɛ kɔɔ Matsɛ Yemi ɔ he ɔ nya .
-Ke o suɔ nɛ o le heto ɔ , mo bi o he ke : ‘ Mɛni ji nyagba titli komɛ nɛ adesahi kɛ ngɛ kpee mwɔnɛ ɔ ?
-Bɔ nɛ i ba ye je mi ha be ko nɛ be ɔ he je ɔ , ke pee ɔ , i nuɔ he kaa i sɛ ngɛ Mawu hɛ mi .
-Se Baiblo ɔ tsɔɔ kaa anɔkualetsɛmɛ komɛ hi si ngɛ jamɛ a be ɔ mi . A kpɛti ni komɛ ji Yefta kɛ e biyo ɔ , Elkana , Hana , kɛ Samuel .
-Mo susu kã nɛ Yosef pee benɛ Potifar yo ɔ ngɛ hlae nɛ e kɛ lɛ nɛ bɔ ajuama a he nɛ o hyɛ .
-Nyɛmiyo Brigitte huno gbo , nɛ lɛ nɔ kake pɛ lɛ e ngɛ a bimɛ enyɔ hyɛe . Lɛ hu e de ke : “ Haomihi nɛ a mi wa wawɛɛ nɛ nihi kɛ kpeɔ ngɛ Satan je nɛ ɔ mi ɔ a kpɛti kake ji bimɛ a tsɔsemi , titli ɔ , ke o ji fɔlɔ kake .
-Kɛ Ida peeɔ kɛɛ kɛ daa Satan tuami nɛ ɔ nya ?
-Hyɛ lakpa kake nɛ Abosiami ye !
-© 2018 Watch Tower Bible and Tract Society of Pennsylvania
-Benɛ je ngɛ jɔe nɛ je ngɛ nae ɔ , mɛni ji níhi tutuutu nɛ wa pɔɔ se dimi ?
-3 Sane Bimi Nɛ E Heto Hami Yee
-Anɛ o buɔ Baiblo ɔ kaa nɔ́ ko nɛ he jua wa lo ?
-Wa pɔɔ numi nɛ wa nyɛmimɛ ɔmɛ deɔ ke , ke a hyɛ Brɔɔdkastin ɔ , e haa nɛ a nuɔ he kaa Blɔ Tsɔɔmi Ajla Toli ɔmɛ ngɛ a kasa nya haa .
-Ye bua jɔ Baiblo ɔ kanemi he wawɛɛ , titli ɔ , Sane Kpakpa eywiɛ ɔmɛ .
-Mo bi o he ke , ‘ Anɛ i fia ye pɛɛ si kaa ma pee Yehowa suɔmi nya ní , ma fã anɔkuale jami he , nɛ ma ha nɛ Yehowa asafo ɔ he nɛ tsɔ lo ? ’
-I de lɛ ke : “ Ngɛ fimi nɛ nyɛ fĩ mi ɔ se ɔ , nyɛ ma nyɛ maa gbe mi po nɛ tsa pi ye kɔmɔ .
-▪ Mo Kai Nihi Nɛ A Ngɛ Be Tsuo Sɔmɔmi Ní Tsumi ɔ Mi ɔ
-Yehowa de ke : ‘ Yo ɔ nina a maa fia Satan yi nɔ́ , nɛ Satan hu maa kɔ̃ yo ɔ nina a nane se ja . ’
-Ngɛ Yehowa yemi kɛ buami nya a , wa ma nyɛ maa ya wa hɛ mi ngɛ ní tsumi fɛɛ ní tsumi nɛ wa ngɛ tsue amlɔ nɛ ɔ mi .
-Hiob tu anɔkuale munyuhi nɛ ngɛ yi nɔ ɔ jeha akpe etɛ kɛ se ji nɛ ɔ .
-Aloo e yi mi lɛ wa ? ”
-Anɛ bɔfo anɔkualetsɛmɛ ɔmɛ nyɛ nɛ a pee jã kɛ ya si benɛ a gbe a zugba a nɔ sɔmɔmi nítsumi ɔ nya lo ?
-Abɛ 19 : 3 ɔ de ke : “ Nɔmlɔ nɛ e biɛ ɔ ngɔɔ haomi kɛ baa e nɔ , kɛkɛ e ngɔ abofu ya kple Yehowa nɔ . ”
-I hla Mormon Jami ɔ mi tsɔɔmi ɔmɛ a mi saminya , nɛ jehanɛ se hu ɔ , i bi Mormon jami nya dali ɔmɛ sanehi .
-Nɔ hyɛmi ní nɛ ɔmɛ tsɔɔ kaa e sa nɛ nihi nɛ a ji Yehowa we bi ɔ nɛ a pee nɔ́ nɛ da , nɛ a kua ní yayamihi .
-Ngɛ mɛni blɔ nɔ yalɔyo ohiatsɛ ɔ , Eliya , kɛ nɔ nɛ ngma La 102 ɔ a nɔ hyɛmi nɔ́ ɔ maa ye bua wɔ konɛ wa ná bua jɔmi ngɛ Yehowa sɔmɔmi ?
-E sa kaa waa kɛ níhi nɛ wa kase ngɛ nɔ́ hetomi ní nɛ ɔmɛ a mi ɔ hu nɛ tsu ní .
-Anɛ Paulo ngɛ e nyɛmimɛ Kristofoli dee kaa a da mi ha lɛ ngɛ Mawu hɛ mi lo ?
-Mawu maa po nɔ́ nami se
-Jamɛ a be ɔ mi ɔ , adesahi maa hi si kɛ ya neneene ngɛ bua jɔmi mi .
-Nɔ yeli komɛ hɛɛ juɛmi kpakpa , se adesa nɔ yemi ko aloo matsɛ ko be nyɛe ma tsu adesahi a hiami níhi tsuo a he ní ha mɛ . ​ — La 146 : 3 , 4 ; Kpoj .
-Ke klaali slɔɔtohi gu blɔ kake nɔ kɛ klaa po ɔ , a deɔ nɔ́ ekpaekpa .
-Nihi fuu a bua jɔ jɔɔmihi nɛ a ngɛ náe ngɛ Yehowa asafo ɔ mi ɔ he wawɛɛ .
-Eko ɔ , o yeɔ nɔmlɔ hɛ mi gbeye , aloo o suɔ nɛ o he biɛ nɛ o ná sika fuu ngɛ je ɔ mi , aloo eko ɔ , o kplii o tsui , aloo o suɔ nɛ o pee o tsui nya ní .
-Jehanɛ se hu ɔ , Yehowa bɔ adesa nɔmlɔ tso ɔ konɛ lɛ nitsɛ e nyɛ nɛ e tsa e he .
-Mo kai kaa asafo mi nikɔtɔma amɛ suɔ wɔ , nɛ a suɔ nɛ waa ya wa hɛ mi ngɛ mumi mi .
-ANƐ o nuɔ he kaa o ngɛ slɔkee nɛ o he jɔ mo ngɛ je yaya nɛ ɔ mi kaa nɔ ko nɛ e ngɛ e we mi lo ?
-E peeɔ e ní kaa ogbetee nɛ e na lohwe ko nɛ e ma e mi tsɔtslɔɔmi .
-Nihi ayɔhi abɔ kua Mawu , nɛ a susu kaa adesa blɔ nya tomihi ma nyɛ ma tsu a nyagbahi a he ní .
-Ngami nɛ wa ma nga mɛ ɔ maa tsɔɔ kaa wa buɔ mɛ , nɛ wa suɔ mɛ .
-Yesu susu nɔ́ nɛ e ma ná ke e nyɛ to e tsui si ɔ he . Nɔ́ nɛ he hia pe kulaa a , e ngɔ e juɛmi kɛ ma he blɔ nɛ e ná kaa e ma tsɔ Mawu biɛ ɔ he , nɛ e fĩ Mawu nɔ yemi ɔ se ɔ nɔ .
-Osɔfohi nɛ a je Aaron weku ɔ mi ɔ pɛ nɛ a ngɛ he blɔ kaa a maa sã tsopa kɛ he via ngɛ sɔlemi we ɔ mohu lɛɛ , se Uzia bɔ mɔde kaa e maa pee jã .
-Mɛni suɔmi nɛ Mawu ngɛ ɔ ma ha nɛ e pee kɛ ha nihi nɛ a buɔ lɛ tue ɔ hwɔɔ se ?
-Ke wa baa wa he si ɔ , wa maa bu e ga womi ɔ tue nɛ wa ma ná he se , se ke wa woɔ wa he nɔ lɛɛ wa be e ga womi ɔ tue bue .
-Nihi fuu kplɛɛ nɔ kaa Yesu ba hi si kaa adesa nɛ e gbo , se ni komɛ he we yi kaa a tle Yesu si .
-Se ke e pee jã a , anɛ lɔ ɔ tsɔɔ kaa e ngɛ juɛmi nitsɛnitsɛ lo ?
-Enɛ ɔ maa ye bua mo nɛ o maa le níhi nɛ Yehowa ngɛ hlae kaa o pee , kɛ bɔ nɛ e ye bua e sɔmɔli nɛ a hi si blema a ha .
-E ngɛ kaa nɔ́ nɛ nihi fuu li slɔɔto nɛ ngɛ he lo nya níhi nɛ a hia kɛ níhi nɛ a suɔ ɔ a kpɛti .
-Kake daa si kɛ ha Yehowa je ɔ tsuo nɔ yemi nɛ ngɛ kɛ yaa neneene ɔ .
-Benɛ a ngɛ Yerusalem gbogbo ɔ fiae ekohu ɔ , lɛ nitsɛ hu e piɛɛ a he .
-E ngɛ heii kaa Mawu de we ke doo ɔ nɔ ko nɛ hi si nɛ e ko sɛ gba si himi mi , aloo Kristo jami hɛ mi nyɛɛli nɛ ko sɛ gba si himi mi .
-Monique bɔni sɔmɔmi ngɛ Myanmar kɛ je December 2014 .
-E ngɛ mi kaa a tu klɔuklɔu peemi he munyu ngɛ Baiblo womi ɔmɛ tsuo a mi mohu lɛɛ , se a tu he munyu wawɛɛ ngɛ Mose Womi Nɛ Ji Etɛ ɔ mi .
-Benɛ e de jã a , i sɔle nɛ i de ke , “ Yehowa , moo ye bua mi konɛ ye nine nɛ su nyumu nɛ ɔ nɔ . ”
-E de ke : “ Mo tsɔlɔ yiwutsotsɛ ! Akɛnɛ o kpa mi pɛɛ he je ɔ , i ngɔ hiɔ nɛ ɔ tsuo ngɔ ke mo .
-Nɛ ke waa kɛ tsu we ní saminya a , a ma nyɛ ma je wɔ kɛ je wa hiɔwe Tsɛ ɔ he .
-Mɛni sane nihi biɔ ngɛ Hetsɔmi ɔ kɛ Nyɔmtsɛ ɔ Gbɔkuɛ Niye Ní ɔ he ?
-Ke o ngɛ si himi ko kaa jã mi ɔ , mo ná nɔ mi mami kaa Yehowa nu mo sisi , nɛ e le bɔ nɛ e peeɔ mo ha tutuutu . ​ ​ — 2 Kronika 6 : 29 , 30 .
-Jã nɛ e pee ɔ bli blɔ kɛ ha wɔ konɛ huɛ bɔmi kpakpa nɛ hi waa kɛ Mawu wa kpɛti , nɛ wa ná neneene wami hwɔɔ se .
-Niinɛ , e maa wo wa hɛ mi nyami , nɛ eko po ɔ , e maa pee jã ngɛ blɔ nɛ wa susuu we he gblee ɔ nɔ !
-I susu kaa ke i kɛ níhi nɛ i he ɔ to ɔ , jua maa ba he pee se . ”
-Nɛ Maria hu nɛɛ ?
-E ma je nihi tsuo nɛ a tsɔɔ Yehowa nɔ yemi ɔ hɛ mi atua a kɛ je .
-Jehanɛ se hu ɔ , Gbasisihimi Nyami ko nɛ Israel bi ɔmɛ ye ngɛ Nehemia be ɔ mi ɔ ha nɛ a ná bua jɔmi wawɛɛ . ( 2 Mose 23 : 15 , 16 ; Neh .
-Ke wa je wa tsui mi tsuo kɛ sɔmɔ Yehowa a , lɔ ɔ tsɔɔ kaa wa suɔ lɛ , nɛ wa jɔɔ wa he nɔ kɛ ha lɛ niinɛ .
-Baiblo kpa ko hu de ke : “ Hemi kɛ yemi ji níhi nɛ wa ngɛ blɔ hyɛe ɔ a he odase yemi womi .
-‘ Anɛ bɔ nɛ i dlaa ye he ha a tsɔɔ kaa i ji Kristo se nyɛɛlɔ lo ?
-E kɛ we nɛ Virgílio kɛ e yo Lizzie ya piɛɛ Nyɛminyumu Young he ngɛ Portugal .
-E sɛ nɛ wa puɛ be fuu ngɛ hɛja jemi he hulɔ .
-( La 25 : 14 ) Su nɛ ɔ lɛ wo Abraham he wami nɛ e bu Yehowa tue ɔ nɛ .
-Ngɛ nɔ́ hetomi nɔ́ ɔ mi ɔ , e slo sika abɔ nɛ a ha tsɔli enyɔ ɔmɛ , se enɛ ɔ tsɔɔ we kaa nihi nɛ a pɔ mɛ nu ɔ kuu enyɔ nɛ ngɛ .
-‘ Yayami peeli nui dami sane yemi sisi .
-Be komɛ ɔ , e sa nɛ waa bɔ mɔde nɛ wa dla waa kɛ nihi wa kpɛti pɛhi .
-Nyɛmiyo ko nɛ a tsɛɛ lɛ ke Elvira a kai kaa be ko ɔ , pɛ ko ba e kɛ e huɛ ko nɛ a tsɛɛ lɛ ke Giuliana a kpɛti . Elvira de ke : “ Benɛ e ha nɛ i le kaa nɔ́ nɛ i pee lɛ ɔ gba e nya a , i hao .
-Amlɔ nɛ ɔ , jokuɛ nyumuyo ɔ nɛ jinɛ e gboɔ zo ɔ lɛ ngɛ sɔmɔe kaa nikɔtɔmahi a kuu ɔ sanehi a he blɔ nya tolɔ !
-Yehowa de lɛ ke : ‘ Moo lɛɛ ní nguahi o ngɛ hlae ha o he ? Ko hla !
-Mo gbeje , jije o kunimi yemi ɔ ngɛ ? ” ​ — 1 Korinto Bi 15 : 55 .
-Eko ɔ , nihi bɔɔ ko pɛ nɛ a maa ye abolo ɔ , aloo eko ɔ , nɔ ko po be eko yee ngɛ nyɛ asafo ɔ mi kaa bɔnɛ e ba ngɛ asafohi fuu a mi ngɛ jeha 2013 ɔ mi ɔ .
-Kɛ e sa kaa waa na mɛ ha kɛɛ ?
-( a ) Ngɛ mɛni blɔ nɔ suɔmi nɛ wa ngɛ ha Yehowa kɛ Yesu ɔ woɔ wɔ he wami ngɛ fiɛɛmi ní tsumi ɔ mi ?
-Mɛni he je nɛ Yesu pee nyakpɛ nɔ́ nɛ a bɔ he amaniɛ ngɛ Mateo 14 : 14 - 21 ɔ ?
-Nyɛmiyo ɔ ha heto ke , “ Ee , mɛni heje nɛ o bi mi jã a ? ”
-( 5 Mose 10 : 16 ; 30 : 6 ) E sa nɛ Yudabi ɔmɛ nɛ a yu a he ngɛ susumihi aloo níhi nɛ a suɔ , aloo ní kpahi nɛ ma ha nɛ a kua Yehowa mlaa amɛ ɔ a he . — Níts . 7 : 51 .
-“ Moo tsɔɔ mi nɛ ma pee nɔ́ nɛ o suɔ ; ejakaa mo ji ye Mawu . ” ​ — LA 143 : 10 .
-Akɛnɛ wa ji Yehowa Odasefohi he je ɔ , wa ná he blɔ kaa Yehowa kɛ e biɛ ɔ wo wɔ .
-Yehowa de lɛ ke : “ Ma tsɔ mo Farao ngɔ nɛ o ya je ye ma , Israel bi ɔmɛ kɛ je Egipt . ” ​ — 2 Mose 3 : 10 . Mose ya Egipt nɛ e ya fiɛɛ Mawu sɛ gbi ɔ .
-Moo bɔ mɔde nɛ o to blɔ nya saminya konɛ ní tsumi , sukuu , kɛ hɛja jemi kɛ ní kpahi ko tsi mo blɔ ngɛ Mawu jami mi otihi nɛ o kɛ ma o hɛ mi ɔ he . ​ — Efe .
-Ke wa susuɔ bɔ nɛ Yesu ba e he si nɛ e mi mi sã lɛ ngɛ nihi a he ha a he ɔ , lɔ ɔ maa wo wɔ he wami nɛ wa maa kase lɛ .
-Nyɛ ha nɛ wɔ tsuo waa ya nɔ nɛ wa bua nɛ jɔ Yehowa su kpakpa amɛ a he .
-Mɛni o ma nyɛ maa pee konɛ o kɛ Paulo ga womi ɔ nɛ tsu ní mwɔnɛ ɔ ?
-Mɛni blɔ nɔ wa maa gu kɛ pee enɛ ɔ ?
-Níhi nɛ Hezekia na ngɛ e jokuɛ mi ɔ ngɛ gbeye ! ​ — 2 Matsɛmɛ 16 : 2 - 4 , 10 - 17 ; 2 Kronika 28 : 1 - 3 .
-Munyu nɛ ɔ nɛ e tu ɔ maa nɔ mi kaa , níhi nɛ nɔ ko bua jɔɔ a he ɔ lɛ maa tsɔɔ kaa e bua maa jɔ nike ní ko he aloo e bua be he jɔe .
-Ke nɔ ko ngɛ mi mi sami ɔ , lɔ ɔ tsɔɔ kaa nɔ ɔ jeɔ suɔmi kɛ mi mi himi kpo kɛ tsɔɔ nihi , nɛ e naa nihi mɔbɔ .
-MƐNI HU WA MA NYƐ MAA KASE NGƐ BAIBLO Ɔ MI ?
-26 Nɔ He Sane ​ — Yehowa Ha Nɛ I Ye Manye Ngɛ E Sɔmɔmi ɔ Mi
-E sa nɛ wa munyu tumi , wa ní yemi kɛ wa ní numi , wa he dlami , bɔ nɛ wa peeɔ wa ní ha ngɛ ní tsumi he , kɛ nɔ́ fɛɛ nɔ́ nɛ wa peeɔ ɔ nɛ tsɔɔ kaa Yehowa sɔmɔli ji wɔ niinɛ . ​ — Kane 1 Korinto Bi 10 : 31 , 32 .
-Mɛni o maa pee kɛ tsɔɔ kaa o kplɛɛ blɔ nya nɛ Yehowa to konɛ a kɛ tsɔse wɔ ɔ nɔ ?
-( b ) Mɛni yi mi kpɔ nɛ Adam kɛ Hawa mwɔ ?
-Bɔfo Petro ngma womi ha Kristofoli tsuo ke : “ Nike ní pɔtɛɛ komɛ nɛ Mawu kɛ dloo nyɛ ti nɔ tsuaa nɔ ɔ , nyɛ kɛ sɔmɔ nyɛ sibi kaa Mawu dloomi nike ní slɔɔto ɔmɛ a nɔ hyɛli kpakpahi . ”
-Se Yesu de Petro ke : “ Kpale o klaate ɔ ngɔ to e to he , ejakaa nihi tsuo nɛ a hiaa klaate ɔ , a ma gbo ngɛ klaate nya . ”
-( 3 Mose 5 : 5 , 6 , 15 ) Enɛ ɔ ji hɛdɔ sane .
-Ejakaa jã ji mlaa nɛ Nyɔmtsɛ ɔ wo wɔ .
-E ji suɔmi yaya , nɛ e foɔ lɛ pɛ e nɔ́ mi .
-A tu mɛ nitsɛmɛ a ma mi bi ɔmɛ , kɛ a matsɛmɛ ɔmɛ a fã tɔmihi a he munyu . ( 2 Kron .
-Jeha akpehi abɔ ji nɛ ɔ nɛ Yehowa gu adesahi a nɔ kɛ tsɔɔ e we bi blɔ .
-Akɛnɛ wa ji Yehowa Odasefohi he je ɔ , enɛ ɔ ji wa blɔ nya ní tsumi .
-I nla we po kaa ye si himi ma tsake kulaa kikɛ nɛ ɔ .
-E ngɛ heii kaa enɛ ɔ ha nɛ blɔ ɔ nɔ nyɛɛmi yi ha a nyɛmimɛ ɔmɛ .
-Enɛ ɔ he ɔ , Yehowa ha nɛ i ná binyumu , nganyɛ , kɛ bibimɛ etɛ . ” ​ — 3 Yoh . 4 .
-Mohu ɔ , Mawu nɛ hla mɛ .
-Ke nimli nɛ ɔmɛ kɛ nɔ́ ko kaa jã ya kpe ɔ , jinɛ a ko ba de we lo ?
-Dɛbi , mohu ɔ , e mlɛ kɛ ya su be nɛ Yehowa mumi ɔ nitsɛ ha nɛ e le kaa be su nɛ e maa ye matsɛ .
-Eko ɔ , wa ma bɔni susumi kaa si womi nɛ ɔmɛ be mi bae piɔ aloo a be mi bae kulaa .
-Se Mose lɛɛ e pee nɔ́ nɛ da . E hyɛ Yehowa , nɛ e nyɛɛ e blɔ tsɔɔmi ɔ se pɛpɛɛpɛ .
-I hyɛɛ kaa ma na nɔ ko nɛ hii si nɛ e kɛ nɔ ko sɛɛ we ni lolo lo .
-E ngɔ mɛ kɛ da Matsɛ Yemi sane kpakpa fiɛɛmi kɛ ní tsɔɔmi nítsumi ɔ nya hulɔ . ​ — Níts . 15 : 6 - 29 ; 21 : 17 - 19 ; Kol .
-Baiblo Kaseli ɔmɛ ba a he si nɛ a kase Mawu Munyu ɔ saminya konɛ a le anɔkuale ɔ . ​ — Mat .
-Bɔfo Paulo ngma ke : “ ‘ Ke hwɔ ngɛ o he nyɛlɔ yee ɔ , ha lɛ ní nɛ e ye ; nɛ ke kuma ngɛ lɛ yee ɔ , ha lɛ nyu nɛ e nu . Ke o pee jã a , zo kpɔtɔɔ maa gbe lɛ [ “ o ma bua ha kɛ la nya ngɔ pue e yi kpɛti , ” NW ] . ’
-( b ) Kɛ Filipi Bi 2 : 13 kɛ 4 : 13 ɔ maa ye bua nyɛmimɛ nyumuhi konɛ a pee kã ha kɛɛ ?
-Kane Kpojemi 7 : 1 - 4 .
-Kaa nɔ hyɛmi nɔ́ ɔ , Mishnah ( Keritot 1 : 7 ) nɛ ji Yuda bi a yi nɔ sane ko tsɔɔ kaa ngɛ kaseli ɔmɛ a be ɔ mi ɔ , jua yeli ɔmɛ ha nɛ beleku lahuɛ enyɔ nɛ a kɛ sãa afɔle ɔ jua ya su sika hiɔ denario 25 .
-Lɔ ɔ he ɔ , benɛ a fɔ mɛ nine kaa a ba Gilead Sukuu nɛ ji lafa kɛ nyingmi enyɔ kɛ ekpane ɔ , a bua jɔ wawɛɛ !
-Mɛni e sa nɛ waa pee konɛ wa kɔni mi nɛ ko jɔ , nɛ mɛni he wa ma susu ngɛ munyu nɛ ɔ mi ?
-Mose ngma ke : ‘ Yehowa , benɛ o ná we nɛ o bɔ yo ɔmɛ ; benɛ o ná we nɛ o bɔ je ɔ , mo ji Mawu nɛ ngɛ kɛ je neneene kɛ yaa si neneene . ’
-E ngɛ mi kaa i ji atsinyɛ kaa Mawu ngɛ aloo e be mohu lɛɛ , se ní komɛ ngɛ nɛ i nui sisi .
-E bɔ zugba a konɛ e pee paradeiso nɛ adesahi nɛ a hi nɔ nɛ a ná bua jɔmi .
-David sɔle ha Mawu ke : ‘ Benɛ a na we nɛ a fɔ mi lolo po ɔ , a ngma ye wami be ɔ tsuo ngɛ o womi ɔ mi momo .
-Yesu ma e munyu ɔ nya si ke : “ Ke nyɛ ngɔɛ nyɛ nyɛmimɛ a tɔmi ngɔ pɛ mɛ kɛ je nyɛ tsui mi ɔ , bɔnɛ Tsaatsɛ nɛ ngɛ hiɔwe ɔ maa pee nyɛ ti nɔ tsuaa nɔ ji nɛ ɔ nɛ . ”
-Ha nɛ nihi nɛ a mwɔ mɛ nitsɛmɛ a yi mi kpɔ ngɛ bɔnɛ a ma plɛ kɛ ná nɔmlɔtso mi he wami kpakpa a he .
-Mwɔnɛ ɔ , jã nɔuu nɛ Yehowa guɔ asafo mi nikɔtɔmahi a nɔ kɛ tsɔɔ asafo ɔ ní .
-Ke a fɔ bimwɔyo ko ɔ , kekleekle ngmlɛfia a ji be ko nɛ e he hia wawɛɛ kaa binyɛ ɔ nɛ pɛtɛ e bi ɔ he .
-Mɛni je yi mi kpɔ nɛ a mwɔ ɔ mi kɛ ba ?
-Anɛ wa ngɛ yi mi tomi pɔtɛɛ ko he je nɛ e sɛ nɛ wa dla wa kpɛti konɛ waa ya nɔ nɛ wa sɔmɔ Yehowa ngɛ tue mi jɔmi mi lo ? ’
-( b ) Mɛni he je nɛ be komɛ ɔ , eko ɔ , e maa ye ha wɔ kaa wa ma pue wa yi mi tɛ ngɛ níhi a he , se mɛni he je nɛ e sa kaa waa bɔ mɔde nɛ waa pee jã daa a ?
-Moo bu a ga womi tue , nɛ o kase ní kɛ je nile nɛ a ngɛ ɔ mi . — Abɛ 13 : 20 .
-Benɛ Israel bi ɔmɛ je Ijipt ɔ , e sui nyɔhiɔ enyɔ po nɛ nyagba ko ba . Jamɛ a be ɔ mi ɔ , a sui Sinai Yoku ɔ he lolo .
-A jami ɔ he tsɔ we kaa bɔ nɛ nihi nɛ a pɔ mɛ nu ɔ a jami ɔ he tsɔ ɔ .
-Se nile be mi kaa o ma ha nɛ nɔ́ yaya nɛ o weku no ɔ pee nɛ lɔɔ he ɔ , a fiee lɛ ngɛ asafo ɔ mi ɔ nɛ je mo kɛ je Yehowa he .
-Kɛ Paulo munyu ɔ kɔ a he ha kɛɛ ?
-Enɛ ɔ ha nɛ osɔfo ɔmɛ a mi mi fu wawɛɛ .
-E ji Hungaria no . Ligbi ko ɔ , a ngɔ nɔ ko nɛ e tuɔ Hungaria gbi ɔ e we adrɛs kɛ ha lɛ konɛ e ya fiɛɛ ha lɛ .
-Be komɛ ɔ , sisi numi ngɛ he kaa nɔ ko maa pee e ní jã .
-E ji bua jɔmi sane kaa nyɛmimɛ nɛ ɔmɛ ngɔ he yemi nɛ a ngɛ ɔ kɛ ngɛ Yehowa , wa Mawu nɛ e haa nɔ he yemi ɔ yi jee , nɛ a ngɛ e hɛ mi nyami woe .
-Ee , nɔ́ ko ngɛ nɛ ma nyɛ maa ye bua wɔ .
-Se suhi nɛ Paulo wo tã ngɛ Timoteo womi ɔ mi ɔ ekomɛ ngɛ nɛ a be Kristofohi A Hela Ngmami kpa amɛ a mi .
-A Ye A He Ngɛ Lakpa Jami He , Nov .
-E ngma ke : “ E ngɛ mi kaa nyumuhi maa pee 40 lɛ a ngma Baiblo ɔ mohu lɛɛ , se mɛ tsuo a tu Matsɛ Yemi ɔ he munyu .
-A ma de ke : ‘ Yehowa maa tsɔɔ wɔ nɔ́ nɛ e suɔ kaa waa pee ; nɛ wa maa pee bɔ nɛ e maa tsɔɔ wɔ ɔ pɛpɛɛpɛ . ’
-Yehowa lɛ e ha mo ní tsumi ɔ nɛ , lɔ ɔ he ɔ , e maa ye bua mo konɛ o nyɛ nɛ o tsu .
-Bɔ nɛ Petro pee kã kɛ tu munyu ngɛ Pentekoste ligbi ɔ nɔ ɔ wo e nyɛmimɛ ɔmɛ he wami , nɛ lɔ ɔ se ɔ , e ya nɔ nɛ e wo mɛ he wami .
-Enɛ ɔ he ɔ , e sa nɛ waa bɔ mɔde wawɛɛ nɛ waa po suɔmi nɛ wa ngɛ kɛ ha mumi mi juetlihi ɔ a he piɛ , nɛ waa ya nɔ nɛ waa tsɔɔ kaa wa bua jɔ he .
-Benɛ Yesu ngɛ zugba a nɔ ɔ , e de ke : “ Jamɛ a ligbi ɔ , kɛ jamɛ a ngmlɛfia a , nɔ ko nɔ ko li . Hiɔwe bɔfo ɔmɛ li ɔ , Bi ɔ tete li ; Tsɛ ɔ nɔ kake too nɛ le . ”
-Bɔfo Paulo ngma ke , ‘ Ke nyɛ kpe nɛ nyɛ ngɛ Mawu jae ɔ , yi ɔmɛ nɛ a pee dii . ’
-Nyɛ he nyɛlɔ Abosiami ɔ nyɛɛɔ kɛ yaa kɛ baa kaa jata nɛ ngɛ huãe nɛ e ngɛ hlae nɛ e maa mi nɔ ko . ”
-Yesu ji somi ehe ɔ Mi Dalɔ .
-14 O Hwɔɔ Se Si Himi Daa Si Ngɛ Mo Nitsɛ O Nɔ !
-( Kane 1 Mose 22 : 15 - 18 . )
-Ngɛ anɔkuale mi ɔ , Mawu tsɔɔ kaa yakayaka nimli nɛ ɔmɛ sa gbenɔ .
-Benɛ i bi mɛ kaa mɛni he je nɛ a to a tsui si kɛ pee lɛ saminya a , a tsɔɔ kaa a le bɔ nɛ i suɔ ye tea ha , nɛ a suɔ kaa a pee lɛ jã pɛpɛɛpɛ .
-* Loko wa maa piɛɛ Yehowa weku nɛ ngɛ je kɛ wɛ ɔ he ɔ , e sa nɛ wa he nɛ tsɔ nɛ waa pee wa he klɔuklɔu .
-Ngɛ gbami nɛ Yesu gba ngɛ Mateo yi 24 kɛ 25 ɔ mi ɔ , Yesu de si abɔ kaa e ma .
-Ejakaa ke o susu he ɔ , o maa na kaa mlaahi nɛ adesahi wo ɔ hiɛ wawɛɛ nitsɛ . Enɛ ɔ he nɛ mlaa leli kɛ kojoli babauu tsɔɔ mlaahi a sisi konɛ a le bɔ nɛ a kɛ mlaa amɛ ma tsu ní ha a nɛ .
-A ye Yehowa sɔmɔlɔ anɔkualetsɛ Yosef sane yaya .
-Yesu bɔ e kaseli ɔmɛ kɔkɔ kaa nihi maa nyɛ mɛ , nɛ a maa wa mɛ yi mi , nɛ a maa gbe a ti ni komɛ po .
-E gba kɛ gu e Bi ɔ nɔ kaa ngɛ nyagbe be nɛ ɔmɛ a mi ɔ , a maa fiɛɛ sane kpakpa nɛ kɔɔ Mawu Matsɛ Yemi ɔ he ɔ kɛ “ kpa je ɔ mi tsuo . ”
-Mɛni wa ma nyɛ maa pee konɛ wa ko pee wa ní jã ?
-Se , loko jamɛ a be ɔ maa su ɔ , David ya nɔ nɛ e kɛ he si bami tsu ní kaa to hyɛlɔ .
-Kaa nɔ hyɛmi nɔ́ ɔ , benɛ a ngɛ Babilon ɔ , Daniel kɛ e huɛmɛ etɛ nɛ ji Shadrak , Meshak , kɛ Abednego kua niye ní nɛ Mawu de Yuda bi ɔmɛ kaa a ko ye ɔ .
-John kɛ e nyɛmimɛ nyumuhi kɛ yihi enuɔ ɔ , kɛ a yayo tsuo ji Roma Katoliki bi nɛ a kɛ Mawu jami fiɛ we . Enɛ ɔ he ɔ , a te si kɛ wo a papaa ngɛ e hemi kɛ yemi ɔ he .
-Akɛnɛ dɔkita ji lɛ he je ɔ , e tu hiɔhi fuu nɛ Yesu tsa a he munyu .
-Tlukaa a , Yesu ba ná mɛ nɛ e kɛ mɛ bɔni nyɛɛmi .
-England osɔfo ko nɛ a tsɛɛ lɛ ke Stephen Langton ji nɔ nɛ ngɔ yi ɔmɛ kɛ kuku ɔmɛ kɛ wo Baiblo ɔ mi .
-Mɛni he je nɛ a ngɛ jã a ?
-“ NÍ NƐ a ma kpa a hiɛ , se ní tsuli ɔmɛ a he pi .
-Jinɛ lɔ ɔ ko tsɔɔ kaa a te si kɛ wo mumi klɔuklɔu ɔ nɛ ha nɛ tue mi jɔmi kɛ kake peemi ngɛ Mawu we bi a kpɛti ɔ . ​ — Kane Roma Bi 16 : 17 , 18 .
-Nɛ e na e mi nɔ́ hulɔ .
-Ke wa sɔle kɛ ha nɔ ko nɛ e tɔ̃ wa nɔ ɔ , lɔɔ ma nyɛ ma ha nɛ wa be e he abofu náe ngɛ wa tsui mi .
-Ngɛ ni komɛ a kusumi nya a , eko ɔ , e maa pee nyumuhi zo kaa a ma la ngɛ ma hɛ mi .
-Akɛnɛ Wilhelm Hildebrandt suɔ kaa lɛ hu e ma tsu Matsɛ Yemi sɔmɔmi ní tsumi ɔ eko he je ɔ , e sɛ womi nɛ ji The Bible Students Monthly nɛ a pee ngɛ French gbi mi ɔ fuu .
-Enɛ ɔ he ɔ , nile ngɛ mi kaa wa ma je bumi kpo kɛ ha blɔ nya nɛ Mawu to ɔ , wa ngɛ sɔmɔe kaa nikɔtɔmahi jio , wa sɔmɔ we kaa nikɔtɔmahi jio .
-I bɔɔ mɔde kaa ma nu mɛ sisi .
-Ke wa suɔ nɛ wa biɛ nɛ tlɔ Yehowa “ kaimi womi ” ɔ mi ɔ , ní komɛ ngɛ nɛ e sa nɛ waa pee .
-E sa nɛ nyumuhi nɛ a baptisi mɛ ɔ hu nɛ a pee kã , nɛ a tsu ní .
-Bɔfo Paulo ngma ke , ‘ Mawu suɔ nɔ nɛ e haa nɔ́ kɛ bua jɔmi . ’
-Nɔ́ nɛ he hia pɛ ji kaa huɛ bɔmi kpakpa maa hi o kɛ Mawu nyɛ kpɛti . ”
-( 1 Mose 12 : 5 , 10 ; 13 : 18 ; 14 : 10 - 16 ) Se kɛ̃ ɔ , Abraham kɛ e weku ɔ sume kaa a maa kpale a se kɛ ho Ur ya konɛ a jɔɔ nɔ́ nami . ​ — Kane Hebri Bi 11 : 8 - 12 , 15 .
-( Abɛ 26 : 21 ) Ngɛ anɔkuale mi ɔ , tsui si tomi haa nɛ abofu baa si .
-Tsa pi kaa wa bua peeɔ wa he nyɛmimɛ .
-Kɛkɛ nɛ nɔ nɛ hii si ngɛ matsɛ sɛ ɔ nɔ ɔ de ke , ‘ Hyɛ , i ngɛ níhi tsuo pee ehe ! ’ ”
-Eko ɔ , Saul mɔbɔ nɛ David na a hu heje nɛ Yehowa ngɔ David yayami ɔ kɛ pa lɛ ɔ nɛ . ( 1 Sam .
-Ke o ngɛ ní tsumi hlae nɛ o nɛ eko ɔ , hyɛ bɔ nɛ o maa hao ha .
-( 1 Mose 1 : 28 ) E ngɛ mi kaa bimɛ maa suɔ a fɔli mohu lɛɛ , se be maa su nɛ a maa sɛ gba si himi mi nɛ a ma si a fɔli ɔmɛ , nɛ a maa to mɛ nitsɛmɛ a wekuhi a sisi .
-Paulo wo Timoteo he wami ke : “ Oti nɛ [ e sa nɛ ] o kɛ ma o hɛ mi ji kaa o kɛ Mawu jami ma tsɔse o he . ”
-Ke nɔ ko ngɛ hlae nɛ e maa kane ngmami ko ngɛ womi nɛ ɔ mi ɔ , e yi kaa e ma bli jamɛ a ngmami ɔ .
-‘ Ke o hla Yehowa se blɔ ɔ , e ma ha nɛ o maa na lɛ . ’
-Ke wa jɔɔ wa wami nɔ kɛ ha Yehowa a , wa ngɛ lɛ dee ke , ‘ Yehowa , i ngɛ kɛ ha mo , se pi kɛ ha imi nitsɛ ye he . ’
-O ngɛ huɛmɛ nɛ o suɔ a sane wawɛɛ nɛ a ngɛ kaa “ sisi pokuhi ” nɛ wa nɛ o kɛ mɛ peeɔ kake kɛ tsuɔ Mawu jami mi níhi ngɛ lejɛ ɔ .
-Ngɛ August 31 , 1947 ɔ mi ɔ , a baptisi mi kɛ ma ye he nɔ nɛ i jɔɔ kɛ ha Yehowa a nɔ mi .
-Nɔ tsuaa nɔ nɛ ma kua ke e be amaga a jae ɔ , a ma sake lɛ kɛ wo flɔnɔɔ kɛ mi la mi .
-A ngma munyuhi nɛ maa ye bua wɔ ke wa weku no ko je Yehowa he ɔ .
-[ Ngɛ gbihi 36 mi ]
-E ngɛ mi kaa Satan kɛ e webi ɔmɛ ngɛ Yehowa webi haoe ngɛ je kɛ wɛ mohu lɛɛ , se Yehowa webi yaa nɔ nɛ a tsuɔ sɔmɔmi nítsumi ɔ .
-BA FA 9 • LAHI : 17 , 44
-Amlɔ nɛ ɔ , nihi nɛ i kɛ mɛ kase Baiblo ɔ a kpɛti ni komɛ ngɛ sɔmɔe kaa daa blɔ gbali kɛ asafo mi nikɔtɔmahi .
-E de mi ke , “ Ngɔɔ o Baiblo ɔ nɛ o kane La 83 : 18 ɔ . ”
-1 Samuel yi 1 - 2
-Enɛ ɔ he ɔ , a ma kpata nihi nɛ a kɛ a he wo lakpa jami mi ɔ a hɛ mi ngɛ amanehlu ngua a nyagbe fã nɛ ji Harmagedon ɔ mi . ​ — Mal .
-E slo bɔ nɛ wa ti nɔ tsuaa nɔ peeɔ e ní ha . E slo wa ti nɔ tsuaa nɔ kɛ e subai , kɛ bɔ nɛ e naa níhi ha .
-Abraham kɛ Sara ngɔ a hɛ kɛ fɔ níhi nɛ ngɛ a hɛ mi ɔ nɔ , nɛ a ha we nɛ níhi nɛ bɔle mɛ ngɛ je ɔ mi ɔ nɛ je a juɛmi ngɛ nɔ .
-Ligbi ko ɔ , nyumu ko nɛ e le Mose Mlaa a wawɛɛ ɔ bi Yesu ke : “ mlaa a te nɔ́ nɛ pe kulaa nɛɛ ? ”
-Akɛnɛ Yesu suɔ nɔ́ nɛ da nɛ e hĩɔ níhi tsuo nɛ ngɔɔ he guɛ gbemi kɛ baa e Tsɛ ɔ nɔ heje ɔ , Yehowa pɔ lɛ nu kaa Mesia Matsɛ Yemi ɔ nya Matsɛ .
-Kaa nɔ hyɛmi nɔ́ ɔ , eko ɔ , nyɛminyumu ko dla e he saminya nɛ e ya tu magbɛ nɔ munyu ngɛ nihi fuu a hɛ mi .
-I kɛ nyɛmiyo ko nɛ le ní wawɛɛ nɛ a tsɛɛ lɛ ke Etta Huth tsu ní .
-Anɔkuale nɛ ɔmɛ hu piɛɛ wa gbosi ní ɔ he .
-Ke o ngɛ hlae nɛ o nu nɔ́ hetomi nɔ́ nɛ ɔ sisi fitsofitso ɔ , moo hyɛ October 15 , 1995 , Blɛfo gbi Hwɔɔmi Mɔ ɔ mi munyuhi nɛ ji , “ How Will You Stand Before the Judgment Seat ? ”
-Baiblo ɔ nɛ a ngma ngɛ Hebri gbi mi ɔ po eko ɔ , o nɛ eko hyɛ .
-E sɛ nɛ wa susu kɔkɔɔkɔ kaa wa ma nyɛ ma kpa ta nɛ wa hwuɔ kɛ siɔ wa gbɔjɔmihi ɔ .
-Se Saul de David ke : “ O be Filisti no nɛ ɔ nyɛe , ejakaa niheyo kɛkɛ ji mo ; lɛɛ ta hwulɔ ji lɛ kɛ je e nihe mi . ”
-Wa suɔ Yehowa , enɛ ɔ he ɔ , wa buɔ lɛ tue nɛ wa peeɔ tsakemihi nɛ e he hia kaa waa pee .
-Mo Ná Baiblo Kanemi He Se , No .
-Ke o peeɔ jã a , lɛɛ loko o maa sɔle ɔ , moo sɛ hlami nɛ o ngɔ be kpiti ko kɛ susu níhi nɛ o ma de ɔ he .
-E maa ma matsɛ bo tsu agboagbohi ngɛ wo ɔ , kɛ yo ɔ nɛ Yehowa we ɔ maa si ngɛ nɔ ɔ a kpɛti . Se e ma gbo ngɛ lejɛ ɔ , nɛ nɔ ko be bae nɛ e ba je ngmlaa ha lɛ . ’
-Kaa bɔ nɛ Yesaya kɛ Mika gba kɛ fɔ si ɔ , wa pee kake kɛ ngɛ ‘ Yehowa yo ɔ kuɔe . ’
-Mɛni blɔ nɔ nɛ nɔ́ nɛ Mawu biɛ ɔ tsɔɔ ɔ ma nyɛ maa wo o hemi kɛ yemi mi he wami ngɛ ?
-Anɛ mo hu o hɛɛ nihi a he juɛmi yaya nɛ o li lo ?
-LAHI : 27 , 21
-Mɛni heje nɛ Yesu tsu nítsumi nɛ nihi bui nɛ ɔ ? — Yoh . 13 : 3 - 5 .
-Mɛ hu a ngɛ mo hyɛe nɛ a na kaa o ngɛ nɔ́ nae , nɛ a ngɛ mo he wami woe konɛ o ya nɔ nɛ o fĩ si !
-Fã enyɔne ɔ hɛɛ womi kakaaka 27 , nɛ mɛ hu a ji “ Mawu munyu . ”
-E yo ɔ sume Yehowa Odasefohi a sane .
-Ke wa hyɛ níhi tsuo nɛ e bɔ ɔ , wa naa kaa e haa nɔ nɔ́ faa niinɛ .
-Enɛ ɔ he ɔ , sisi numi ngɛ he kaa he nɛ Yehowa ngɛ , kɛ “ he nɛ Yehowa mumi ɔ ngɛ ɔ , ” he yemi ngɛ lejɛ ɔ .
-Benɛ David kpla ta hwumi ní ngua nɛ ɔmɛ nɛ e ka nyɛɛmi ɔ , e nyɛ we .
-Nyɛmiyo ko nɛ e ngɛ Austria a na kaa Mawu hɛ ji mɔde nɛ e bɔɔ ngɛ fiɛɛmi ní tsumi ɔ mi ɔ nɔ .
-Mo lɛ o bɔ níhi tsuo . ’ — KPOJ .
-E sa nɛ Kristofohi nɛ a bu Yesu fami ɔmɛ hu tue kɛ tsɔɔ kaa a ngɛ hemi kɛ yemi .
-Jã nɛ i peeɔ ɔ haa nɛ i bua jɔɔ . ” Ngɛ anɔkuale mi ɔ , e yee kaa o maa na nihi nɛ a suɔ kaa a maa kase Mawu he ní .
-E be gbɔjɔɔ kaa i kɛ e ga womi ɔ ma tsu ní , se nɛ i kɛ tsu ni ɔ e ye bua mi .
-Kaa bɔ nɛ niye ní kpakpa haa nɛ nɔmlɔ tso ɔ náa he wami ɔ , jã kɛ̃ nɛ ke waa kɛ Kristo susumi ɔ lɛ wa juɛmi ɔ , e ma ha nɛ wa he maa wa ngɛ mumi mi .
-Ke a ná nɛ a ye tso yiblii ɔ pɛ ɔ , lɔ ɔ tsɔɔ kaa a ngɛ Mawu dee ke , “ Wa sume kaa o ye wa nɔ hu . ”
-Nɔ nɛ ngma womi nɛ ɔ tsɔɔ kaa a “ he Mawu ye , nɛ a ngɛ odase kpakpa nɛ ɔ yee ngɛ a he ! ”
-Mo ha nɔ hyɛmi nɔ́ nɛ tsɔɔ bɔnɛ a kɛ Mawu biɛ ɔ tsu ní ha ngɛ kekleekle womi nɛ a pee ngɛ jeha 1640 ɔ mi ɔ .
-13 - 14 .
-Ke waa kɛ Mawu suɔmi nya ní peemi pee oti ngɛ wa si himi mi ɔ , lɔ ɔ maa tsɔɔ kaa wa ngɛ Sara kasee .
-Kenneth kɛ Filomena to he hɛ kaa yo ɔ ngɛ ya foe loko e ba bli sinya a .
-24 : 15 .
-Daka a he Noa kɛ e weku ɔ a yi wami .
-Wa na kaa Yehowa buɔ wa he , nɛ e tsɔɔ wɔ blɔ be tsuaa be . Kaa wa ya tsu he lo nya ní tsumi ko ɔ , jinɛ wa ko nɛ níhi jã kɔkɔɔkɔ .
-Ke o be bua jɔmi hu ɔ , mɛni o ma nyɛ maa pee konɛ o ná bua jɔmi ekohu ?
-I kɛ lɛ kase ní hluu kɛ ya si benɛ a baptisi lɛ , nɛ pee se ɔ , e huno kɛ e binyumuhi enyɔ hu ha nɛ a baptisi mɛ .
-Wa nui Swahili gbi ɔ , nɛ lɛ hu e nui Blɛfo gbi .
-Wa ma ná mumi mi paradeiso ɔ he se kɛ pi si ngɛ je ehe ɔ mi .
-Mɛni wa ma nyɛ ma de kɛ wo nihi nɛ a hao ɔ he wami ?
-Roma Bi Ɔmɛ Ha Yuda Nikɔtɔma Amɛ Nɛ A Ngɛ Yudea a He Blɔ , Oct .
-Ke waa kɛ wa gba si himi mi he piɛɛli tsu blɔ gbami nítsumi ɔ , kɛ lɔɔ haa nɛ wa gba si himi ɔ peeɔ kɛ ?
-E sɛ kaa waa pee nɔ́ ko nɛ ma ha nɛ nihi maa ye wɔ gbeye .
-“ Nihi nɛ he Mawu ye , nɛ a to a tsui si , nɛ lɔ ɔ he a nine su nɔ́ nɛ Mawu wo si ɔ nɔ ɔ , nyɛɛ kase mɛ . ” ​ — HEBRI BI 6 : 12 .
-Ngɛ jamɛ a jeha a mi ɔ , Yesu ‘ je kpo kaa kunimi yelɔ nɛ yaa gbe e kunimi yemi ɔ nya . ’
-Mɛni he je nɛ Nyɛmiyo Nadia bua jɔ kaa e hi asafo nɛ tuɔ e je gbi mi ɔ ?
-Benɛ Yehowa de Samuel kaa e ya pɔ Saul nu ɔ , Samuel tui tsle kulaa .
-E tsɔɔ kaa e yayo ye jeha 86 , nɛ e be nɔmlɔ tso mi he wami kpakpa ko , se e pɔɔ nihi odase yemi ngɛ tɛlifoo nɔ .
-12 : 43 - 47 .
-( Yesaya 32 : 2 ) Lemi nɛ wa le kaa nyɛmimɛ nyumu nɛ ɔmɛ maa ye bua wɔ ɔ woɔ wa bua .
-( Fiɛlɔ 3 : 1 , 7 ) Nyɛmiyo ko nɛ e sɛ gba si himi mi maa pee jeha nyɔngma ji nɛ ɔ de ke : “ Kpaako i na kaa ní komɛ ngɛ nɛ pi be tsuaa be nɛ e sa kaa ma tu he munyu .
-A Maa Ye Dami Sane Ngɛ Zugba A Nɔ Ligbi Ko Lo ?
-Ke pi Yehowa Odasefohi ji mɛ po ɔ , e sa nɛ o “ bu o tsɛ kɛ o nyɛ . ”
-7 : 9 , 10 , 14 .
-Ke wa woɔ wa he nɔ ɔ , wɔ hu wa ma bɔni ‘ wɔ nitsɛmɛ wa he bumi tsɔ pe bɔ nɛ sa kaa waa bu wa he . ’
-A tsɔ lɛ ma nɔkɔtɔma a ngɔ konɛ e ya de lɛ tue mi jɔmi ní tsumi nɛ Yehowa Odasefohi ngɛ tsue ngɛ e ma a mi ɔ .
-Ngɛ anɔkuale mi ɔ , haomi komɛ ngɛ nɛ adesahi be nyɛe ma tsu he ní .
-2 Korinto Bi 12 : 9 , 10
-Wa ní peepee ma nyɛ maa tsɔɔ kaa wa bui Mawu ( Hyɛ kuku 7 , 8 )
-Enɛ ɔ he ɔ , e naa to hyɛlɔ ɔ kaa e nɔ be , nɛ e tsɔɔ kaa e ngɛ kaa “ tso nɛ yiblii ngɔɔ saminya ngɛ pú mi tsohi a kpɛti . ” ​ — Lahi A Mi La 2 : 3 , 9 ; 5 : 14 , 15 .
-Nyɛɛ ya nɛ nyɛ ya bu yɔkɔ ɔ he bɔ nɛ nyɛ ma nyɛ . ”
-E le kaa yayami peelɔ ji lɛ .
-( b ) Mɛni Yesu de e kaseli ɔmɛ kaa a pee ke nyagbe ɔ bɛ mlaa kaa bɔ nɛ a ngɛ blɔ hyɛe ɔ ?
-Eko ɔ , “ we ɔmɛ a mi ” maa pee Matsɛ Yemi Asa amɛ a nɔ .
-15 , 16 . ( a ) Mɛni wa kaseɔ ngɛ bɔ nɛ Yehowa plɛɔ kɛ hyɛɛ nga nɔ mɔmɔhi a nɔ ha a mi ?
-Baiblo ɔ tsɔɔ wɔ níhi nɛ a he hia kaa waa le ngɛ Mawu he , kɛ bɔ nɛ e susuɔ ngɛ adesahi a he ha
-( b ) Mɛni he wa ma susu ngɛ munyu nɛ nyɛɛ se ɔ mi ?
-Ke wa ‘ pee bɔ nɛ Mawu tsɔɔ wɔ ’ ɔ , e maa jɔɔ wɔ , nɛ e maa po wa he piɛ .
-A susu sane komɛ nɛ eko ɔ , o bi hyɛ ɔ a he ngɛ munyu nɛ ɔ mi , nɛ a tsɔɔ hehi nɛ o ma nyɛ maa na heto ɔmɛ ngɛ ɔ ngɛ o Baiblo ɔ mi .
-Be komɛ ɔ , eko ɔ , o maa pee o ní kaa bɔ nɛ David pee e ní ɔ . David de ke : ‘ Yehowa , he mi nɔ esɔ koo !
-Nihi fuu ngɛ Satan je ɔ mi ɔ fĩɔ a ma kɛ a kusumi ní peepeehi a se .
-Munyu nɛ sɛ hlami ɔ haa nɛ wa naa blɔ nɔ nɛ wa maa gu kɛ pee nihi nɛ a je ma se nɛ a ngɛ wa we asafo ɔ mi ɔ kpakpa ha .
-Se mɛni e sa kaa bɔfo ɔmɛ nɛ a pee konɛ huɛ bɔmi nɛ ngɛ a kɛ Yesu a kpɛti ɔ nɛ hi si daa ?
-Tsɛ nɛ ngɛ suɔmi ko be nɛ e maa pee jã !
-Se wa nɔ́ hi pe ni komɛ a nɔ́ . Mɛɛ lɛɛ a haa nɛ a kpɛnee tɛ nguahi kɛ yaa kɛ baa . Yi mi wami nɛ ɔ haa nɛ a nɔmlɔ tso ɔ gbedee , nɛ a huleɔ kɛ pueɔ si , nɛ ni komɛ haoɔ .
-( 2 Kronika 5 : 13 ; 33 : 4 ) Se e sa nɛ wa ná bumi nɛ mi kuɔ kɛ ha hehi nɛ wa jaa Mawu ngɛ ɔ .
-Mohu ɔ , e wo si kaa e ma je ní yayahi tsuo kɛ je . Wa ma susu lɔ ɔ he ngɛ munyu nɛ nyɛɛ se ɔ mi .
-Mɛni ji se nami komɛ nɛ ngɛ New World Translation of the Holy Scriptures ehe ɔ he ?
-Lejɛ ɔ ji he nɛ o maa na o nyɛmimɛ Kristofohi nɛ susuɔ o he , nɛ a suɔ kaa a wo a sibi he wami ngɛ .
-Ke a gbe yo kpeemi ɔ nya a , Kristo kɛ nihi nɛ maa piɛɛ e he kɛ ye matsɛ ɔ maa jɔɔ nihi nɛ maa hi zugba a nɔ ɔ babauu . — Kpoj .
-Mo kadi bɔnɛ a plɛ kɛ tsu he ní ha . Sane ɔ kɔɔ niye ní nitsɛnitsɛ he .
-9 , 10 . ( a ) Mɛni ji ní tsumi komɛ nɛ blema Israel bi ɔmɛ ná he blɔ kɛ tsu ?
-A fie Baasha mohu lɛɛ , se kɛ̃ ɔ , ngɛ be nɛ piɛ nɛ Asa kɛ ye nɔ tsuo mi ɔ , a kɛ tahi tutua lɛ .
-Yesu tu munyu nɛ ɔ maa pee piani be mi .
-Bɔ nɛ wa maa pee ha kɛ ná hemi kɛ yemi kaa Hiob .
-Otsi komɛ a se ɔ , nyɛminyumu ɔ ya na niheyo ɔ , se niheyo ɔ sume kaa e kɛ lɛ maa sɛɛ ní hu .
-Anɛ waa kɛ Baiblo ga womi nɛ ɔ ngɛ ní tsue lo ?
-Kaa nɔ hyɛmi nɔ́ ɔ , mo bi o he ke , ‘ Anɛ i suɔ amaniɛ bɔlɔ pɔtɛɛ ko tue bumi , ejakaa ye bua jɔ níhi nɛ e deɔ ngɛ ma kudɔmi sanehi a he ɔ he lo ? ’
-Gbalɔ Yesaya nɛ hi si blema a tu Mawu he munyu ke , “ Nɔ nɛ bɔ hiɔwe kɛ zugba a , lɛ nɔ kake too ji Mawu ! E bɔ je ɔ , nɛ e kɛ zugba a ma si saminya . E bɔɛ lɛ ngɔ fɔɛ si gu nɛ e pee yaka ; se e pee lɛ konɛ nimli nɛ hi nɔ . ”
-E ya nɔ nɛ e kɛ Mawu nyɛɛ , nɛ e hla blɔ tsɔɔmi ngɛ Yehowa ngɔ kɛ gu Mawu Mlaa a nɛ e kane ɔ nɔ . ( Neh .
-( Kane 5 Mose 26 : 8 . )
-E ngma ke : “ Nyɛ ko hao ngɛ nɔ́ ko nɔ́ ko he ; se mohu nɔ́ tsuaa nɔ́ mi ɔ , nyɛɛ kɛ sɔlemi , kɛ pɛɛ kpami , kɛ sina nɛ wo nyɛ hiami ní ɔmɛ a ta ha Mawu . ” Ke wa jeɔ wa tsui mi nɛ waa kɛ wa Huɛ nɛ pe kulaa a sɛɛɔ ní ɔ , lɔɔ maa wo wa bua wawɛɛ .
-( 3 Mose 7 : 20 , 21 ) Se ke nɔ nɛ sã afɔle ɔ he tsɔ ngɛ Yehowa hɛ mi ɔ , e kɛ bua jɔmi ma nyɛ maa ye nɔ́ nɛ e kɛ sã afɔle ɔ eko , nɛ e tsui maa nɔ e mi . — Kane 1 Kronika 29 : 9 .
-Amlɔ nɛ ɔ , ma nyɛ ma sɔle kɛ ha Yehowa .
-9 , 10 . ( a ) Ke jokuɛ ko susu bɔ nɛ e pee e ní ha benɛ e kɛ ka ko kpe lingmi nɛ ɔ he ɔ , kɛ lɔ ɔ maa ye bua lɛ kɛɛ ?
-E sa nɛ wa ná suɔmi kaa wa maa pee nɔ́ nɛ da . Se pi lɔ ɔ pɛ nɛ he hia .
-Nɔ́ nɛ he hia pe kulaa nɛ wa maa pee kɛ tsɔɔ kaa wa baa wa he si ji , nɛ́ wa maa pee tue bumi .
-Se munyu nɛ ɔ hu tsɔɔ we kaa ohiatsɛmɛ tsuo maa bu Yesu tue , nɛ a maa jɔɔ mɛ .
-Mwɔnɛ ɔ , e sa nɛ wa hla blɔhi a nɔ nɛ wa maa gu kɛ ye bua Kristofoli nɛ a wa ngɛ jeha mi aloo a be he wami ɔ .
-Benɛ Adam wo lohwe ɔmɛ biɛ nɛ sa a , Yehowa de we ke e bua jɔɛ biɛ ko he , lɔ ɔ he ɔ Adam nɛ tsake biɛ ɔ .
-Ní Lelɔ Kpanaa Gail Dines ngma ke : “ Mwɔnɛ ɔ , ajuama bɔmi he fonihi nɛ a ngɛ pee ɔ ngɛ tai wawɛɛ nitsɛ , nɛ enɛ ɔ ha nɛ ajuama bɔmi he fonihi nɛ be ko nɛ be ɔ , nihi buu mɛ kaa a ngɛ tai ɔ ba pee nɔ́ ko nɛ pɔhe wawɛɛ , nɛ nihi nɛ tɔmi ko ngɛ he hu . ”
-Munyu nɛ ji ‘ lɛ nɔ kake too pɛ ji Yehowa ’ a yeɔ bua wɔ nɛ wa nuɔ sisi kaa Yehowa suɔ kaa kake peemi nɛ hi e sɔmɔli a kpɛti , konɛ mɛ tsuo a hɛɛ yi mi tomi kake .
-Ke waa kɛ nihi ngɛ munyu tue ɔ , e sɛ nɛ waa kɛ wa juɛmi nɛ ma he blɔhi nɛ wa ngɛ , aloo níhi nɛ wa nyɛɔ peeɔ ɔ a nɔ .
-E sa nɛ a ko tsɔɔ nihi Mawu Munyu ɔ sisi , nɛ a ye bua mɛ konɛ a nyɛɛ blɔ nɛ kɛ nɔ yaa neneene wami mi ɔ nɔ .
-Paulo le kaa suɔmi nɛ Mawu ngɛ kɛ ha wɔ ɔ dɛ si ngɛ he numi ko kɛkɛ nɔ , nɛ ke nɔ ko pee yayami ko ɔ , Mawu ma we e hɛ kɛ fɔɛ nɔ .
-Baiblo ɔ mi munyuhi nɛ kɔɔ Mawu sɔmɔli nɛ hi si blema a he anɔkuale nile nɛ wa ná a hu ji nɔ́ kpa ko nɛ piɛɛ wa mumi mi gbosi ní ɔ he .
-Mohu ɔ , mo wo o la womi ɔ nɔ kɛ ya hiɔwe , nɛ o wo o yi nɔ , nɛ o je o tsui mi kɛ la ! ( Ezra 3 : 11 ; kane La 147 : 1 . )
-14 : 9 ; Kpoj . 15 : 3 ) Se kɛ̃ ɔ , e slo Matsɛ nɛ Yehowa bɔni yemi ɔ ngɛ Mawu Matsɛ Yemi ɔ nɛ Yesu de wɔ ke waa sɔle konɛ e ba a he .
-Wa ma nyɛ maa ngɔ hlami ní nɛ ɔmɛ kɛ ye bua wa Baiblo kaseli kɛ nihi nɛ a bua jɔ wa munyu ɔ he ɔ , konɛ a na slɔɔto nɛ ngɛ asafo mi nikɔtɔmahi kɛ osɔfohi nɛ a ngɛ jami ɔmɛ a mi ɔ a kpɛti .
-Wa ko pee wa ní kaa Abner kɛ Absalom nɛ a yi anɔkuale ɔ .
-Akɛnɛ ‘ wa suɔ kaa waa ye anɔkuale ngɛ nɔ́ tsuaa nɔ́ nɛ wa maa pee ’ ɔ mi heje ɔ , wa sume nɛ waa sisi wa nyɛmimɛ Kristofoli .
-Mɛni he je nɛ e sɛ nɛ Kristofohi nɛ a bu gba si himi kaa bɔ nɛ je ɔ buɔ lɛ ɔ ?
-Eliya ba ye bua lɛ .
-Se ke a ngɔ lɛ kɛ to je mluku ɔ tsuo Nɔ Yelɔ ɔ he ɔ , kɛ e klemi maa hi kɛɛ ?
-Benɛ e piɛɛ bɔɔ nɛ Noa maa ye jeha 600 , e suɔli komɛ gbo .
-Pee se ɔ , wa ngɔ nyɔhiɔ enuɔ pɛ kɛ ma asafo ní tsumi kɔni ehe , kɛ tsu ko kɛ ha ma se sane kpakpa fiɛɛli konɛ wa nyɛ nɛ waa hyɛ Matsɛ Yemi ní tsumi ɔ nɔ saminya .
-William Malenfant
-Mɛni blɔ nɔ o maa gu kɛ hla fiɛmi kɛ hɛja jemi kpakpa ?
+Mi Ni
+October 1 , 2012
+● Sukuu yami .
+Ha nɛ waa hyɛ .
+Dɛbi .
+Nyumuhi kɛ yihi tsuo ná Mlaa nɛ Yehowa Mawu kɛ ha Israel ma a he se .
+Mo susu níhi nɛ nyɛɛ se nɛ ɔ a he nɛ o hyɛ .
+Ngɛ mɛni blɔ nɔ ?
+*
+Ngɛ mɛni blɔ nɔ ?
+Baiblo ɔ ha nɛ wa na kaa Mawu biɛ ji Yehowa .
+6 : 13 .
+4 , 5 .
+“ Mawu , ne mi !
+Mɛni heje ?
+10 : 24 , 25 .
+17 , 18 .
+1 , 2 .
+15 : 4 .
+Mo ha enɛ ɔ he nɔ hyɛmi nɔ́ .
+A tsake biɛ ɔmɛ ekomɛ .
+13 : 17 .
+4 : 5 .
+16 , 17 .
+4 : 4 .
+[ Sisi ningma ] Baiblo ɔ ha nɛ wa na kaa Mawu biɛ ji Yehowa .
+4 : 8 .
+Wɔ hu nɛɛ ?
+6 : 9 .
+8 , 9 .
+12 , 13 .
+Mɛni heje ?
+7 , 8 .
+( Kane Hebribi 13 : 7 , 17 . )
+11 , 12 .
+13 , 14 .
+15 , 16 .
+[ Sisi ningma ] A tsake biɛ ɔmɛ .
+3 : 13 .
+4 : 12 .
+Moo tsɔɔ nya .
+Ke wa peeɔ jã a , wa maa ye manye ngɛ wa Bɔlɔ ɔ hɛ mi , nɛ wa maa le kaa wa ngɛ e suɔmi nya ní pee , nɛ enɛ ɔ ma ha nɛ wa bua maa jɔ . — Abɛ 27 : 11 .
+6 : 19 .
 Mo ha enɛ ɔ he nɔ hyɛmi níhi .
-Eko ɔ , e ma bi nɛ waa pee ní pɔtɛɛ komɛ ha mɛ , waa wo a bua , aloo waa kɛ Baiblo ɔ nɛ wo mɛ he wami .
-Ke i susu níhi nɛ ya nɔ ngɛ ye si himi mi ɔ he ɔ , e ngɛ heii kaa Yehowa ngɛ ye nɔ hyɛe saminya .
-Enɛ ɔ he ɔ , loko hemi kɛ yemi kɛ kã nɛ wa ngɛ ɔ mi maa wa a , ja wa kase jamɛatsɛmɛ ɔmɛ .
-Anɛ o susu nɔ́ nɛ maa ba o kɛ o weku ɔ nɔ hwɔɔ se ɔ he hyɛ lo ?
-Yesu ha sane bimi nɛ ɔ heto benɛ e de kaa e ba “ ngɔ e wami ngɔ ha , nɛ e kɛ he nihi fuu a yi wami ” ɔ .
-28 Níhi Titli Nɛ I Tsu Ngɛ Matsɛ Yemi Sɔmɔmi ɔ Mi
-Mɛni e pee loko e nyɛ nɛ e pee Mawu huɛ ɔ ?
-E maa pee jã kokooko .
-Wa peeɔ nɔ́ tsuaa nɔ́ nɛ wa ma nyɛ konɛ tue mi jɔmi nɛ hi waa kɛ wa nyɛmimɛ wa kpɛti , ke wa susu kaa a nui wɔ sisi , aloo a ye wɔ sane yaya po .
-Yesu de ke : “ O ngmɛɛ suɔmi nɛ o ngɛ kekle ɔ he . ”
-Ni komɛ hu susu kaa Mawu suɔ nihi nɛ a peeɔ nɔ́ nɛ da kɛ nɔ́ nɛ dɛ tsuo .
-Mɛni ha nɛ Levibi ɔmɛ tsu we nítsumi nɛ a kɛ wo a dɛ ngɛ sɔlemi we ɔ hu ɔ , nɛ mɛnɔmɛ Nehemia pia ngɛ lɔɔ he ?
-3 : 4 .
-Benɛ e ná le kaa Isak ɔ , e ngɔ e hɛ mi hami bo ɔ kɛ ha e hɛ mi .
-Kɛ wa ma plɛ kɛ ná munyuhi nɛ a ngma kɛ ha nihewi kɛ yihewi kɛ ma bi ɔ a he se ha kɛɛ ?
-Enɛ ɔ ji ye muɔ nɛ a kɛ sɔu Mawu somi ɔ nya . A plɛ ye muɔ ɔ ngɔ pue si ha nihi fuu , konɛ a ngɔ a he yayamihi ngɔ pa mɛ . ” ’ A maa nyɛɛ blɔ tsɔɔmi nɛ Yesu kɛ ha a se , enɛ ɔ he ɔ , a maa sɔle ekohu .
-Mawu he nyɛli bɔɔ mɔde kaa a ma ha nɛ nihi a hɛ nɛ je Mawu biɛ ɔ nɔ . ​ — Yeremia 23 : 27 .
-Ke Mawu Matsɛ Yemi ɔ ngɛ je ɔ nɔ ye ɔ , adesahi maa hi si ngɛ “ kplɔkɔtɔ , kɛ tue mi jɔmi mi . ”
-Jehanɛ se hu ɔ , benɛ Paulo ngɛ sɛ womi ngmae ya ha Kolose asafo ɔ , e tu Marko he munyu kpakpa . Pee se ɔ , Paulo de Barnaba kaa e ha nɛ Marko nɛ ba ye bua lɛ Paulo ɔ .
-Jeha 40 se ɔ , Mose kai mɛ nɛ e de mɛ ke : ‘ Yehowa nyɛ Mawu ɔ hla nyɛ kɛ je nihi tsuo nɛ ngɛ je ɔ mi ɔ a kpɛti , bɔnɛ pee nɛ nyɛ pee lɛ nitsɛ e ma pɔtɛɛ . ’ — 5 Mose 7 : 6 .
-Yehowa hu maa ye e si womi ɔ nɔ , nɛ e maa hyɛ wa nɔ .
-Se kɛ̃ ɔ , nihi fuu yɔse kaa mɛ nitsɛmɛ a tsui nya ní nɛ a peeɔ ɔ ha we nɛ a náa bua jɔmi nitsɛnitsɛ .
-Nihewi kɛ yihewi ngɛ nɔmlɔ tso mi he wami nɛ a kɛ ma nyɛ ma tsu babauu ngɛ Yehowa sɔmɔmi mi .
-Nyɛ ha nɛ waa bɔ mɔde wawɛɛ nɛ waa kase lɛ . ​ — 1 Petro 3 : 8 .
-E sa nɛ jamɛ a gbami ɔ nyagbe munyu ɔ nɛ wo Kristofohi tsuo he wami . Wa hiɔwe Tsɛ ɔ de ke : “ Ke be ɔ su ɔ , imi nitsɛ ma ha nɔ́ nɛ ɔ maa ba mi oya . ”
-Mohu ɔ , Yesu tsɔɔ nihi munyu nɛ nyɛɛ se nɛ ɔ .
-E tsɔɔ kaa wa ma ná bumi nɛ mi kuɔ kɛ ha nɔ́ nɛ e biɛ ɔ tsɔɔ ɔ , kɛ e sisi tomi mlaahi .
-Daa otsi ɔ , a tsɔɔ wɔ Baiblo ɔ fã komɛ nɛ waa kane , konɛ waa ngma sane bimihi kɛ a hetohi kɛ fɔ si , nɛ wa kpeɔ nɛ wa susuɔ he .
-8 Blɔ Tsɔɔmi Nɛ Ma Ha Nɛ Waa Yu Wa He Ngɛ Nyagbahi A He
-11 ELIAS HUTTER KƐ E HEBRI BAIBLOHI NƐ A SE BE
-Jã kɛ̃ nɛ e sa kaa asafo mi nikɔtɔmahi hu nɛ a ye bua asafo mi bimɛ amlɔ nɔuu ke a na kaa a ngɛ nɔ́ nae aloo e he hia nɛ a wo mɛ ga loo a wo mɛ he wami .
-Carson ɔ ngma kaa Hela munyu nɛ a tsɔɔ sisi ke “ sɔlemi we ” nɛ a kɛ tsu ní ngɛ Mateo kɛ Luka womi ɔmɛ a mi ɔ ma nyɛ maa da si kɛ ha sɔlemi we ɔ tsuo , se pi sɔlemi we ɔ kpo ɔ nɔ he nɛ Levi bi ɔmɛ pɛ nɛ a ngɛ he blɔ kaa a yaa a .
-Maurizio de ke : “ Benɛ i kɛ nyagba ko kpe ɔ , i tɔ̃ tɔmi agbo ko , nɛ lɔ ɔ ngɔ mi gbami kɛ ba wa kpɛti . ”
-Se nyɛ ha nɛ waa da sane bimi etɛ nɛ wa wo ta kɛ sɛ hlami ɔ nɔ konɛ waa na bɔ nɛ hlami ní nɛ ɔmɛ maa ye bua wɔ ha .
-O náa he blɔ kɛ yeɔ bua ngɛ hehi nɛ fiɛɛli fuu a he hia ngɛ . ”
-Ngɛ June 1940 benɛ Peter ye jeha 17 ɔ , e ba pee blɔ gbalɔ . E hi baisikle nɔ kɛ ya he nɛ a ha lɛ ke e ya fiɛɛ ngɛ ɔ ngɛ Scarborough .
-( b ) Mɛni si fɔfɔɛhi a mi nɛ e ma bi nɛ wɔ hu waa ye wa he nɔ ?
-▪ Yesu susuɔ yihi a he .
-Mɛni blɔ nɔ Daniel nina a ha nɛ wa ná hɛ kɛ nɔ fɔmi ngɛ ?
-( Yesaya 11 : 9 ) Jamɛ a be ɔ mi ɔ , adesahi tsuo maa kase Yehowa Mawu blɔ ɔmɛ , nɛ a ma je e su kpakpa amɛ kpo .
-Efeso Bi 5 : 17 ɔ de ke : ‘ Nyɛɛ bɔ mɔde nɛ nyɛ yɔse níhi nɛ ji Yehowa suɔmi nya ní . ’
-Kɛ o maa pee kɛɛ konɛ o nyɛ nɛ o ngɔ Baiblo ɔ kɛ tsu ní saminya ?
-Eko ɔ , o kɛ nihi kaa jã kpe ngɛ fiɛɛmi tso mi hyɛ .
-Be nɛ a kɛ poɔ nɔ .
-Nɛ jinɛ a kɛ munyunguhi 20 lɛ ngma Abɛ 8 : 6 hulɔ , se amlɔ nɛ ɔ , a gbɔ nɔ kɛ ba 13 .
-E li kulaa kaa Yehowa ngɛ lɛ hyɛe .
-Enɛ ɔ ba peeɔ tsakemi ngua ko ngɛ a si himi mi , ejakaa a li ma ehe ɔ mi si himi , a li nɔ ko ngɛ asafo ehe nɛ a ba mi ɔ mi , nɛ eko ɔ , e ma bi nɛ a kase gbi nɛ a tuɔ ngɛ ma a mi ɔ kɛ ma a kusumi .
-O ma nyɛ maa gbla hu ngɛ www.jw.org .
-Baiblo ɔ tsɔɔ nya ke : “ Yesu ngɛ tsɔɔe kaa Lazaro gbo momo , se mɛɛ lɛɛ a susu kaa mahe nitsɛ nɛ e ke Lazaro ngɛ hwɔe .
-Yesu de ke , “ Níhi tsuo nɛ i nu kɛ je Tsaatsɛ nya a , i de nyɛ . ”
+8 : 21 .
+2 , 3 .
+14 , 15 .
+H .
+
+
+18 , 19 .
+Mɛni heje ?
+Mo ha enɛ ɔ he nɔ hyɛmi nɔ́ .
+6 , 7 .
+2 : 15 .
+E sɛ nɛ o pia o he kɔkɔɔkɔ !
+1 : 24 .
+( b ) Mɛni sane bimihi a he nɛ wa ma susu ?
+Ngɛ mɛni blɔ nɔ ?
+3
+19 , 20 .
+3 , 4 .
+( Kane Hebribi 11 : 17 - 19 . )
+Baiblo ɔ ngɔɔ yokuhi kɛ daa si haa matsɛ yemihi aloo nɔ yemihi .
+Dɛbi !
+1 : 3 .
+Ee , tɔmi ngɛ he .
+10 , 11 .
+20 , 21 .
+Ke wa peeɔ jã a , mɛni se wa ma ná ?
+6 : 9 , 10 .
+9 , 10 .
+Mo nɛɛ ?
+1 - 3 .
+Mɛni heje nɛ e he hia kaa o pee jã ?
+5 - 7 .
+Mɛni wa ma nyɛ maa kase ngɛ munyu nɛ ɔ mi ?
+Mɛni je mi kɛ ba ?
+E sa nɛ waa to wa tsui si kɛ ha wa Baiblo kaseli ɔmɛ nɛ́ wa je mi mi jɔmi kpo kɛ tsɔɔ mɛ . — La 103 : 8 .
+( Kane 2 Timoteo 3 : 16 . )
+2 : 4 .
+5 : 11 .
+2 : 21 .
+Nyɛ kɔni nɛ ko gbo !
+4
+4
+( 1 Mose 1 : 27 , NW ) Mɛni enɛ ɔ tsɔɔ ?
+5 , 6 .
+3 : 9 .
+12 : 1 .
+( Kane Efesobi 5 : 15 , 16 . )
+Tsɛmɛ , nyɛ ko wo nyɛ bimɛ ɔmɛ a mi mi la ; ke nyɛ pee jã a , a nine mi maa wo nyu . ”
+Ke a tɔ̃ o nɔ ɔ , mo kɛ pa faa .
+Mɛni heje ?
+Ngɛ anɔkuale mi ɔ , o bua be he jɔe !
+5 : 1 .
+Mɛni he wa ma susu ngɛ munyu nɛ wa ngɛ kasee nɛ ɔ mi ?
+Mo susu nɔ hyɛmi nɔ́ nɛ ɔ he nɛ o hyɛ .
+6 : 33 .
+Mɛni ji jamɛ a nike ní ɔ ?
+( Moo hyɛ foni nɛ ngɛ nikasemi ɔ sisije ɔ . )
+Mɛni blɔ nɔ wa maa gu kɛ pee jã ?
+( Kane La 97 : 10 . )
+11 : 6 .
+Mɛni wa ma nyɛ maa kase kɛ je mi ?
+( Hyɛ kuku 7 )
+Anɛ o peeɔ jã lo ?
+( Hyɛ nyagbe ningma . )
+28 : 20 .
+MO SUSU nɔ́ nɛ ya nɔ ɔ he nɛ o hyɛ .
+Mɛni blɔ nɔ wa gu kɛ le ?
+Mɛni heje ?
+F .
+HƐ MI MUNYU
+2 : 8 .
+6 : 10 .
+( Kane Abɛ 3 : 5 , 6 . )
+5 : 8 .
+Ee , e jɔɔ mɛ !
+4 : 7 .
+12 : 13 .
+( Hyɛ kuku 13 kɛ 14 )
+13 : 5 .
+Mɛni blɔ nɔ wa gu kɛ le enɛ ɔ ?
+1 : 22 .
+3 : 18 .
+Nyɛ ha nɛ wa susu blɔ etɛ nɛ wa maa gu nɔ kɛ pee enɛ ɔ a he nɛ waa hyɛ .
+Enɛ ɔ maa ye bua wɔ konɛ wa ko pee nɔ́ ko nɛ ma nyɛ maa ye wɔ awi . — Abɛ 15 : 28 .
+( Kane 2 Timoteo 1 : 7 .
+10 : 31 .
+4 : 13 .
+Dɛbi , e pia we e he .
+1 : 17 .
+4 : 16 .
+41 : 10 .
+Mo susu nɔ hyɛmi níhi enyɔ a he nɛ o hyɛ :
+4 : 11 .
+( Kane La 1 : 1 - 3 . )
+2 : 2 .
+24 : 13 .
+Kɛ mo hu o susu kɛɛ ?
+2 : 2 - 4 ) Mɛni je mi kɛ ba ?
+Wa be nyɛe maa tsɔɔ .
+Mɛni he wa ma susu ngɛ munyu nɛ ɔ mi ?
+Mɛni blɔ nɔ wa maa gu kɛ pee jã ?
+( Kane 1 Tesalonikabi 5 : 1 - 6 . )
+9 : 7 .
+( Hyɛ sisi ningma . )
+( Hyɛ kuku 14 )
+3 : 16 .
+Ni komɛ hu mɛ nitsɛmɛ a tsui nya níhi a se dimi ha we nɛ a na níhi nɛ Mawu ngɛ pee ɔ .
+O ma nyɛ maa gbla hu ngɛ www.jw.org
+Ohoo !
+3 : 17 .
+28 : 19 , 20 .
+‘ Nihewi kɛ yihewi , nyɛ je Yehowa yi . ’ ​ — LA 148 : 12 , 13 .
+( b ) Mɛni sane bimihi a he wa ma susu ?
+2 : 3 , 4 .
+5 : 14 , 15 .
+16 : 24 .
+( Hyɛ kuku 15 )
+( Kane Luka 21 : 1 - 4 . )
+( Hyɛ kuku 8 - 10 )
+( Hyɛ kuku 15 , 16 )
+4 : 6 , 7 .
+Mo hu nɛɛ ?
+( Hyɛ kuku 16 )
+( b ) Mɛni he wa ma susu ngɛ ni kasemi nɛ nyɛɛ se ɔ mi ?
+Enɛ ɔ wo Farao mi mi la .
+6 : 4 .
+( Hyɛ kuku 11 )
+Mɛni wa ma nyɛ maa kase ngɛ enɛ ɔ mi ?
+( Hyɛ kuku 12 )
+3 : 12 .
+Mo ha nɛ wa susu gbami nɛ ɔmɛ ekomɛ a he nɛ waa hyɛ :
+3 : 15 .
+( Kane 1 Korinto Bi 6 : 9 - 11 . )
+Mɛni he wa ma susu ngɛ munyu nɛ nyɛɛ se nɛ wa maa kase ɔ mi ?
+12 : 12 .
+( b ) Mɛni sane bimihi a he wa ma susu ?
+Mɛni sane bimihi a he wa ma susu ngɛ munyu nɛ ɔ mi ?
+( Kane La 32 : 8 . )
+3 : 1 .
+15 : 58 .
+3 : 14 .
+6 : 8 .
+Enɛ ɔ he ɔ , Mawu ha nɛ mahe vii ko ba nɔ Adam nɔ .
+5 : 12 .
+“ Mawu munyu hɛ ngɛ , e ngɛ he wami . ” ​ — HEB .
+( Kane Kpojemi 14 : 6 , 7 . )
+( Kane 1 Tesalonika Bi 2 : 13 . )
+Jã ji bɔ nɛ e ba Asa nɔ .
+5 : 9 .
+Ke wa buɔ Yehowa gbi tue saminya a , wa be hemi kɛ yemi kuali a munyuhi tue bue kɔkɔɔkɔ . ​ — Abɛ 11 : 9 .
+Se e kɛ dami sane yemi maa kojo ohiatsɛmɛ , nɛ e maa bu nihi nɛ a ní ngɛ mɔbɔ ɔ a he . ”
+Yehowa Odasefohi nɛ a pee , se amlɔ nɛ ɔ , a kpa peemi .
+Mɛni enɛ ɔ tsɔɔ ?
+E ngma ke : “ Imi lɛɛ nɔmlɔ adesa kɛkɛ ji mi , nɛ yayami he mi nyɔguɛ .
+Yehowa ji anɔkuale Mawu ɔ nɛ .
+© 2016 Watch Tower Bible and Tract Society of Pennsylvania
+Mɛni lɔ ɔ tsɔɔ ?
+NƆ́ NƐ BAIBLO Ɔ DE
+MƐNI HU WA MA NYƐ MAA KASE NGƐ BAIBLO Ɔ MI ?
+E be kɛe nɛ́ Matsɛ Yemi nɛ ɔ ma je ní yayamihi tsuo kɛ je , nɛ e maa pee zugba a paradeiso .
+Womi tɛtlɛɛ nɛ ɔ woɔ nihi he wami konɛ a ná hemi kɛ yemi ngɛ Yesu Kristo nɛ e ba gbo konɛ wa ná neneene wami ɔ mi .
+Amlɔ nɛ ɔ , Yesu Kristo ngɛ nɔ yee kaa Mawu Matsɛ Yemi ɔ nya Matsɛ .
+A bɔni womi tɛtlɛɛ nɛ ɔ peemi nɔtonɔto kɛ je jeha 1879 , nɛ e fĩ we ma kudɔmi blɔ nya tomi ko se .
+Baiblo ɔ nɔ nɛ a da kɛ ngma munyuhi tsuo nɛ ngɛ mi .
+Womi nɛ ɔ , wa jua we .
+A pee kɛ ha je kɛ wɛ Baiblo tsɔsemi ní tsumi ɔ , nɛ nihi jee a suɔmi mi nɛ a haa nɔ́ ko nɛ a kɛ fĩɔ se .
+Ngmamihi nɛ a tsɛ ɔmɛ je Dangme Ngmami Klɔuklɔu ɔ mi .
+He nɛ NW tsa ngmami ko nɔ ngɛ ɔ , sisi tsɔɔmi ɔ je New World Translation of the Holy Scriptures ɔ mi .
+KƐ O SUSU KƐƐ ?
+Munyu nɛ nyɛɛ se ɔ maa tsɔɔ mi .
+WOMI Ɔ HƐ MI FONI :
+MA BI A YIBƆ
+NIHI NƐ A YA KAIMI Ɔ ( 2015 )
+Ha nɛ wa susu enɛ ɔ he nɔ hyɛmi níhi bɔɔ komɛ a he nɛ waa hyɛ .
+Adesahi tsuo yi mluku nɛ a ma nyɛ ma tɔ̃ ni kpahi a nɔ .
+LAHI : 11 , 26
+Bɔ nɛ Yehowa plɛɔ kɛ hlaa nihi nɛ e yeɔ bua mɛ konɛ a pee tsakemi ngɛ a si himi mi ha .
+Nɔ́ he je nɛ Yehowa yeɔ bua e we bi konɛ a pee tsakemi ngɛ a si himi mi .
+Blɔ nɔ nɛ Mawu guu kɛ yeɔ bua nihi nɛ a baa a he si ha lɛ ɔ konɛ a pee tsakemi .
+Mɛni he je nɛ Yehowa ji Buɛ Puɛlɔ kpanaa a ?
+Kɛ wa ma plɛ kɛ kase Israel bi ɔmɛ nɛ a tsake a tsui ɔ ha kɛɛ ?
+Mɛni blɔ nɔ Yehowa guu kɛ hlaa nihi nɛ́ e gblaa mɛ kɛ suɔ e he ɔ ?
+( Kane 1 Samuel 16 : 7b . )
+Mɛni blɔ nɔ e sa kaa wa hɛ nɛ waa kɛ fɔ Yehowa nɔ kaa wa Puɛlɔ ɔ nɛ sa bɔ nɛ ( a ) wa buɔ nihi nɛ a ngɛ wa zugba kpɔ ɔ mi ɔ ha a he ?
+Pee se ɔ , i kɛ weku ko ya kpe ngɛ he kpa ko , nɛ ye bua jɔ bɔ nɛ a baa a je mi ha a he .
+Kɛkɛ nɛ ligbi ko ɔ , i ba ná le kaa a ji Yehowa Odasefohi . Enɛ ɔ ha nɛ ye he mi po !
+Bɔ nɛ a peeɔ a ní ha a ha nɛ i susu nɔ́ he je nɛ i sume Yehowa Odasefohi a sane ɔ he saminya .
+E kɛ we kulaa nɛ i ba yɔse kaa munyuhi nɛ i nuɔ nɛ nihi tuɔ ngɛ a he ɔ nɛ ha nɛ i sume a sane ɔ nɛ , se pi nɛ i le mɛ tutuutu . ”
+Mɛni he je nɛ o bua jɔ Yehowa tsɔsemi he ɔ ?
+( Kane Hebri Bi 12 : 5 , 6 , 11 . )
+Mɛni blɔ nɔ Yehowa guɔ kɛ tsɔɔ wɔ ní mwɔnɛ ɔ , nɛ kɛ tsɔsemi nɛ ɔ maa ya nɔ ha kɛɛ hwɔɔ se ?
+Mɛni Yesu pee kɛ tsɔɔ kaa e toɔ e tsui si , nɛ e kɛ ga tsuɔ ní kaa bɔ nɛ Buɛ Puɛlɔ Kpanaa a peeɔ ɔ ?
+( Kane La 103 : 10 - 14 . )
+Ngɛ mɛni blɔhi a nɔ nɛ David pee e ní kaa zu nɛ he jɔ , nɛ kɛ wa ma plɛ kɛ kase lɛ ha kɛɛ ?
+Mɛni blɔ nɔ Yehowa guu nɛ e kɛ e mumi klɔuklɔu ɔ kɛ Kristofohi asafo ɔ yeɔ bua wɔ ?
+E ngɛ mi kaa Yehowa ngɛ wa nɔ he wami mohu lɛɛ , se mɛni tsɔɔ kaa e suɔ nɛ wɔ nitsɛmɛ waa mwɔ wa yi mi kpɔ ngɛ níhi a he ?
+Mɛni nihi nɛ waa kɛ mɛ kaseɔ Baiblo ɔ peeɔ kɛ tsɔɔ kaa a suɔ nɛ Yehowa nɛ ye bua mɛ nɛ a pee tsakemihi ?
+( a ) Mɛni ha nɛ o bua jɔɔ wawɛɛ kaa Yehowa ji o Puɛlɔ ɔ ?
+( b ) Mɛni he wa ma susu ngɛ munyu nɛ nyɛɛ se ɔ mi ?
+LAHI : 23 , 22
+Mɛni suhi lɛ ke wa ná a , e he ma nyɛ maa wa ha wɔ kaa wa maa kplɛɛ Yehowa ga womi nɔ ?
+Mɛni suhi lɛ ke wa ná a , e ma ha nɛ waa pee kaa zu nɛ he jɔ ngɛ Mawu dɛ mi konɛ e ye bua wɔ nɛ waa pee tsakemihi ?
+Mɛni fɔli nɛ a ji Kristofohi ɔ ma nyɛ maa pee kɛ tsɔɔ kaa Yehowa ji a Puɛlɔ ?
+Mɛni he je nɛ ‘ Mawu suɔ Daniel sane ’ ɔ , nɛ kɛ wa ma plɛ kɛ bu Mawu tue kaa bɔ nɛ Daniel pee ɔ ha kɛɛ ?
+( Kane Yeremia 18 : 6 . )
+Mɛni suhi ma nyɛ ma ha nɛ waa kplii wa tsui ?
+Baiblo ɔ de ngɛ Abɛ 4 : 23 ɔ ke : “ Susu o yi mi saminya loko o pee nɔ́ ko , ejakaa lɔ ɔ nɔ o wami daa si ngɛ . ”
+E wo e he nɔ . ( Kane 2 Kronika 26 : 3 - 5 , 16 - 21 . )
+Ke wa peeɔ yayami ɔ , mɛni ma nyɛ maa ba ?
+7 , 8 . ( a ) Mɛni blema Israel bi ɔmɛ pee kɛ tsɔɔ kaa a kplii a tsui nɛ a be hemi kɛ yemi ?
+( b ) Mɛni wa ma nyɛ maa kase ngɛ nɔ́ nɛ a pee ɔ mi ?
+Mɛni he je nɛ e sa nɛ waa ya nɔ nɛ waa ‘ ka wɔ nitsɛmɛ wa he ’ nɛ waa hyɛ kaa wa ngɛ hemi kɛ yemi ɔ mi lo ɔ , nɛ mɛni blɔ nɔ wa ma nyɛ maa gu kɛ pee jã ?
+Mɛni maa ye bua wɔ konɛ waa pee kaa zu nɛ he jɔ ngɛ Yehowa dɛ mi ?
+Mɛni suhi nɛ fiɛɛmi ní tsumi ɔ ma nyɛ ma ha nɛ wa ná , nɛ kɛ wa ma ná he se kɛɛ ?
+Eko ɔ , e ko pee we jã .
+Ke fɔli suɔ kaa a nyɛ nɛ a tsɔse a bimɛ ɔmɛ saminya a , mɛni e sa kaa a pee ?
+Ke a fie nɔ ko kɛ je asafo ɔ mi ɔ , mɛni e sa kaa nɔ ɔ fɔli nɛ a pee kɛ tsɔɔ kaa a kɛ a hɛ fɔɔ Mawu nɔ ?
+( Kane 1 Korinto Bi 5 : 11 , 13 . )
+Mɛni he je nɛ e sa nɛ waa ba wa he si ha Yehowa be fɛɛ be ɔ , nɛ mɛni se wa ma ná ngɛ jã peemi mi ?
+Mwɔnɛ ɔ hu jã nɔuu nɛ e ji .
+LAHI : 138 , 2
+Ngɛ mɛni sisi numi nya nɛ Yehowa wa Mawu ɔ , ‘ lɛ nɔ kake too pɛ ji Yehowa ’ a ?
+Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ tsɔɔ kaa ‘ Yehowa nɔ kake too pɛ ’ lɛ wa jaa ?
+Mɛni wa ma nyɛ maa pee konɛ tue mi jɔmi kɛ kake peemi nɛ ya nɔ nɛ hi wa kpɛti ?
+( b ) Mɛni he je nɛ Mose tu munyu nɛ ɔ ?
+Mawu Ko Kɛ Lɛ Sɔɛ .
+Mɛni ji munyungu “ kake ” ɔ sisi numi kpa ko , nɛ mɛni Yehowa pee kɛ tsɔɔ kaa lɛ nɔ “ kake ” too pɛ ji Yehowa ?
+E Tsakee We , E Yeɔ Anɔkuale .
+8 , 9 . ( a ) Mɛni Yehowa ngɛ blɔ hyɛe kaa nihi nɛ a jaa lɛ ɔ nɛ a pee ?
+( b ) Mɛni blɔ nɔ Yesu ma munyu nɛ Mose tu ɔ nɔ mi ngɛ ?
+( Kane Marko 12 : 28 - 31 . )
+10 , 11 . ( a ) Ngɛ mɛni sisi numi nya nɛ wa jaa Yehowa pɛ ɔ ?
+( b ) Mɛni Hebri nihewi nɛ a hi Babilon ɔ pee kɛ tsɔɔ kaa a jaa Yehowa pɛ ?
+Loko wa ma nyɛ ma ja Yehowa pɛ ɔ , e sa kaa waa hyɛ wa he nɛ hi ngɛ mɛni he ?
+Mɛni ji ní komɛ nɛ wa ma nyɛ ma ná suɔmi kɛ ha mɛ pe Yehowa ?
+Mɛni he je Paulo kai Kristofohi kaa Mawu ɔ , ‘ lɛ nɔ kake too pɛ ji Yehowa ’ a ?
+16 , 17 . ( a ) Mɛni gbami nɛ ngɛ mi bae ngɛ wa be nɛ ɔ mi , nɛ mɛni je mi kɛ ba ?
+( b ) Mɛni ma nyɛ ma puɛ kake peemi nɛ ngɛ Mawu we bi a kpɛti ɔ ?
+18 , 19 . ( a ) Mɛni ga womi a kɛ ha wɔ ngɛ Efeso Bi 4 : 1 - 3 ɔ ?
+( b ) Mɛni wa ma nyɛ maa pee konɛ kake peemi nɛ hi asafo ɔ mi daa ?
+( Kane Efeso Bi 4 : 1 - 3 . )
+Mɛni wa maa pee kɛ tsɔɔ kaa wa nu sisi kaa ‘ Yehowa wa Mawu ɔ , lɛ nɔ kake too pɛ ji Yehowa ’ a ?
+Wo hɛli a kɔpehi fuu ngɛ Trinidad kɛ Tobago wo ɔ nya .
+Behi fuu ɔ , Yehowa Odasefohi yaa wo ɔ nya nɛ a ya fiɛɛɔ haa wo hɛli ɔmɛ
+LAHI : 53 , 28
+Mɛni he je nɛ Mawu asafo ɔ je ekpa kulaa a ?
+Mɛni Baiblo ɔ de nɛ tsɔɔ kaa wɔ tsuo wa yi mluku ?
+Ke wɔ nitsɛmɛ wa tɔ̃ , aloo ni kpahi tɔ̃ ɔ , mɛni wa ma nyɛ maa pee ngɛ he ?
+Mɛni Baiblo ɔ de to nɛ tsɔɔ kaa Yehowa we bi a he maa hiɛ ?
+Mɛni Mawu sɔmɔli pee kɛ tsɔɔ kaa a ngɛ suɔmi ?
+( Kane Mika 4 : 1 , 3 . )
+Enɛ ɔ ye bua mɛ nɛ a “ yi nɔ ko muɔ he fɔ . ” ​ — Níts . 20 : 26 , NW .
+Mɛni he je nɛ e ngɛ nyakpɛ kaa Yehowa we bi a he ngɛ hiɛe ɔ ?
+Mɛni he je nɛ eko ɔ , nihi ma nyɛ maa pee wɔ nɔdɔ nɔ́ be komɛ ɔ ?
+( Moo hyɛ foni nɛ ngɛ ní kasemi ɔ sisije ɔ . )
+Enɛ ɔ ji kekleekle mlaa , kɛ mlaa nɛ kle pe kulaa .
+Mlaa nɛ nyɛɛ se ɔ hu ngɛ kaa jã kɛ̃ : ‘ Suɔ o nyɛmi nɔmlɔ kaa bɔ nɛ o suɔ mo nitsɛ o he . ’ ”
+( Kane Roma Bi 5 : 12 , 19 . )
+Kaa o hi si ngɛ Israel bi ɔmɛ a be ɔ mi benɛ Eli kɛ e binyumu ɔmɛ ngɛ je mi ɔ , kɛ o ko pee o ní ha kɛɛ ?
+Mɛni yayami nguanguahi nɛ David pee , nɛ mɛni Mawu pee ngɛ he ?
+( a ) Mɛni Petro pee nɛ tsɔɔ kaa e yi e munyu nɔ ?
+( b ) Mɛni he je nɛ Yehowa ya nɔ nɛ e kɛ Petro tsu ní ngɛ e tɔmi ɔ se ɔ ?
+Kɛ Yesu na Yuda Iskariot kɛ Petro a tɔmi ɔmɛ ha kɛɛ ?
+Mɛni Baiblo ɔ gba kɛ fɔ si kaa e ma hi Yehowa sɔmɔli a kpɛti ngɛ wa be nɛ ɔ mi ?
+Kɛ e sa kaa waa pee wa ní ngɛ ni kpahi a tɔmihi a he ha kɛɛ ?
+13 , 14 . ( a ) Mɛni he je nɛ e sa kaa wa ná wa sibi a he tsui ɔ ?
+( b ) Mɛni si womi lɛ wa suɔ kaa e hi wa juɛmi mi ?
+Mɛni Yesu tsɔɔ kaa e sa nɛ waa pee ke nihi tɔ̃ wa nɔ ?
+Mɛni nɔ hyɛmi nɔ́ kpakpa Yosef pee ?
+Ke nihi tɔ̃ o nɔ ɔ , mɛni o maa suɔ kaa o pee ?
+( Kane Mateo 5 : 23 , 24 . )
+Anɛ se nami ngɛ anɔkuale nɛ a ye ɔ he lo ?
+Wa naa enɛ ɔ ngɛ nɔ́ nɛ Baiblo ɔ de ngɛ nile kɛ nɔ́ sisi numi he ɔ he .
+Abɛ 3 : 13 - 15 ɔ de ke : “ Nɔmlɔ nɛ le ní , nɛ e nuɔ nɔ́ sisi ɔ , a gbaa lɛ saminya . Ejakaa e he ngɛ se nami pe sika tsu , kɛ sika hiɔ .
+Nile he ngɛ se nami kulaa pe june ; nɔ́ ko be nɛ o suɔ saminya nɛ a kɛ maa to nile he . ”
+Nɛ anɔkuale yemi hu nɛɛ ?
+Akɛnɛ imi nɛ i hyɛɔ ní tsumi ɔ nɔ he je ɔ , e haa nɛ i kɛ nɔ nɛ ba heɔ to ɔ ‘ peeɔ kake , ’ nɛ i woɔ nɔ ɔ kotoku mi nɔ́ ko , nɛ e maa e hɛ kɛ fɔɔ jamɛ a ju kɛ fɔ ní peepee ɔ nɔ .
+Enɛ ɔ he ɔ , nihi le mi kaa i yi anɔkuale .
+Ye bi nyumuwi enyɔ ɔmɛ kase nɔ́ ko kɛ je nɔ́ nɛ i pee ɔ mi , nɛ ye he hu ba su kɛ ha he blɔhi ngɛ asafo ɔ mi .
+Nihi nɛ a hyɛɔ to womi nɔ , kɛ ni kpahi nɛ i kɛ mɛ tsuɔ ní ɔ le mi kaa i yeɔ anɔkuale , nɛ a jeɔ ye yi . ”
+Rut hia kɛ ho Israel ya , konɛ e nyɛ nɛ e ja anɔkuale Mawu ɔ .
+Anɛ o to o tsui si kɛ kane Hwɔɔmi Mɔ slɔɔtohi nɛ ba lingmi nɛ ɔ lo ?
+Ke jã a , lɛɛ moo hyɛ kaa o ma nyɛ ma ha sane bimihi nɛ nyɛɛ se nɛ ɔ a heto :
+31 Sane Bimihi Nɛ Je Ní Kaneli A Ngɔ
+1 : 16 .
+LAHI : 1 , 13
+Mɛni ji nɔ́ nɛ pe kulaa nɛ Yehowa kɛ dloo adesahi ?
+Mɛni wa ma nyɛ maa pee kɛ tsɔɔ kaa yayami yi wa nɔ hu , mohu ɔ , Mawu dloomi ɔ lɛ hɛɛ wɔ ?
+Mɛni jɔɔmihi nɛ Yehowa dloomi ɔ haa nɛ wa náa ?
+1 , 2 . ( a ) Moo tu Yesu nɔ́ hetomi nɔ́ nɛ kɔɔ wai ngmɔtsɛ ɔ he ɔ he munyu . ( b ) Mɛni nɔ́ hetomi nɔ́ nɛ ɔ tsɔɔ wɔ ngɛ nɔ nɔ́ hami kɛ dloomi he ?
+Anɛ i be he blɔ kaa i kɛ imi nitsɛ ye sika peeɔ nɔ́ nɛ i suɔ lo ?
+( Kane 2 Korinto Bi 6 : 1 . )
+Mɛni he je nɛ Yehowa dloo adesahi tsuo ɔ , nɛ mɛni blɔ nɔ e gu kɛ pee jã ?
+Ke a ke Yehowa dlooɔ wɔ ngɛ blɔ ‘ slɔɔtohi ’ a nɔ ɔ , mɛni lɔ ɔ tsɔɔ ?
+( Moo hyɛ fonihi nɛ ngɛ ní kasemi ɔ sisije ɔ . )
+Bɔfo Petro ngma ke : “ Nike ní pɔtɛɛ komɛ nɛ Mawu kɛ dloo nyɛ ti nɔ tsuaa nɔ ɔ , nyɛ kɛ sɔmɔ nyɛ sibi kaa Mawu dloomi nike ní slɔɔto ɔmɛ a nɔ hyɛli kpakpahi . ”
+Bɔfo Yohane ngma ke : “ E mi mi hi kɛ be nɔ , lɔ ɔ he ɔ , e ha wa ti nɔ tsuaa nɔ dloomi nɔtonɔto . ”
+Kɛ wa plɛɔ kɛ náa Yehowa dloomi ɔ he se ha kɛɛ , nɛ mɛni wa ma nyɛ maa pee kɛ tsɔɔ kaa wa bua jɔ e dloomi ɔ he ?
+( Kane 1 Yohane 1 : 8 , 9 . )
+Ngɛ Mawu dloomi ɔ nya a , mɛni jɔɔmi wa náa ?
+Blɔhi a nɔ nɛ Mawu guɔ kɛ dlooɔ wɔ : A fiɛɛ sane kpakpa a kɛ tsɔɔ wɔ ( Hyɛ kuku 11 )
+Mɛni blɔ nɔ nihi nɛ a pɔ mɛ nu ɔ yeɔ bua “ to kpa ” amɛ nɛ a ba plɛɔ dali ngɛ ?
+( Kane Daniel 12 : 3 . )
+Mɛni tsakpa ngɛ sɔlemi kɛ Mawu dloomi ɔ a kpɛti ?
+Ngɛ mɛni blɔ nɔ doomi “ yeɔ bua wɔ ngɛ be nɛ sa mi ” ?
+Mɛni Yehowa dloomi ɔ peeɔ ha wɔ ?
+Ngɛ Mawu dloomi ɔ nya a , mɛni hɛ nɔ kami wa ná ?
+( Kane La 49 : 7 , 8 . )
+Mɛni Kristofohi nɛ a hi si ngɛ kaseli ɔmɛ a be ɔ mi ɔ a ti ni komɛ pee kɛ tsɔɔ kaa a plɛ Mawu dloomi ɔ hɛ mi ngɔ bu si ?
+Mɛni kɔkɔ lɛ Petro bɔ wɔ ?
+Mɛni blɔ nya ní tsumi lɛ ngɛ wa kuɛ nɔ ngɛ dloomi nɛ wa náa kɛ jeɔ Yehowa ngɔ ɔ he je ?
+Mɛni blɔ nya ní tsumi he wa ma susu ngɛ ní kasemi nɛ nyɛɛ se ɔ mi ?
+[ 1 ] ( kuku 2 ) Hyɛ munyu nɛ ji , “ Undeserved kindness ” ngɛ “ Glossary of Bible Terms ” ɔ sisi ngɛ New World Translation ehe ɔ mi .
+20 : 24 .
+LAHI : 10 , 25
+Mɛni e sa kaa Yehowa dloomi ɔ nɛ wo wɔ he wami nɛ waa pee ?
+Ngɛ mɛni blɔ nɔ ‘ sane kpakpa a nɛ kɔɔ matsɛ yemi ɔ he ’ ɔ maa Mawu dloomi ɔ nɔ mi ?
+Mɛni Yehowa kɛ maa dloo wɔ ngɛ je ehe ɔ mi ?
+Mɛni bɔfo Paulo pee kɛ tsɔɔ kaa e bua jɔ Mawu dloomi ɔ he ?
+BƆFO Paulo kɛ nɔ mi mami de ke : ‘ Dloomi nɛ Mawu dloo mi ɔ pee we yaka . ’
+( Kane 1 Korinto Bi 15 : 9 , 10 . )
+Mɛni sɔmɔmi ní tsumi klɛdɛɛ lɛ a kɛ wo Paulo dɛ ?
+( Kane Efeso Bi 3 : 5 - 8 . )
+Ngɛ nyagbe ligbi nɛ ɔmɛ a mi ɔ , a fã Yehowa we bi kaa a fiɛɛ ‘ sane kpakpa nɛ kɔɔ matsɛ yemi ɔ he ɔ , bɔ nɛ pee nɛ je ma amɛ tsuo nɛ a nu ; nɛ lɔ ɔ se loko nyagbe ɔ maa ba . ’
+Ke wa fiɛɛ kpɔmi nɔ́ ɔ he sane kpakpa a kɛ tsɔɔ nihi ɔ , ngɛ mɛni blɔ nɔ lɔ ɔ tsɔɔ kaa wa ngɛ Mawu dloomi ɔ he sane kpakpa a fiɛɛe ?
+Mɛni he je nɛ e sa kaa adesahi nɛ a kɛ Mawu nɛ kpata a ?
+Bɔfo Yohane ngma ke : “ Nɔ nɛ heɔ Bi ɔ yeɔ ɔ , e nine su neneene wami ɔ nɔ ; se nɔ tsuaa nɔ nɛ bui Bi ɔ tue ɔ , e be neneene wami náe . Mawu maa gbla e tue mohu . ”
+9 , 10 . ( a ) Mɛni ní tsumi nɛ Kristo kɛ wo e nyɛmimɛ nɛ a pɔ mɛ nu ɔ a dɛ ?
+Mɛni he je nɛ e sa kaa wa ha nɛ nihi nɛ a le kaa a ma nyɛ maa sɔle kɛ ha Yehowa a ?
+Nihi fuu sɔleɔ ejakaa lɔ ɔ haa mɛ bua jɔmi , se a he we yi kaa Mawu buɔ a sɔlemi tue .
+E he hia nɛ a le kaa Yehowa “ buɔ ” sɔlemi tue .
+David nɛ ji la polɔ ɔ ngma ke : “ Ee , mo pɛ lɛ o buɔ kue fami tue .
+13 , 14 . ( a ) Mɛni he blɔhi nɛ se be lɛ nihi nɛ a pɔ mɛ nu ɔ ma ná hwɔɔ se ?
+( b ) Mɛni ji nɔ́ nɛ se be nɛ nihi nɛ a pɔ mɛ nu ɔ maa pee ha adesahi ?
+Mɛni blɔ nɔ Yehowa maa gu kɛ dloo “ to kpa ” amɛ hwɔɔ se ?
+A ma tle nimli ayɔhi abɔ nɛ a li Mawu nɛ a kɛ gbo ɔ hu si .
+Ke wa ngɛ nihi odase yee ɔ , mɛni e sa kaa e hi wa juɛmi mi ?
+Mɛni blɔ nɔ wa guɔ kɛ woɔ Yehowa hɛ mi nyami ngɛ e dloomi ɔ he je ?
+Baiblo ɔ de ke : “ Adebɔ níhi tsuo maa ye a he , nɛ gbenɔ be he wami náe ngɛ a nɔ hu ; nɛ a kɛ Mawu bimɛ ɔmɛ maa hi si ngɛ he jɔmi mi , nɛ a maa wo a hɛ mi nyami . ”
+Ke waa kɛ kã fiɛɛɔ sane kpakpa nɛ ɔ kɛ tsɔɔ nihi ɔ , lɔ ɔ tsɔɔ kaa wa ngɛ Yehowa hɛ mi nyami woe nitsɛnitsɛ ngɛ e dloomi ɔ he je !
+“ Nyɛ hla Mawu matsɛ yemi ɔ mohu , nɛ a maa ngɔ ní nɛ ɔmɛ tsuo ngɔ piɛɛ he ha nyɛ . ” ​ — LUKA 12 : 31 .
+LAHI : 40 , 44
+Mɛni slɔɔto ngɛ níhi nɛ wa hia kɛ níhi nɛ wa suɔ ɔ a kpɛti ?
+Mɛni he je nɛ e sa nɛ waa ye wa he nɔ konɛ wa ko di he lo nya níhi fuu a se ɔ ?
+Mɛni he je nɛ o he ye kaa Yehowa ma ha mo níhi nɛ o hia daa ligbi ɔ ?
+Mɛni ji ní komɛ nɛ nihi suɔ kaa a nine nɛ su nɔ ?
+Mɛni blɔ nɔ Satan guu nɛ e kɛ “ níhi nɛ hɛngmɛ dii se ” ɔ sisiɔ wɔ ?
+Mo kai kaa bɔfo Yohane bɔ kɔkɔ ke : “ Je ɔ , kɛ e mi níhi nɛ peeɔ nɔ akɔnɔ ɔ ngɛ bee kɛ yaa . ”
+Mɛni ma nyɛ maa ba nihi nɛ a diɔ he lo nya níhi fuu a se ɔ a nɔ ?
+Mɛni wa kaseɔ ngɛ Baruk sane ɔ mi ?
+8 , 9 . ( a ) Mɛni he je nɛ e sɛ nɛ waa pee yeyeeye tsɔ ngɛ wa hiami níhi a he ɔ ?
+( b ) Mɛni Yesu le ngɛ adesahi kɛ a hiami níhi a he ?
+Kane Mateo 6 : 25 .
+Benɛ Yesu tsɔɔ e se nyɛɛli ɔmɛ bɔ nɛ a sɔleɔ ha a , mɛni ji nɔ́ nɛ e tsɔɔ kaa e sa nɛ e he nɛ hia mɛ wawɛɛ ?
+Mɛni wa kaseɔ ngɛ bɔ nɛ Yehowa hyɛɛ hiɔwe lohwe pɛlitsɛmɛ haa a mi ?
+Kane Mateo 6 : 26 .
+E sa nɛ waa hyɛ “ hiɔwe lohwe pɛlitsɛmɛ . ”
+Mɛni tsɔɔ kaa wa he jua wa pe hiɔwe lohwe pɛlitsɛmɛ ?
+Ke nɔ ko peeɔ yeyeeye ɔ , mɛni nɛ e be nyɛe maa pee gblee ?
+Kane Mateo 6 : 27 .
+15 , 16 . ( a ) Mɛni wa kaseɔ ngɛ bɔ nɛ Yehowa plɛɔ kɛ hyɛɛ nga nɔ mɔmɔhi a nɔ ha a mi ?
+( Moo hyɛ foni nɛ ngɛ ní kasemi ɔ sisije ɔ . ) ( b ) Mɛni sane nɛ eko ɔ , wa ma bi wa he , nɛ mɛni he je ?
+Kane Mateo 6 : 28 - 30 .
+Mɛni ma nyɛ ma puɛ waa kɛ Yehowa wa kpɛti ?
+Kane Mateo 6 : 31 , 32 .
+Mɛni Yehowa le ngɛ wa ti nɔ tsuaa nɔ he , nɛ mɛni e maa pee ha wɔ ?
+Kane Mateo 6 : 33 .
+Mɛni he je nɛ e sɛ nɛ waa pee yeyeeye ngɛ níhi nɛ ma nyɛ maa ba hwɔɔ se ɔ a he ɔ ?
+Kane Mateo 6 : 34 .
+( b ) Mɛni o ma nyɛ maa pee konɛ o si himi nɛ pee kpokploo ?
+Mɛni maa ye bua mo konɛ o nyɛ nɛ o hɛ mo kɛ su Yehowa he ?
+LAHI : 136 , 54
+Abosiami nɛ ko sisi wɔ nɛ waa ya nɔ nɛ waa hwɔɔ ?
+je ɔ mumi ɔ nɛ ko kudɔ wɔ nɛ waa ya nɔ nɛ waa hwɔɔ ?
+waa ye wa gbɔjɔmihi a nɔ nɛ waa ya nɔ nɛ waa hwɔɔ ?
+Mo ha nɔ́ hetomi nɔ́ ko nɛ tsɔɔ nɔ́ he je nɛ e he hia nɛ waa le be nɛ wa ngɛ mi kɛ níhi nɛ ngɛ nɔ yae ɔ .
+Mɛni he je nɛ Yesu de e kaseli ɔmɛ kaa a ‘ ya nɔ nɛ a hwɔɔ ’ ɔ ?
+Mɛni he je nɛ wa buɔ Yesu kɔkɔ bɔmi ɔ tue ɔ ?
+( a ) Mɛni he je nɛ wa ma nyɛ ma he ye kaa amlɔ nɛ ɔ , Yesu le be nɛ Harmagedon ta a ma fɛ ɔ ?
+( b ) E ngɛ mi kaa wa li be nɛ haomi ngua a maa je sisi mohu lɛɛ , se mɛni nɔ mi mami wa ngɛ ?
+( Kane Habakuk 2 : 1 - 3 . )
+Mo ha nɔ hyɛmi nɔ́ nɛ tsɔɔ kaa be fɛɛ be ɔ , Yehowa gbamihi baa mi ngɛ be nya pɛpɛɛpɛ .
+Be fɛɛ be ɔ , Yehowa gbamihi baa mi ngɛ be nya pɛpɛɛpɛ !
+Pee se ɔ , Yehowa de Abraham ke : “ I ngɛ mo dee anɔkuale mi kaa o nina ma ya pee nibwɔhi ngɛ zugba kpa nɔ ; a maa pee nyɔguɛhi ngɛ lejɛ ɔ , nɛ a maa wa mɛ yi mi jeha lafa eywiɛ . ”
+Mɛni he je nɛ wa ma nyɛ ma ná nɔ mi mami kaa Yehowa ma he e we bi a yi wami ɔ ?
+7 , 8 . ( a ) Blema a , mɛni ji buli a ní tsumi , nɛ mɛni lɔ ɔ tsɔɔ wɔ ?
+( b ) Mo ha nɔ hyɛmi nɔ́ ko nɛ tsɔɔ nɔ́ nɛ ma nyɛ maa ba ke bulɔ ko hwɔ mahe ngɛ e ní tsumi mi .
+Mwɔnɛ ɔ , mɛni lɛ nihi fuu li ?
+10 , 11 . ( a ) Mɛni he nɛ e sa kaa waa hyɛ wa he ngɛ , nɛ mɛni he je ?
+( b ) Mɛni ha nɛ o ná nɔ mi mami kaa Abosiami yu nihi a hɛngmɛ nɛ a je a juɛmi kɛ je Baiblo gbami nɔ ɔ ?
+Mɛni he je nɛ e sɛ nɛ wa ha nɛ Abosiami nɛ sisi wɔ ɔ ?
+Yesu bɔ wɔ kɔkɔ ke : “ Nyɛɛ pee klaalo , ejakaa Nɔmlɔ Bi ɔ maa ba be mi nɛ nyɛ hyɛ we lɛ blɔ . ”
+Kɛ je ɔ mumi ɔ ha nɛ nihi peeɔ a ní ha kɛɛ , nɛ mɛni wa maa pee konɛ je ɔ mumi ɔ nɛ ko puɛ wa juɛmi ?
+Mɛni kɔkɔ bɔmi a kɛ ha wɔ ngɛ Luka 21 : 34 , 35 ɔ ?
+( Kane Luka 21 : 34 , 35 . )
+Mɛni Petro , Yakobo , kɛ Yohane pee , nɛ mɛni he je wɔ hu wa ma nyɛ maa pee jã a ?
+Ngɛ Luka 21 : 36 nya a , mɛni Yesu tsɔɔ kaa waa pee konɛ wa nyɛ nɛ ‘ waa ya nɔ nɛ waa hwɔɔ ’ ?
+( Kane Luka 21 : 36 . )
+Mɛni wa maa pee kɛ tsɔɔ kaa wa dla wa he kɛ ha nɔ́ nɛ e be kɛe nɛ e maa ba a ?
+NƆ HE SANE
+Benɛ wa ya kpɔ mi kpe ko ɔ , nyɛminyumu ko bi mi ke ji ma suɔ kaa ma fiɛɛ kɛ tsɔɔ nihi .
+Nyɛmiyi ɔmɛ a kpɛti nɔ kake kɛ wɔ kase Baiblo ɔ kɛ Baiblo ɔ mi sanehi nɛ ngɛ womi nɛ ji The Harp of God ɔ mi .
+Ha nɛ waa kɛ bua jɔmi nɛ fiɛɛ sane kpakpa a kɛ tsɔɔ nihi , nɛ wa si kojomi ɔ kɛ ha Yehowa . ”
+Nyɛminyumu kpa ko nɛ e wa a , tsɔɔ mi kaa loko wa ma ná bua jɔmi ngɛ nɔ́ hami mi ɔ , be komɛ ɔ , e sa nɛ waa to wa tsui si .
+E yo ɔ sume Yehowa Odasefohi a sane .
+Nyagbenyagbe ɔ , a weku mi bi ɔmɛ tsuo ha nɛ a baptisi mɛ .
+Wa li kaa osɔfo ɔmɛ ngɛ he wami wawɛɛ jã .
+I hí abalaa lɛ mi hyɛ , lɔ ɔ he ɔ , ye bua jɔ wawɛɛ .
+Waa kɛ jeha enuɔ fiɛɛ ngɛ wo kpɔhi nɛ a tsɔ a he nɛ Odasefo no ko be lejɛ ɔ a mi .
+A ha wɔ lo mumu , kɛ paya , kɛ gigɛ .
+Mwɔnɛ ɔ , nihi fuu ya slaa si ngɛ wo kpɔ nɛ ɔmɛ a nɔ , se be ko nɛ be ɔ , e be jã .
+Be nɛ wa ya su lejɛ ɔ , i ya na nyɛmiyo ko nɛ e he ngɛ fɛu nɛ e ji ma se sane kpakpa fiɛɛlɔ . A tsɛɛ lɛ ke Maxine Boyd .
+Kaa nɔ hyɛmi nɔ́ ɔ , ngɛ kɔpe ko nɛ a tsɛɛ ke Potala Pastillo ɔ , weku enyɔ komɛ ngɛ lejɛ ɔ , nɛ jokuɛwi hiɛ ngɛ a mi .
+A ha lɛ he blɔ kaa e ya sɔmɔ ngɛ Ecuador , nɛ e piɛ bɔɔ nɛ e maa je . E bi wɔ ke : “ Anɛ nyɛ kai mi lo ?
+Jamɛ a be ɔ mi ɔ , Nathan Knorr ji nɔ nɛ da Yehowa Odasefohi a nya . E ba Puerto Rico .
+Pee se ɔ , e kã ye hɛ mi , nɛ e de mi kaa i li níhi a he blɔ nya tomi . Nɛ e tsɔɔ kaa i pue e hɛ mi si .
+Benɛ i kɛ ye yayo wa na anɔkuale ɔ , ye papaa lɛɛ e pɛtɛ we he .
+Ye yo kpakpa Maxine gbo ngɛ jeha 2011 ɔ mi .
+I ngɛ blɔ hyɛe kaa a ma tle lɛ si nɛ ma na lɛ ekohu .
+Ni komɛ hu ngɔɔ mɛ nitsɛmɛ a nyagbahi aloo a weku mi nyagbahi kɛ baa ye ngɔ .
+He fɛɛ he ko nɛ wa ngɛ Yehowa sɔmɔe ngɛ ɔ , wa náa he blɔhi kɛ jeɔ e yi .
+A ngma Leonard Smith he sane ngɛ April 15 , 2012 Blɛfo gbi Hwɔɔmi Mɔ ɔ mi .
+‘ Yehowa Mawu de ke , “ E hí kaa nyumu ɔ nɔ kake too nɛ hi si ; ma ha lɛ he piɛɛlɔ nɛ sa lɛ . ” ’ ​ — 1 MOSE 2 : 18 .
+LAHI : 36 , 11
+Mɛni he je nɛ wa ma nyɛ ma de ke gba si himi ji nike ní nɛ je Mawu ngɔ ɔ ?
+Mɛni o ma nyɛ ma de ngɛ gba si himi nɛ hi si ngɛ Adam yi nɔ kɛ ba si Yesu be ɔ mi ɔ he ?
+Mɛni ma nyɛ maa ye bua Kristofo no ko konɛ e nyɛ nɛ e mwɔ e yi mi kpɔ ke ji e maa sɛ gba si himi mi loo e be mi sɛɛe ?
+1 , 2 . ( a ) Kɛ gba si himi plɛ kɛ je sisi ha kɛɛ ?
+( b ) Mɛni eko ɔ , Adam kɛ Hawa na ngɛ gba si himi he ?
+( Kane 1 Mose 2 : 20 - 24 . )
+Mɛni yi mi tomi titli he je nɛ Mawu to gba si himi sisi ?
+Mɛ ni enyɔ ɔmɛ ma ná bua jɔmi ngɛ si himi mi kaa nɔ kɛ e yo daa .
 Mɛni ba Adam kɛ Hawa a gba a nɔ ?
-Jehanɛ se hu ɔ , Yehowa wo e sɔmɔli a hɛ mi nyami kɛ gu fiɛɛmi nítsumi ɔ nɛ e kɛ wo a dɛ ɔ nɔ .
-David tsɔ Israel tabo ɔ kɛ ho konɛ a ya sa Amonbi ɔmɛ a ma ngua nɛ ji Raba a yi .
-Munyuyi nyafii ko hu de ke : “ Jeha Nyɔngma Ji Nɛ ɔ Nɛ Nɔ Yami Ko Bɛ . ”
-Betel sɔmɔmi ngɛ bua jɔmi , ejakaa nɔ́ fɛɛ nɔ́ nɛ a peeɔ ngɛ lejɛ ɔ , a peeɔ kɛ haa Yehowa .
-Juan nɛ e je Mexico ɔ de ke : “ Enɛ ɔ nɛ wa peeɔ ɔ dlaa wa juɛmi kɛ haa weku Mawu jami ɔ nɛ nɔ tsuaa nɔ bua jɔɔ kaa e kɛ e he maa wo mi . ”
-Satan sisi wa kekle fɔli nɛ ji Adam kɛ Hawa , nɛ a tsɔ atuã kɛ si Mawu .
-Se ngɛ anɔkuale mi ɔ , nɔ́ ko be nɛ wa ma nyɛ maa pee ngɛ mi gbami nɛ ba ngɛ jamɛ a be ɔ mi ɔ he .
-Cynthia kɛ e bimɛ ɔmɛ a bua jɔ yemi kɛ buami nɛ a we asafo ɔ mi nyɛmimɛ kɛ ha mɛ ɔ he . Enɛ ɔ ha nɛ ngɛ nyɔhiɔ ekpa se ɔ , e kɛ e biyi ɔmɛ a nyɛ nɛ a sɔmɔ kaa blɔ gbali a wali . ​ — 2 Kor .
-Eko ɔ , la nyafinyafihi nɛ jeɔ tleehi nɛ beɔ ngɛ jamɛ a hue tso ɔ mi kɛ nɔɔ si ɔ lɛ je la ngua nɛ ɔ sisi ɔ nɛ .
-Ejakaa wa ngɛ Satan je ɔ mi . ​ — Kpojemi 12 : 12 .
-Robert Butler
-“ Nyɛ li ligbi ɔ nɛ nyɛ Nyɔmtsɛ ɔ ma . ” ​ — MAT .
-E ngɛ mi kaa tsa pi munyu nɛ a maa kase ngɛ asafo mi kpe sisi nɛ e ngɛ kanee ɔ mohu lɛɛ , se e kaneɔ ngmamihi tsuo nɛ a tsɛ se ɔ .
-Ke wa susu ní kpakpahi nɛ Yehowa ma ha wɔ faa ngɛ Paradeiso ɔ mi ɔ he ɔ , wa bua jɔɔ wawɛɛ .
-Enɛ ɔ he ɔ , nyɛ ha nɛ wa pue wa yi mi tɛ ngɛ níhi nɛ wa kaneɔ ngɛ Baiblo ɔ mi ɔ he , konɛ waa le Yehowa saminya .
-Se mɛni blɔ nɔ wa guu kɛ peeɔ jã ?
-Ngɛ Yoshua gbenɔ se ɔ , Rut nɛ je Moab ɔ ná kã kɛ fi anɔkuale jami se .
-Lɔ ɔ se ɔ , ngɛ jeha 2013 ɔ mi ɔ , a ngɔ asafo ɔ ní tsumi kɔni nɛ ngɛ Puerto Rico ɔ kɛ ya piɛɛ United States nɔ́ ɔ he , nɛ a ha nɛ i ya sɔmɔ ngɛ Wallkill ngɛ New York .
-Yesu sɔle kɛ kpa Yehowa pɛɛ , nɛ e ye anɔkuale kɛ ya si benɛ e gbe e zugba a nɔ sɔmɔmi nítsumi ɔ nya .
-Se mumi mi nɔmlɔ lɛɛ e le Mawu juɛmi ngɛ níhi a he , nɛ e le hu kaa Mawu sume níhi nɛ he lo mi nimli peeɔ ɔ .
-NƆ́ NƐ E SA KAA WA KADI : Ajuama bɔmi he níhi puɛɔ nihi kɛ a suɔli a kpɛti , nɛ nyagbenyagbe ɔ , e haa nɛ nihi yeɔ tsui . — Abɛ 6 : 27 .
-Ke wa ngɛ ní kasee , nɛ wa ngɛ wa yi mi tɛ pue ɔ , oti nɛ e sa kaa wa kɛ ma wa hɛ mi ji kaa wa ma ná suɔmi kɛ ha Yehowa konɛ waa ye e mlaa amɛ a nɔ .
-Mohu ɔ , ke jokuɛ ɔ le níhi nɛ Yehowa suɔ kɛ níhi nɛ e sume ɔ , lɛɛ e maa bu akɔtaa ha Yehowa .
-Mɛni heje nɛ e sɛ kaa wa pia Yehowa kɔkɔɔkɔ ngɛ haomihi nɛ waa kɛ kpeɔ ɔ a he ɔ ?
-( Eze . 38 : 23 ) Kaa bɔnɛ Israelbi ɔmɛ nine su Si Womi Zugba a nɔ ɔ , jã kɛ̃ nɛ Kristofoli tsuo nɛ a ma sɔmɔ Mawu nɛ a maa ye lɛ anɔkuale ɔ hu ma ná wami ngɛ Mawu dami je ehe ɔ mi .
-Mwɔnɛ ɔ , Mawu Bi ɔ be zugba a nɔ nɛ e maa wo wa bua .
-( Kane La 102 : 19 - 21 . )
-I kɛ mɛ tsuo wa ná we tsui kɛ sɛɛ nɔ́ nɛ ɔ he ní ngɛ tue mi jɔmi mi , enɛ ɔ he ɔ , i ngma sɛ womihi fuu ha mɛ konɛ ma tsɔɔ mɛ otihi nɛ i kɛ ma ye hɛ mi .
-( Many . 6 : 11 , 27 ) Benɛ e gbe ní tsumi nɛ Yehowa kɛ ha lɛ ɔ nya , nɛ ma bi ɔmɛ suɔ kaa e ye a nɔ matsɛ ɔ , e kua , nɛ e kpale kɛ ho e we mi ya . ​ — Many .
-Bua jɔmi sane ji kaa wa ma nyɛ ma bi Mawu nɛ e ha wɔ e mumi ɔ be tsuaa be .
-25 : 32 , 33 .
-( Kane Yesaya 43 : 12 . )
-Se e puɛ gba nɛ e gbe nɔmlɔ . ( 2 Sam .
-E kɛ jeha 11 sɔmɔ kaa kpɔmi nɔ hyɛlɔ ngɛ United States . E je sisi ngɛ jeha 1986 mi .
-Bɔ nɛ i de ɔ , ja pɛpɛɛpɛ e maa ba mi . ’ ​ — YES .
-Ngɛ mɛni blɔ nɔ nɛ Salomo yi Mawu Mlaa a nɔ ?
-Mohu ɔ , e hyɛɛ su kpakpahi nɛ ngɛ wa mi ɔ hulɔ .
-Mɛni blɔ nɔ Salomo yi Yehowa anɔkuale ngɛ , nɛ mɛni je mi kɛ ba ?
-Se e sa nɛ e ná suɔmi kɛ ha nɔ nɛ e ngɛ lɛ tsɔsee ɔ hulɔ .
+Mɛni wa ma nyɛ maa kase kɛ je heto nɛ Adam kɛ Hawa ha Yehowa a mi ?
+Kɛ o ma plɛ kɛ tsɔɔ 1 Mose 3 : 15 ɔ nya ha kɛɛ ?
+( Kane 1 Mose 3 : 15 . )
+( a ) Kɛ je be nɛ Adam kɛ Hawa tɔ̃ ɔ , mɛni lɛ ba gba si himi nɔ ?
+( b ) Mɛni Yehowa suɔ kaa huno kɛ e yo nɛ a pee ?
+Mɛni o ma nyɛ ma de ngɛ gba si himi nɛ hi si kɛ je Adam yi nɔ kɛ ba si benɛ Nyu Kpekpemi ɔ ba a he ?
+( Kane Mateo 24 : 37 - 39 . )
+( a ) Mɛni ajuama bɔmi ní peepeehi nɛ he si ngɛ mahi fuu a nɔ ?
+( b ) Mɛni blɔ nɔ Abraham kɛ Sara gu kɛ pee nɔ hyɛmi nɔ́ kpakpa ngɛ gba si himi mi ?
+( Kane 1 Petro 3 : 3 - 6 . )
+Mɛni blɔ nɔ Mose Mlaa a po Israel bi ɔmɛ a he piɛ ngɛ ?
+( Kane 5 Mose 7 : 3 , 4 . )
+12 , 13 . ( a ) Kɛ ni komɛ kɛ a yihi hi si ha kɛɛ ngɛ Malaki be ɔ mi ?
+( b ) Mwɔnɛ ɔ , ke nɔ ko nɛ a baptisi lɛ kɛ nɔ ko yo loo nɔ ko huno puɛ gba a , mɛni maa je mi kɛ ba ?
+Mɛni Mose Mlaa a tsu ?
+( a ) Mɛni gba si himi he mlaa nɛ e sa kaa Kristofohi nɛ a nyɛɛ se ?
+Mɛni Yesu de ngɛ si nɛ a hiɔ nɛ a sɛ we gba si himi mi ɔ he ?
+Lɔ ɔ se ɔ , Paulo de ke : “ Ke nyɛ nyɛ we nyɛ he nɔ nyɛɛ ye ɔ , e hia kaa nyɛɛ sɛ gba si himi mi . Ejakaa lɔ ɔ hi pe nɔ́ nɛ akɔnɔ ma ba hao nyɛ . ”
+18 , 19 . ( a ) Mɛnɔ nɛ e sa kaa Kristofo no nɛ e kɛ lɛ nɛ sɛ gba si himi ?
+( b ) Mɛni he wa ma susu ngɛ ní kasemi nɛ nyɛɛ se ɔ mi ?
+LAHI : 36 , 3
+Mɛni blɔ nya ní tsumi lɛ Yehowa kɛ wo hunomɛ kɛ yigbayihi a dɛ ?
+Mɛni he je nɛ e sa kaa nihi nɛ a sɛ gba si himi mi ɔ nɛ a suɔ a sibi nɛ a hɛɛ a sibi dɔdɔɔdɔ ɔ ?
+Ke nihi kɛ haomi ngɛ kpee ngɛ a gba si himi mi ɔ , kɛ Baiblo ɔ ma plɛ kɛ ye bua mɛ ha kɛɛ ?
+E ngɛ mi kaa behi fuu ɔ , gba si himi jeɔ sisi kɛ bua jɔmi mohu lɛɛ , se mɛni ma nyɛ maa ba ?
+Mɛni suɔmi slɔɔtoslɔɔtohi nɛ e sa kaa nɔ kɛ e yo nɛ a je kpo kɛ tsɔɔ a sibi ?
+Kɛ e sa kaa suɔmi nɛ hiɔ gba si himi mi ɔ mi nɛ wa ha kɛɛ ?
+Paulo ngma ke : “ Nyɛ hunomɛ , nyɛɛ suɔ nyɛ yi ɔmɛ kaa bɔ nɛ Kristo hu suɔ asafo ɔ , nɛ e ngɔ lɛ nitsɛ e wami ngɔ ha ngɛ e he ɔ . ”
+( Kane Yohane 13 : 34 , 35 ; 15 : 12 , 13 . )
+4 , 5 . ( a ) Mɛni ji huno ɔ nɛ ji wekuyi ɔ blɔ nya ní tsumi ?
+( b ) Kɛ e sa kaa yogbayo kɛ e huno nɛ ji e yi ɔ nɛ hi si ha kɛɛ ?
+( d ) Mɛni tsakemi lɛ nɔ ko kɛ e yo a pee ?
+I kase kaa ke ma pee nɔ́ ko ɔ , e he hia nɛ ma de ye huno ɔ .
+Tsa pi be fɛɛ be nɛ jã peemi ngɛ gbɔjɔɔ , se akɛnɛ i kɛ Yehowa blɔ tsɔɔmi tsuɔ ní he je ɔ , suɔmi nɛ ngɛ wa kpɛti ɔ mi wa . ”
+Ke o ngɔ yo ɔ , e he ba hia nɛ o susu yo ɔ he ngɛ nɔ́ fɛɛ nɔ́ ko nɛ o maa pee ɔ mi , nɛ enɛ ɔ peemi be gbɔjɔɔ .
+Ke haomi ko ba gba si himi mi ɔ , ngɛ mɛni blɔ nɔ nɛ suɔmi ma nyɛ maa pee kaa ‘ kpã nɛ fĩɔ níhi tsuo ngɔ peeɔ kake ’ ?
+7 , 8 . ( a ) Mɛni ga Baiblo ɔ wo ngɛ bɔmi nami nɛ yaa nɔ ngɛ gba si himi mi ɔ he ?
+( b ) Mɛni he je nɛ e he hia nɛ nihi kɛ a yihi nɛ hɛɛ a sibi dɔdɔɔdɔ ɔ ?
+( Kane 1 Korinto Bi 7 : 3 - 5 . )
+E sɛ nɛ huno aloo yogbayo ko nɛ e nyɛ e he piɛɛlɔ ɔ nɔ kaa e kɛ lɛ ma ná bɔmi .
+Mɛni he je nɛ e sɛ kaa nihi nɛ a sɛ gba si himi mi ɔ nɛ a je suɔmi nɛ hii nɔ kɛ e yo a kpɛti ɔ kpo kɛ tsɔɔ nɔ kpa ko ɔ ?
+10 , 11 . ( a ) Kɛ gba puɛmi pɔ he ha kɛɛ mwɔnɛ ɔ ?
+( b ) Mɛni Baiblo ɔ de ngɛ gba jemi loo nɔ yo he ngmɛɛmi he ?
+( d ) Mɛni maa ye bua nɔ ko konɛ e ko ye oya kɛ je gba aloo e ngmɛɛ e yo he ?
+Mɛni ma nyɛ ma ha nɛ nɔ ko nɛ je gba aloo e ngmɛɛ e yo he ?
+Mɛni ji ní komɛ nɛ nɔ ko ma nyɛ maa da nɔ kɛ je gba loo e ngmɛɛ e yo he ?
+Mɛni ga womi Baiblo ɔ kɛ ha nihi nɛ a yihi kɛ a hunomɛ pi Yehowa sɔmɔli ?
+( Kane 1 Korinto Bi 7 : 12 - 14 . )
+15 , 16 . ( a ) Mɛni ga Baiblo ɔ wo yihi nɛ a hunomɛ pi Mawu sɔmɔli ɔ ?
+( b ) Ke huno loo yo ko nɛ ‘ li Kristo ɔ ngmɛɛ e yo he loo e je gba ’ a , mɛni e sa kaa Kristofo no ɔ nɛ pee ?
+Bɔfo Petro wo yigbayihi nɛ a ji Kristofohi ɔ he wami kaa a ba a he si kɛ ha a hunomɛ ‘ bɔ nɛ pee nɛ ke a ti ni komɛ he we Mawu munyu ɔ yi ɔ , a je mi bami nɛ tsake mɛ . E be hiae kaa a kɛ mɛ nɛ tu munyu po , ejakaa mɛ nitsɛmɛ a maa na kaa a je mi bami he tsɔ , nɛ a yeɔ Mawu gbeye . ’
+Ke e ba mi jã a , mlaa ko mlaa ko nui nɔ nɛ le Kristo ɔ , nyumu ɔ jio , yo ɔ jio . Mawu tsɛ nyɛ nɛ nyɛɛ hi si ngɛ he jɔmi mi . ”
+Mɛni e sa kaa Kristofohi nɛ a sɛ gba si himi mi ɔ nɛ a kɛ pee oti ngɛ a si himi mi ?
+Mɛni he je nɛ Kristofohi a gba si himi ma nyɛ maa pee bua jɔmi , nɛ e ngɔ ɔ ?
+10 : 9 . [ 1 ] ( kuku 5 ) A tsake biɛ ɔmɛ .
+[ 2 ] ( kuku 13 ) Moo hyɛ mi tsɔɔmi munyu nɛ ji , Nɔ́ Nɛ Baiblo ɔ Deɔ Ngɛ Gba Mi Pomi Kɛ Gba Jemi He nɛ ngɛ womi nɛ ji , “ Nyɛɛ To Nyɛ He Ngɛ Mawu Suɔmi ɔ Mi , ” ɔ .
+BLƆ GBALI
+30 Sane Bimihi Nɛ Je Ní Kaneli A Ngɔ
+31 A Je Ngɛ Wa Yi Nɔ Sane Womihi A Mi
+Nɔ́ nɛ pe kulaa a , o bua maa jɔ , ejakaa o nine su nɔ́ ko nɛ he jua wa pe sika tsu nɔ . ​ — Abɛ 3 : 13 , 14 .
+LAHI : 45 , 42
+Mɛni o ma nyɛ maa pee konɛ o ya o hɛ mi ngɛ Mawu jami mi ?
+Kɛ o ma plɛ kɛ ya o hɛ mi ngɛ Mawu jami mi ha kɛɛ nɛ o kɔni mi be jɔ̃e ?
+Mɛni tsakemihi lɛ ke o pee ɔ , e ma nyɛ maa ye bua mo konɛ o fiɛɛmi ní tsumi ɔ nɛ nu tso ?
+1 , 2 . ( a ) Ngɛ mɛni blɔ nɔ Yesaya 60 : 22 ɔ ngɛ mi bae ngɛ nyagbe be nɛ ɔ mi ?
+( b ) Mɛni Yehowa asafo ɔ nɛ ngɛ zugba a nɔ ɔ hia ?
+“ WƐTSO nyafii pe kulaa ma ba pee ma kpetekpleenyɛ . ” ( Yes .
+Mɛni e biɔ nɛ o pee konɛ o nyɛ nɛ o ya o hɛ mi ngɛ Mawu jami mi ?
+Kane 1 Timoteo 3 : 1 .
+Mɛni nihewi kɛ yihewi ma nyɛ maa ngɔ he wami nɛ a ngɛ ɔ kɛ tsu ngɛ Matsɛ Yemi sɔmɔmi ní tsumi ɔ mi ?
+( Kane Abɛ 20 : 29 . )
+6 - 8 . ( a ) Mɛni niheyo ko pee kɛ tsake e susumi ngɛ Mawu jami he , nɛ mɛni je mi kɛ ba ?
+( b ) Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ ‘ ka Yehowa nɛ waa hyɛ , konɛ waa na kaa e hi ’ ?
+Mɛni e pee ?
+Akɛnɛ e jɔɔ mi he je ɔ , i naa kaa i ye lɛ hiɔ , nɛ lɔ ɔ woɔ mi he wami konɛ ma pee fuu ngɛ e sɔmɔmi mi . Enɛ ɔ haa nɛ i náa jɔɔmihi babauu . ”
+( Kane La 34 : 8 - 10 . )
+Mɛni he je nɛ e he hia kaa ‘ o kɛ o hɛ nɛ fɔ Mawu nɔ ’ ɔ ?
+Mɛni su kpakpahi nɛ e sa kaa wa ná , nɛ mɛni he je nɛ a he hia ?
+Mɛni e sa kaa nihi nɛ a ngɛ asafo ɔ mi ɔ nɛ a pee konɛ nihi nɛ a nyɛ nɛ a fĩa kɛ fɔ a nɔ ?
+Ke nihi pee mo nɔdɔ nɔ́ ko ɔ , mɛni blɔ nɔ o ma nyɛ maa gu kɛ kase Yosef ?
+Ke nihi pee mo nɔdɔ nɔ́ ko ɔ , mɛni o ma nyɛ maa pee ?
+14 , 15 . ( a ) Mɛni he je nɛ e sa kaa waa “ hyɛ ” blɔ nɛ wa guɔ nɔ kɛ fiɛɛɔ ɔ saminya a ?
+( b ) Kɛ o ma plɛ kɛ tsake blɔ nɔ nɛ o guɔ kɛ fiɛɛɔ konɛ e kɔ nihi a si himi he ha kɛɛ ?
+( Moo hyɛ foni nɛ ngɛ ní kasemi ɔ sisije ɔ , kɛ daka nɛ ji , “ Anɛ O Maa Suɔ Nɛ O Gu Blɔ Kpa Nɔ Kɛ Fiɛɛ Lo ? ” )
+Mɛni blɔ nɔ nɛ ma nɔ odase yemi ma nyɛ maa wo yiblii kpakpa ngɛ ?
+17 , 18 . ( a ) Mɛni o ma nyɛ maa pee konɛ o ná kã kɛ ye odase ngɛ ma nɔ ?
+( b ) Ngɛ mɛni blɔ nɔ nɛ bua jɔmi nɛ David kɛ je Yehowa yi ɔ woɔ mo he wami konɛ o kɛ o he nɛ wo fiɛɛmi ní tsumi ɔ mi ?
+Mɛni ye bua lɛ ?
+Wa hlaa ga womi ngɛ wa nyɛmimɛ kpahi nɛ a ji Odasefohi ɔ a ngɔ . ”
+Amlɔ nɛ ɔ , Eddie bua jɔ ma nɔ odase yemi he wawɛɛ .
+( Kane 1 Timoteo 4 : 15 . )
+A maa sɛɛ o matsɛ yemi ɔ hɛ mi nyami ɔ he ní , nɛ a ma de ke o kle saminya . Kɛkɛ ɔ , nihi tsuo maa le ní nguanguahi nɛ o pee , kɛ o matsɛ yemi ɔ we agboje . ’
+Ke a kɛ ní tsumihi fuu wo o dɛ ngɛ Yehowa asafo ɔ mi ɔ , mɛni o ma nyɛ maa pee konɛ nyɛmimɛ nɛ a ná o he se ?
+Amlɔ nɛ ɔ , Venecia deɔ ke : “ Tɛlifoo nɔ odase yemi woɔ yiblii ! ”
+Jeha etɛ ji nɛ ɔ nɛ ye yo gbo kɛ je ye he , nɛ jeha nɛ be ɔ , ye binyumu hu ya nɔ si kɛ lɔle nɛ e gbo . ”
+Jeha enyɔ ji nɛ ɔ nɛ nyɛ ngma mi sɛ womi ɔ , se amlɔ nɛ ɔ , i ngɛ hlae nɛ nyɛɛ le kaa i ba pee Odasefo no . ”
+LAHI : 45 , 44
+Mɛni he je nɛ e sa kaa wa ha nɛ Baiblo kaseli a bua nɛ jɔ kaa a maa kase Baiblo ɔ ngɛ a dɛ he ɔ ?
+Kɛ wa ma plɛ kɛ ye bua ni hehi konɛ a fiɛɛ ha kɛɛ ?
+Mɛni he je nɛ e sa kaa waa bɔ mɔde nɛ wa tsɔse nihi konɛ a ba hyɛ Mawu to ɔmɛ a nɔ ɔ ?
+Mɛni he je nɛ e sa kaa wa tsɔse ni kpahi konɛ waa kɛ ní tsumi nɛ wo a dɛ ɔ ?
+3 , 4 . ( a ) Ngɛ mɛni blɔ nɔ nɛ Paulo tsɔɔ kaa Ngmami ɔ kasemi kɛ fiɛɛmi ní tsumi ɔ ngɛ tsakpa ?
+( b ) Loko wa ma de wa Baiblo kaselɔ ko kaa e kase Baiblo ɔ ngɛ e dɛ he ɔ , mɛni e sa kaa wɔ nitsɛmɛ waa pee ?
+Moo tsɔɔ bɔ nɛ wa ma nyɛ maa ye bua ni hehi konɛ a kase Baiblo ɔ daa ha .
+Eko ɔ , o ma bi ke , ‘ Mɛni blɔ nɔ ma nyɛ ma gu kɛ tsɔse ye Baiblo kaselɔ konɛ e kase Baiblo ɔ daa ? ’
+Moo wo lɛ he wami konɛ e kane Hwɔɔmi Mɔ kɛ Awake ! nɛ maa ba a eko tsuaa eko .
+( a ) Mɛni blɔ nɔ o ma nyɛ maa gu kɛ ye bua o Baiblo kaselɔ konɛ e bua nɛ jɔ Baiblo ɔ he ?
+( b ) Ke Baiblo Kaselɔ ɔ bua jɔ Baiblo ɔ he wawɛɛ ɔ , mɛni lɔ ɔ ma ha nɛ e pee ?
+Mɛni blɔ nɔ Yesu gu kɛ tsɔse sane kpakpa fiɛɛli ?
+8 , 9 . ( a ) Mɛni blɔ nɔ Yesu gu nɛ e kɛ nihi nɛ e fiɛɛ ha mɛ ɔ sɛɛ ní ?
+( b ) Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ ye bua fiɛɛli hehi konɛ a kɛ nihi nɛ sɛɛ ní kaa bɔ nɛ Yesu pee ɔ ?
+10 - 12 . ( a ) Mɛni blɔ nɔ nɛ Yesu gu kɛ ye bua nihi nɛ a ngɛ sane kpakpa a he bua jɔmi ɔ ?
+( b ) Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ ye bua fiɛɛli hehi konɛ a nyɛ nɛ a tsɔɔ nihi Baiblo ɔ mi anɔkuale ɔ saminya ?
+13 , 14 . ( a ) Kɛ o naa nihi nɛ a ngɔ a níhi kɛ sã afɔle wawɛɛ kɛ ye bua ni kpahi nɛ a tu a he munyu ngɛ Baiblo ɔ mi ɔ ha kɛɛ ?
+( b ) Mɛni blɔ nɔ o ma nyɛ maa gu kɛ ye bua fiɛɛli hehi kɛ nihewi kɛ yihewi konɛ a suɔ a nyɛmimɛ ?
+Dorka hu ji nɔ ko nɛ “ daa nɛ ɔ , kpakpa sɔuu e peeɔ . ”
+Mɛni he je nɛ e sa kaa asafo mi nikɔtɔmahi nɛ a tsɔse nyumuhi nɛ a ngɛ asafo ɔ mi ɔ ?
+16 , 17 . ( a ) Mɛni Paulo pee kɛ ye bua Timoteo konɛ e ya e hɛ mi ?
+( b ) Mɛni blɔ nɔ nɛ asafo mi nikɔtɔma amɛ ma nyɛ maa gu kɛ tsɔse nihi saminya konɛ a hyɛ Mawu asafo ɔ nɔ hwɔɔ se ?
+Mɛni he je nɛ e sa kaa Yehowa sɔmɔli nɛ a bu tsɔsemi nɛ a kɛ ma ha nihi ɔ kaa e he hia a ?
+Akɛnɛ je ɔ ngɛ puɛe kulaa he je ɔ , wa náa he blɔ slɔɔtohi kɛ fiɛɛɔ sane kpakpa a .
+A JE NGƐ WA YI NƆ SANE WOMIHI A MI
+Kɛ e ba lɛ kɛɛ ?
+7 : 6 - 8 .
+13 Sane Bimihi Nɛ Je Ní Kaneli A Ngɔ
+LAHI : 54 , 32
+Mɛni blɔ nɔ Yehowa gu kɛ wo Mose , Asa , kɛ Nehemia he wami ?
+Mɛni blɔ nɔ nɛ Yehowa guɔ kɛ woɔ wɔ he wami mwɔnɛ ɔ ?
+Mɛni ji ní komɛ nɛ wa ma nyɛ maa pee kɛ wo wa nyɛmimɛ he wami ?
+Anɛ o nu nyɛmiyo ɔ sisi lo ?
+( b ) Mɛni ma nyɛ ma ha nɛ nɔ ko kɔni nɛ gbo ?
+Kaa nɔ hyɛmi nɔ́ ɔ , ngɛ blema Baiblo ɔ nɛ a ngma a mi ɔ , a kɛ kɔni tsu ní si lafahi abɔ .
+Mɛni ma nyɛ ma ha nɛ o ná kã kɛ he wami nɛ o kɛ maa da si fɔfɔɛ ɔ nya konɛ o bua nɛ jɔ ?
+( b ) Mɛni he wa ma susu ?
+Kane Zefania 3 : 16 , 17 .
+Se ke Mose nine gbo nɛ e ba si pɛ , kɛkɛ Amalek bi ɔmɛ a nine bɔni Israel bi ɔmɛ a he ngɔmi .
+( b ) Kɛ Mawu plɛ kɛ ha Nehemia sɔlemi ɔ heto ha kɛɛ ?
+( Kane Nehemia 1 : 10 ; 2 : 17 - 20 ; 6 : 9 . )
+Anɛ o he ye kaa Yehowa kɛ e “ he wami ngua ” a kɛ e “ nyɛmi ” ɔ ngɛ e we bi he wami woe mwɔnɛ ɔ lo ?
+10 , 11 . ( a ) Mɛni Satan bɔɔ mɔde kaa e maa pee kɛ wo wa kɔni mi nyu ?
+( b ) Mɛni Yehowa peeɔ kɛ woɔ wɔ kã konɛ wa ná he wami ?
+E guɔ ma nɔ yeli , osɔfohi , kɛ hemi kɛ yemi kuali a nɔ kɛ woɔ wa he gbeye , nɛ a tuɔ lakpa munyuhi kɛ siɔ ɔ wɔ .
+13 , 14 . ( a ) Benɛ nyɛminyumu ko yo gbo ɔ , mɛni nɛ wo lɛ he wami ?
+Jã kɛ̃ nɛ e ji mwɔnɛ ɔ .
+Sɔlemi kɛ dɛ he ní kasemi ji nɔ́ nɛ ye bua mi wawɛɛ .
+Yemi kɛ buami nɛ nyɛmimɛ kɛ ha mi ɔ hu wo ye bua wawɛɛ .
+I ba na nɔ́ he je nɛ e he hia kaa wa ha nɛ huɛ bɔmi kpakpa nɛ hi waa kɛ Yehowa wa kpɛti loko waa kɛ haomi ko nɛ kpe ɔ . ”
+LAHI : 23 , 38
+Yakob kɛ Rahel a he ?
+Yosef he ?
+Paulo he ?
+Mɛni blɔ nɔ Mawu guɔ kɛ tsɔseɔ wɔ konɛ waa hwu kɛ si wa he nyɛli ?
+Jehanɛ hu ɔ , e guɔ Baiblo kasemi womihi , asafo mi kpehi , kpɔmi kpehi , kɛ kpokpa nɔ kpehi a nɔ kɛ yeɔ bua wɔ .
+Mɛni wa maa pee konɛ yayami ko ye wa nɔ ?
+( b ) Mɛnɔmɛ a he wa ma susu ?
+Mɛni ye bua Yakob nɛ e nyɛ nɛ e fĩ si ɔ , nɛ mɛni se e ná ?
+( Kane 1 Mose 32 : 24 - 28 . )
+( Hyɛ kuku 10 , 11 )
+Mɛni ye bua Kristofohi enyɔ komɛ nɛ a ye akɔnɔ yaya nɔ ?
+E de ke : “ Enɛ ɔ he ɔ , i susu kaa benɛ je ngɛ jɔe nɛ je ngɛ nae ɔ , ma nyɛ ma ya nɔ ma ye anɔkuale .
+I naa Yehowa si kaa e guɔ e we asafo ɔ nɔ kɛ yeɔ bua wɔ konɛ waa ye anɔkuale daa ligbi ngɛ je yaya nɛ ɔ mi . ”
+Mo susu nyɛmiyo ko nɛ ngɛ United States ɔ hu he nɛ o hyɛ .
+E ngma ke : ‘ I naa nyɛ si kaa be fɛɛ be ɔ , nyɛ haa wɔ níhi nɛ wa hia ngɛ be nɛ sa mi .
+Behi fuu ɔ , e peeɔ mi kaa a ngma munyu nɛ ɔmɛ kɛ ha mi .
+Jehahi fuu ji nɛ ɔ nɛ i ngɛ mɔde bɔe kaa ma hwu kɛ si akɔnɔ yaya ko nɛ Yehowa sume .
+Be komɛ ɔ , e peeɔ mi kaa ma kpa ye he haomi .
+I le kaa Yehowa naa nɔ mɔbɔ , nɛ e kɛ yayami paa , se akɛnɛ akɔnɔ yaya nɛ ɔ ngɛ ye tsui mi tɔɔ nɛ i kua we he je ɔ , e peeɔ mi kaa i sɛ nɔ nɛ Yehowa yeɔ bua lɛ .
+Enɛ ɔ ji nɔ́ ko nɛ e sa kaa ma hwu kɛ si daa ligbi .
+( a ) Kɛ Paulo na e gbɔjɔmi ɔmɛ ha kɛɛ ?
+Kane Roma Bi 7 : 21 - 25 .
+LAHI : 34 , 29
+Mɛni Mawu Mlaa a nɛ e kɛ ha Israel bi ɔmɛ ɔ tsɔɔ wɔ ngɛ he dlami he ?
+( Kane 5 Mose 22 : 5 . )
+Mɛni ma nyɛ maa ye bua Kristofohi konɛ a nyɛ nɛ a pee juɛmi nɛ da ngɛ tade womi he ?
+Mɛni be nɛ e he hia wawɛɛ kaa waa wo tade nɛ sa a ?
+Ngɛ anɔkuale mi ɔ , tade ko nɛ sa ngɛ ma ko nɔ ɔ be nɔ́ nɛ sa pee ngɛ ma kpa nɔ .
+Kane 1 Korinto Bi 10 : 31 .
+Kane Filipi Bi 2 : 4 .
+( Kane 1 Korinto Bi 10 : 32 , 33 . )
+Mɛni ji ní komɛ nɛ ma nyɛ maa tsɔɔ kaa e da blɔ kaa nɔ ko maa to kpɛni aloo e dɛ blɔ ?
+Mose Mlaa a tsɔɔ kaa e sa nɛ nyumuhi nɛ a to kpɛni .
+Kɛ e sa kaa wa he dlami nɛ ha nihi nɛ a na wɔ ha kɛɛ ?
+LAHI : 41 , 11
+Nɛ a susu kaa sukuu bi ɔmɛ tsuo heɔ su tsakemi tsɔɔmi ɔ yeɔ . ”
+Nyɛmiyo wayoo ko nɛ e ngɛ France ɔ de ke : “ E peeɔ ye tsɔɔli ɔmɛ nyakpɛ kaa sukuu bi komɛ ngɛ nɛ loloolo ɔ , a heɔ Baiblo ɔ yeɔ . ”
+1 : 20 .
+I kase womiyo nɛ ɔmɛ si abɔ . ”
+Munyu nɛ ɔmɛ tsɔɔ kaa ga ní tsulɔ kpanaa ko ma nyɛ maa hyɛ adebɔ níhi a nɔ kɛ pee nɔ́ ko , se nɔ́ nɛ e maa pee ɔ kɛ adebɔ níhi nɛ a ngɛ nyakpɛ ɔ be nyɛe maa sɔ kɔkɔɔkɔ . ”
+Mɛni he je nɛ Mawu suɔ kaa o kɛ o juɛmi nɛ to níhi a he ɔ ?
+Ohoo !
+( Kane Roma Bi 12 : 1 , 2 ; 1 Timoteo 2 : 4 . )
+I to ye tsui si nɛ i susu bɔ nɛ gbami nɛ kɔɔ Hetsɔmi niye ní ɔ he ɔ ngɛ nyakpɛ ha a he ! ”
+Mɛni he je nɛ nyɛmiyo ɔ de jã a ?
+( Kane La 19 : 7 - 11 . )
+Wa náa tue mi jɔmi , wa peeɔ kake , nɛ wa náa suɔmi kɛ haa wa sibi . ”
+Nɛ ni komɛ hu he we Mawu yi hu , ejakaa jami nɛ a ngɛ mi ɔ sisi mɛ .
+E de hu ke : “ Ke o susu bɔ nɛ wami yiblii ngɛ ha a he ɔ , e ngɛ nyakpɛ wawɛɛ . ”
+E ngma ke : “ Tsu tsuaa tsu ɔ , nɔ ko nɛ fiaa ; se Mawu lɛ bɔ níhi tsuo . ”
+LAHI : 41 , 48
+Mɛni he je nɛ e sa kaa o le o bimɛ ɔmɛ saminya a ?
+Wa bimɛ ɔmɛ náa hemi kɛ yemi bɔɔbɔɔbɔɔ . ”
+E biɔ mi ke : ‘ Mɛni Baiblo ɔ tsɔɔ ? ’
+‘ Anɛ o heɔ nɔ́ nɛ Baiblo ɔ tsɔɔ ɔ yeɔ lo ? ’
+‘ Mɛni he je nɛ o heɔ yeɔ ? ’
+E suɔ nɛ ma ngɔ imi nitsɛ ye munyu kɛ ha heto , se pi nɛ ma tĩ e munyu , aloo ye yayo munyu ɔ mi .
+Benɛ i ngɛ wae ɔ , a haa nɛ i tsɔɔ ye heto ɔmɛ a mi . ”
+( Kane Luka 2 : 46 . )
+A kɛ Baiblo ɔ ha ye sane bimi ɔmɛ tsuo a heto . ”
+( Kane 5 Mose 6 : 5 - 8 ; Luka 6 : 45 . )
+Lɔ ɔ he ɔ , ke ní nyafinyafihi nɛ a be hwanyaa lɛ a tsakeɔ ba peeɔ ní nguanguahi ɔ , lɛɛ mɛni he je nɛ blema lohwe nɛ ɔmɛ ngɛ hwanyaa a ?
+I kase nɔ́ ko ngɛ lohwe nɛ ɔmɛ a he wawɛɛ , nɛ i kɛ ye bi ɔ sɛɛ he ní . ”
+E de jokuɛ nyumuwi ɔmɛ kaa a ti nɔ tsuaa nɔ nɛ pee tea ha lɛ .
+Binyɛ ɔ de ke : “ A susuɔ ye he wawɛɛ , enɛ ɔ he ɔ , a pee lɛ saminya .
+Benɛ i bi mɛ kaa mɛni he je nɛ a to a tsui si kɛ pee lɛ saminya a , a tsɔɔ kaa a le bɔ nɛ i suɔ ye tea ha , nɛ a suɔ kaa a pee lɛ jã pɛpɛɛpɛ .
+I ha nɛ a na kaa Mawu hu le nɔ́ nɛ maa hi ha wɔ , enɛ ɔ he je nɛ e to e tsui si nɛ e ngɔ kɔɔhiɔ slɔɔtoslɔɔtohi kɛ wo je ɔ mi ɔ nɛ . ”
+Anɛ lohwe pɛlitsɛmɛ ngɛ blɔ pɔtɛɛ ko nɛ a guɔ nɔ kɛ ba maa zugba lo ?
+Nɛ kɛ o kɛ kɔɔhiɔ mi lɛhi a pɛmi maa to lohwe pɛlitsɛ pɛmi he ha kɛɛ ?
+Bitsɛ ko de ke , “ Moo ya nɔ nɛ o hla blɔ kpahi nɛ o maa gu nɔ kɛ tsɔɔ o bimɛ munyu ko nɛ nyɛ susu he momo ɔ mi . ”
+Kɛ je a jokuɛwi a si ɔ , i kɛ mɛ kaseɔ ní hɛngmɛfia 15 daa ligbi , ja ligbi nɛ wa maa ya asafo mi kpehi pɛ nɛ wa kase we ní .
+Se bɔɔbɔɔbɔɔ , asafo mi kpehi , weku Mawu jami , kɛ dɛ he ní kasemi ha nɛ i ba nu ní nɛ ɔmɛ a sisi .
+Enɛ ɔ he je nɛ e he hia wawɛɛ kaa fɔli nɛ a ya nɔ nɛ a tsɔɔ a bimɛ ní ɔ nɛ . ”
+Mo ha nɛ o bimɛ ɔmɛ nɛ a na kaa o he ye kaa Yehowa ngɛ .
+Fɔli ɔmɛ de ke , “ Wa deɔ wa biyo nɔkɔtɔma a ke , ‘ Moo ngɔ o hɛ kɛ fɔ Yehowa nɔ kulaa , moo bɔ mɔde ngɛ Matsɛ Yemi sɔmɔmi ní tsumi ɔ mi , nɛ koo ye tsui tsɔ . ’
+Ke e kɛ ga womi ɔ tsu ní , nɛ e na kaa nɔ́ kpakpa ko je mi kɛ ba a , e le kaa Yehowa lɛ ngɛ wɔ ye buae .
+Enɛ ɔ ha nɛ hemi kɛ yemi nɛ e ngɛ ngɛ Mawu kɛ Baiblo ɔ mi ɔ mi wa wawɛɛ . ”
+Munyuhi enyɔ nɛ ɔmɛ maa ye bua wɔ konɛ waa nu sisi .
+Thomas Mclain nya mi munyu
+Ha nɛ ma bɔ mo nɔ́ nɛ ngɔ ní sɛɛmi nɛ ɔ kɛ ba a .
+A FƆ mi ngɛ Wichita nɛ ngɛ Kansas ngɛ U.S.A . ngɛ December 10 , 1936 . Imi ji ye fɔli ɔmɛ a bi tɛte , nɛ i ngɛ se nihi etɛ .
+Kɛkɛ nɛ benɛ ta bulɔ ko ba be ngɛ lejɛ ɔ , dɔkita a kpa ngmlaa kɛ de lɛ ke , “ O be fɔ̃lɔ nɛ ɔ nɔ́ ko pee lo ? ”
+Ta bulɔ ɔ na kaa nyumu ɔ tɔ dã , enɛ ɔ he ɔ , e de lɛ ke “ Jee hiɛ ɔ kɛ ho we mi ya , nɛ o ha dã a nɛ je o hɛ mi ! ”
+Kɛkɛ nɛ mɛ ni enyɔ ɔmɛ tsuo je .
+Ye papaa ngɛ yi sɛmi he enyɔ ngɛ Wichita , nɛ dɔkita nɛ ɔ hu ba sɛɛ e yi ngɛ lejɛ ɔ !
+I kɛ ye fɔli ɔmɛ nɛ wa yaa kpokpa nɔ kpe ko ngɛ Wichita ngɛ jeha 1940 ɔ mi
+A kɛ kã tsu fiɛɛmi ní tsumi ɔ , nɛ Yehowa jɔɔ nɔ , enɛ ɔ he ɔ , a to asafo sisi ngɛ lejɛ ɔ .
+Be komɛ a se ɔ , nyɛmiyo ko nɛ wa ngɛ jeha mi bɔni asafo mi kpe ɔ bami .
+A de wɔ ke wa ya sɔmɔ kaa blɔ gbali klɛdɛɛ ngɛ Walnut Ridge , ngɛ Arkansas .
+Lɔ ɔ se ɔ , ngɛ jeha 1962 ɔ mi ɔ , a fɔ̃ wɔ nine kaa waa ba Gilead Sukuu nɛ ji nyingmi etɛ kɛ kpaagone ɔ .
+Benɛ wa kekleekle biyo nɛ ji Kimberly ye nyɔhiɔ 17 pɛ nɛ wa kpale fɔ e se . E se nɔ ɔ biɛ ji Stephany .
+Jehanɛ hu ɔ , be ngɛ nɛ waa kɛ mɛ jeɔ we mi nɛ wa ya yeɔ ligbi komɛ ngɛ hue tso mi , nɛ ke je jɔ nɛ wa ngɛ la hlue nɛ wa ngɛ ní sɛɛe ɔ , wa bua jɔɔ wawɛɛ .
+Wa to blɔ nya nɛ nyɛmimɛ nɛ a kɛ a be tsuo ngɛ sɔmɔe ɔ ekomɛ ba hi wa we ɔ mi .
+Wa peeɔ weku Mawu jami daa .
+E pee mɛ nyakpɛ wawɛɛ , nɛ a bɔni ya fomi . Enɛ ɔ he ɔ , a de ke a maa suɔ nɛ waa kase ní ɔ .
+Kɛ gu Mawu asafo ɔ blɔ tsɔɔmi kɛ e yemi kɛ buami nɔ ɔ , wa nyɛ nɛ wa tsɔse wa biyi ɔmɛ nɛ a ba suɔ Yehowa .
+Benɛ a kpale ya slaa lejɛ ɔ ekohu ɔ , Kimberly hu na niheyo ko nɛ a tsɛɛ lɛ ke Brian Llewellyn nɛ e kɛ Paul Norton tsuɔ ní .
+Enɛ ɔ he ɔ , mɛ tsuo a po jeha 23 loko a sɛ gba si himi mi .
+Ngɛ jamɛ be ɔ mi nɔuu ɔ , a fɔ Brian kɛ Kimberly hu nine kaa a ya tsu ní ngɛ Betel nɛ ngɛ London ɔ , nɛ lɔ ɔ se ɔ , a ya sɔmɔ ngɛ Betel nɛ ngɛ Malawi ɔ .
+Benɛ wa ya su Watchtower Educational Center nɛ ngɛ Patterson ɔ we jena pɛ nɛ Linda fia wɔ , nɛ e de wɔ ke ye yayo gbo .
+Lɔ ɔ se ɔ , wa ya tsɔɔ gbi sisi tsɔɔli ní ngɛ Zimbabwe kɛ Zambia .
+Ngɛ 2006 ɔ mi ɔ , Brian kɛ Kimberly hu fɔ , nɛ a ba hi wa kasa nya nɔuu kɛ tsɔse a biyi enyɔ nɛ a tsɛɛ mɛ ke Mackenzie kɛ Elizabeth ɔ .
+Paul kɛ Stephany ngɛ sɔmɔe ngɛ Malawi loloolo , nɛ Paul ngɛ sɔmɔe kaa Asafo ɔ Ní Tsumi Kɔni ɔ Ajla Toli ɔmɛ a kpɛti nɔ kake .
+LAHI : 50 , 25
+Mɛni he je nɛ e sa kaa wa tsake juɛmi nɛ wa hɛɛ ngɛ nibwɔhi a he ɔ ?
+Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ pee nibwɔhi kpakpa ?
+I li kaa kɔɔhiɔ ɔ mi maa jɔ kikɛ .
+Benɛ i je kɔɔhiɔ mi lɛhi a si da he ɔ , fiɛ bɔni mi yemi wawɛɛ nitsɛ , nɛ i bɔni ya fomi .
+( Kane 2 Mose 23 : 9 . )
+Yuda bi nɛ a tuɔ Hela gbi ɔ tsɔɔ kaa a hyɛ we a yalɔyi ɔmɛ bɔ nɛ sa .
+Wa le jio , wa li jio , he nɛ wa je ɔ nɛ tsɔɔ bɔ nɛ wa ti nɔ tsuaa nɔ peeɔ e ní ha .
+( Kane 1 Petro 1 : 22 . )
+Mo ná nibwɔhi a he tsui , ejakaa a ngɛ mɔde bɔe kaa a maa kase bɔ nɛ si himi ɔ ngɛ ha ngɛ ma ehe nɛ a ba je mi ɔ mi .
+Eko ɔ , wa be bɔ nɛ a susuɔ níhi a he ha , kɛ bɔ nɛ a peeɔ a ní ha a sisi nue amlɔ nɔuu .
+( Hyɛ kuku 16 , 17 )
+Mɛni nɔ hyɛmi nɔ́ nɛ e sa kaa nihi nɛ a je ma se ɔ nɛ a kase konɛ a je bumi kpo , nɛ a tsɔɔ kaa a bua jɔ níhi a he ?
+Kekleekle ɔ , benɛ e ya je ma kpa nɔ ɔ , e bi blɔ loko e kukuɔ ngma bibliwi ngɛ nɔ ko ngmɔ mi .
+[ 1 ] ( kuku 1 ) A tsake biɛ ɔ .
+LAHI : 142 , 47
+Anɛ o ngɛ gbi kpa kasee lo ?
+( Kane Nehemia 13 : 23 , 24 . )
+( b ) Kɛ wa ma plɛ kɛ su oti nɛ ɔ he ha kɛɛ ?
+E sa nɛ waa le kaa , behi fuu ɔ , ke wa ngɛ wa he dlae konɛ waa ya fiɛɛmi , loo asafo mi kpe , aloo wa ya tu munyu ko ɔ , wa susuɔ ni kpahi a he , se pi wɔ nitsɛmɛ wa he .
+Akɛnɛ i kɛ ye juɛmi ma gbi ɔ kasemi nɔ wawɛɛ he je ɔ , níhi nɛ i kaneɔ ɔ sɛ we ye tsui mi .
+Enɛ ɔ he je nɛ i toɔ be nɛ i kaseɔ Baiblo ɔ , kɛ asafo ɔ womi kpahi ngɛ ye je gbi mi ɔ nɛ . ”
+Muriel de ke , “ Jinɛ ke e ngɛ fiɛɛe ngɛ e je gbi nɛ ji French mi ɔ , e bua jɔɔ wawɛɛ , se amlɔ nɛ ɔ , ke e ngɛ fiɛɛe ngɛ gbi kpa mi ɔ , e peeɔ lɛ tai . ”
+Serge de ke , “ Benɛ wa yɔse kaa he nɛ wa ngɛ sɔmɔe ngɛ ɔ ha nɛ wa binyumu ɔ nyɛ we nɛ e ya e hɛ mi ngɛ Mawu jami mi ɔ , wa ma wa juɛmi nya si kaa wa maa kpale kɛ ho asafo ɔ nɛ wa je mi kɛ ba a mi ya . ”
+Moo bɔ mɔde nɛ o ha anɔkuale ɔ nɛ sɛ o bimɛ ɔmɛ a tsui mi ( Hyɛ kuku 14 , 15 )
+Se wa to fiɛmi komɛ a he blɔ nya , nɛ waa kɛ kaseɔ Lingala gbi ɔ , konɛ wa biyi ɔmɛ a bua nɛ jɔ gbi ɔ kasemi he hulɔ . ”
+Moo bɔ mɔde nɛ o kase gbi nɛ a tuɔ ngɛ he nɛ o ngɛ ɔ , konɛ o ngɔ o he kɛ wo ní kasemi ɔ mi ( Hyɛ kuku 16 , 17 )
+Jehanɛ hu ɔ , waa kɛ oti ko ma wa hɛ mi kaa , daa nyɔhiɔ ɔ , wa maa ya asafo mi kpe si kake ngɛ asafo nɛ a tuɔ French gbi ɔ mi . Nɛ ke blɔ hami be su ɔ , wa yaa kpokpa nɔ kpehi nɛ a peeɔ ngɛ wa je gbi mi ɔ hulɔ . ”
+( Kane Roma Bi 15 : 1 , 2 . )
+Mɛni wa ma nyɛ maa pee kɛ tsɔɔ kaa wa suɔ Mawu Munyu ɔ ?
+LAHI : 54 , 55
+( Kane Kpojemi 21 : 3 - 6 . )
+13 : 14 .
+Mɛni ha Abraham kɛ e weku ɔ a hemi kɛ yemi ɔ mi wa a ?
+Ngɛ mɛni blɔ nɔ nɛ sɔlemi ma nyɛ maa wo wa hemi kɛ yemi mi he wami ?
+( Kane 1 Yohane 5 : 14 , 15 . )
+Mɛni kahi nɛ gbali ɔmɛ a ti ni komɛ kɛ kpe ngɛ a hemi kɛ yemi ɔ he je ?
+Ni komɛ kaa Eliya hu “ wo lalaalo ngɛ nga kplanaa nɔ , kɛ yohi a nɔ . A hi tɛ puɔhi , kɛ muɔhi a mi . ”
+( Kane Hebri Bi 12 : 3 . )
+LAHI : 54 , 43
+Ngɛ mɛni blɔ nɔ Noa nɔ hyɛmi nɔ́ ɔ haa nɛ wa leɔ nɔ́ nɛ hemi kɛ yemi nɛ wa ma ná a tsɔɔ ?
+Mɛni si fɔfɔɛhi a mi nɛ e sa kaa wa je hemi kɛ yemi kpo ngɛ ?
+Mɛni he je nɛ hemi kɛ yemi kɛ suɔmi tsuo he hia a ?
+Ngɛ mɛni blɔ enyɔ nɔ nɛ Hebri Bi 11 : 1 ɔ tsɔɔ hemi kɛ yemi sisi ?
+Tse nyɛ na ! Abraham he ye , nɛ e tsu he ní hulɔ . Ní nɛ e tsu ɔ ha nɛ e hemi kɛ yemi ɔ mi ba wa wawɛɛ nitsɛ . ”
+Kaa nɔ hyɛmi nɔ́ ɔ , Yohane de ke : “ Nɔ nɛ heɔ Bi ɔ yeɔ ɔ , e nine su neneene wami ɔ nɔ ; se nɔ tsuaa nɔ nɛ bui Bi ɔ tue ɔ , e be neneene wami náe . Mawu maa gbla e tue mohu . ”
+( Kane Luka 10 : 21 . )
+Ke waa kɛ hemi kɛ yemi to suɔmi he ɔ , a kpɛti te nɔ́ nɛ he hia wawɛɛ nɛɛ ?
+Akɛnɛ a heɔ Yesu yeɔ ɔ , nimli nɛ ɔmɛ ba pee mumi mi niatsɛmɛ , nɛ matsɛ yemi ɔ nɛ Mawu wo si kaa e ma ha nihi nɛ suɔ lɛ ɔ ba pee a nɔ . ’
+Benɛ ngma a ba wa nɛ e wo yiblii ɔ , hu ɔ hu yi je kpo . ”
+LAHI : 43 , 28
+Ke jã a , lɛɛ mɛni be ?
+Mɛni hɛ nɔ kami nɛ Yehowa ha e we bi , nɛ mɛni he je nɛ si womi nɛ ɔ sa kadimi ɔ ?
+Anɛ be ko maa ba nɛ Israel bi ɔmɛ ma nyɛ ma ja Mawu kɛ pi si ekohu lo ?
+Lɔ ɔ he ɔ , enɛ ɔ tsɔɔ we kaa Babilon Ngua a ngɔ Yehowa we bi nyɔguɛ ngɛ jeha 1918 ɔ mi .
+( Kane 1 Petro 2 : 9 , 10 . )
+( Kane Mateo 13 : 24 , 25 , 37 - 39 . )
+Ngɛ anɔkuale mi ɔ , Babilon Ngua a ngɔ mɛ nyɔguɛ !
+Anɛ be ko maa su nɛ anɔkuale Kristofohi ma nyɛ ma ja Mawu kɛ pi si nɛ nɔ́ ko be a nya tsie lo ?
+Ee !
+LAHI : 10 , 45
+Mɛni be nɛ nihi nɛ a pɔ mɛ nu ɔ ye a he ngɛ Babilon Ngua a he ?
+( Kane Kpojemi 18 : 4 . )
+Baiblo Kaseli nɛ ɔmɛ ngɛ kã wawɛɛ !
+( Hyɛ kuku 6 , 7 )
+Nyɛminyumu Rutherford ha nɛ wa to blɔ nya konɛ a pee kpokpa nɔ kpe ngɛ ma komɛ nɛ a ngɛ United States pu sinɔ he ɔ , nɛ wa ha nɛ munyu tuli nɛ a maa ya lejɛ ɔ nɛ a bɔ mɔde kaa a maa wo nyɛmimɛ ɔmɛ kã . ”
+13 : 15 .
+LAHI : 53 , 45
+Enɛ ɔ he ɔ , i pɔɔ ya fomi nɛ i kɛ mɛ sɛɛ we ní .
+E peeɔ mi kaa se nami ko be ye he . ”
+Benɛ i de lɛ nɔ́ nɛ ngɛ mi pee ɔ , e bu mi tue , nɛ e nu mi sisi .
+Lɔ ɔ se ɔ , e kai mi ní kpakpahi nɛ i ngɛ tsue ɔ .
+Jehanɛ hu ɔ , e kai mi Yesu munyu nɛ tsɔɔ kaa wa ti nɔ tsuaa nɔ he jua wa pe otokliihi babauu ɔ .
+I kaiɔ jamɛ a ngmami ɔ , nɛ e woɔ ye bua wawɛɛ .
+( b ) Mɛni he wa ma susu ngɛ munyu nɛ ɔ mi ?
+Mɛni wa ma nyɛ maa kase ngɛ Yehowa , Yesu , kɛ Paulo nɔ hyɛmi nɔ́ ɔ mi ke wa ngɛ nihi he wami woe ɔ ?
+( Kane Fiɛlɔ 4 : 9 , 10 . )
+Mɛni wa ma nyɛ maa kase ngɛ bɔ nɛ Yesu kɛ e bɔfo ɔmɛ hi si ha a he ?
+Bɔfo Paulo .
+E kɛ mɛ tu munyu , nɛ e wo mɛ he wami . Lɔ ɔ se ɔ , e sɛ mɛ , nɛ e pue nɔ kɛ ho Makedonia ya .
+( Kane Hebri Bi 10 : 24 , 25 . )
+( Kane 1 Tesalonika Bi 5 : 12 , 13 . )
+A woɔ wɔ he wami wawɛɛ . ”
+Bitsɛ ko nɛ a tsɛɛ lɛ ke Andreas nɛ e ngɛ bimɛ enyɔ ɔ de ke : “ Ke wa wo jokuɛwi he wami ɔ , e woɔ mɛ gɛjɛmi , nɛ e haa nɛ a yaa hɛ mi ngɛ Mawu jami mi .
+Ke wa je nihi a yi benɛ wa ngɛ mɛ ga woe ɔ , lɔ ɔ haa nɛ ga womi ɔ nuɔ tso wawɛɛ .
+E ngɛ mi kaa wa bimɛ ɔmɛ le nɔ́ nɛ da mohu lɛɛ , se akɛnɛ wa woɔ mɛ he wami daa he je ɔ , a peeɔ nɔ́ nɛ da be fɛɛ be . ”
+( Kane Luka 21 : 1 - 4 ; 2 Korinto Bi 8 : 12 . )
+( Kane Kpojemi 2 : 18 , 19 . )
+I suɔ nɛ ma de mo kaa , benɛ o ngɛ munyu ɔ tue ngɛ kpoku ɔ nɔ , kɛ benɛ o kɛ mi ngɛ ní sɛɛe tsuo ɔ , i na lɛ kaa e ji nike ní ko nɛ Yehowa kɛ ngɛ mi hae . ”
+[ 1 ] ( kuku 1 ) A tsake biɛ ɔmɛ ekomɛ .
+LAHI : 6 , 24
+( b ) Mɛni he wa ma susu ngɛ ní kasemi nɛ ɔ mi ?
+Benɛ asafo ɔmɛ kɛ blɔ tsɔɔmi ajla toli ɔmɛ a ga womi ɔ tsu ní ɔ , kɛ a ná he se ha kɛɛ ?
+Kane Bɔfo Ɔmɛ A Ní Tsumi 16 : 4 , 5 .
+( Kane 3 Yohane 9 , 10 . )
+( Kane Mateo 5 : 23 , 24 ; 18 : 15 - 17 . )
+6 : 1 .
+LAHI : 37 , 48
+Baiblo ɔ tsɔɔ we .
+Jinɛ i le kaa wa ji huɛmɛ nɛ nyu bi ngɛ wa kpɛti . ’
+Baiblo ɔ tsɔɔ kaa e sa nɛ waa ya asafo mi kpehi daa .
+Tsu mami .
+Anɛ o kɛ jw.org wɛbsaiti ɔ tsuɔ ní ke o ngɛ fiɛɛmi mi , kɛ be nɛ nyɛ ngɛ weku Mawu jami pee lo ?
+( Kane Roma Bi 14 : 12 . )
+kɛ womiyo nɛ ji Mɛnɔmɛ Nɛ A Ngɛ Yehowa Suɔmi Nya Ní Pee Mwɔnɛ ɔ ?
+Mɛni he je nɛ e sa kaa waa na Yehowa si ?
+E sa nɛ waa na Yehowa si ejakaa e pee níhi fuu ha wɔ !
+Jehanɛ hu ɔ , wa maa na bɔ nɛ hɛ nɔ kami nɛ wa ngɛ kaa a maa jɔɔ wɔ ɔ yeɔ bua wɔ ha .
+Denton Hopkinson nya mi munyu
+E je ye yayo he benɛ i ye jeha kpaanyɔ pɛ ɔ .
+Ye papaa sume kaa ye yayo kɛ mi nɛ sɛɛ níhi nɛ e ngɛ kase ɔ he ní .
+Se kɛ̃ ɔ , i suɔ nɛ ma le nɔ́ nɛ e ngɛ kase ɔ , enɛ ɔ he ɔ , ye yayo kɛ mi kaseɔ ní bemi nɛ ye papaa be we mi .
+Enɛ ɔ he ɔ , imi hu i ma ye juɛmi nya si kaa ma jɔɔ ye he nɔ kɛ ha Yehowa .
+Ye yayo de mi kaa ma ya de nyɛmimɛ a sɔmɔlɔ ɔ kekle ( amlɔ nɛ ɔ , a tsɛɛ mɛ ke kpɔ mi nɔ hyɛli ) .
+Nyɔhiɔ eywiɛ se ɔ , i na nyɛmi nyumu ko nɛ e ji blɔ gbalɔ , nɛ i kɛ lɛ peeɔ kake kɛ yaa fiɛɛmi .
+Ye yayo kɛ nyɛmiyo ko tsu blɔ gbami ní tsumi ɔ ngɛ asafo kpa mi .
+Ngɛ jeha 1951 ɔ mi ɔ , i ngma womi nɔ ní kaa i suɔ nɛ ma ya Watchtower Gilead Baiblo Sukuu ɔ eko .
+Benɛ i ngɛ tsu ɔ mi ɔ , ye nine su sɛ womi nɔ kaa ma nyɛ ma ba Gilead Sukuu nɛ ji nyingmi enyɔ kɛ enyɔne ɔ .
+I wo tlee kɛ ya he nɛ a ngɛ sukuu ɔ pee ngɛ ɔ ngɛ South Lansing , ngɛ New York .
+I kɛ ye yo Janet ngɛ wo kpɔhi nɛ ngɛ Philippines ɔ eko nɔ
+Loloolo ɔ , wa ngɛ sɔmɔe ngɛ asafo ɔ ní tsumi kɔni nɛ ngɛ Quezon City ɔ
+LAHI : 38 , 23
+Mɛni wa ma nyɛ maa pee konɛ wa ná “ Mawu he jɔmi ” ɔ ?
+Ngɛ mɛni blɔ nɔ nɛ asafo ɔ ma nyɛ maa ye bua mo konɛ o ko pee yeyeeye tsɔ ?
+( Moo hyɛ foni nɛ ngɛ ní kasemi ɔ sisije ɔ . ) ( b ) Mɛni he wa ma susu ngɛ munyu nɛ ɔ mi ?
+Se mɛni blɔ nɔ wa ma nyɛ maa gu kɛ pee jã ?
+La polɔ David kpa Yehowa pɛɛ ke : “ Mawu , bu ye kue fami ɔ tue . ”
+Ke wa pee yeyeeye ɔ , mɛni blɔ nɔ nɛ sɔlemi yeɔ bua wɔ ngɛ ?
+Kane Filipi Bi 4 : 6 , 7 .
+Eko ɔ , mo hu o ná jamɛ a níhi a si kpami ɔ .
+( Kane Mateo 11 : 28 - 30 . )
+8 - 12 .
+“ Suɔmi , bua jɔmi , he jɔmi . ”
+“ Tsui si tomi , mi mi himi , kpakpa peemi . ”
+“ Hemi kɛ yemi . ”
+“ He si bami , he nɔ yemi . ”
+Benɛ Yesu de ke , “ Nyɛ ko hao ” ɔ , mɛni e ngɛ hlae maa tsɔɔ ?
+( Moo hyɛ daka nɛ ji “ Ní Komɛ Nɛ O Ma Nyɛ Maa Pee Konɛ O Ko Pee Yeyeeye Tsɔ ” ɔ . )
+FILIPI BI 1 : 10 , 11 , NW
+FIƐLƆ 7 : 16
+MATEO 14 : 23
+O bua nɛ jɔ Yehowa nibɔ níhi a he .
+LA 104 : 24 , 25
+Moo pee níhi nɛ ma ha nɛ o bua nɛ jɔ daa .
+ABƐ 17 : 22
+Moo ka o he mi daa .
+1 TIMOTEO 4 : 8
+MARKO 6 : 31
+Mɛni blɔ nɔ nɛ nɔ́ nɛ Mawu biɛ ɔ tsɔɔ ɔ ma nyɛ maa wo o hemi kɛ yemi mi he wami ngɛ ?
+E biɛ ɔ po sisi ji “ O Deɔ O Peeɔ . ”
+Baiblo ɔ de ke : “ Tsui yemi ha we nɔ bua jɔmi , se munyu kpakpa haa nɔ bua jɔɔ e he . ”
+Mɛni he je nɛ o ma nyɛ ma ná nɔmi mami kaa huɛ bɔmi nɛ ngɛ o kɛ Yehowa nyɛ kpɛti ɔ ma nyɛ maa wo mo he wami ɔ ?
+( a ) Kɛ wa ma plɛ kɛ ngɔ wa haomi ɔmɛ kɛ fɔ Mawu nɔ ha kɛɛ ?
+LAHI : 26 , 55
+Kɛ wa ma plɛ kɛ ná nɔ mi mami kaa Yehowa jɔɔ ɔ e sɔmɔli ha kɛɛ ?
+Mɛni blɔ nɔ Yehowa gu kɛ jɔɔ e sɔmɔli nɛ a hi si blema a ?
+Mɛni jɔɔmihi lɛ Yehowa haa nɛ wa náa ?
+1 , 2 . ( a ) Mɛni tsakpa lɛ ngɛ suɔmi kɛ hemi kɛ yemi a kpɛti ?
+Se mɛni blɔ nɔ nɛ hɛ kɛ nɔ fɔmi nɛ wa ngɛ kaa a maa jɔɔ wɔ ɔ yeɔ bua wɔ ngɛ ?
+( Kane Mateo 6 : 33 . )
+Yesu tsɔɔ kaa a maa jɔɔ e kaseli ɔmɛ ngɛ níhi nɛ a kɛ sã afɔle ɔ he je ( Hyɛ kuku 5 )
+Be ko ɔ , bɔfo Petro bi Yesu ke : “ Hyɛ , wɔɔ lɛɛ wa si nɔ́ tsuaa nɔ́ , nɛ wa ba nyɛɛ o se . Mɛni wa ma na mɔ ? ”
+Yesu de ngɛ e Yoku ɔ Nɔ Fiɛɛmi ɔ mi ke : “ Nyɛ nya , nɛ nyɛ ná bua jɔmi , ejakaa nyɛ hiɔwo nɛ ngɛ hiɔwe ɔ kle agbo . Gbali nɛ sɛ nyɛ hlami ɔ kikɛ nɛ ɔ nɔuu a wa mɛ yi mi . ”
+Mose de Israel bi ɔmɛ ke : ‘ Yehowa , o Mawu ɔ maa gbaa mo ngɛ zugba a nɛ e ngɔ kɛ ngɛ mo hae kaa o weto ní ɔ nɔ . Ke o maa bu Yehowa , o Mawu ɔ gbi tue , nɛ o maa ye nɔ́ tsuaa nɔ́ nɛ i ngɛ mo he mlaa woe mwɔnɛ ɔ nɔ pɛpɛɛpɛ ɔ , o be ohia yee .
+Yehowa maa gbaa mo kaa bɔ nɛ e wo si ɔ . ’
+Kɛ Yehowa plɛ kɛ jɔɔ Yosef ha kɛɛ ?
+E wo enyɔne ɔ Efraim , nɛ e de ke , ‘ Mawu ha nɛ i wo ngmɛdu ngɛ zugba nɛ i na amanehlu ngɛ nɔ ɔ nɔ . ’ ”
+Mawu Munyu ɔ de ke : “ Akɛnɛ e le bua jɔmi nɛ e ma ná pee se he je ɔ , gbenɔ nɛ e ma gbo ngɛ sɛumi tso ɔ nɔ ɔ pi zo nɔ́ ko kulaa kɛ ha lɛ . ”
+Yesu bua jɔ , ejakaa e nyɛ nɛ e tsɔ Mawu biɛ ɔ he .
+Kɛ Yehowa naa níhi nɛ wa peeɔ haa lɛ ɔ ha kɛɛ ?
+Be komɛ ɔ , e guɔ wa nyɛmimɛ nyumuhi kɛ yihi a nɔ kɛ yeɔ bua wɔ . Yehowa bua jɔɔ ke ji wa je mi mi jɔmi kpo kɛ tsɔɔ ni kpahi .
+Nɛ e wo si kaa lɛ nitsɛ e maa wo wɔ hiɔ .
+( Kane 1 Yohane 3 : 19 , 20 . )
+Mɛni ji jɔɔmi komɛ nɛ wa náa amlɔ nɛ ɔ ?
+Kɛ Yehowa sɔmɔli naa jɔɔmihi nɛ a nine suɔ nɔ ɔ ha kɛɛ ?
+Kaa nɔ hyɛmi nɔ́ ɔ , nyɛmiyo ko nɛ a tsɛɛ lɛ ke Bianca nɛ e je Germany ɔ de ke : “ I naa Yehowa si wawɛɛ kaa e piɛɛɔ ye he , nɛ e yeɔ bua mi nɛ i nyɛɔ tsuɔ nyagbahi nɛ i kɛ kpeeɔ daa ligbi ɔ a he ní .
+Be fɛɛ be nɛ i kɛ nɔ́ ko maa sã afɔle ngɛ Yehowa sɔmɔmi he ɔ , e toɔ mi nane mi si lafahi abɔ . ”
+I ngɔɔ womi ko nɛ i ngma ngmamihi kɛ níhi nɛ i kase ngɛ wa womi ɔmɛ a mi ɔ kɛ wo mi ɔ kɛ yaa he tsuaa he nɛ i yaa , nɛ be tsuaa be nɛ ma hyɛ mi ɔ , e woɔ mi he wami .
+I tsɛɛ womi nɛ ɔ ke ‘ Ye Womi Nɛ Woɔ Ye Bua . ’
+Ke waa kɛ wa juɛmi ma Yehowa si womi ɔmɛ a nɔ ɔ , wa maa na wa nyagba amɛ kaa a ji níhi nɛ maa hi si be bɔɔ ko kɛkɛ .
+Yehowa pee klaalo kaa si fɔfɔɛ tsuaa si fɔfɔɛ nɛ wa ma ya je mi ɔ , e maa ye bua wɔ . ”
+Se kɛ̃ ɔ , o ma nyɛ ma susu blɔhi a nɔ nɛ Yehowa gu kɛ jɔɔ o kɛ ni kpahi ɔ he .
+LAHI : 2 , 29
+( Kane Yuda 4 . )
+Ngɛ mɛni blɔ nɔ nɛ Paulo kɛ ni kpahi ye a he ngɛ yayami kɛ gbenɔ dɛ mi ?
+( Kane Roma Bi 6 : 1 , 2 . )
+Mɛni juɛmi lɛ e he hia nɛ wɔ tsuo waa pee ?
+( Kane Roma Bi 7 : 21 - 23 . )
+Mɛni he je nɛ o suɔ nɛ o ye anɔkuale ɔ ?
+( Kane Abɛ 14 : 5 ; Efeso Bi 4 : 25 . )
+( Hyɛ kuku 19 )
+LAHI : 22 , 52
+( Kane Roma Bi 4 : 20 - 22 . )
+Kane Roma Bi 8 : 4 - 13 .
+( Kane Bɔfo Ɔmɛ A Ní Tsumi 18 : 2 - 4 ; 20 : 20 , 21 , 34 , 35 . )
+5 : 5 .
+2 : 12 .
+1 : 5 .
+2
+1
+Nihi fuu ya slaa si ngɛ Aveiro nɛ ngɛ Portugal yiti je ɔ , nɛ a ya hyɛɛ he nɛ a peeɔ ngo ngɛ ɔ .
+© 2017 Watch Tower Bible and Tract Society of Pennsylvania
+Yesu Kristo ji Matsɛ Yemi nɛ ɔ nya Matsɛ .
+Mɛni je mi kɛ ba ?
+Ngɛ munyu nɛ ɔ mi ɔ , wa maa na bɔ nɛ waa kɛ he blɔ nɛ a kɛ peeɔ nɔ́ nɛ nɔ suɔ ɔ ma tsu ní ha konɛ Mawu , nɔ nɛ ha wɔ nike ní nɛ ɔ bua nɛ jɔ .
+Kekleekle munyu ɔ tsɔɔ nɔ́ nɛ humi peemi tsɔɔ kɛ nɔ́ nɛ e tsɔɔ we .
+32 Anɛ O Le Lo ?
+LAHI : 49 , 18
+Noa .
+David .
+Kɛ Yehowa suɔ nɛ waa ngɔ wa nyɛmihi kɛ tsu ní ha kɛɛ ?
+E ngɛ heii kaa , Yehowa suɔ nɛ waa pee níhi nɛ ma nyɛ ha nɛ waa kɛ ni kpahi tsuo wa bua nɛ jɔ .
+Mɛni fã tɔmihi nɛ adesahi ngɛ ?
+Ngɛ Noa be ɔ mi ɔ , “ basabasa ngɛ je ɔ mi he tsuaa he , ” nɛ je mi bami yaya pɔ he wawɛɛ .
+Nihi teɔ si kɛ woɔ wɔ ngɛ wa fiɛɛmi ní tsumi ɔ mi ( Hyɛ kuku 6 - 9 )
+6 , 7 . ( a ) Mɛni nɛ Noa be nyɛe maa pee ?
+( b ) Ngɛ mɛni blɔ nɔ wa si fɔfɔɛ ɔ ngɛ kaa Noa nɔ́ ɔ ?
+Wɔ hu wa ngɛ je ko nɛ yayami peemi hyi lɛ tɔ ɔ mi , nɛ wa le kaa Yehowa wo si kaa e ma kpata je nɛ ɔ hɛ mi .
+Amlɔ nɛ ɔ , wa be nyɛe maa nyɛ nihi a nɔ kaa a kplɛɛ ‘ sane kpakpa nɛ kɔɔ Matsɛ Yemi ɔ he ɔ ’ nɔ .
+2 : 3 .
+Nɔ́ nɛ Noa nyɛ pee : Noa ha we nɛ níhi nɛ e be nyɛe maa pee ɔ nɛ jɔ̃ e kɔni mi , mohu ɔ , e ngɔ e juɛmi kɛ ma nɔ́ nɛ e ma nyɛ maa pee ɔ nɔ .
+Kɛ wa ma plɛ kɛ kase Noa ha kɛɛ ?
+Benɛ e ba lɛ jã a , mɛni David pee ?
+Yayamihi nɛ wa pee be ko nɛ be ( Hyɛ kuku 11 - 14 )
+11 , 12 . ( a ) Benɛ David tɔ̃ se ɔ , mɛni e nyɛ we nɛ e pee ?
+Mɛni wa ma nyɛ maa kase ngɛ David nɔ hyɛmi nɔ́ ɔ mi ?
+( Kane Yakobo 5 : 14 - 16 . )
+Hiɔ ( Hyɛ kuku 15 )
+Mɛni wa ma nyɛ maa kase ngɛ Hana nɔ hyɛmi nɔ́ ɔ mi ?
+( 1 Sam . 8 : 1 - 3 ) E sa nɛ e ngɔ sane ɔ kɛ ha Yehowa .
+Kaa nɔ hyɛmi nɔ́ ɔ , mo susu nyɛminyumu Malcolm nɛ e ye anɔkuale kɛ ya si gbenɔ mi ngɛ jeha 2015 ɔ mi ɔ he nɛ o hyɛ .
+Ngɔɔ o juɛmi kɛ ma níhi nɛ o ma nyɛ maa pee ɔ nɔ , se pi níhi nɛ o be nyɛe maa pee ɔ nɔ . ”
+( b ) Kɛ o ma plɛ kɛ ngɔ jeha 2017 jeha ngmami ɔ kɛ tsu ní ngɛ o si himi mi ha kɛɛ ?
+Wa jeha 2017 jeha ngmami ɔ ji : ‘ Ngɔɔ O Hɛ Kɛ Fɔ Yehowa Nɔ Nɛ O Pee Kpakpa . ’ ​ — La 37 : 3
+LAHI : 31 , 32
+Mɛni nike ní nɛ he jua wa lɛ Yehowa ha wa ti nɔ tsuaa nɔ ?
+Ke nihi mwɔ a yi mi kpɔ ngɛ nɔ́ ko he ɔ , mɛni wa ma nyɛ maa pee kɛ tsɔɔ kaa wa ngɛ bumi kɛ ha mɛ ?
+( Kane Yoshua 24 : 15 . )
+4 , 5 . ( a ) Mɛnɔ ji kekleekle nɔ nɛ Mawu ha lɛ he blɔ kaa e hla nɔ́ nɛ e suɔ , nɛ kɛ e kɛ nike ní nɛ ɔ tsu ní ha kɛɛ ?
+( b ) Mɛni sane bimi nɛ e sa kaa wa ti nɔ fɛɛ nɔ nɛ bi e he ?
+Anɛ wa ma nyɛ maa pee jã lo ?
+Sane bimi nɛ ɔ heto ɔ ma nyɛ maa tsɔɔ kaa wa ma ná neneene wami loo wa be náe .
+Ngɛ anɔkuale mi ɔ , o maa ye tsui .
+Mawu ngɔ lohwe ɔmɛ kɛ ba ha Adam , nɛ ‘ Adam wo lohwe ɔmɛ tsuo biɛ . ’
+Wɔ hu wa ma nyɛ maa hla kaa wa ma sɔmɔ Yehowa .
+Mɛni e sɛ kaa waa ngɔ he blɔ nɛ wa ngɛ ɔ kɛ pee kɔkɔɔkɔ ?
+Ngɔɔ lɛ kaa o ha o huɛ ko nike ní ko nɛ he jua wa .
+Kaa Kristofohi ɔ , mɛni e sɛ kaa waa ngɔ he yemi nɛ wa ngɛ ɔ kɛ pee ?
+( Kane 1 Petro 2 : 16 . )
+Mɛni wa kaseɔ ngɛ sisi tomi mlaa nɛ ngɛ Galatia Bi 6 : 5 ɔ mi ?
+Mo kai sisi tomi mlaa nɛ ngɛ Galatia Bi 6 : 5 .
+Mɛni blɔ nɔ o maa gu kɛ tsɔɔ kaa o bua jɔ he blɔ nɛ o ngɛ kaa o maa hla nɔ́ nɛ o suɔ ɔ he ?
+LAHI : 38 , 11
+Mɛni he je nɛ humi peemi he hia a ?
+Mɛni tsakpa lɛ ngɛ humi peemi kɛ he si bami a kpɛti ?
+( a ) Kɛ nihi fuu naa humi peemi ha kɛɛ ?
+Mɛni ji humi peemi , nɛ mɛni e tsɔɔ we ?
+( Kane Abɛ 11 : 2 . )
+Mo ha enɛ ɔ he nɔ hyɛmi nɔ́ nɛ ngɛ Baiblo ɔ mi .
+Mɛni he je nɛ e sɛ nɛ waa kojo nihi ɔ ?
+Ke a tsake wa ní tsumi ɔ , mɛni wa ma nyɛ maa kase ngɛ Yesu nɔ hyɛmi nɔ́ ɔ mi ?
+( Hyɛ kuku 12 - 14 )
+LAHI : 48 , 1
+konɛ waa le bɔ nɛ wa maa pee wa ní ha ke a ngɛ wa he guɛ gbee aloo a ngɛ wa yi jee ?
+Yehowa bua jɔɛ nɔ́ nɛ e pee ɔ he .
+( Kane Mika 6 : 8 . )
+Mɛni wa maa kase ngɛ munyu nɛ ɔ mi ?
+( Kane Galatia Bi 6 : 4 , 5 . )
+( Kane Fiɛlɔ 11 : 4 - 6 . )
+Wa ma susu ni kpahi a he kekle .
+Mɛni maa ye bua wɔ konɛ waa ba wa he si daa ?
+LAHI : 42 , 53
+Kɛ nihi fuu buɔ a ní tsumi ha kɛɛ ?
+Mɛni he je nɛ e yeɔ ha ni komɛ kaa a kɛ ní tsumi maa wo ni kpahi a dɛ ɔ ?
+Yehowa de Natan kaa e de David ke : “ Pi mo ji nɔ nɛ maa po we ha mi nɛ ma hi mi . ”
+Benɛ Yehowa kɛ blɔ tsɔɔmi ha David ɔ , kɛ David pee e ní ha kɛɛ ?
+Kane 1 Kronika 22 : 5 .
+( Kane 4 Mose 11 : 24 - 29 . )
+I ná jinɛ Yehowa ngɔ e mumi ɔ ngɔ ha e ma a tsuo , nɛ mɛ tsuo a kpa ngmlaa kaa gbali ! ’
+( Kane Filipi Bi 2 : 20 - 22 . )
+Wa ngɛ be ko nɛ sa kadimi wawɛɛ mi .
+3 Yehowa Yi Mi Tomi Maa Ba Mi !
+Douglas Guest nya mi munyu
+Asafo ɔ ní tsumi kɔni ɔ ngɔ womi tɛtlɛɛhi 800 kɛ mane wɔ konɛ wa kɛ tsu fiɛɛmi ní tsumi ɔ .
+I ya tsɔɔ ní ngɛ Manaus , Belém , Fortaleza , Recife , kɛ Salvador .
+Ngɛ August 1964 ɔ , wa ya hia si ngɛ Lisbon ngɛ Portugal .
+Asafo nɛ ɔ pɛ nɛ ngɛ sane kpakpa a nɛ kɔɔ Mawu Matsɛ Yemi ɔ he ɔ fiɛɛe kaa bɔ nɛ Yesu fã e kaseli ɔmɛ kaa a pee ɔ ! ”
+Nyɛminyumu Douglas Guest ye Yehowa anɔkuale , nɛ e gbo ngɛ October 25 , 2015 ɔ be mi nɛ a ngɛ munyu nɛ ɔ ngmae ɔ .
+LAHI : 152 , 22
+mumi klɔuklɔu ɔ wo mɛ he wami ?
+Mawu Munyu ɔ tsɔɔ mɛ blɔ ?
+Mɛni wo Mose he wami nɛ e nyɛɛ Israel bi ɔmɛ a hɛ mi ɔ ?
+Mumi klɔuklɔu ɔ wo nihi nɛ a daa si ngɛ Mawu nane mi ɔ he wami .
+( Kane Yesaya 63 : 11 - 14 . )
+( 5 Mose 34 : 9 ) ‘ Yehowa mumi ɔ ba Gideon nɔ . ’
+( Many . 6 : 34 ) Nɛ ‘ Yehowa mumi ɔ ba David nɔ . ’
+Mɛni he je nɛ Mawu suɔ kaa e we bi nɛ a je bumi kpo kɛ tsɔɔ Israel hɛ mi nyɛɛli ɔmɛ ɔ ?
+( Kane Hebri Bi 1 : 7 , 14 . )
+Ngɛ mɛni blɔ nɔ nɛ Yehowa Mlaa a tsɔɔ Mose blɔ ?
+Mawu Munyu ɔ tsɔɔ e nane mi dali ɔmɛ blɔ .
+Baiblo ɔ tsɛɔ Mlaa a nɛ a kɛ ha Israel bi ɔmɛ ke “ Mose mlaa a . ”
+“ Benɛ matsɛ Yosia nu mlaa womi ɔ mi munyuhi nɛ a ngɛ kanee ɔ , e kɛ aywilɛho hía e tade ɔmɛ . ”
+Niinɛ , Yehowa ji nɔ nɛ ngɛ e we bi blɔ tsɔɔe .
+Mɛni he je nɛ Yehowa gbla nihi nɛ a nyɛɛ e we bi a hɛ mi ɔ a ti ni komɛ a tue ɔ ?
+Yehowa gbla hɛ mi nyɛɛli nɛ ɔmɛ a ti ni komɛ a tue , nɛ e kɛ ni kpahi ba da ni komɛ hu a nane mi .
+( Kane Mateo 23 : 10 . )
+Mɛni tsɔɔ kaa mumi klɔuklɔu ɔ lɛ wo Yesu he wami ?
+Mumi klɔuklɔu ɔ wo Yesu he wami .
+( Hyɛ kuku 17 )
+Benɛ a baptisi Yesu se pɛ ɔ , “ bɔfohi ba nɛ a ba sɔmɔ lɛ . ”
+Benɛ e piɛ ngmlɛfia bɔɔ ko nɛ Yesu ma gbo ɔ , “ bɔfo je hiɔwe ba je e he kpo tsɔɔ lɛ , nɛ e wo lɛ he wami . ”
+Ngɛ mɛni blɔ nɔ nɛ Yesu hi si ngɛ Mawu Munyu ɔ nya , nɛ e ha nɛ e tsɔɔmi ɔmɛ hu da Mawu Munyu ɔ nɔ ?
+Mawu Munyu ɔ tsɔɔ Yesu blɔ .
+Yaka gu a jaa mi , ejakaa tsɔɔmihi nɛ a tsɔɔ ji mlaahi nɛ nimli pee . ”
+Nɔ kpakpa ko be kaa ja Mawu pɛ . ”
+“ Ligbi pɔtɛɛ ko nɛ Herode nitsɛ to ɔ , e wo e we ablade tade ɔ , nɛ e ya hi matsɛ sɛ ɔ nɔ , nɛ e kɛ ma a tu munyu .
+Mɛni he wa ma susu ngɛ munyu nɛ nyɛɛ se ɔ mi ?
+Wa maa na sane bimi nɛ ɔmɛ a heto ngɛ munyu nɛ nyɛɛ se ɔ mi .
+Eko ɔ , Mose nitsɛ lɛ ngma womi nɛ ɔ .
+LAHI : 43 , 146
+Mɛni a maa pee ?
+Mɛni he je nɛ hlami nɛ a hla Matias ɔ he hia Yesu bɔfo ɔmɛ kɛ Yehowa wawɛɛ ɔ ?
+Kaa blɔ tsɔɔmi ajla toli ɔ , a ngɔɔ blɔ tsɔɔmi kɛ haa asafo ɔmɛ tsuo . ​ — Níts . 15 : 2 .
+5 , 6 . ( a ) Mɛni blɔ nɔ nɛ mumi klɔuklɔu ɔ wo blɔ tsɔɔmi ajla toli ɔmɛ he wami ngɛ ?
+( d ) Ngɛ mɛni blɔ nɔ nɛ Mawu Munyu ɔ tsɔɔ blɔ tsɔɔmi ajla toli ɔmɛ blɔ ?
+Kekleekle ɔ , mumi klɔuklɔu ɔ lɛ wo blɔ tsɔɔmi ajla toli ɔmɛ he wami .
+Nɔ nɛ ji etɛ ɔ , Mawu Munyu ɔ lɛ tsɔɔ blɔ tsɔɔmi ajla toli ɔmɛ blɔ .
+Mɛni he je nɛ wa ma nyɛ ma de ke Yesu tsɔɔ Kristofohi nɛ a hi si blema a blɔ ɔ ?
+( a ) Mɛni be nɛ Yesu hla “ tsɔlɔ anɔkualetsɛ kɛ ní lelɔ ɔ ” ?
+Ngɛ jeha 1916 mi ɔ , Nyɛminyumu Russell gbo . Jeha etɛ se ngɛ jeha 1919 ɔ mi ɔ , Yesu hla “ tsɔlɔ anɔkualetsɛ kɛ ní lelɔ ɔ . ”
+Mɛni he je ?
+July 15 , 2013 Hwɔɔmi Mɔ ɔ tsɔɔ mi kaa nyɛmimɛ nyumuhi nɛ a pɔ mɛ nu ɔ a kpɛti nihi bɔɔ ko nɛ́ a ngɛ sɔmɔe kaa blɔ tsɔɔmi ajla toli ɔ ji “ tsɔlɔ anɔkualetsɛ kɛ ní lelɔ ɔ ” nɛ .
+Blɔ tsɔɔmi ajla toli nɛ a hi si ngɛ jeha 1950 jeha amɛ a mi
+Lɛɛ kɛ wa ma plɛ kɛ ha Yesu sane bimi nɛ nyɛɛ se nɛ ɔ heto ha kɛɛ : “ Mɛnɔ ji tsɔlɔ anɔkualetsɛ kɛ ní lelɔ ɔ mɔ ? ”
+Mɛni blɔ nɔ nɛ mumi klɔuklɔu ɔ ye bua Blɔ Tsɔɔmi Ajla Toli ɔmɛ ngɛ ?
+( Kane 1 Korinto Bi 2 : 10 . )
+Mɛni ye bua nɛ a nyɛ nɛ a ngɛ ní tsumi nɛ ɔ tsue ɔ ?
+( Kane Yohane 17 : 17 . )
+Mɛni ji blɔ kake nɛ wa ma nyɛ maa gu nɔ kɛ kai Blɔ Tsɔɔmi Ajla Toli ɔmɛ ?
+Kane Hebri Bi 13 : 7 .
+Mɛni he je nɛ o fia o pɛɛ si kaa o maa nyɛɛ wa Hɛ Mi Nyɛɛlɔ nɛ ji Yesu se ɔ ?
+Benɛ Yesu kpale kɛ ho hiɔwe ya a , e kua we e se nyɛɛli ɔmɛ .
+E be kɛe nɛ e ma ha nɛ wa nine nɛ su neneene wami ɔ nɔ .
+Adesa hɛ mi nyɛɛlɔ ko be nɛ e ma nyɛ ma ha nɛ wa nine nɛ su enɛ ɔ nɔ !
+Kɛ je jeha 1955 ɔ mi kɛ ma nɛ ɔ , a tsɛɛ ní tsumi he nɛ ɔ ke Watch Tower Bible and Tract Society of Pennsylvania .
+Yehowa “ woɔ wa bua ngɛ haomihi tsuo a mi ”
+‘ Ma tsu níhi nɛ i to nɛ ma pee ɔ .
+LAHI : 147 , 149
+1 , 2 . ( a ) Mɛni Yehowa ha nɛ wa le ?
+KE O je Baiblo ɔ kanemi sisi pɛ ɔ , o maa na munyu nɛ sisi numi yi se e mi kuɔ nɛ nyɛɛ se nɛ ɔ : ‘ Sisije ɔ , Mawu bɔ hiɔwe kɛ zugba . ’
+( d ) Mɛni sane bimihi a he wa ma susu ?
+Mɛni lɛ tɔ̃tɔ̃ ?
+Nɛ mɛni he je Yesu kpɔmi afɔle sami ɔ bli blɔ konɛ Mawu yi mi tomi ɔ nɛ ba mi ɔ ?
+Yehowa ji Bɔlɔ nɛ e he ngɛ nyakpɛ wawɛɛ .
+Mɛni nike ní komɛ nɛ Yehowa ha Adam kɛ Hawa ?
+( Kane Yakobo 1 : 17 . )
+Mɛni hu lɛ piɛɛ Mawu yi mi tomi ɔ he ?
+E ngɛ kaa nɔ́ nɛ Satan ngɛ mɛ bie ke : ‘ Anɛ nyɛ ngɛ tsɔɔe kaa nyɛ be nyɛe maa pee nɔ́ nɛ nyɛ nitsɛmɛ nyɛ suɔ lo ? ’
+Se Yehowa yeɔ anɔkuale , nɛ e kɛ e sisi tomi mlaahi tsuɔ ní be tsuaa be .
+Mɛni ba Adam sisi bimɛ a nɔ ?
+( Kane 5 Mose 32 : 4 , 5 . )
+Kane Yohane 3 : 16 .
+Mɛni he je kpɔmi nɔ́ ɔ ji nike ní nɛ se be ɔ ?
+Mɛni he blɔ nɛ kpɔmi nɔ́ ɔ ha nɛ wa ná ?
+Yehowa naa kpɔmi nɔ́ ɔ nɛ e ngɔ kɛ ha ngɛ wa he ɔ kaa nɔ́ agbo ko nɛ bɔ lɛ .
+Mɛni be nɛ Yehowa ‘ maa ye níhi tsuo a nɔ ’ ?
+LAHI : 148 , 5
+( Kane La 40 : 8 - 10 . )
+Mɛni blɔ nɔ wa maa gu kɛ tsɔɔ kaa wa suɔ Yehowa biɛ ɔ ?
+Kɛ gu wa ní peepee nɔ .
+( Kane 1 Petro 1 : 15 , 16 . )
+E ngɛ mi kaa wa yi mluku mohu lɛɛ , se mɛni he je Yehowa ma nyɛ maa bu wɔ kaa dali ?
+E kplɛɛɔ nihi nɛ a jɔɔ a he nɔ ha lɛ ɔ a nɔ kaa e sɔmɔli .
+Mɛni Yesu ngɛ tsɔɔe benɛ e de ke : “ A pee nɔ́ nɛ o suɔ ” ɔ ?
+Kɛ adesahi nɛ a gbo ɔ ma ná kpɔmi nɔ́ ɔ he se ha kɛɛ ?
+Mɛni Mawu suɔ kaa “ nimli asafo ” ɔ nɛ a ná ?
+( a ) Mɛni jɔɔmihi Yehowa haa nɛ wa náa amlɔ nɛ ɔ ?
+( Kane Bɔfo Ɔmɛ A Ní Tsumi 3 : 19 - 21 . )
+Kɛ o ma ná Yehowa suɔmi ɔ he se ha kɛɛ ?
+Mawu ɔ , suɔmi ji lɛ . ”
+Anɛ be komɛ ɔ , e he maa hia nɛ wa tsake juɛmi nɛ wa peeɔ ɔ lo ?
+Munyu nɛ ɔ maa ye bua wɔ konɛ wa ha sane bimi nɛ ɔmɛ a heto .
+Hɛdɔ ngɛ tɔmi nɛ a tɔ̃ ɔ ekomɛ a he , se kɛ̃ ɔ , Yehowa na matsɛmɛ nɛ ɔmɛ kaa a ngɔ a tsui tsuo kɛ sɔmɔ lɛ .
+E ngɛ mi kaa wa tɔ̃ɔ mohu lɛɛ , se anɛ Mawu maa na wɔ kaa nihi nɛ wa sɔmɔɔ lɛ kɛ wa tsui tsuo lo ?
+32 A Na Baiblo Mi Biɛ Ko Ngɛ Blema Buɛ Ko He
+William Samuelson nya mi munyu
+Ye tsɛko Alfred kɛ ye papaa
+Wa hi si ngɛ ngmɔ nyafii ko nɔ ngɛ South Dakota beleku je .
+Ye weku ɔ bua jɔ ngmɔ peemi he , se pi lɔ ɔ ji nɔ́ nɛ he hia mɛ wawɛɛ ngɛ si himi mi .
+Ye fɔli ɔmɛ ha nɛ a baptisi mɛ kaa Yehowa Odasefohi ngɛ jeha 1934 ɔ mi .
+A tsɛɛ ye papaa ke Clarence , nɛ e sɔmɔ kaa asafo ɔ sɔmɔlɔ ( amlɔ nɛ ɔ biɛ nɛ a kɛ tsɛɛ mɛ ji nikɔtɔmahi a kuu ɔ sanehi a he blɔ nya tolɔ ) , nɛ pee se ɔ , ye tsɛ wayo nɛ a tsɛɛ lɛ ke Alfred hu sɔmɔ kaa asafo ɔ sɔmɔlɔ .
+I kɛ ye awenyɛ Dorothy tsuo ba pee Matsɛ Yemi ɔ fiɛɛli .
+Benɛ i ngɛ sɔmɔe kaa blɔ gbalɔ ngɛ jeha 1952 ɔ mi
+Waa kɛ kpokpa nɔ kpehi kɛ kpɔ mi kpehi a yami fiɛ we kulaa .
+Baiblo ɔ de ke : “ Nɔ nɛ kɛ ní leli nyɛɛɔ ɔ , e leɔ ní , ” nɛ ní leli fuu ngɛ ye weku ɔ mi nɛ a fĩ yi mi kpɔ nɛ i mwɔ kaa ma pee blɔ gbalɔ ɔ se .
+E kɛ we nɛ ye awenyɛ Dorothy hu ba pee blɔ gbalɔ .
+Ke a ngɛ asafohi nɛ a kɛ he nɛ wa ngɛ ɔ kɛ we ɔ sɔmɔe ɔ , a haa nɛ i ba piɛɔ a he kɛ yaa fiɛɛmi .
+Lɔ ɔ se ɔ , e kɛ we nɛ a fɔ mi nine kaa ma ba sɔmɔ ngɛ Betel .
+I kɛ Nyɛminyumu Franz ngɛ WBBR
+A haa nɛ nihi nɛ a sɔmɔɔ ngɛ Betel ɔ a kpɛti nihi 15 aloo 20 pɛ ya tsuɔ ní ngɛ ngmɔ ɔ mi .
+Wa kpɛti nihi fuu ji nihewi kɛ yihewi , nɛ wa be níhi a si kpami tsɔ hulɔ .
+Nyɛminyumu Peterson tsu ní tsumi nɛ a kɛ wo e dɛ ngɛ Betel ɔ he ní saminya , se loloolo ɔ , e kɛ fiɛɛmi ní tsumi ɔ fiɛ we .
+I kɛ Angela kɛ Etta Huth
+I kɛ Angela ngɛ jeha 1975 ɔ mi be mi nɛ a ma wɔ munyu bimi ngɛ tiivi nɔ
+Jeha etɛ se ɔ , a fɔ wɔ nine kaa wa ba sɔmɔ ngɛ Betel .
+Ye bua jɔɔ ke i kɛ sukuu bi nɛ a je ma slɔɔtohi a nɔ ɔ kpe
+LAHI : 9 , 14
+Mɛni he je nɛ e sa nɛ waa wo Yehowa kɛ Kristo a hɛ mi nyami ɔ ?
+Mawu bɔ nɔmlɔ ‘ ngɛ e subai nɔ . ’
+8 , 9 . ( a ) Kɛ Yehowa Odasefohi buɔ ma nɔ yeli ha kɛɛ ?
+( Kane 1 Timoteo 5 : 17 . )
+Nyɛ ko tsɛ nɔ ko nɔ ko ngɛ zugba a nɔ ‘ Tsɛ , ’ ejakaa tsɛ kake pɛ nyɛ ngɛ nɛ ngɛ hiɔwe .
+Jehanɛ ɔ , a ko tsɛ nyɛ ti nɔ ko ‘ Tsɔɔlɔ ’ hulɔ ; ejakaa tsɔɔlɔ kake pɛ nyɛ ngɛ , nɛ lɛ ji Kristo .
+Nɔ nɛ ji nɔmlɔ ngua ngɛ nyɛ kpɛti ɔ , e plɛ nyɛ sɔmɔlɔ .
+Nɔ tsuaa nɔ nɛ woɔ e he nɔ ɔ , a maa ba lɛ si ; se nɔ nɛ baa e he si ɔ , a ma wo e nɔ . ”
+LAHI : 54 , 42
+Mɛni he je nɛ e sɛ nɛ wa ha nɛ ni kpahi nɛ a pee juɛmi ha wɔ ?
+( a ) Ke wa ma nyɛ maa pee juɛmi nɛ da a , mɛni mi nɛ e sa nɛ wa ná hemi kɛ yemi ngɛ ?
+Mɛni maa ye bua wɔ konɛ waa pee juɛmi nɛ da ?
+( Kane Yakobo 1 : 5 - 8 . )
+( Kane Galatia Bi 4 : 17 . )
+( Kane 2 Korinto Bi 1 : 24 . )
+Asafo mi nikɔtɔmahi nɛ a ngɛ suɔmi ɔ yeɔ bua nihi konɛ mɛ nitsɛmɛ a mwɔ a yi mi kpɔ ( Hyɛ kuku 11 )
+E sa nɛ waa pee juɛmi nɛ da .
+( 1 Mose 21 : 9 - 12 ) E sa nɛ asafo mi nikɔtɔmahi hu nɛ a he be kɛ hla níhi a mi .
+Anɛ lɔ ɔ ma ha nɛ bua jɔmi kɛ tue mi jɔmi nɛ hi ye weku ɔ mi lo ?
+Anɛ lɔ ɔ maa tsɔɔ kaa i toɔ ye tsui si nɛ ye mi mi hi lo ? ’
+Mɛni he je nɛ Yehowa suɔ kaa wɔ nitsɛmɛ wa maa mwɔ wa yi mi kpɔ ɔ ?
+Asa , Yehoshafat , Hezekia , Yosia
+LAHI : 52 , 32
+Ke a ke waa ngɔ wa tsui tsuo kɛ sɔmɔ Yehowa a , mɛni lɔ ɔ tsɔɔ ?
+Matsɛmɛ eywiɛ ɔmɛ a kpɛti mɛnɔ nɛ o maa suɔ nɛ o kase , nɛ mɛni he je ?
+Mɛni he wa ma susu ?
+( Kane 2 Kronika 14 : 11 . )
+Mɛni o tsui ma de mo ke o pee ?
+Asa binyumu Yehoshafat “ wo e tsɛ Asa nane . ”
+( Kane 2 Kronika 20 : 2 - 4 . )
+( Kane Yesaya 37 : 15 - 20 . )
+( Kane 2 Matsɛmɛ 20 : 1 - 3 . )
+( Kane 2 Kronika 34 : 1 - 3 . )
+( Kane 2 Kronika 34 : 18 , 19 . )
+( b ) Mɛni he wa ma susu ngɛ munyu nɛ nyɛɛ se ɔ mi ?
+LAHI : 11 , 29
+Asa kɛ Yehoshafat
+Hezekia
+Yosia
+Mɛni he je nɛ wa ma susu Yuda matsɛmɛ eywiɛ komɛ a nɔ hyɛmi níhi a he ɔ ?
+( Kane 2 Kronika 16 : 7 - 9 . )
+Mɛni wa ma nyɛ maa kase kɛ je Asa tɔmi ɔ mi ?
+16 : 9 ) E nuɔ wɔ sisi , nɛ e suɔ wɔ .
+( Kane 2 Kronika 32 : 31 . )
+Kɛ e maa pee e ní ngɛ yi jemi ɔ he ha kɛɛ ?
+( Kane 2 Kronika 35 : 20 - 22 . )
+Baiblo ɔ tsɔɔ kaa munyu nɛ Neko tu ɔ , ‘ Mawu lɛ de kɛ gu Matsɛ Neko nɔ . ’
+Nyɛ ha nɛ wa pue wa yi mi tɛ ngɛ Baiblo mi sane nɛ ɔmɛ a he , nɛ waa na Yehowa si kaa e ha wɔ nɔ hyɛmi ní nɛ ɔmɛ !
+3 “ Ye O Siwo ɔ Nɔ ”
+Kita enyɛmɛ nɛ o kã Yehowa ?
+O he nɔ jɔɔmi kita a , kɛ o gba si himi kita a hu nɛɛ ?
+Ke wa susu kaa a ye wɔ nitsɛmɛ aloo nɔ ko sane yaya a , lɔ ɔ ma nyɛ ma ha nɛ e he nɛ wa ha wɔ kaa wa ma je hemi kɛ yemi kpo , wa maa ba wa he si , aloo wa maa ye anɔkuale .
+Se nɔ nɛ peeɔ Mawu suɔmi nya ní ɔ , lɛɛ e ngɛ kɛ yaa neneene . ” ​ — 1 YOH . 2 : 17 .
+LAHI : 55 , 24
+Mɛni Yehowa maa pee yiwutsotsɛmɛ kɛ blɔ nya tomihi nɛ a yi anɔkuale ɔ ?
+Baiblo ɔ de ke : ‘ Je ɔ bee kɛ yaa . ’
+Ohoo !
+Ngɛ mɛni blɔ nɔ nɛ yiwutsotsɛmɛ ha nɛ wa ngɛ nɔ́ nae mwɔnɛ ɔ ?
+Mɛni Yehowa maa pee ?
+( Kane La 37 : 10 . )
+E naa e ní peemi níhi tsuo .
+Lɔ ɔ se ɔ , wa kaneɔ ngɛ la nɛ ɔ nɔuu mi ke : “ Nihi nɛ peeɔ nɔ́ nɛ da a , zugba a maa pee a nɔ́ nɛ a maa hi nɔ daa . ”
+( La 37 : 11 , 29 ) Mɛnɔmɛ ji “ nihi nɛ a he jɔ ” kɛ “ nihi nɛ a peeɔ nɔ́ nɛ da ” a ?
+Ngɛ mɛni blɔ nɔ nɛ blɔ nya tomihi nɛ a yi anɔkuale ɔ ha nɛ wa ngɛ nɔ nae ?
+Ngɛ mɛni blɔ nɔ nɛ blɔ nya tomihi nɛ a yi anɔkuale ɔ ha nɛ wa ngɛ nɔ́ nae ?
+A ma kpata lakpa jamihi a hɛ mi pɛsɛpɛsɛ .
+( Kane Kpojemi 6 : 14 . )
+Mɛni he je nɛ wa ma nyɛ ma ná nɔ mi mami kaa a maa to níhi a he blɔ nya saminya ngɛ zugba he ɔ nɔ ɔ ?
+Ke a je blɔ nya tomihi nɛ a yi anɔkuale ɔ kɛ je ɔ , mɛni a kɛ maa to nane mi ?
+Ngɛ Harmagedon ta a se ɔ , anɛ blɔ nya tomi ko maa hi zugba a nɔ lo ?
+Lɔ ɔ he ɔ , a maa to níhi a he blɔ nya saminya ngɛ “ zugba he ” ɔ nɔ .
+Mɛni ní yayahi lɛ he si ngɛ o kpɔ ɔ mi , nɛ kɛ a saa o kɛ o weku ɔ he ha kɛɛ ?
+Ngɛ mɛni blɔ nɔ nɛ ní peepee yayahi ha nɛ wa ngɛ nɔ́ nae mwɔnɛ ɔ ?
+Mɛni wa kaseɔ ngɛ hɛ mi kpatami nɛ Yehowa kɛ ba Sodom kɛ Gomora ma a nɔ ɔ mi ?
+Mɛni Yehowa maa pee ngɛ ní peepee yaya nɛ ɔmɛ a he ?
+( Kane 2 Petro 2 : 6 - 8 . )
+Ke a je ní peepee yayahi kɛ je ɔ , mɛni a kɛ maa to nane mi ?
+( Kane La 46 : 8 , 9 . )
+25 : 8 ) E ma ha nɛ ohia se maa po .
+Ngɛ Harmagedon ta a se ɔ , mɛni níhi nɛ a be si hie hu ?
+Mo ha enɛ ɔ he nɔ́ he tomi nɔ́ . ( b ) Mɛni ma nyɛ ma ha nɛ wa ná nɔ mi mami kaa ke a kpata je yaya nɛ ɔ hɛ mi ɔ , a maa baa wa yi ?
+Wa be nyɛe maa kale po .
+LAHI : 2 , 11
+Mika 7 : 7
+Abɛ 19 : 3
+Mateo 18 : 15
+“ JE Ɔ tsuo kojolɔ ɔ , e sa kaa e yeɔ dami sane . ”
+Ejakaa Yehowa lɛ tsɔɔ nɔ́ nɛ ji “ dami sane yemi , ” kɛ “ nɔ́ nɛ da . ”
+Ngɛ mɛni blɔ nɔ nɛ Kristofo no ko kɛ e hemi kɛ yemi ɔ he ka ma nyɛ maa kpe ?
+Kristofohi le kaa nihi nɛ be asafo ɔ mi ɔ ma nyɛ maa ye mɛ sane yaya .
+Mo susu nyɛminyumu ko nɛ a tsɛɛ lɛ ke Willi Diehl sane ɔ he nɛ o hyɛ .
+Ngɛ jeha 1946 mi ɔ , e ya Gilead Sukuu nɛ to nɔ kpaanyɔ ɔ ngɛ New York , U.S.A .
+Benɛ e gbe sukuu ɔ nya a , a ha nɛ e ya sɔmɔ kaa kpɔ mi nɔ hyɛlɔ ngɛ Switzerland .
+Mɛni nɔ hyɛmi níhi a he wa ma susu ngɛ munyu nɛ ɔ kɛ munyu nɛ nyɛɛ se ɔ mi ?
+Ngɛ munyu nɛ ɔ mi ɔ , wa ma susu Abraham bibimibi Yosef he , nɛ wa ma susu bɔ nɛ e nyɛmimɛ ɔmɛ kɛ lɛ hi si ha a hu he .
+10 , 11 . ( a ) Mɛni sane yaya nɛ a ye Yosef ?
+Kane 1 Mose 40 : 14 , 15 .
+( Kane Mateo 5 : 23 , 24 ; 18 : 15 . )
+Ke wa yeɔ Yehowa kɛ wa nyɛmimɛ anɔkuale ɔ , lɔ ɔ maa ye bua wɔ konɛ wa ko pee jã .
+( 1 Mose 45 : 5 - 8 ) E pia we Yehowa gblee kaa lɛ nɛ e ha nɛ e ngɛ nɔ́ nae .
+Nɔ́ nɛ pe kulaa a , e ha we nɛ mluku nɛ ni kpahi yi , kɛ a tɔmihi nɛ je lɛ kɛ je Yehowa he .
+Mɛni he je nɛ e sa nɛ waa hɛ wɔ kɛ su Yehowa he wawɛɛ ke a ye wɔ sane yaya ngɛ asafo ɔ mi ɔ ?
+Mɛni wa ma nyɛ maa pee kɛ tsɔɔ kaa wa ngɛ hɛ kɛ nɔ fɔmi ngɛ “ je ɔ tsuo kojolɔ ɔ ” mi ?
+Mɛni he wa ma susu ngɛ munyu nɛ nyɛɛ se ɔ mi ?
+Moo hyɛ Willi Diehl he sane nɛ ji “ Jehovah Is My God , in Whom I Will Trust , ” nɛ je kpo ngɛ November 1 , 1991 Blɛfo gbi Hwɔɔmi Mɔ ɔ mi ɔ .
+NIHI NƐ A YA KAIMI Ɔ ( 2016 )
+LAHI : 18 , 7
+o he nɔ jɔɔmi kita a nɔ ɔ ?
+o gba si himi kita a nɔ ɔ ?
+( Moo hyɛ fonihi nɛ ngɛ ní kasemi ɔ sisije ɔ . ) ( b ) Mɛni sane bimihi nɛ wa ma ná a heto ngɛ munyu nɛ ɔ mi ?
+Nyumuhi kɛ yihi tsuo nɛ a ngɛ mwɔnɛ ɔ nɛ a suɔ kaa a maa wo Yehowa si ɔ ma nyɛ maa kase a nɔ hyɛmi nɔ́ kpakpa a .
+Mɛni hɛdɔ lɛ ngɛ kita nɛ nɔ ko ma kã Mawu ɔ he ?
+Mɛni wa ma nyɛ maa kase ngɛ Yefta kɛ Hana a he ?
+2 , 3 . ( a ) Mɛni ji si womi ?
+( b ) Mɛni Ngmami ɔ de ngɛ si nɛ nɔ ko maa wo Mawu ɔ he ?
+Ye o siwo ɔ nɔ . ”
+( a ) Mɛni hɛdɔ lɛ ngɛ si nɛ nɔ ko maa wo Mawu ɔ he ?
+( b ) Mɛni wa maa kase ngɛ Yefta kɛ Hana he ?
+11 : 30 - 34 ) Kɛ lɔ ɔ maa sa Yefta biyo ɔ si himi he ha kɛɛ ?
+( a ) Anɛ e yi ha Yefta kɛ e biyo ɔ kaa a maa ye si nɛ a wo Mawu ɔ nɔ lo ?
+Yefta de ke : ‘ I wo Yehowa si , nɛ i be nyɛe ma kpale ye nya se . ’
+( b ) Kɛ Hana si womi ɔ maa sa Samuel si himi he ha kɛɛ ?
+Anɛ o ngɛ si nɛ o wo Yehowa a nɔ yee lo ?
+He nɔ jɔɔmi kita ( Hyɛ kuku 10 )
+Atsinyɛ jemi ko be he kaa enɛ ɔ ha nɛ Yehowa bua jɔ wawɛɛ !
+Gba si himi kita ( Hyɛ kuku 14 )
+Kita enyɔne nɛ pe kulaa nɛ nɔ ko ma nyɛ ma kã ji gba si himi kita .
+Mɛni Baiblo ɔ de ngɛ gba puɛmi kɛ gba jemi loo nɔ yo he ngmɛɛmi he ?
+( Kane 1 Korinto Bi 7 : 10 , 11 . )
+Nɔ ko kɛ e yo de ke : “ Kɛ je benɛ wa bɔni womiyo nɛ ɔ kasemi ɔ , wa gba si himi ɔ ngɛ ngɔe wawɛɛ . ”
+A pee video nɛ ɔ ngɛ be nya !
+Amlɔ nɛ ɔ , wa gba si himi ɔ ngɛ ngɔe bɔ nɛ sa . ”
+18 , 19 . ( a ) Mɛni fɔli fuu nɛ a ji Kristofohi ɔ pee ?
+( b ) Mɛni wa ma nyɛ ma de ngɛ nihi nɛ a ngɛ sɔmɔe kaa be tsuo sɔmɔli klɛdɛɛ ɔ a he ?
+Kita nɛ be tsuo sɔmɔli klɛdɛɛ kãa ( Hyɛ kuku 19 )
+Tsa pi ni ɔmɛ nɛ a ngɛ slɔɔto , mohu ɔ , a ní tsumi ɔ lɛ ngɛ slɔɔto .
+Moo hyɛ Mi Tsɔɔmi Munyu nɛ ji “ Nɔ́ Nɛ Baiblo ɔ Deɔ Ngɛ Gba Mi Pomi Kɛ Gba Jemi He ” nɛ ngɛ womi nɛ ji “ Nyɛɛ To Nyɛ He Ngɛ Mawu Suɔmi ɔ Mi ” ɔ mi ɔ .
+LAHI : 150 , 10
+Ke sé ko be o he ɔ , anɛ Mawu náa nɔ́ ko ngɛ mi lo ? ”
+( b ) Kɛ Israel bi ɔmɛ plɛ kɛ ye Yabin tabo ɔ nɔ kunimi ha kɛɛ ?
+( Kane Manyadali 4 : 14 - 16 . )
+Kishon pa a muɔ mɛ kɛ ho ; niinɛ , Kishon nyu dɔ ɔ muɔ mɛ kɛ ho . ”
+Moo hyɛ munyu nɛ ji “ Yeyeeye Peemi Ngɛ Sika He ” nɛ je kpo ngɛ October 1 , 2015 Hwɔɔmi Mɔ ɔ mi ɔ .
+LAHI : 15 , 2
+5 Mose 32 : 4
+1 Petro 5 : 5
+Mateo 6 : 14
+1 , 2 . ( a ) Mɛni sane yaya lɛ a ye Nabot kɛ e binyumu ɔmɛ ?
+( b ) Mɛni suhi enyɔ a he nɛ wa ma susu ngɛ munyu nɛ ɔ mi ?
+Mɛni nɔmlɔ Nabot ji , nɛ mɛni he je nɛ e kua kaa e be e wai ngmɔ ɔ juae kɛ ha Matsɛ Ahab ɔ ?
+Benɛ Israel bi fuu ngɛ Matsɛ Ahab kɛ e yo nɛ ji Manyɛ Yezebel yiwutsotsɛ ɔ a nɔ hyɛmi nɔ́ yaya a kasee ɔ , Nabot lɛɛ , e ye Yehowa anɔkuale .
+Kane 1 Matsɛmɛ 21 : 1 - 3 .
+E je bumi mi nɛ e tsɔɔ nya ke : ‘ Yehowa ngmɛ́ blɔ kaa ma ngɔ ye nɛmɛ a gbosi ní ɔ ngɔ ha mo . ’
+Ahab ba e he si !
+Mɛni he je nɛ he si bami ma nyɛ maa po Nabot weku li kɛ e huɛmɛ ɔmɛ a he piɛ ɔ ?
+( Kane 5 Mose 32 : 3 , 4 . )
+( b ) Mɛni blɔhi a nɔ nɛ he si bami maa po wa he piɛ ngɛ ?
+Ke asafo mi nikɔtɔma amɛ fia adafi ko nɛ o bua jɔɛ he ɔ , kɛ o maa pee o ní ha kɛɛ ?
+Mɛni he wa ma susu , nɛ mɛni he je ?
+Kɛ a dla Petro juɛmi ha kɛɛ , nɛ mɛni sane bimihi lɛ enɛ ɔ tleɔ si ?
+Kane Galatia Bi 2 : 11 - 14 .
+Anɛ a maa ngmɛ blɔ nɛ Petro ní peepee ɔ nɛ tɔ̃tɔ̃ a nane lo ?
+Kɛ Petro ná Yehowa yayami kɛ pami ɔ he se ha kɛɛ ?
+Ngɛ anɔkuale mi ɔ , pee se ɔ , Mawu mumi ɔ ye bua Petro nɛ e ngma sɛ womi enyɔ nɛ a piɛɛ Baiblo mi womi ɔmɛ a he ɔ .
+3 Moo Ye Bua “ Nibwɔhi ” Nɛ ‘ A Sɔmɔ Yehowa Kɛ Bua Jɔmi ’
+Munyu enyɔne ɔ maa ye bua wɔ konɛ waa na bɔ nɛ Baiblo sisi tomi mlaahi ma nyɛ maa ye bua fɔli nɛ a je ma se ɔ konɛ a pee juɛmi nɛ da nɛ a bimɛ ɔmɛ ma ná he se .
+LAHI : 25 , 21
+Wa na kaa nihi ngɛ fo tue , nɛ a ngɛ tu fiae .
+Wɔ bimɛ 11 kɛ wa fɔli tu fo kɛ wa tade bɔɔ ko pɛ .
+Wa kpɛti nihi nɛ piɛ ɔ lɛɛ wa gbɛ fĩa . ”
+Mɛni ha Yesu ya se we ngɛ ma kpa nɔ , nɛ mɛni ha e kaseli ɔmɛ hu ya sa we ngɛ ma kpahi a nɔ ?
+E de ke : “ Ke a ngɛ nyɛ yi mi wae ngɛ ma ko mi ɔ , nyɛɛ tu fo kɛ ya ma kpa mi . ”
+Jamɛ a be ɔ , i ye jeha 12 .
+Ye nane sisi tsuo fuufuu , enɛ ɔ he ɔ , i de ye weku ɔ kaa a je ye he .
+Akɛnɛ ye papaa sume nɛ e je ye he konɛ awi yeli nɛ ba gbe mi he je ɔ , e kpa mi .
+A yeɔ sieku , a tɔɔ dã , a fiɛɛ asɔ , a juɔ , nɛ a kɛ a he woɔ je mi bami yaya mi . ”
+4 : 18 .
+( Kane 1 Yohane 3 : 17 , 18 . )
+( b ) Mɛni he je nɛ e sa nɛ waa to wa tsui si kɛ ye bua mɛ ɔ ?
+E sa nɛ a na kaa wa susuɔ a he .
+( b ) Mɛni nihi nɛ a ya sa we ɔ ma nyɛ maa pee kɛ tsɔɔ kaa a bua jɔ níhi nɛ a pee ha mɛ ɔ he ?
+Mɛni wa ma nyɛ maa pee kɛ ye bua wa nyɛmimɛ nɛ a ba sa we ngɛ wa ma a mi ɔ ?
+( Hyɛ kuku 11 - 13 )
+E kɛ we kulaa nɛ mɛ ni eywiɛ ɔmɛ tsuo a ba pee blɔ gbali .
+( a ) Mɛni ka nɛ e sa kaa nihi nɛ a ya sa we ngɛ ma kpahi a nɔ ɔ nɛ a hwu kɛ si ?
+Enɛ ɔ pɛ ji nɔ́ nɛ nyɛ hia ! ’ ” ​ — Kane 1 Timoteo 6 : 8 .
+E sa nɛ a na Yehowa suɔmi kɛ e mi mi himi ɔ ngɛ a nyɛmimɛ Kristofohi a kpɛti .
+Mwɔnɛ ɔ , nihi fuu nɛ a ngɛ wesa he hlae ɔ je mahi nɛ a tsi wa fiɛɛmi ní tsumi ɔ nya ngɛ mi ɔ a nɔ .
+Nyɛmiyo ɔ de ke : “ Nyɛmimɛ ɔmɛ kɛ mɛ hi si kaa a weku li . A ngɔ a ní yemi , a tade womi , a hwɔ he , kɛ a lɔle mi sɛmi kɛ fɔ a nɔ .
+Mɛnɔmɛ nɛ a maa kpee nibwɔhi kɛ ba a wehi a mi akɛnɛ a kɛ mɛ jaa Mawu kake ɔ he je ?
+Ja Yehowa Odasefohi pɛ ! ” ​ — Kane Yohane 13 : 35 .
+Ke nihi nɛ a ngɛ wesa he hlae ɔ ba su si nɔuu ɔ , e sa nɛ asafo mi nikɔtɔma amɛ nɛ a ngɔ blɔ tsɔɔmi nɛ ngɛ Organized to Do Jehovah’s Will ɔ yi 8 , kuku 30 ɔ kɛ tsu ní .
+Se benɛ a ngɛ asafo ɔ ní tsumi kɔni ɔ mlɛe ɔ , e sa nɛ a kɛ hɛ si kami nɛ bi nihi nɛ a ba sa we ɔ sanehi kɛ kɔ a we asafo ɔ kɛ a fiɛɛmi ní tsumi ɔ he , konɛ a le a si dami ngɛ asafo ɔ mi .
+“ Nɔ́ nɛ peeɔ mi bua jɔmi pe kulaa ji kaa ma nu kaa ye bimɛ ɔmɛ ngɛ nyɛɛe ngɛ anɔkuale ɔ nya . ” ​ — 3 YOH .
+4 . LAHI : 41 , 11
+Mɛni blɔ nɔ fɔli ma nyɛ maa gu kɛ pee nɔ hyɛmi nɔ́ kpakpa ha a bimɛ ?
+Mɛni blɔ nɔ wekuyihi ma nyɛ maa gu kɛ hla asafo nɛ e sa kaa a kɛ a weku ɔ nɛ hi mi ?
+Mɛni blɔ nɔ ni kpahi ma nyɛ maa gu kɛ ye bua fɔli nɛ a je ma se ɔ kɛ a bimɛ ?
+1 , 2 . ( a ) Mɛni nyagba nɛ nihi nɛ a je ma se ɔ a bimɛ kɛ kpeeɔ ɔ ?
+( b ) Mɛni sane bimihi a he wa ma susu ngɛ munyu nɛ ɔ mi ?
+Se benɛ i bɔni sukuu yami ɔ , ye bua ba jɔ gbi nɛ a tuɔ ngɛ ma a mi ɔ he .
+Jeha bɔɔ komɛ a se ɔ , ye je gbi ɔ laa mi .
+Ke i ya asafo mi kpehi ɔ , i nui ní kasemi ɔ sisi , nɛ i pee we ye ní kaa ye fɔli ɔmɛ a ma a mi no . ”
+Pi Joshua pɛ nɛ e kɛ si himi nɛ ɔ kpe hyɛ .
+Nɛ mɛni ni kpahi ma nyɛ maa pee kɛ ye bua ?
+3 , 4 . ( a ) Mɛni blɔ nɔ fɔli ma nyɛ maa gu kɛ pee nɔ hyɛmi nɔ́ kpakpa ha a bimɛ ?
+( b ) Mɛni e sɛ kaa fɔli nɛ a hyɛ blɔ kaa a bimɛ nɛ a pee ha mɛ ?
+Ke o bimɛ ɔmɛ na kaa o ‘ hlaa Mawu Matsɛ Yemi ɔ kekle ’ ɔ , lɔ ɔ haa nɛ a ngɔɔ a hɛ kɛ fɔɔ Yehowa nɔ konɛ e ha mɛ a hiami níhi daa ligbi .
+Ko ha nɛ ní kpahi nɛ ngɔ o be tsuo , konɛ o ná o bimɛ ɔmɛ a he deka .
+Ke o bimɛ ɔmɛ kase o je gbi ɔ , mɛni se a ma ná ?
+Fɔli , ke jamɛ a si fɔfɔɛ ɔ mi nɛ nyɛ bimɛ ɔmɛ ngɛ ɔ , anɛ nyɛ ma nyɛ maa kase gbi nɛ a tuɔ ngɛ he nɛ nyɛ ngɛ ɔ bɔɔ lo ?
+Jã kɛ̃ nɛ e sa nɛ o pee ke o bi ɔ tuɔ gbi kpa ko saminya a , aloo pi jã ?
+Ke jã ji sane ɔ po ɔ , loloolo ɔ , o ma nyɛ maa ye bua o bimɛ ɔmɛ konɛ a le Yehowa nɛ a suɔ lɛ .
+Se benɛ wa na kaa e ngɛ ní kasee , e ngɛ sɔlee , nɛ e ngɛ mɔde bɔe kaa e kɛ wɔ maa pee weku Mawu jami daa otsi ɔ , wa yɔse kaa lemi nɛ wa maa le Yehowa a he hia wawɛɛ . ”
+Mɛni blɔ nɔ fɔli ma nyɛ maa gu kɛ ye bua a bimɛ nɛ eko ɔ , e he maa hia nɛ a kɛ mɛ nɛ kase ní ngɛ gbi enyɔ mi ɔ ?
+( a ) Mɛnɔ nɛ e sa kaa e tsɔɔ asafo nɛ weku ɔ maa hi mi ?
+Se ke jokuɛ ɔmɛ nui gbi ɔ saminya a , e be nyɛe maa ba jã .
+( Kane 1 Korinto Bi 14 : 9 , 11 . )
+Mɛni fɔli nɛ a je ma se ɔ ma nyɛ maa pee ngɛ enɛ ɔ he ?
+Heto nɛ wa ná a pi nɔ́ nɛ wa ngɛ blɔ hyɛe .
+Se akɛnɛ wa yɔse kaa a ná we asafo mi kpehi nɛ a peeɔ ngɛ wa je gbi mi ɔ he se kpakpa ko he je ɔ , wa mwɔ wa yi mi kpɔ kaa wa maa ya asafo mi kpehi ngɛ asafo nɛ tuɔ gbi nɛ a tuɔ ngɛ kpɔ ɔ mi ɔ mi .
+Wa peeɔ kake kɛ yaa asafo mi kpehi , kɛ fiɛɛmi daa .
+Jehanɛ hu ɔ , wa fɔɔ nyɛmimɛ nɛ a ngɛ lejɛ ɔ nine nɛ waa kɛ mɛ yeɔ ní kɛ blaa , nɛ wa ya slaa si .
+Ní nɛ ɔmɛ ye bua wa bimɛ ɔmɛ nɛ a ba le nyɛmimɛ ɔmɛ saminya , nɛ a ba le Yehowa hu kaa a Tsɛ kɛ a Huɛ .
+Enɛ ɔ he hia wɔ pe wa je gbi ɔ nɛ a maa nu kɛkɛ . ”
+Samuel de ke : “ I kɛ ye yo ɔ yaa asafo mi kpehi nɛ a peeɔ ngɛ wa je gbi mi ɔ hulɔ , bɔ nɛ pee nɛ wa hemi kɛ yemi ɔ mi nɛ wa .
+Wa ná we deka kulaa , nɛ pɔ tɔ wa he .
+Se wa naa Yehowa si kaa e jɔɔ wa mɔde bɔmi kɛ wa he nɛ waa kɛ sã afɔle ɔ nɔ .
+Amlɔ nɛ ɔ , wa bimɛ etɛ ɔmɛ kɛ a be tsuo ngɛ Yehowa sɔmɔe . ”
+Kristina de ke : “ I nu ye fɔli ɔmɛ a gbi ɔ sisi bɔɔ , se gbi tso nɛ a kɛ tsuɔ ní ngɛ asafo mi kpehi a sisi ɔ mi wa ha mi .
+Benɛ i ye jeha 12 ɔ , i ya kpokpa nɔ kpe ko nɛ a pee ngɛ gbi nɛ wa tuɔ ngɛ sukuu ɔ mi ɔ eko .
+Jamɛ a ligbi ɔ nɛ i yɔse kaa nɔ́ nɛ i ngɛ kasee ɔ ji anɔkuale ɔ !
+Nihewi kɛ yihewi , anɛ nyɛ suɔ kaa nyɛɛ kɛ asafo nɛ tuɔ gbi nɛ a tuɔ ngɛ nyɛ kpɔ ɔ mi ɔ ma bɔni asafo mi kpehi yami lo ?
+Ke jã a , nyɛ bi nyɛ he nɔ́ he je nɛ nyɛ suɔ kaa nyɛ maa pee jã a .
+Nadia nɛ amlɔ nɛ ɔ e ngɛ sɔmɔe ngɛ Betel ɔ de ke : “ Benɛ i kɛ ye nyɛmimɛ ɔmɛ wa ye jeha 13 kɛ yaa a , wa pee wa juɛmi kaa waa kɛ asafo nɛ tuɔ gbi nɛ a tuɔ ngɛ wa kpɔ ɔ mi ɔ ma bɔni asafo mi kpehi yami . ”
+Nadia de ke : “ Amlɔ nɛ ɔ , wa bua jɔ wawɛɛ kaa wa fɔli ɔmɛ bɔ mɔde nɛ a tsɔɔ wɔ a je gbi ɔ , nɛ a ha nɛ wa hi asafo nɛ tuɔ ma se gbi ɔ mi .
+Wa ná he se wawɛɛ , nɛ e ha nɛ wa ná he blɔhi kɛ ye bua ni kpahi nɛ a ba le Yehowa . ”
+( b ) Mɛni blɔ nɔ nɛ fɔli ma nyɛ maa gu kɛ ná yemi kɛ buami konɛ a nyɛ nɛ a tsɔɔ a bimɛ anɔkuale ɔ ?
+( Kane Abɛ 1 : 8 ; 31 : 10 , 27 , 28 . )
+Se kɛ̃ ɔ , fɔli nɛ a nui gbi nɛ a tuɔ ngɛ he nɛ a ngɛ ɔ maa hia yemi kɛ buami konɛ a nyɛ nɛ a su a bimɛ ɔmɛ a tsui he .
+Ke bimɛ kɛ a fɔli kɛ asafo ɔ bɔɔ ɔ , a ma ná he se ( Hyɛ kuku 18 , 19 )
+( b ) Mɛni nɛ e sa kaa fɔli nɛ a ya nɔ nɛ a pee ?
+Be fɛɛ be nɛ a maa ye bua mi kɛ dla ye he kɛ ha ní tsumi ko nɛ ma ya tsu ngɛ asafo mi kpehi a sisi ɔ , i kaseɔ nɔ́ he ko .
+Ye bua jɔɔ fiɛmihi nɛ wa peeɔ kake kɛ fiɛɔ ɔ he . ”
+Fɔli , nyɛɛ sɔle ha Yehowa konɛ e ye bua nyɛ , nɛ nyɛɛ bɔ mɔde nɛ nyɛ tsu nyɛ blɔ fa mi nɔ́ .
+( Kane 2 Kronika 15 : 7 . )
+Nyɛɛ pee nɔ́ fɛɛ nɔ́ nɛ nyɛ ma nyɛ konɛ Mawu Munyu ɔ nɛ sɛ nyɛ bimɛ ɔmɛ a tsui mi .
+Walter Markin nya mi munyu
+Se jeha 1946 mi loko i ba nu Baiblo ɔ mi anɔkuale ɔ sisi saminya .
+Ha nɛ ma de mo ye he sane .
+Nyagbenyagbe ɔ , i ba le mumuihi a gbi ɔ , nɛ ke i kɛ jokuɛwi kpahi nɛ a ji mumuihi ngɛ fiɛe ɔ , ye bua jɔɔ .
+Benɛ i ngɛ nihi odase yee ngɛ gbɛjegbɛ he maa pee jeha 1950 ɔ se
+Ngɛ jeha 1950 ɔ mi ɔ , i hia kɛ ho Vancouver ya .
+E kplɛɛ nɔ kaa ma ba ha lɛ womi tɛtlɛɛ ɔmɛ eko daa nyɔhiɔ , nɛ ma ba na e huno Gary .
+Pee se ɔ , i kpale ye se kɛ ho Saskatoon ya .
+Nyagbenyagbe ɔ , a sukuu bi enuɔ ba pee Yehowa Odasefohi .
+A tsɛɛ a kpɛti nɔ kake ke Eunice Colin .
+Jamɛ a be ɔ , e piɛ bɔɔ nɛ ma gbe sukuu ɔ nya .
+I kɛ Eunice ngɛ jeha 1960 kɛ jeha 1989 ɔ mi
+Benɛ e ngɛ hlae nɛ a baptisi lɛ ɔ , e fɔli ɔmɛ de lɛ ke , “ Moo lɛɛ mo plɛ Yehowa Odasefo no nɛ o hyɛ , o maa je we nɛ ɔ mi ! ”
+E ba pee nɔ titli ko ngɛ ye si himi mi . E ba pee ye yo !
+Benɛ i ngɛ Eunice he ní tsue ngɛ jeha 1960 mi ɔ , e fɔli ɔmɛ bɛ yo kpeemi ɔ .
+Ye binyumu Nicholas kɛ e yo Deborah nɛ a ngɛ sɔmɔe ngɛ London Betel ɔ
+Faye kɛ James , Jerry kɛ Evelyn , Shannan kɛ Steven
+Amlɔ nɛ ɔ , wa ngɛ Calgary Mumuihi Asafo ɔ mi , nɛ i ngɛ sɔmɔe kaa asafo mi nɔkɔtɔma loloolo .
+Mo lɛ o ngɛ neneene wami munyu ɔmɛ . ”
+LAHI : 23 , 24
+Mɛni wa ma nyɛ maa pee konɛ suɔmi nɛ wa ngɛ kɛ ha Yehowa a mi nɛ wa ?
+Mɛni wa ma nyɛ maa pee konɛ suɔmi nɛ wa ngɛ kɛ ha Baiblo ɔ mi anɔkuale ɔ mi nɛ wa ?
+Mɛni he je nɛ e sa kaa waa suɔ wa nyɛmimɛ ɔ ?
+Eko ɔ , mɛni ha nɛ suɔmi nɛ ni komɛ nɛ a ji Kristofohi ngɛ ɔ nya jɔ ɔ ?
+Mwɔnɛ ɔ , suɔmi nɛ nihi ngɛ kɛ ha Mawu ɔ nya ngɛ jɔe daa jenanɛɛ .
+Enɛ ɔ ji kekleekle mlaa , kɛ mlaa nɛ kle pe kulaa . ”
+Mɛni adesa ma nyɛ maa pee mi ? ’
+Moo tsɔɔ kaa o suɔ Yehowa ( Hyɛ kuku 10 )
+( Kane La 119 : 97 - 100 . )
+Moo tsɔɔ kaa o suɔ Baiblo ɔ mi anɔkuale ɔ ( Hyɛ kuku 14 )
+Gbɔkuɛ nɛ e nɔ jena a maa gbe Yesu ɔ , e de e kaseli ɔmɛ ke : “ Jehanɛ ɔ , mlaa he i ngɛ nyɛ woe ; nyɛɛ suɔ nyɛ sibi kaa bɔ nɛ i suɔ nyɛ ɔ .
+Ke nyɛ suɔ nyɛ sibi ɔ , kɛkɛ nɔ tsuaa nɔ maa le kaa ye kaseli ji nyɛ . ” ​ — Yoh . 13 : 34 , 35 .
+Bɔfo Yohane ngma ke : “ Nɔ nɛ sume e nyɛmi nɛ e naa kɛ hɛngmɛ ɔ , kɛ e maa pee kɛɛ nɛ e maa suɔ Mawu nɛ e nɛ ɔ . ”
+Moo tsɔɔ kaa o suɔ o nyɛmimɛ ( Hyɛ kuku 17 )
+Mɛni blɔhi a nɔ wa ma nyɛ maa gu kɛ tsɔɔ kaa wa suɔ wa nyɛmimɛ ?
+Kane 1 Tesalonika Bi 4 : 9 , 10 .
+21 : 15 .
+LAHI : 32 , 45
+Kɛkɛ nɛ e de mɛ ke : “ ‘ Nyɛɛ fɔ ya a ngɛ lɛ ɔ hiɔ nɔ , nɛ nyɛ maa gbe lo . ’
+A fɔ ya a , nɛ lo nɛ a gbe ɔ hiɛ babauu , nɛ a nyɛ we nɛ a gbla ya a . ” ​ — Yoh . 21 : 1 - 6 .
+( b ) Mɛni nyɛminyumu ko nɛ e ngɛ Thailand ɔ yɔse ngɛ e ní tsumi he , nɛ mɛni e pee ?
+Enɛ ɔ he ɔ , i ná we deka kɛ ha Mawu jami .
+Nyagbenyagbe ɔ , i ba yɔse kaa loko ma nyɛ ma ngɔ Matsɛ Yemi ɔ kɛ pee nɔ́ titli ngɛ ye si himi mi ɔ , e sa nɛ ma tsake ye ní tsumi ɔ . ”
+Mɛni nyɛminyumu nɛ ɔ pee ?
+E de ke : “ I susu he maa pee jeha kake , nɛ i mwɔ ye yi mi kpɔ kaa ma jua ice cream ngɛ blɔ he .
+Sisije ɔ , ye he fĩ mi ngɛ sika blɔ fami , nɛ enɛ ɔ ha nɛ ye kɔni mi jɔ̃ .
+Ke i kɛ nihi nɛ i kɛ mɛ tsu ní sa a kpe ɔ , a yeɔ ye he fɛu , nɛ a biɔ mi nɔ́ he je nɛ i susu kaa ice cream juami hi pe ɔfisi ní tsumi nɛ kɔɔhiɔ maa hi ye he fiae ɔ .
+I sɔle kɛ ha Yehowa konɛ e ye bua mi nɛ ma nyɛ ma da si fɔfɔɛ ɔ nya , konɛ yi mi kpɔ nɛ i mwɔ kaa ma ná be fuu kɛ ha sɔmɔmi ní tsumi ɔ , ma nyɛ ma su he .
+E kɛ we nɛ níhi a mi bɔni himi .
+I ba le ice cream nɛ ní heli ɔmɛ a bua jɔ he wawɛɛ , nɛ i pee lɛ jã pɛpɛɛpɛ .
+Be bɔɔ ko se ɔ , i nyɛɔ juaa ye ice cream ɔ tsuo ngɛ ligbi ɔ mi .
+Ngɛ anɔkuale mi ɔ , i ba ná sika po pe benɛ i ngɛ kɔmpiuta dlae ɔ .
+Enɛ ɔ ha mi bua jɔmi wawɛɛ , ejakaa i pee we yeyeeye kaa bɔ nɛ i peeɔ benɛ i ngɛ kɔmpiuta dlae ɔ .
+Nɔ́ nɛ pe kulaa a , amlɔ nɛ ɔ , huɛ bɔmi nɛ ngɛ i kɛ Yehowa wa kpɛti ɔ mi ba wa wawɛɛ . ” ​ — Kane Mateo 5 : 3 , 6 .
+Benɛ a baptisi lɛ se ɔ , e de ke : “ Nɔ́ nɛ dɔɔ mi pɛ ji kaa i puɛ be fuu loko i ba yɔse kaa Yehowa sɔmɔmi lɛ haa nɔ bua jɔmi wawɛɛ , se pi hɛja jemi nɛ pɔ he ngɛ je ɔ mi mwɔnɛ ɔ . ”
+Yesu de ke : “ He nɛ o juetli ngɛ ɔ , lejɛ ɔ o tsui hu maa hi . ”
+Yesu tsɔɔ kaa “ nɔ ko be nyɛe ma sɔmɔ nyɔmtsɛmɛ enyɔ . ”
+Lɔ ɔ se ɔ , e de ke : “ O be nyɛe ma sɔmɔ Mawu kɛ sika tsuo . ”
+( Kane 1 Korinto Bi 2 : 14 . )
+( Hyɛ kuku 18 )
+Mɛni o fia o pɛɛ si kaa o maa pee ?
+Moo hyɛ munyu nɛ ji “ Is Your Recreation Beneficial ? ”
+Wa yaa fiɛɛmi daa hulɔ . ”
+E gba wa nya wawɛɛ kaa wa maa je wa Baiblo kaseli ɔmɛ a he . ”
+Se nyɔhiɔ kake se ɔ , a nine su amaniɛ bɔmi ko nɛ ngɛ bua jɔmi nɔ .
+Miriam de ke : “ A ha wɔ he blɔ kaa wa sɔmɔ kaa blɔ gbali klɛdɛɛ .
+Wa bua jɔ kaa wa ná he blɔ kaa wa maa hi wa zugba kpɔ ɔ mi nɔuu ! ”
+A ngɔ a hɛ kɛ fɔ si womi nɛ ngɛ La 37 : 5 ɔ nɔ . Lejɛ ɔ de ke : ‘ Ngɔɔ o he kɛ ha Yehowa ; ngɔɔ o hɛ kɛ fɔ e nɔ , nɛ e maa piɛɛ o he . ’
+Mwɔnɛ ɔ , wa nyɛ ngɛ jã pee , nɛ níhi nɛ a he hia wawɛɛ ngɛ si himi mi hu ɔ , wa nine suɔ nɔ .
+Mɛni lɛ haa nɛ a bua jɔɔ wawɛɛ ?
+9 Ngɔɔ O Juɛmi Kɛ Ma Mumi Mi Juetlihi A Nɔ
+LAHI : 33 , 41
+Mɛni he je nɛ wa ma nyɛ maa hyɛ blɔ kaa waa kɛ haomihi ma nyɛ maa kpe ngɛ gba si himi kɛ weku si himi mi ?
+Wa ma nyɛ ma ná nɔ mi mami kaa Mawu maa ye bua wɔ kaa bɔ nɛ e ye bua e sɔmɔli nɛ a hi si blema a . ​ — Kane Yeremia 29 : 11 , 12 .
+6 - 8 .
+( Hyɛ kuku 9 , 12 )
+( Kane 1 Samuel 1 : 4 - 7 . )
+( Kane La 145 : 18 , 19 . )
+“ He nɛ nyɛ juetli ngɛ ɔ , lejɛ ɔ nyɛ tsui hu maa hi . ” ​ — LUKA 12 : 34 .
+LAHI : 76 , 59
+Benɛ wa ngɛ ní nɛ ɔmɛ a he susue ɔ , mo pue o yi mi tɛ ngɛ bɔ nɛ mo nitsɛ o ma nyɛ ma ha nɛ suɔmi nɛ o ngɛ kɛ ha mumi mi juetli nɛ ɔmɛ ɔ a mi nɛ wa a he .
+Kane Mateo 13 : 45 , 46 .
+Moo hyɛ bɔ nɛ adiagba nɛ ɔ he jua wa ha nyumu nɛ ɔ ha !
+( Kane Marko 10 : 28 - 30 . )
+( a ) Mɛni he je nɛ bɔfo Paulo tsɔɔ kaa wa fiɛɛmi ní tsumi ɔ ngɛ kaa ‘ juetli ngɛ zu buɛhi a mi ’ ɔ ?
+( Kane Roma Bi 1 : 14 , 15 ; 2 Timoteo 4 : 2 . )
+A kpɛti ni komɛ ngɛ sɔmɔe ngɛ Betel , nɛ ni komɛ hu ngɛ sɔmɔe kaa blɔ gbali kɛ asafo mi nikɔtɔmahi .
+Irene de ke : “ Jinɛ ma nyɛ ma ngɔ ní kpahi kɛ pee oti ngɛ ye si himi mi , se i susuu we kaa lɔ ɔ ma nyɛ ma ha mi bua jɔmi kaa kikɛ nɛ ɔ . ”
+( Hyɛ kuku 11 , 12 )
+Se mɛni wa maa tsɔɔ nihi ?
+Ha nɛ wa susu juetli kpa ko nɛ Mawu ha wɔ ɔ hu he nɛ waa hyɛ .
+Mɛni ji ‘ juetli to he ’ nɛ Yesu tu he munyu ngɛ Mateo 13 : 52 ɔ , nɛ mɛni blɔ nɔ wa guɔ kɛ toɔ ní ngɛ mi ?
+( Kane Mateo 13 : 52 . )
+( Kane Abɛ 2 : 4 - 7 . )
+Kɛ mumi klɔuklɔu ɔ ma nyɛ maa ye bua wɔ ha kɛɛ ?
+Mo susu nyɛminyumu ko nɛ a tsɛɛ lɛ ke Peter a níhi a si kpami ɔ he nɛ o hyɛ .
+E bi Peter sane ko konɛ e kɛ hyɛ kaa Peter le Baiblo ɔ mi lo . E bi Peter ke , “ Lɔ ɔ , ye bi , mɛni gbi mi lɛ a ngma Daniel womi ɔ ngɛ ? ”
+Kɛ i pee kɛɛ kɛ le heto ɔ ?
+Benɛ i ya we mi nɛ i ya hla Hwɔɔmi Mɔ kɛ Awake !
+womi tɛtlɛɛ ɔmɛ a mi ɔ , i na munyu ko nɛ tsɔɔ kaa a ngma Daniel womi ɔ ngɛ Aram gbi mi . ” * ( Dan .
+Ke o pee jã a , o maa to “ juetli ngɛ hiɔwe he nɛ e be tae . Ejakaa , julɔ ko julɔ ko be he sue , nɛ wɔyewɔye hu be nyɛe ma kpata hɛ mi .
+He nɛ nyɛ juetli ngɛ ɔ , lejɛ ɔ nyɛ tsui hu maa hi . ” ​ — Luka 12 : 33 , 34 .
+“ I nyɛ we nɛ i kɛ nyɛminyumu ko nɛ i kɛ lɛ tsuɔ ní ɔ nɛ hi si saminya .
+Ligbi ko nɛ wa ngɛ nya sae ɔ , nihi enyɔ komɛ ba pã wa nɔ . ” ​ — CHRIS .
+“ Tlukaa a , nyɛmiyo ko nɛ i kɛ lɛ pɔɔ fiɛɛmi yami ɔ kɛ mi kpa fiɛɛmi ɔ yami .
+I li nɔ́ nɛ ha nɛ e ba lɛ jã . ” ​ — JANET .
+“ Wɔ ni etɛ lɛ wa ngɛ ní sɛɛe ngɛ tɛlifoo nɔ .
+Nɔ kake sɛ wɔ kaa e ngɛ kpa a nɔ jee , nɛ i susu kaa e je nɔ niinɛ .
+Kɛkɛ nɛ i tu e he munyu yaya kɛ tsɔɔ nɔ kpa a ngɛ tɛlifoo ɔ nɔ , se mamoo e ji kpa a nɔ lolo . ” ​ — MICHAEL .
+“ Pɛ sɛ blɔ gbali enyɔ komɛ a kpɛti ngɛ wa we asafo ɔ mi .
+Nɔ kake bɔni e nyɛmi ɔ jɛmi .
+A nya sami ɔ wo ni komɛ a kɔni mi nyu . ” ​ — GARY .
+“ Nɛ nyɛ yaa nɛ ɔ , nyɛ ko ya pɛ ngɛ blɔ ɔ nɔ . ”
+Michael de ke , “ Ye nyɛmi ɔ je e tsui mi nɛ e ngɔ ye he tɔmi ɔ kɛ pa mi . ”
+“ Ke nɔ ko kɛ e nyɛmi ngɛ sane ko ɔ , nyɛɛ na ha nyɛ sibi , nɛ nyɛ kɛ pa nyɛ he . ”
+Amlɔ nɛ ɔ , a peeɔ kake kɛ fiɛɛɔ sane kpakpa a .
+Eko ɔ , wa maa na slɔɔto nɛ ɔ kaa nɔ́ ko nɛ he hia we tsɔ , se kɛ̃ ɔ , e ma nyɛ maa ngɔ haomi nguahi kɛ ba . ”
+Ye we abofu ɔ mi bɔni wami , nɛ i je we bumi kpo kɛ tsɔɔ lɛ hu .
+I de ye he ke : ‘ E bui mi , enɛ ɔ he ɔ , imi hu i be lɛ bue fɛɛ . ’ ”
+E de ke : “ I bɔni ye fã tɔmi ɔmɛ yɔsemi , nɛ enɛ ɔ ha nɛ i hao wawɛɛ .
+I ba na kaa e sa nɛ ma dla ye susumi .
+Benɛ i sɔle kɛ ha Yehowa ngɛ sane ɔ he ɔ , i he nɔ́ ko nyafii ko kɛ ya ke nyɛmiyo ɔ , nɛ i ngma lɛ sɛ womi kɛ kpa lɛ pɛɛ ngɛ ye su yaya a he .
+Wa fua wa sibi , nɛ wa ngmɛɛ sane ɔ he .
+Kɛ je lɔ ɔ se ɔ , wa pɛ́ hu . ”
+LAHI : 9 , 22
+MWƆNƐ Ɔ , ngɛ nihi fuu a blɔ fa mi ɔ , sika ji nɔ́ nɛ he hia wawɛɛ .
+Mɛni he je nɛ e sa nɛ a tsu sane nɛ kɔɔ Yehowa nɔ yemi ɔ he ɔ he ní ɔ ?
+( Kane La 83 : 18 . )
+Kɛ Yehowa nɛ a maa wo lɛ nguɔ kaa Nɔ Yelɔ ɔ he hia kɛɛ ?
+Ejakaa kɛ je benɛ wa nɛmɛ ɔmɛ gbo nɛ ɔ , bɔ nɛ níhi ngɛ kɛ je benɛ a bɔ je ɔ , jã nɔuu nɛ a ngɛ nɛ ɔ nɛ . ”
+( Kane Yesaya 55 : 10 , 11 . )
+( Kane Hiob 1 : 7 - 12 . )
+Mɛni Yehowa de lɛ ?
+( Kane Hiob 38 : 18 - 21 . )
+Mɛni wa ma nyɛ maa kase ngɛ Hiob sane ɔ mi ?
+( Kane Roma Bi 5 : 3 - 5 . )
+LAHI : 12 , 150
+Anɛ Satan munyu nɛ ɔ ji anɔkuale lo ?
+Yi mi tomi nɛ ɔmɛ a kpɛti kake ji kaa Yehowa yeɔ wa nɔ ngɛ suɔmi mi .
+E hyɛɛ wa nɔ kulaa pe bɔ nɛ wɔ nitsɛmɛ wa ma nyɛ maa hyɛ wa he ɔ .
+Mɛni blɔ nɔ asafo mi nikɔtɔmahi kɛ wekuyihi ma nyɛ maa gu kɛ kase Yehowa ?
+La 147 ɔ woɔ Mawu we bi he wami kaa a je Yehowa yi .
+Mɛni la polɔ ɔ suɔ ngɛ Yehowa he nɛ lɔ ɔ he je ɔ , e suɔ kaa e je Yehowa yi ɔ ?
+Nihewi kɛ yihewi babauu kɛ kã ngɛ be tsuo sɔmɔmi ní tsumi ɔ tsue .
+“ Nyɛɛ gu ní nami nɛ dɛ ɔ nɔ kɛ ná huɛmɛ kɛ ha nyɛ he . ” — LUKA 16 : 9 , NW .
+LAHI : 122 , 129
+Mɛni wa ma nyɛ maa pee konɛ je ɔ jua yemi ɔ ko ngɔ wɔ nyɔguɛ ?
+Mɛni he je nɛ ohia se be poe kulaa ngɛ je yaya nɛ ɔ mi ɔ ?
+Mɛni sane bimihi a he wa ma susu ?
+Kane Luka 16 : 1 - 8 .
+Mɛni wa ma nyɛ maa kase ngɛ Yesu ga womi ɔ mi ?
+Kɛ wa plɛɔ kɛ leɔ kaa jua yemi blɔ nya tomi nɛ ngɛ mwɔnɛ ɔ piɛɛ we Mawu yi mi tomi he ha kɛɛ ?
+Kane Luka 16 : 10 - 13 .
+Mo ha nɔ hyɛmi níhi nɛ tsɔɔ kaa nyɛmimɛ komɛ ngɔ ní nami nɛ dɛ ɔ kɛ ngɛ ní tsue ngɛ anɔkuale yemi mi .
+I yɔse kaa akɛnɛ i haa nihi ní faa he je ɔ , i nyɛɔ nɛ i kɛ nihi hiɔ si saminya .
+( Kane 2 Korinto Bi 8 : 13 - 15 . )
+Ngɛ mɛni blɔ nɔ nɛ Abraham tsɔɔ kaa e ngɔ e hɛ kɛ fɔ Yehowa nɔ ?
+( b ) Ngɛ mɛni blɔ nɔ nɛ wa ma nyɛ maa ngɔ Paulo ga womi ɔ kɛ tsu ní mwɔnɛ ɔ ?
+Timoteo hu ji nɔ ko nɛ e ngɛ hemi kɛ yemi .
+Paulo tsɛ Timoteo ke “ Kristo Yesu ta bulɔ kpakpa . ” Lɔ ɔ se ɔ , e de Timoteo ke : “ Adesa ko be nɛ e ngɛ sɔmɔe kaa ta bulɔ nɛ e ngɔɔ e he kɛ woɔ jua yemi mi , ejakaa e suɔ kaa e maa sa nɔ nɛ e ngɔ lɛ kaa ta bulɔ ɔ hɛ mi . ”
+Mɛni ní nami lɛ haa nɔ bua jɔmi pe kulaa ?
+Yehowa jɔɔ nihi nɛ ‘ a bɔleɔ a nine kɛ haa nɔ tsuaa nɔ , ’ aloo a pee niatsɛmɛ ngɛ ní tsumi kpakpahi a mi ɔ .
+( Kane 1 Timoteo 6 : 17 - 19 . )
+Wa maa na tsohi , tɛhi , kɛ dadehi nɛ a he jua wa a yaka , nɛ waa kɛ maa ma tsuhi nɛ a ngɛ fɛu .
+Ke o ngɛ hlae nɛ o ha yemi kɛ buami kɛ gu intanɛti ɔ nɔ ɔ , moo ya jw.org / ada , nɛ o nyɛ “ O Ma Nyɛ Ma Ha Nɔ́ Ko Kɛ Fĩ Wa Je Kɛ Wɛ Ní Tsumi ɔ Se ” nɛ ngɛ sisi ɔ nɔ .
+LAHI : 90 , 111
+NYƐMIYO ko nɛ a tsɛɛ lɛ ke Susi de ke , “ Ngɛ wa binyumu ɔ gbenɔ se maa pee jeha kake po ɔ , wa ya nɔ nɛ wa ye aywilɛho wawɛɛ . ”
+( Kane 2 Korinto Bi 1 : 3 , 4 . )
+Be fɛɛ be nɛ wa maa pee jã a , Mawu he jɔmi ɔ buɔ wa tsui kɛ wa juɛmi ɔ he . ” ​ — Kane Filipi Bi 4 : 6 , 7 .
+2 : 17 .
+Benɛ Lazaro gbo ɔ , mɛni Yesu pee nɛ tsɔɔ kaa e nuɔ nɔ́ he haa nɔ ?
+
+( Kane 1 Tesalonika Bi 5 : 11 . )
+Mɛni nɛ e sa kaa wa kai ngɛ aywilɛho yemi he ?
+( Abɛ 14 : 10 ) Ke nɔ ko tsɔɔ bɔ nɛ e peeɔ lɛ ha po ɔ , pi be tsuaa be nɛ wa ma nyɛ maa nu nɔ́ nɛ e ngɛ lɛ pee ɔ sisi .
+Ke e ba lɛ jã a , i naa lɛ kaa nɔ ko piɛɛ ye he . ”
+Junia de ke : “ Ke nɔ ko ngma mi bua womi munyu kpiti ko , aloo nyɛmi ko fɔ mi nine nɛ i ya slaa lɛ ɔ , ye bua jɔɔ wawɛɛ .
+Jamɛ a ní ɔmɛ nɛ nyɛmimɛ peeɔ ɔ haa nɛ i naa kaa a suɔ mi , nɛ a susuɔ ye he . ”
+Dalene de ke , “ Be komɛ ɔ , ke nyɛmimɛ yihi ba wo ye bua a , i biɔ mɛ ke ji a ma nyɛ nɛ a kɛ mi nɛ pee kake kɛ sɔle lo .
+Behi fuu ɔ , ke a je sɔlemi ɔ sisi ɔ , munyu ɔ bɛ kpakpa ko , se kɛ yaa kɛ yaa a , kɛkɛ a gbi ɔ mi tsɔ , nɛ a sɔleɔ kɛ jeɔ a tsui mi .
+A hemi kɛ yemi nɛ mi wa , suɔmi nɛ a jeɔ kpo kɛ tsɔɔ mi , kɛ bɔ nɛ a susuɔ ye he ha a woɔ ye hemi kɛ yemi ɔ mi he wami wawɛɛ . ”
+17 - 19 .
+‘ Huɛmɛ suɔ a he be tsuaa be , haomi be mi tete po a si we a sibi . ’
+Nyɛminyumu ko nɛ e yo gbo ɔ de ke , “ I le kaa ke be nɛ waa kɛ kaiɔ ligbi nɛ wa sɛ gba si himi mi ɔ su ɔ , i be lɛ nae gbɔjɔɔ , nɛ niinɛ , i nɛ́ lɛ gbɔjɔɔ .
+Se nyɛmimɛ nyumuhi kɛ yi komɛ to he nya buami ko he blɔ nya , nɛ a fɔ ye huɛmɛ nɛ nyu bi ngɛ i kɛ mɛ wa kpɛti ɔ nine , bɔ nɛ pee nɛ ma ko ye aywilɛho tsɔ . ”
+Junia de ke : “ Behi fuu ɔ , ke wa hɛ wɔ kɛ su a he , nɛ wa ye bua mɛ ɔ , e hi wawɛɛ pe nɛ wa maa mlɛ kɛ ya si be nɛ wa ngɛ he nya buami pɔtɛɛ ko pee .
+Nihi nɛ a ngɛ aywilɛho ɔ yee ɔ kaiɔ be nɛ ɔ wawɛɛ , nɛ e woɔ a bua . ”
+A ha nɛ i nu he kaa nɔ́ nɛ Yehowa ngɔ e nine kɛ fɔ ye kuɛ mi . ”
+Mɛni he je nɛ Yehowa si womi ɔmɛ woɔ wa bua a ?
+Mawu wo si , nɛ e de ke , “ Nyɔmtsɛ Mawu maa ye gbenɔ nɔ kunimi ; e ma tsu nɔ tsuaa nɔ hɛ mi vo nyu . ” ( Yes .
+Ngmami kpa komɛ hu nɛ nihi fuu na kaa e ma nyɛ maa wo a bua ji nɛ ɔmɛ nɛ : La 20 : 1 , 2 ; 31 : 7 ; 38 : 8 , 9 , 15 ; 55 : 22 ; 121 : 1 , 2 ; Yesaya 57 : 15 ; 66 : 13 ; Filipi Bi 4 : 13 ; kɛ 1 Petro 5 : 7 .
+Moo hyɛ munyu nɛ ji “ Comfort the Bereaved , as Jesus Did ” nɛ je kpo ngɛ November 1 , 2010 Blɛfo gbi Hwɔɔmi Mɔ ɔ mi ɔ hulɔ .
+“ Wa li nɔ́ nɛ wa ma de po , se wa ngɛ hlae nɛ o le kaa wa suɔ mo .
+Wa li bɔ nɛ e ngɛ mo pee ha tutuutu , se Yehowa le , nɛ e maa ya nɔ maa wo mo he wami .
+Wa ngɛ hɛ kɛ nɔ fɔmi kaa wa sɔlemi ɔmɛ maa wo o bua bɔɔ . ”
+“ Yehowa nɛ wo mo he wami ngɛ be nɛ ɔ mi . ”
+“ Mo kai kaa Mawu kaiɔ o suɔlɔ ɔ kɛ e he nɔ́ tsuaa nɔ́ , nɛ e ma tle lɛ si kɛ ba wami mi ekohu . Ha nɛ enɛ ɔ nɛ wo o bua . ”
+“ Mo ná nɛ o le kaa gbenɔ , nɛ e ji nyagbe he nyɛlɔ ɔ be o suɔlɔ ɔ nɔ kunimi yee hu .
+Se amlɔ nɛ ɔ , anɔkuale nɛ e ye ɔ pee we yaka , nɛ e maa te si kaa nɔ ko nɛ ngɛ gbugbuugbu kɛ ba Paradeiso ɔ mi . ”
+“ E ngɛ mi kaa munyuhi be nyɛe maa tsɔɔ bɔ nɛ o suɔlɔ ɔ gbenɔ ɔ hao mo ha a mohu lɛɛ , se wa ngɛ blɔ hyɛe kaa be maa su nɛ wa hiɔwe Tsɛ ɔ ma tle o suɔlɔ ɔ si kɛ ba wami mi ekohu , nɛ jamɛ a be ɔ mi hu ɔ , munyuhi be nyɛe maa kale bua jɔmi nɛ o ma ná a . ”
+Ngɛ haomi ngua a mi ɔ , Kristofohi maa ngɔ a hɛ kɛ fɔ Yehowa nɔ , a be mɔde bɔe kaa a ma fã a he
+Fiɛɛlɔ ko nɛ e kɛ nɔ ko nɛ e ngɛ ní tsue ngɛ apple ngmɔ ko mi ngɛ Baiblo mi sɛ gbi ɔ he susue ngɛ Grójec
+LAHI : 59 , 3
+( b ) Mɛni wa ma nyɛ maa kase ngɛ La 147 ɔ mi ?
+Mɛni ji jamɛ a yi mi tomi ɔmɛ ?
+( Kane La 147 : 5 . )
+I suɔ kaa o hi si kaa ye we Odasefo no nɛ o ná bua jɔmi ! ”
+( Kane La 147 : 8 , 9 . )
+Mutsuo de ke : “ I nu he kaa nɔ́ nɛ Yehowa ngɛ wa ti nɔ tsuaa nɔ kasa nya haa , nɛ e ngɛ wɔ ye buae .
+Enɛ ɔ wo ye bua wawɛɛ ! ”
+12 , 13 . ( a ) Mɛni e sa kaa wa kua konɛ Mawu nɛ e ye bua wɔ ?
+Se ‘ yiwutsotsɛmɛ lɛɛ Mawu sakee mɛ ngɔ fiaa si . ’
 ‘ Nihi nɛ yeɔ Yehowa gbeye , nɛ ngɔɔ a hɛ kɛ fɔɔ e nɔ kaa e maa na mɛ mɔbɔ daa a , mɛɛ e naa a he bua jɔmi . ’
-Se kɛ̃ ɔ , Bɔlɔ ɔ yi mi tomi ɔ tsakee we .
-Mɛni Yelena de kɛ gbe e munyu ɔ nya ?
-Fiɛɛli kɛ haomi komɛ hu kpe .
-Se ke waa kɛ lɛ wui la a mi ɔ , nyagbenyagbe ɔ , la a ma gbo nɛ e maa pee la zu nɛ mi jɔ yluduu .
-E tsuɔ ní wawɛɛ nɛ e ngɔɔ níhi nɛ a he jua wa nɛ a he hia we weku ɔ kɛ baa we mi .
-4 : 20 - 24 ; 1 Pet .
-Wa ngɛ nɔ mi mami kaa wa ngɛ nyagbe ligbi ɔmɛ , nɛ ji “ je nɛ ɔ nyagbe be ” ɔ mi .
-Mɛni Satan bɔɔ mɔde kaa e kɛ ma puɛ nihi a juɛmi ?
-E sa nɛ wa ná bɔfo Paulo juɛmi ɔ eko . Bɔfo Paulo wo e nyɛmimɛ Kristofohi nɛ a pɔ mɛ nu ɔ ga kaa ‘ jehanɛ ɔ a pi nibwɔhi , loo ma se bi hu , se mohu a ji Mawu we bi . ’
-Ke a ha heto ɔ , nɔ́ nɛ i deɔ pɛ ji , ‘ Mo tsumi . ’
-Se pee se ɔ , wa ba na Baiblo ɔ mi anɔkuale ɔ , wa pee tsakemi ngɛ wa si himi mi , wa jɔɔ wa he nɔ ha Mawu , nɛ wa ha nɛ a baptisi wɔ .
-Enɛ ɔ tsɔɔ bɔ nɛ a kpɔ̃ Mawu we bi ɔmɛ kɛ je nyɔguɛ yemi mi ngɛ Babilon Ngua a dɛ mi ngɛ jeha 1919 ɔ mi .
-Tsa pi ní nguahi nɛ haa gba si himi kaa kikɛ ɔ ngɔɔ kaa bɔnɛ a jeɔ ngɛ sɛnihi a mi ɔ .
-Nɔ́ hami haa nɛ hiɔ komɛ nɛ a tsami yee kaa multiple sclerosis ( Hiɔ ko nɛ ha we nɛ juɛmi ɔ kɛ se mi wu ɔ nɛ tsu ní saminya ) aloo HIV nya baa si .
-‘ Jehanɛ Yehowa Mawu ngɔ nɔmlɔ ɔ kɛ ya to Eden ngmɔ ɔ mi , konɛ e hu mi nɛ e hyɛ nɔ .
-E sa nɛ o tsu asafo ɔ mi hiami níhi kɛ ní kpahi hu nɛ a he hia a he ní .
-O KƐ LƐ NƐ SƆLE
-Tahi : Je mi ta enyɔ ɔmɛ tane nihi nɛ a he hiɛ pe ayɔ 60 a yi .
-Mɛni he je nɛ wa kplɛɛ nɔ , nɛ kɛ Yehowa jɔɔ wɔ ha kɛɛ ?
-Mɛni blɔ nɔ Baiblo ɔ nɛ o maa to o tsui si kɛ kane ɔ maa po o he piɛ ngɛ ?
-Akɛnɛ a maa baa adesahi kɛ zugba a tsuo yi heje ɔ , anɛ sisi numi be he kaa yinɔ ehe loo blɔ nya tomi ehe maa nyɛɛ se kɛ ba lo ?
-Mɛni “ paradeiso ” bɔfo Paulo na ngɛ nina ko mi ?
-Atsinyɛ jemi ko be he kaa lɔ ɔ ha nɛ o ná suɔmi nɛ mi wa kɛ ha Yehowa .
-A tsɔɔ ní komɛ a sisi ngɛ Baiblo sisi tsɔɔmi nɛ ɔ mi nɛ dɛ , nɛ a ngma ní komɛ hu ngɛ mi nɛ be blema Baiblo nɛ a kɛ nine ngma amɛ a mi .
-( Abɛ 16 : 20 ) Nihi fuu na kaa ke a ye bua nihi nɛ a ná hemi kɛ yemi ngɛ Yehowa mi ɔ , mɛ hu a hemi kɛ yemi ɔ mi waa .
-Lɔɔ he ɔ , a maa je o sɔlemi we ɔ he , nɛ e maa fɔ si gu . ”
-Se kɛ̃ ɔ , huɛ bɔmi ko be i kɛ lɛ wa kpɛti .
-Amlɔ nɛ ɔ , nyɛ ha wa susu blɔ nɔ nɛ wa maa gu nɛ waa kɛ nihi ma susu nɔ́ nɛ Ngmami ɔ de ɔ he ɔ he nɛ waa hyɛ .
-Wa yɔse kaa oti kake nɛ wɔ ni enyɔ ɔmɛ tsuo waa kɛ ma wa hɛ mi .
-Ní nɛ ɔmɛ tsuo ji odase nɛ maa anɔkuale munyu nɛ Mawu ha nɛ Matsɛ Solomon ngma a nɔ mi .
-Yehowa kplɛɛɔ a nɔ kulaa , aloo e haa nɛ a náa nyagbe nya sɔumi loko a gboɔ , aloo e maa pee enɛ ɔ ke e piɛ bɔɔ nɛ “ haomi kpetekpleenyɛ ɔ ” maa je sisi . ​ — Kpojemi 2 : 10 ; 7 : 3 , 14 .
-Aloo eko ɔ , nihi nɛ a pi Yehowa sɔmɔli nɛ a ji wa weku li , wa kpɔ mi bi , nihi nɛ waa kɛ mɛ tsuɔ ní kɛ nihi nɛ waa kɛ mɛ yaa sukuu .
-Eko ɔ , e piɛ bɔɔ nɛ David maa ye jeha nyingmi enyɔ , se a le lɛ kaa e ji ta hwulɔ ko nɛ e ngɛ kã . ​ — 1 Samuel 16 : 18 ; 17 : 33 .
-E fɔli ɔmɛ bi nyɛmimɛ ɔmɛ ke : “ Nyɛ susu kaa a ma ha nɛ waa je kɛkɛ lo ? ”
-E le bɔ nɛ Yehowa peeɔ e ní ngɛ abofu kɛ lue yemi he ha , nɛ e le kaa Mawu suɔ kaa e we bi nɛ a suɔ a he .
-Ke Matsɛ Yesu Kristo je basabasa peemi , nɔ́ nami , kɛ awi yemi ngɛ zugba a nɔ ɔ , adesahi nɛ a peeɔ tue bumi ɔ ma ná tue mi jɔmi , nɛ a tsui hu maa nɔ a mi fuaa .
-E sa nɛ enɛ ɔ nɛ wo wɔ he wami konɛ waa kɛ sɔlemi nɛ susu níhi nɛ wa peeɔ kɛ bɔnɛ nihi naa wɔ ha a he wawɛɛ .
-Mwɔnɛ ɔ , nihi woɔ a he nɔ kɛ puɛɔ ní ngɛ blɔhi fuu a nɔ .
-Gbami nɛ kɔɔ katsɛmɛ kpanaa amɛ nɛ a nyɛɛɔ wa hɛ mi ɔ , kɛ ganɔ ɔmɛ a he ɔ ba mi nitsɛnitsɛ ngɛ wa be nɛ ɔ mi .
+E haa tue mi jɔmi baa o zugba a nɔ . ”
+( Hyɛ kuku 15 - 17 )
+15 - 17 . ( a ) Be komɛ ɔ , kɛ nyagbahi nɛ waa kɛ kpeɔ ɔ haa nɛ wa peeɔ wa ní ha kɛɛ , se kɛ Yehowa guɔ e Munyu ɔ nɔ kɛ yeɔ bua wɔ ha kɛɛ ?
+Mwɔnɛ ɔ , Yehowa kɛ e Munyu nɛ ji Baiblo ɔ tsɔɔ wɔ blɔ .
+( Kane La 147 : 19 , 20 . )
+LAHI : 135 , 81
+Mɛni otihi lɛ ma nyɛ ma ha nɛ o ná bua jɔmi hwɔɔ se ?
+Ke wa tsu blɔ gbami ní tsumi ɔ eko ɔ , mɛni he blɔhi lɔ ɔ ma nyɛ ma ha nɛ wa ná ?
+KE O ji niheyo aloo yiheyo ɔ , o le kaa loko o maa hia blɔ ko ɔ , nile ngɛ mi kaa o maa le he nɛ o yaa .
+Adesa si himi ngɛ kaa blɔ hiami , nɛ o nihe loo yihe mi ji be nɛ e sa nɛ o le he nɛ o suɔ kaa o maa ya .
+Kɛ o plɛ kɛ le kaa Yehowa suɔ kaa o pee juɛmi nɛ da konɛ o bua nɛ jɔ hwɔɔ se ha kɛɛ ?
+6 : 20 ) Yehowa suɔ kaa o bua nɛ jɔ .
+Mɛni otihi nɛ Yehowa suɔ kaa o kɛ ma o hɛ mi ?
+Mɛni otihi nɛ Yehowa suɔ kaa o kɛ ma o hɛ mi ?
+“ Mawu nɛ suɔ wɔ ɔ , ” nɛ ji “ bua jɔmi Mawu ɔ ” nɛ e bɔ adesa ngɛ ‘ e subai nɔ ’ ɔ ji o Bɔlɔ .
+Ke o kase wa Mawu nɛ ngɛ suɔmi ɔ , o bua maa jɔ .
+Mɛni ha Yesu bua jɔmi ?
+Yesu Kristo pee nɔ hyɛmi nɔ́ nɛ se be kɛ ha nyɛ nihewi kɛ yihewi .
+( Fiɛlɔ 3 : 4 ) Jehanɛ se hu ɔ , Ngmami ɔ nɛ Yesu kase ɔ ha nɛ e hɛ lɛ kɛ su Yehowa he haa .
+“ He nɛ ga womi be ɔ , yi mi tomi peeɔ yaka ; se he nɛ ga woli hiɛ ngɛ ɔ , níhi yaa nɔ pɛpɛɛpɛ . ”
+Ke o maa le ní tsumi ko saminya a , e ma he be .
+Sisije ɔ , i nyɛ we nɛ ma pee Baiblo mi ní kasemi , se benɛ i hia kɛ ho zugba kpɔ kpa mi ya a , i ná Baiblo kaseli fuu ngɛ nyɔhiɔ kake pɛ mi .
+A kpɛti nɔ kake bɔni asafo mi kpehi yami .
+Kaa nɔ hyɛmi nɔ́ ɔ , Jacob nɛ e je Amerika Yiti Je ɔ de ke : “ Benɛ i ye jeha kpaago ɔ , ye sukuu bi ɔmɛ a kpɛti nihi fuu ji Vietnam bi .
+I suɔ kaa ma tsɔɔ mɛ Yehowa he ní , enɛ ɔ he ɔ , pe ɔ se ɔ , i kɛ pee oti ngɛ ye hɛ mi kaa ma kase a gbi ɔ .
+Behi fuu ɔ , i ngɔɔ Blɛfo gbi Hwɔɔmi Mɔ ɔ kɛ toɔ Hwɔɔmi Mɔ nɛ a pee ngɛ Vietnam gbi mi ɔ he .
+Jehanɛ hu ɔ , i kɛ asafo ko nɛ a tuɔ Vietnam gbi ɔ hu bɔ .
+Benɛ i ye jeha 18 ɔ , i je blɔ gbami ní tsumi ɔ sisi .
+Pee se ɔ , i ya Baiblo Sukuu Kɛ Ha Nyumuhi Nɛ A Sɛ We Gba Si Himi Mi ɔ eko .
+I ngɛ sɔmɔe ngɛ kuu ko nɛ tuɔ Vietnam gbi ɔ mi , nɛ imi pɛ ji asafo mi nɔkɔtɔma ngɛ lejɛ ɔ .
+E peeɔ Vietnam bi fuu nyakpɛ kaa i tuɔ a gbi ɔ .
+A fɔɔ mi nine kɛ baa a ngɔ , nɛ behi fuu ɔ , i kɛ mɛ kaseɔ Baiblo ɔ .
+A kpɛti ni komɛ ha nɛ a baptisi mɛ . ​ — Kɛ to Bɔfo Ɔmɛ A Ní Tsumi 2 : 7 , 8 ɔ he .
+E de ke : I suɔ fiɛɛmi , ejakaa lɔ ɔ ji ní tsumi nɛ Yehowa ha wɔ .
+Benɛ i gbe sukuu nya pɛ nɛ i ba pee blɔ gbalɔ .
+Ke i wo nihewi nɛ a ngɛ ye we asafo ɔ mi ɔ he wami nɛ a ngɛ a hɛ mi yae ngɛ Mawu jami mi ɔ , ye bua jɔɔ .
+Pee se ɔ , i ya Baiblo Sukuu Kɛ Ha Nyumuhi Nɛ A Sɛ We Gba Si Himi Mi ɔ eko , nɛ benɛ i gbe nya a , a ha nɛ i ya sɔmɔ ngɛ ma kpa nɔ .
+Wa ma nyɛ maa gu blɔhi fuu a nɔ kɛ bli wa sɔmɔmi ní tsumi ɔ mi .
+Wa hia Matsɛ Yemi Asa lafahi abɔ .
+Mɛni blɔ nɔ nɛ blɔ gbami ní tsumi ɔ bliɔ he blɔ kpahi ngɛ ?
+Nyɛminyumu ko nɛ a tsɛɛ lɛ ke Kevin ɔ de ke : “ Kɛ je ye jokuɛwi a si tɔɔ ɔ , i suɔ kaa hwɔɔ se ko ɔ , ma ngɔ ye be tsuo kɛ sɔmɔ Yehowa .
+Benɛ i ye jeha 19 ɔ , i je blɔ gbami ní tsumi ɔ sisi .
+I ngɔɔ ye be fã kɛ yeɔ bua nyɛminyumu ko nɛ e maa tsu , nɛ i kɛ hyɛɛ ye he .
+I kase bɔ nɛ a kaa tsu yi mi , kɛ bɔ nɛ a maa saflɛhi kɛ sinyahi ha .
+Pee se ɔ , i kɛ jeha enyɔ ye bua kɛ ma Matsɛ Yemi Asahi kɛ wehi kɛ ha nyɛmimɛ nɛ kɔɔhiɔ nɛ nya wa puɛ a ní ɔ .
+Benɛ i nu kaa a hia tsu mali ngɛ South Africa a , i ngma womi nɔ ní kaa ma suɔ nɛ ma ya eko , nɛ a fɔ̃ mi nine kaa ma ba .
+Kɛ je be nɛ i ba je Afrika a , wa ngɔɔ otsi bɔɔ ko kɛ maa Matsɛ Yemi Asa ngɛ he kake , kɛkɛ lɔ ɔ se ɔ wa je kɛ ho he kpa ya .
+Tsu mali a kuu nɛ i kɛ mɛ tsuɔ ní ɔ ngɛ kaa ye weku .
+Wa hiɔ he kake , wa peeɔ kake kɛ kaseɔ Baiblo ɔ , nɛ wa tsuɔ ní kɛ blaa .
+Jehanɛ hu ɔ , ke i kɛ nyɛmimɛ nɛ a ngɛ he nɛ wa ya maa tsu ɔmɛ ngɛ ɔ pee kake kɛ fiɛɛ ɔ , ye bua jɔɔ .
+Oti nɛ i kɛ ma ye hɛ mi benɛ i ji jokuɛ ɔ ha mi bua jɔmi nɛ i hyɛ we blɔ . ”
+Betel sɔmɔmi ngɛ bua jɔmi , ejakaa nɔ́ fɛɛ nɔ́ nɛ a peeɔ ngɛ lejɛ ɔ , a peeɔ kɛ haa Yehowa .
+A tsɔɔ mi bɔ nɛ a kɛ klamahi nɛ a kɛ fiaa womi ɔ tsuɔ ní ha , nɛ pee se ɔ , a tsɔɔ mi bɔ nɛ a toɔ kɔmpiuta he blɔ nya ha .
+Ngɛ Betel ɔ , imi nitsɛ i nuɔ bɔ nɛ kaselɔ peemi ní tsumi ɔ ngɛ hɛ mi yae ha ngɛ je kɛ wɛ ɔ , nɛ ye bua jɔɔ .
+Ye bua jɔ Betel sɔmɔmi he , ejakaa wa ní tsumi ɔ yeɔ bua nihi konɛ a hɛ mɛ kɛ su Yehowa he . ”
+O ma nyɛ ma ná nɔ mi mami kaa Yehowa suɔ nɛ o ‘ ná ’ bua jɔmi hwɔɔ se .
+( Kane 1 Timoteo 6 : 18 , 19 . )
+NƆ KO ma mo tuami !
+Satan bɔni bɔ nɛ adesa peeɔ e ní ha a he hɛ tomi kɛ je be nɛ a bɔ adesa a tɔɔ .
+Mɛni blɔ nɔ o ma nyɛ maa gu kɛ yu o he ngɛ lakpa munyuhi a he ?
+E sa nɛ mo nitsɛ o hla konɛ o na anɔkuale ɔ ha o he . ”
+Yesu de ke : “ Nihi nɛ gbeɔ nɔmlɔ tso ɔ , nɛ lɔ ɔ se ɔ , a nyɛ we nɛ a peeɔ nɔ́ ko hu ɔ , nyɛ ko ye mɛ gbeye . ”
+Mɛni Yehowa hu de ?
+A ngɛ mo sisie ! ’
+( Abɛ 26 : 24 , 25 ) Moo bu Yehowa tue , nɛ nɔ́ fɛɛ nɔ́ nɛ o ngɛ pee ɔ , ngɔɔ o hɛ kɛ fɔ e nɔ .
+3 Anɛ O Maa Suɔ Nɛ O To O Tsui Si Kɛ Mlɛ Lo ?
+Munyu enyɔne ɔ tsɔɔ bɔ nɛ Yehowa ma nyɛ maa gu blɔhi nɛ wa hyɛ we blɔ nɔ kɛ pee níhi nɛ wa juɛmi kpi he .
+27 Suɔmi ​ — Su Ko Nɛ E He Hia Wawɛɛ
+30 A Je Ngɛ Wa Yi Nɔ Sane Womihi A Mi
+32 Sane Bimihi Nɛ Je Ní Kaneli A Ngɔ
+LAHI : 114 , 79
+Kaa bɔ nɛ e ji ngɛ ngmɔ hulɔ blɔ fa mi ɔ , e sa nɛ wɔ hu waa to wa tsui si kɛ hyɛ Yehowa blɔ .
+Mɛni wa ma nyɛ maa kase ngɛ gbalɔ Mika nɔ hyɛmi nɔ́ ɔ mi ?
+( Kane Mika 7 : 1 - 3 . )
+Ke wa ngɛ hemi kɛ yemi kaa Mika a , wa ma ná suɔmi ɔ kaa wa maa hyɛ Yehowa blɔ .
+Enɛ ɔ he ɔ , waa kɛ ‘ tsui si tomi kɛ bua jɔmi fĩɔ si saminya . ’
+Abraham to e tsui si jehahi fuu loko a fɔ e bibimɛ nɛ ji Esau kɛ Yakob ( Hyɛ kuku 9 , 10 )
+Ha nɛ wa susu Abraham kɛ Sara he nɛ waa hyɛ .
+Mɛni he je nɛ e he ba hia nɛ Abraham nɛ to e tsui si ɔ ?
+( Kane Hebri Bi 11 : 8 - 12 . )
+Ke a tle Abraham si kɛ ba paradeiso ɔ mi ngɛ zugba a nɔ ɔ , moo hyɛ bɔ nɛ e bua maa jɔ ha .
+Hemi kɛ yemi nɛ e ngɛ ngɛ Yehowa mi ɔ nɛ ye bua lɛ .
+Nyɛɛ lɛɛ nyɛ so kaa nyɛ maa pee mi yayami , se Mawu tsake nyɛ yi mi tomi ɔ kɛ pee nɔ́ kpakpa ; bɔ nɛ pee nɛ e kɛ he nihi babauu a yi wami , kaa bɔ nɛ e ba mi mwɔnɛ nɛ ɔ . ”
+( b ) Mɛni ye bua David nɛ e nyɛ to e tsui si kɛ hyɛ Yehowa blɔ ?
+Mɛni he je nɛ David ná suɔmi ɔ kaa e maa to e tsui si kɛ hyɛ Yehowa blɔ ɔ ?
+Ma la kɛ je mo Yehowa o yi ejakaa o pee ye hiami ní ɔmɛ ha mi . ’
+( Kane 2 Petro 3 : 9 . )
+Mɛni maa ye bua wɔ konɛ wa ná suɔmi ɔ kaa wa maa to wa tsui si kɛ hyɛ Yehowa blɔ ?
+LAHI : 112 , 58
+Mɛni wa kaseɔ ngɛ nɔ́ nɛ bɔfo Paulo gblee mi ngɛ Filipi ɔ mi ?
+Se jije ?
+( Kane Bɔfo Ɔmɛ A Ní Tsumi 16 : 8 - 10 . )
+Se mɛni ya nɔ pee se ?
+Benɛ e su Makedonia pɛ nɛ a wo lɛ tsu !
+Mɛni he je nɛ Yehowa ngmɛ blɔ nɛ a wo Paulo tsu ɔ ?
+E kɛ Sila tsuo bɔni ‘ sɔlemi , nɛ a la kɛ je Mawu yi . ’
+4 , 5 . ( a ) Ngɛ mɛni blɔ nɔ nɛ waa kɛ wa si fɔfɔɛ ɔ ma nyɛ maa to Paulo nɔ́ ɔ he ?
+( b ) Ngɛ mɛni blɔ nɔ nɛ Paulo si fɔfɔɛ ɔ tsake si kake too ?
+Hyɛ bɔ nɛ nɔ́ fɛɛ nɔ́ tsake si kake too ha !
+Mɛni he wa ma susu amlɔ nɛ ɔ ?
+( Kane 1 Petro 5 : 6 , 7 . )
+E sa nɛ wa tsu wa sɔlemi ɔ nya ní .
+Be komɛ ɔ , e haa wɔ níhi nɛ wa hyɛ we blɔ .
+18 : 14 , 15 ) Nyagbenyagbe ɔ , Hezekia ha nɛ ma a dla a he kɛ to ke ji a ba sa a ma a yi be kɛkɛɛ ɔ .
+( a ) Mɛni wa kaseɔ ngɛ Yosef sane ɔ mi ?
+( 1 Mose 40 : 15 ; 41 : 39 - 43 ; 50 : 20 ) Atsinyɛ jemi ko be he kaa nɔ́ nɛ Yehowa pee ɔ ha nɛ Yosef he mi po .
+Jehanɛ hu ɔ , mo susu Yosef nanakasowa Sara he nɛ o hyɛ .
+Mɛni hɛ kɛ nɔ fɔmi wa ma nyɛ ma ná ngɛ Yehowa mi ?
+( Kane Yesaya 43 : 10 - 13 . )
+Wa le kaa Yehowa susuɔ wa he , nɛ e suɔ kaa e hi ha wɔ .
+LAHI : 121 , 142
+Mɛni he je nɛ wa je kɛ wɛ nyɛmi peemi ɔ ngɛ slɔɔto ɔ ?
+Kɛ wa ma plɛ kɛ je su momo ɔ ngɛ wa he nɛ wa be he yae hu ha kɛɛ ?
+Ngɛ jeha 1939 ɔ mi ɔ , Odasefohi 6,000 lɛ a ngɛ tsu womi he ɔmɛ . ’
+Nyɛ ha nɛ fiɛmi he ɔ tsɔ nyaii .
+Nɔ́ nɛ peeɔ mi nyakpɛ pe kulaa ji kaa nyɛ je wɛtso munomunohi a mi , se nyɛ pee kake . ”
+Mɛni ha nɛ wa nyɛmi peemi ɔ ngɛ slɔɔto ɔ ?
+Ajuama bɔmi .
+Se si abɔ nɛ i kɛ nihi ngɛ bɔmi nae ɔ , si abɔ nɛ i naa kaa i be he piɛ pomi . ”
+Sakura kɛ e he wo jemi bami yaya nɛ ɔ mi kɛ ya si e ye jeha 23 .
+Mu ní tsumi .
+Níhi puɛ hluu kaa e ba su be ko nɛ i hyɛɛ blɔ kaa ye yo ɔ nɛ je we mi konɛ ma ná he blɔ kɛ hyɛ bɔmi nami he videohi . ”
+Mɛni ye bua Stephen nɛ e ngmɛɛ mi mi la , kɛ nɔ jɛmi he ɔ ?
+E de ke : “ Wa weku si himi ɔ tsake amlɔ nɔuu .
+Mwɔnɛ ɔ , Stephen ngɛ sɔmɔe kaa asafo mi sɔmɔlɔ , nɛ e yo ɔ hu ngɛ sɔmɔe kaa daa blɔ gbalɔ jehahi fuu ji nɛ ɔ .
+Se be ko nɛ be ɔ , jinɛ Hans be jã .
+Ngmamihi nɛ wo mi he wami wawɛɛ ji Yesaya 55 : 7 nɛ deɔ ke : ‘ Nyɛ yiwutsotsɛmɛ , nyɛ kpa awi yemi , ’ kɛ 1 Korinto Bi 6 : 11 nɛ deɔ ke : ‘ Be ko ɔ , kikɛ nɛ ɔ nyɛ ti ni komɛ ba nyɛ je mi ’ ɔ .
+Yehowa to e tsui si ha mi , e kɛ e mumi klɔuklɔu ɔ ye bua mi nɛ i kɛ jehahi fuu pee tsakemi , nɛ i wo su ehe ɔ . ”
+5 : 17 ) Ke wa dla wa he loko wa yaa asafo mi kpehi ɔ , lɔ ɔ hu maa ye bua wɔ konɛ wa ná Mawu Munyu ɔ kɛ e mumi klɔuklɔu ɔ he se .
+A tsake biɛ ɔmɛ ekomɛ ngɛ munyu nɛ ɔ mi .
+Moo hyɛ womi nɛ ji Questions Young People Ask ​ — Answers That Work , Kpo 1 ɔ yi 25 .
+LAHI : 126 , 28
+( Kane Kolose Bi 3 : 10 - 14 . )
+E de ke : “ Slɔɔto ko be Hela no kɛ Yuda no a kpɛti ; slɔɔto ko be nɔ nɛ a po lɛ , kɛ mɔmlɔtɔtsɛ a kpɛti . Kɔpe no be ɔ , futufutu no be ; nyɔguɛ be ɔ , odehe ko hu be . ”
+( a ) Kɛ e sa nɛ Yehowa sɔmɔli kɛ a sibi nɛ hi si ha kɛɛ ?
+( Moo hyɛ foni nɛ ngɛ ní kasemi ɔ sisije ɔ . ) ( b ) Mɛni je mi kɛ ba ?
+Pee se ɔ , e ya asafo mi kpe ko .
+E ngɛ kaa nɔ́ nɛ o hia blɔ , se loloolo ɔ , o ngɛ o ma a mi .
+O naa wa je kɛ wɛ nyɛmi peemi ɔ , kɛ bɔ nɛ kake peemi nɛ ngɛ wa kpɛti ɔ ngɛ nyakpɛ ha a . ”
+( Hyɛ kuku 10 )
+Ke wa kane ngmami komɛ kaa Kpojemi 21 : 3 , 4 aloo La 37 : 10 , 11 , 29 ɔ ngɛ Portuguese Baiblo ɔ mi kɛ tsɔɔ mɛ ɔ , a buɔ tue wawɛɛ , nɛ be komɛ ɔ , a foɔ ya po . ”
+Wa naa Yehowa si wawɛɛ . ” ​ — Kane Bɔfo Ɔmɛ A Ní Tsumi 10 : 34 , 35 .
+( Kɛ to Ezekiel 28 : 17 ɔ he . )
+Kane Abɛ 22 : 4 .
+Mɛni nɔ hyɛmi nɔ́ nɛ Yesu pee ngɛ kpoo peemi kɛ tsui si tomi he ?
+Yesu “ he jɔ . ”
+Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ je kpoo peemi kɛ tsui si tomi kpo ?
+E de ke : “ Ke nɔ ko kɛ e nyɛmi ngɛ sane ko ɔ , nyɛɛ na ha nyɛ sibi , nɛ nyɛ kɛ pa nyɛ he kaa bɔ nɛ Nyɔmtsɛ ɔ hu ngɔ nyɛ he yayami ngɔ pa nyɛ ɔ . ”
+Mɛni he je nɛ kpoo peemi kɛ tsui si tomi he hia wawɛɛ ɔ ?
+Lɔ ɔ se ɔ , e de ke : “ Se ke nyɛ hyɛɔ nihi a hɛ mi ɔ , yayami nyɛ ngɛ pee ɔ nɛ . ”
+Mɛni he je nɛ e sa nɛ waa wo suɔmi kaa tade ɔ ?
+Suɔmi “ toɔ e tsui si , nɛ e mi mi hi , ” nɛ “ e pee we pupuupu . ”
+SUƆMI
+TSUI SI TOMI
+MI MI HIMI
+KPAKPA PEEMI
+HEMI KƐ YEMI
+HE SI BAMI
+HE NƆ YEMI
+Paulo de ke , ke i be suɔmi ɔ , ye he “ be se nami ko kulaa . ”
+“ Mawu ɔ , suɔmi ji lɛ . ”
+Enɛ ɔ he je ɔ , e tsɔ e Bi ɔ kɛ ba , konɛ e ba dla waa kɛ Mawu wa kpɛti , nɛ a ngɔ wa he yayami ɔmɛ ngɔ pa wɔ . ”
+Adesa ko be nɛ ma nyɛ ma je suɔmi nɛ kle pe Yesu nɔ́ ɔ kpo .
+Yesu de ke : “ Suɔmi nɛ se be ji kaa nɔ ko maa ngɔ e wami ngɔ fɔ si ngɛ e huɛmɛ a he . ”
+Ha nɛ wa susu blɔhi a nɔ nɛ wa ma nyɛ maa gu kɛ pee jã a he nɛ waa hyɛ .
+Ke wa ke wa suɔ nɔ ko ɔ , wa ko de kɛ nya kɛkɛ ; wa suɔmi ɔ nɛ pee anɔkuale suɔmi nɛ jee kpo ngɛ ní peemi mi . ”
+Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ pee jã ?
+Nɔ́ nɛ ɔ dɔ mi wawɛɛ .
+Se i bi ye he ke , ‘ Mɛni blɔ nɔ ma nyɛ ma gu kɛ kase Yesu ngɛ i kɛ ní tsulɔ nɛ ɔ wa sane nɛ ɔ mi ? ’
+Benɛ i susu nɔ́ nɛ Yesu ko pee ɔ he ɔ , i ma ye juɛmi nya si kaa ma ngmɛɛ sane ɔ he .
+Pee se ɔ , i ba ná le kaa hiɔ ko nɛ nya wa ngɛ ní tsulɔ nɛ ɔ nya gbae , nɛ e hao wawɛɛ hulɔ .
+I yɔse kaa pi nɛ e je blɔ pee nɔ́ nɛ e pee ɔ .
+I susu bɔ nɛ Yesu je suɔmi kpo ha benɛ a wo e mi mi la po ɔ he , nɛ enɛ ɔ ye bua mi nɛ imi hu i je suɔmi kaa jã a kpo kɛ tsɔɔ ye ní tsulɔ ɔ . ”
+Yesu je hiɔwe nɛ e “ ngmɛɛ blɔ nya tsuo nɛ e ngɛ ɔ he ” ngɛ wa he je , nɛ e pee jã “ kɛ ya su gbeje tete ” po .
+Ke wa je suɔmi kpo ɔ , mɛni se wa ma ná ?
+TUE MI JƆMI : Ke wa ‘ naa nya ha wa sibi nɛ wa tsɔɔ kaa wa suɔ wa he niinɛ ’ ɔ , lɔ ɔ haa nɛ wa náa ‘ tue mi jɔmi nɛ haa wa peeɔ kake ɔ . ’
+Anɛ enɛ ɔ tsɔɔ we kaa tue mi jɔmi nɛ ɔ ngɛ slɔɔto kulaa ngɛ je nɛ kake peemi be mi nɛ ɔ mi lo ?
+Kpe ko nɛ a pee ngɛ jeha 1941 ɔ mi ngɛ Mexico City
+Ligbi enyɔne ɔ , nihi babauu ba , nɛ kpe he ɔ kpi mɛ . ’
+Asafo ko de ke , “ Tlee blɔ po be he nɛ wa ngɛ ɔ . ”
+Ni komɛ hu ya toɔ si ngɛ Matsɛ Yemi Asahi a nɔ .
+Nihi 2,262,646 nɛ a ya Kaimi ɔ ngɛ jeha 2016 mi , ngɛ Mexico .
+Níhi nɛ Mateo ngma a kɔɔ Yosef he titli .
+3 Mo Ná He Nɔ Yemi
+Mɛni mi mi sami tsɔɔ ?
+LAHI : 121 , 36
+1 , 2 . ( a ) Ke nɔ ko nyɛ we e he nɔ yemi ɔ , mɛni ma nyɛ maa je mi kɛ ba ?
+( 5 Mose 32 : 4 ) Se wɔɔ lɛɛ wa yi mluku .
+Mɛni wa ma nyɛ maa kase ngɛ Yehowa nɔ hyɛmi nɔ́ ɔ mi ?
+Kɛ o ma plɛ kɛ dla o he ngɔ to ha kɛɛ konɛ ke o kɛ kahi kpe ɔ , o nyɛ nɛ o tu nya fo ?
+Mɛni si fɔfɔɛ nɛ nyɛminyumu ko kɛ kpe , nɛ mɛni he je nɛ bɔ nɛ wa peeɔ wa ní ha ngɛ si fɔfɔɛhi kaa jã a mi ɔ he hia a ?
+Kɛ fɔli ma plɛ kɛ ye bua a bimɛ konɛ a ná he nɔ yemi ha kɛɛ ?
+Kɛ o ma plɛ kɛ ye bua o bimɛ konɛ a ná he nɔ yemi ha kɛɛ ?
+LAHI : 57 , 147
+( Kane 2 Mose 34 : 5 - 7 . )
+( b ) Mɛni he je nɛ e sa nɛ nɔ́ nɛ Baiblo ɔ de ngɛ mi mi sami he ɔ he nɛ hia mo ɔ ?
+( a ) Mɛni he je nɛ Yehowa tsɔ bɔfohi kɛ ya Sodom ɔ ?
+( Kane 2 Mose 22 : 26 , 27 . )
+Ngmami ɔ de ke : ‘ Yehowa , a nɛmɛ a Mawu ɔ ngmɛɛ we e ma a he . Daa nɛ ɔ , e tsɔɔ e gbali ɔmɛ nɛ a ya bɔɔ mɛ kɔkɔ , ejakaa e sume kaa e ma a , loo Yerusalem hɛ mi nɛ kpata . ’
+
+Mohu ɔ , e sa nɛ waa pee nɔ́ tsuaa nɔ́ nɛ wa ma nyɛ amlɔ nɛ ɔ kɛ ye bua nihi .
+Moo ye bua nihi .
+Nɔ́ kpa hu nɛ mi mi sami tsɔɔ ji , nɛ “ a kɛ nɔ ko maa na nɔ́ . ”
+Moo ngɔ o he kɛ ha kɛ ye bua nihi nɛ oslaahi ná mɛ ɔ .
+( Abɛ 14 : 31 ) E pee nɔ hyɛmi nɔ́ nɛ se be kɛ ha wɔ .
+8 : 10 .
+‘ Wlua mo , nɛ o pee kã , nɛ o tsu ní ɔ .
+LAHI : 38 , 34
+Mɛni nihewi kɛ yihewi kɛ a fɔli ma nyɛ maa pee kɛ tsɔɔ kaa a ngɛ kã ?
+1 , 2 . ( a ) Mɛni ní tsumi ngua nɛ a kɛ wo Salomo dɛ ?
+Ke Salomo ma nyɛ maa ma tsu ɔ , ja e pee kã , nɛ e tsu ní .
+Mɛni Salomo kase kɛ je kã nɛ e tsɛ David pee ɔ mi ?
+Mɛni he je nɛ e sa nɛ Salomo nɛ e pee kã a ?
+( Kane 1 Kronika 28 : 20 . )
+Mɛni he je nɛ e biɔ nɛ waa pee kã a ?
+Mɛni nɛ o bua jɔ he ngɛ kã nɛ Yosef pee ɔ he ?
+Rahab hu pee kã .
+Kɛ kã nɛ Yesu pee ɔ ye bua e bɔfo ɔmɛ ha kɛɛ ?
+Nyɛ ha nɛ wa susu bɔ nɛ wa maa pee kã ngɛ wa wekuhi kɛ asafo ɔ mi ha a he nɛ waa hyɛ .
+( b ) Ngɛ mɛni blɔ nɔ nɛ nihewi kɛ yihewi ma nyɛ maa kase Mose ?
+Yehowa maa ye bua mɛ konɛ a nyɛ nɛ a hyɛ a wekuhi .
+( Hyɛ kuku 13 - 17 )
+E de ke : “ Benɛ i ngɛ wae ɔ , i gboɔ zo wawɛɛ .
+Matsɛ Yemi Asa a nɔ po e he waa ha mi kaa i kɛ nihi maa sɛɛ ní , hluu nɛ ma ya si nihi nɛ i li mɛ ɔ a sinya . ”
+Se e fɔli ɔmɛ kɛ ni kpahi ngɛ asafo ɔ mi ɔ ye bua lɛ nɛ e nyɛ nɛ e su oti nɛ e kɛ ma e hɛ mi kaa e maa pee daa blɔ gbalɔ ɔ he .
+E biɔ nɛ fɔli nɛ a ji Kristofohi ɔ hu nɛ a pee kã .
+Kɛ La 37 : 25 kɛ Hebri Bi 13 : 5 ɔ ma nyɛ maa ye bua fɔli ha kɛɛ ?
+( Kane La 37 : 25 ; Hebri Bi 13 : 5 . )
+Nyɛminyumu ko nɛ e ngɛ bimɛ enyɔ ɔ ngma ke : “ Fɔli fuu puɛɔ sika kɛ he lo nya ní babauu konɛ a bimɛ nɛ a nyɛ nɛ a su oti komɛ a he . Ní nɛ ɔmɛ ekomɛ ji bɔɔlu fiami , la fiami , aloo sukuu yami .
+Ke jã a , lɛɛ nile ngɛ mi kaa fɔli maa ngɔ a he wami kɛ he lo nya níhi kɛ sã afɔle ngɛ a bimɛ ɔmɛ a he , konɛ a bimɛ ɔmɛ nɛ a nyɛ nɛ a ngɔ otihi nɛ ma ha nɛ huɛ bɔmi kpakpa nɛ hi a kɛ Yehowa a kpɛti ɔ kɛ ma a hɛ mi .
+Wa bua jɔ wawɛɛ kaa wa bimɛ ɔmɛ ngɛ oti nɛ ɔmɛ a he sue , se pi lɔ ɔ pɛ , wa bua jɔ hu kaa wa ngɛ mɛ ye buae konɛ a pee jã . ”
+Moo tsɔɔ ní komɛ nɛ biɔ kã peemi ngɛ asafo ɔ mi .
+Mɛni yi nikɔtɔmahi ma nyɛ maa pee kɛ tsɔɔ kaa a ngɛ kã ?
+( Kane Tito 2 : 3 - 5 . )
+( a ) Mɛni blɔ nɔ nɛ nyumuhi nɛ a baptisi mɛ ɔ ma nyɛ maa pee kã ngɛ ?
+( Kane Filipi Bi 2 : 13 ; 4 : 13 . )
+Wa ngɛ nyumuhi nɛ a baptisi mɛ ɔ tsuo he wami woe konɛ a pee kã , nɛ a tsu ní wawɛɛ kɛ ye bua asafo ɔ !
+Enɛ ɔ he ɔ , “ moo pee kã , nɛ o tsu ní . ”
+40 : 8 .
+LAHI : 95 , 97
+Gbi nɛ tsakeɔ .
+Nɔ yemi slɔɔtohi nɛ a ba ye je ɔ nɔ .
+Si nɛ a te kɛ wo Baiblo ɔ sisi tsɔɔmi .
+1 , 2 . ( a ) Ke pi Baiblo ɔ he ɔ , kɛ wa si himi ko pee ha kɛɛ ?
+Bɔfo Petro tsɛ Yesaya 40 : 8 ɔ se .
+( Kane 1 Petro 1 : 24 , 25 . )
+( Kane Kpojemi 14 : 6 . )
+Pee se ɔ , benɛ a ngɛ Baiblo nɛ ɔ fiae ekohu ɔ , a ngɔ “ NYƆMTSƐ ” nɛ a ngɔ ningma okadi nguahi kɛ ngma a kɛ tsu ní ngɛ Kristofohi a Hela Ngmami ɔ hu mi .
+Mɛni he je nɛ wa bua jɔ New World Translation ɔ he ɔ ?
+( b ) Mɛni ji Hela Septuagint ɔ ?
+Mɛni blɔ nɔ a gu kɛ tsu nyagba nɛ ɔ he ní ?
+( Kane La 119 : 162 - 165 . )
+23 : 14 .
+( Kane Yesaya 48 : 17 , 18 . )
+Mɛni he wa ma susu ngɛ munyu nɛ nyɛɛ se ɔ mi ?
+A to he ko kɛ ha níhi nɛ a be tsakee , nɛ a ngma ngɛ hɛ mi ke “ Baiblo ɔ Kɛ Biɛ Klɔuklɔu ɔ . ”
+Wa ngɛ mo nine fɔe konɛ o ba slaa si ngɛ Baiblo to he nɛ ɔ , kɛ blema níhi a to he kpahi nɛ ngɛ asafo ɔ ní tsumi yi ɔ .
+Wa kpa mo pɛɛ nɛ o ya www.jw.org nɛ o to blɔ nya konɛ o ba slaa si ngɛ lejɛ ɔ .
+Yaa WA HE SANEHI > ASAFO Ɔ NÍ TSUMI KƆNIHI & SI SLAAMI .
+ngɛ fiɛɛmi mi ?
+ke o ngɛ ní tsɔɔe ngɛ munyu tumi kpoku ɔ nɔ ?
+48 : 17 .
+E kane 2 Korinto Bi 1 : 3 , 4 ɔ .
+Mɛni ní tsumi lɛ fɔɔ si ngɛ nyɛmimɛ nyumuhi nɛ a tsɔɔ ní ngɛ munyu tumi kpoku ɔ nɔ ɔ a nɔ ?
+Anɛ o bua jɔɛ kaa Yehowa ha wɔ e Munyu nɛ ji Baiblo ɔ lo ?
+Moo hyɛ daka nɛ ji “ Nɔ́ Nɛ Ye Bua Mi ” ɔ .
+Kane Baiblo ɔ daa
+Mo pue o yi mi tɛ ngɛ he
+Moo ngɔ nɔ́ nɛ o kase ɔ kɛ tsu ní
+Moo to o tsui si kɛ tsɔɔ ngmami ɔ mi , moo ngɔ nɔ́ he tomi nɔ́ kɛ tsu ní , nɛ o tsɔɔ bɔ nɛ a kɛ ní kasemi nɛ ngɛ mi ɔ ma tsu ní ha
+“ Ngɛ ye baptisimi se maa pee jeha 15 ɔ , i ná yemi kɛ buami ko .
+Benɛ wa ngɛ Matsɛ Yemi Asa a nɔ ɔ . . . , munyu tulɔ ɔ ha nɛ wa kane Yakobo 1 : 23 , 24 ɔ .
+Ngmami nɛ ɔ kɛ Mawu Munyu ɔ to ahuhuɛ he , nɛ e tsɔɔ kaa wa ma nyɛ maa na wa he ngɛ mi kaa bɔ nɛ Yehowa naa wɔ ɔ .
+I bɔni he susumi ke ji e slo bɔ nɛ i naa ye he ngɛ bɔ nɛ Yehowa naa mi ɔ he lo .
+Sisije ɔ , i sume nɛ ma ná jamɛ a susumi ɔ .
+I susu kaa loloolo ɔ , e he maa wa kaa Yehowa maa suɔ mi . ”
+“ Ligbi bɔɔ komɛ a se ɔ , i kane ngmami ko , nɛ lɔ ɔ tsake ye si himi .
+Ngmami nɛ ɔ ngɛ Yesaya 1 : 18 .
+Yehowa de ngɛ lejɛ ɔ ke : ‘ Jehanɛ , nyɛɛ ba nɛ wɔ tsuo wa susu he . Ke nyɛ he yayami ɔ tsu kaa mɛni po , ma ha e ma hiɛ futaa kaa snoo , loo jijɔ he bwɔmi . ’
+I nu he kaa nɔ́ nɛ Yehowa ngɛ mi dee ke : ‘ Ye bi Vicky , moo ba nɛ wa dla wa kpɛti .
+I le mo , i le o yayami ɔmɛ , i le níhi nɛ ngɛ o tsui mi , nɛ i suɔ mo . ’ ”
+“ Jamɛ a gbɔkuɛ ɔ , i nyɛ we ma hwɔ mahe .
+Loloolo ɔ , e peeɔ mi kaa Yehowa sume mi , se i bɔni Yesu kpɔmi afɔle sami ɔ he susumi .
+Kɛkɛ nɛ si kake too ɔ , i yɔse kaa Yehowa to e tsui si ha mi be kɛkɛɛ ji nɛ ɔ , nɛ e pee níhi fuu kɛ tsɔɔ kaa e suɔ mi .
+Se kɛ̃ ɔ , ngɛ blɔ ko nɔ ɔ , i ngɛ lɛ dee ke : ‘ O suɔmi ɔ nya wɛ bɔ nɛ e maa su ye nɔ .
+O Bi ɔ nɛ o kɛ sa afɔle ɔ be nyɛe maa ye bua mi . ’
+E ngɛ kaa nɔ́ nɛ i ngɛ Yehowa dee ke i sume kpɔmi nɔ́ ɔ .
+Se amlɔ nɛ ɔ , kpɔmi nɔ́ ɔ nɛ i pue ye yi mi tɛ ngɛ he ɔ ha nɛ i bɔni he numi kaa Yehowa suɔ mi . ”
+Wa ma susu Zakaria nina nɛ ji ekpa , kpaago kɛ kpaanyɔne ɔ he ngɛ munyu nɛ ɔ mi .
+31 Kpakpa Kake Nɛ Kristofo No Ko Pee
+Olive Matthews nya mi munyu
+Kekleekle ɔ , ha nɛ ma de mo ye he sane bɔɔ .
+A FƆ mi ngɛ jeha 1923 ɔ mi , ngɛ Hemsworth nɛ ngɛ Yorkshire ngɛ England ɔ .
+I ngɛ nyɛminyumu nɔkɔtɔma ko nɛ a tsɛɛ lɛ ke Bob .
+Jeha kake se ɔ , a hla i kɛ Mary Henshall kaa blɔ gbali klɛdɛɛ .
+A ha nɛ wa ya fiɛɛ ngɛ zugba kpɔ nɛ a kɛ wui asafo ko dɛ ɔ mi ngɛ kɔpe ko nɛ ngɛ Cheshire ɔ mi .
+I kɛ Arthur Matthews kpe ngɛ jeha 1946 mi .
+Nyagbenyagbe ɔ , wa bɔni wa he sɛ womi ngmami .
+Benɛ wa sɛ gba si himi mi kɛ we ngɛ jeha 1949 ɔ mi ngɛ Hemsworth
+Amlɔ nɛ ɔ , wa bua jɔ kaa Odasefohi fuu ngɛ lejɛ ɔ .
+Ye nyɛminyumu ɔ kɛ e yo nɛ a tsɛɛ lɛ ke Lottie ɔ ngɛ sɔmɔe kaa blɔ gbali klɛdɛɛ ngɛ Northern Ireland momo , nɛ ngɛ jeha 1952 ɔ mi ɔ , wɔ ni eywiɛ ɔmɛ tsuo wa ya kpokpa nɔ kpe ko nɛ a pee ngɛ Belfast ɔ .
+Enɛ ɔ he ɔ , wa bɔni tsu hlami , se wa nɛ eko .
+Lɔle nɛ ɔ ba pee wa we .
+Bua jɔmi sane ji kaa , wa huɛmɛ ɔmɛ haa nɛ waa kɛ wa lɔle ɔ ba maa a ngmɔ ɔmɛ a nɔ .
+Enɛ ɔ wo mi he wami wawɛɛ . Wa bua jɔ wa ní tsumi ɔ he wawɛɛ .
+Enɛ ɔ ji jɔɔmi nɛ se be !
+A pee kekleekle mahi a kpɛti kpe nɛ a pee ngɛ Ireland ɔ ngɛ Dublin ngɛ jeha 1965 ɔ mi .
+Nihi 3,948 nɛ a ba kpe ɔ , nɛ a baptisi nihi 65 .
+Benɛ Arthur nɛ ngɛ Nathan Knorr ngae benɛ Knorr ba kpokpa nɔ kpe nɛ a pee ngɛ jeha 1965 ɔ sisi ɔ
+Benɛ Arthur ngɛ womi nɛ ji Ye Womi Nɛ Sɛɛɔ Baiblo Mi Sanehi nɛ a pee ngɛ Gaelic gbi mi ɔ kpo jee ngɛ jeha 1983 ɔ mi
+Ngɛ jeha 2011 ɔ mi ɔ , a pee asafo ɔ ní tsumi kɔnihi nɛ ngɛ Britain kɛ Ireland ɔ kake , nɛ a ha nɛ wa ya sɔmɔ ngɛ London Betel ɔ .
+E nu hiɔ ko nɛ a tsɛɛ ke Parkinson .
+Maa pee jeha bɔɔ ji nɛ ɔ , i haoɔ nɛ i yeɔ aywilɛho .
+Se si fɔfɔɛ kaa kikɛ ɔ haa nɛ nɔ hɛɔ lɛ kɛ suɔ Yehowa he wawɛɛ .
+“ Nyɛ ko ha nɛ waa suɔ nɔmlɔ ngɛ munyu tutui mi aloo ngɛ lilɛ nɔ , mohu ɔ , ngɛ ní peepee kɛ anɔkuale mi . ” ​ — 1 YOH . 3 : 18 .
+LAHI : 106 , 100
+Mɛni ji suɔmi nɛ se be ɔ ?
+Mɛni ji “ suɔmi nɛ osato be mi ” ɔ ?
+Ngɛ mɛni blɔ nɔ nɛ Yehowa je suɔmi kpo kɛ tsɔɔ adesahi ?
+Loko Yehowa maa bɔ Adam kɛ Hawa po ɔ , e tsɔɔ kaa e ngɛ suɔmi kɛ ha adesahi .
+Kɛ wa ma plɛ kɛ je suɔmi nitsɛnitsɛ kpo ha kɛɛ ?
+6 , 7 . ( a ) Mɛni ji “ suɔmi nɛ osato be mi ” ɔ ?
+Mɛni sane nɛ e sa nɛ wa bi wa he ?
+( Kane Mateo 6 : 1 - 4 . )
+( Kane Roma Bi 12 : 10 . )
+Mɛni he je nɛ e sa nɛ waa je wa tsui mi kɛ je nihi a yi ɔ ?
+Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ je suɔmi nitsɛnitsɛ kpo ke wa ngɛ nihi kpakpa pee ɔ ?
+Moo pee nihi kpakpa .
+( Kane 1 Yohane 3 : 17 . )
+Mo hla tue mi jɔmi .
+( Kane Roma Bi 12 : 17 , 18 . )
+Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ ngɔ nihi a he yayami kɛ pa mɛ faa ?
+Ngɔɔ o he kɛ sã afɔle ha ni kpahi .
+Kɛ suɔmi nitsɛnitsɛ he hia ha kɛɛ ?
+Wa ngɛ su kpakpahi fuu , se suɔmi pe mɛ tsuo .
+LAHI : 123 , 128
+Mɛni “ klaate ” nɛ Yesu tsɔɔ kaa e kɛ maa ba a ?
+Ke o weku li teɔ si kɛ woɔ mo ngɛ anɔkuale jami ɔ he je ɔ , mɛni o ma nyɛ maa pee konɛ o ya nɔ nɛ o ye Yehowa anɔkuale ?
+3 , 4 . ( a ) Mɛni Yesu tsɔɔmi ɔmɛ ngɔɔ kɛ baa ?
+Yesu de ke : “ Nyɛ ko susu kaa i ngɔ tue mi jɔmi kɛ ba zugba a nɔ ; pi tue mi jɔmi nɛ i kɛ ba , mohu ɔ , klaate .
+Ejakaa i ba konɛ ma ha nɛ mi gbami nɛ ba nihi a kpɛti , nyumu maa te si kɛ wo e tsɛ , nɛ biyo maa te si kɛ wo e yayo , nɛ nganyɛ maa te si kɛ wo e nganyɛ .
+Mɛni nyagbahi Yesu se nyɛɛli ɔmɛ kɛ kpe ?
+Mɛni Kristofohi ma nyɛ maa pee kɛ ye bua a bimɛ konɛ a je bumi kpo kɛ ha a fɔlɔ nɛ be asafo ɔ mi ɔ ?
+Mohu ɔ , mo ha nɛ a le kaa e sa nɛ a ti nɔ tsuaa nɔ nɛ e mwɔ e yi mi kpɔ kaa e ma sɔmɔ Yehowa aloo e be lɛ sɔmɔe .
+O kɛ mɛ nɛ tu munyu blɛuu .
+Baiblo ɔ de ke , “ Nyɛ ha nɛ munyu nɛ maa je nyɛ nya a nɛ ngɔ kaa nɔ́ ko nɛ a wo lɛ ngo . ”
+( Kane 1 Petro 3 : 1 , 2 , 16 . )
+Mo dla o he kɛ to .
+Mɛni o ma nyɛ maa pee konɛ o he nile ko bu mo fɔ tsɔ ke o weku li ɔmɛ a bua jɔɛ nɔ́ ko nɛ o pee ɔ he ɔ ?
+Moo kplɛɛ Yehowa tsɔsemi nɔ .
+( Kane Hebri Bi 12 : 11 . )
+Hehi nɛ a kɛ atsɛ̃se yeɔ ma nɔ odase ngɛ ngɛ Lagos ɔ a kpɛti kake . Lagos ji ma nɛ nihi hiɛ ngɛ nɔ pe kulaa ngɛ Afrika .
+LAHI : 89 , 86
+Jamɛ a be ɔ , mɛni si fɔfɔɛ mi nɛ Israel bi ɔmɛ ngɛ ?
+( Kane Zakaria 1 : 3 , 4 . )
+A kɛ nina ko nɛ ngɛ nyakpɛ nɛ je Zakaria yi 5 ɔ sisi .
+( Kane Zakaria 5 : 1 , 2 . )
+Kane Zakaria 5 : 3 , 4 .
+8 - 10 . ( a ) Mɛni ji kita ?
+Mɛni wa ma nyɛ maa kase ngɛ Zakaria nina nɛ ji ekpane ɔ mi ?
+( Kane Zakaria 5 : 5 - 8 . )
+Mɛni enɛ ɔ tsɔɔ ?
+( Kane Zakaria 5 : 9 - 11 . )
+LAHI : 61 , 22
+Kɛ we nɛ kle pe kulaa nɛ a ngɛ mae mwɔnɛ ɔ haa nɛ o nuɔ he ha kɛɛ ?
+( Kane Zakaria 6 : 1 - 3 . )
+Loloolo ɔ , Yehowa kɛ e bɔfo ɔmɛ tsuɔ ní kɛ poɔ e we bi a he piɛ , nɛ a woɔ mɛ he wami
+7 , 8 . ( a ) Mɛni yoku enyɔ ɔmɛ daa si kɛ ha ?
+( b ) Mɛni he je nɛ a kɛ akɔblee pee yoku nɛ ɔmɛ ɔ ?
+Mɛni he je nɛ a kɛ akɔblee pee yoku nɛ ɔmɛ ɔ ?
+Mɛnɔmɛ ji ta zugba lɛ ɔmɛ a nɔ hili ɔmɛ , nɛ mɛni ji a ní tsumi ?
+( Kane Zakaria 6 : 5 - 8 . )
+Hyɛ bɔ nɛ jamɛ a ligbi ɔ maa pee bua jɔmi ha !
+( Kane Zakaria 6 : 9 - 12 . )
+( Kane Zakaria 6 : 13 . )
+Nyagbenyagbe ɔ , anɔkuale jami he ma tsɔ kɛ pi si !
+( Kane Zakaria 6 : 15 . )
+Yehowa hɛ be suɔmi nɛ wa jeɔ kpo kɛ tsɔɔ lɛ ɔ nɔ jee gblegbleegble !
+( Hyɛ kuku 18 , 19 )
+A BAPTISI John papaa kaa Yehowa Odasefo no ngɛ ma nyafii ko mi ngɛ Gujarat ngɛ India maa pee jeha 1957 ɔ mi .
+E na kaa John plaa .
+E ya a we osɔfo ɔ ngɔ nɛ e ya bi lɛ sane enyɔ nɛ ɔmɛ nɔuu .
+Moo tsɔɔ mi he nɛ a ngma ngɛ ngɛ Baiblo ɔ mi kaa tsa pi Yesu ji Mawu .
+Tsɔɔ mi he nɛ a de ngɛ ke e sɛ nɛ a ja Maria .
+Moo tsɔɔ mi ! ”
+Nɛ niinɛ ɔ , e yɛ hu !
+3 La Kɛ Bua Jɔmi !
+Wa ma nyɛ maa kase ní kpakpahi kɛ je wesa he mahi nɛ a to he blɔ nya ngɛ blema Israel ɔ mi .
+LAHI : 10 , 2
+Mɛni se nami nɛ ngɛ la nɛ wa laa ngɛ anɔkuale jami mi ɔ he ?
+( b ) Kɛ e sa nɛ wa la ha Yehowa ha kɛɛ , nɛ mɛnɔmɛ nɛ e sa nɛ a nyɛɛ hɛ mi ?
+O kɛ kã kɛ gbi nɛ he wa nɛ kane la a mi munyu ɔmɛ nɛ e je kpo .
+( a ) Ke wa pã wa nya mi nɛ wa ngɛ lae ɔ , kɛ lɔ ɔ maa ye bua wɔ ha kɛɛ ?
+( Hyɛ kuku 11 - 14 )
+Moo mu kɔɔhiɔ fuu
+Nyɛɛ kase la amɛ ke nyɛ ngɛ weku Mawu jami pee ɔ ( Hyɛ kuku 18 )
+( Kane Yesaya 12 : 5 . )
+LAHI : 8 , 54
+( Kane La 34 : 22 . )
+( Kane 4 Mose 35 : 24 , 25 . )
+Mɛni he je nɛ enɛ ɔ he hia wawɛɛ ɔ ?
+Be mi nɛ e ngɛ be ko nɛ be ɔ he susue ɔ , e de ke : “ Ngɛ anɔkuale mi ɔ , i ye gbeye kaa ma ya na mɛ .
+( Kane Yoshua 20 : 4 . )
+E de ke : “ Nyɛɛ hyɛ nɔ́ nɛ nyɛ tsui mi tɔɔ nɛ nyɛ je kɛ ye aywilɛho ngɛ blɔ nɛ sa Mawu hɛ mi nɔ ɔ ha nɛ nyɛ ná , ee , e ha nɛ nyɛ dla nyɛ blɔ , ee , e ha nɛ nyɛ mi mi fu , ee , e ha nɛ nyɛ ye gbeye , ee , e ha nɛ nyɛ suɔ wawɛɛ , ee , e ha nɛ nyɛ hɛ dɔ , ee , e ha nɛ nyɛ dla tɔmi ɔ ! ”
+Ke a je o yayami ngɛ o he ɔ , nɔ́ ko be hu .
+Mɛni he je nɛ o suɔ kaa o maa sa we ngɛ Yehowa ngɔ ɔ ?
+Anɛ o ngɛ we sae ngɛ Yehowa ngɔ lo ?
+He ko he ko be nɛ hi pe Yehowa ngɔ nɛ o maa sa we ngɛ !
+7 : 9 .
+LAHI : 125 , 88
+Ke ni kpahi tɔ̃ wa nɔ ɔ , kɛ wa ma plɛ kɛ kase Yehowa mɔbɔ nami ɔ ha kɛɛ ?
+1 , 2 . ( a ) Kɛ Yesu na Mawu Mlaa ha kɛɛ ?
+Lɔ ɔ mɛni ji nyagba a ?
+( b ) Mɛni enɛ ɔ tsɔɔ wɔ ngɛ Yehowa he ?
+( Kane Kolose Bi 3 : 13 . )
+( Kane Ní Tsumi 20 : 26 , 27 . )
+Mɛni he je nɛ Mawu we bi buɔ he piɛ pomi kaa nɔ́ ko nɛ he hia a ?
+( Kane 4 Mose 35 : 20 - 24 . )
+Enɛ ɔ he ɔ , nyɛɛ ya nɛ nyɛ ya kase nɔ́ nɛ munyu nɛ ɔ tsɔɔ : ‘ Mɔbɔ nami ji nɔ́ nɛ i suɔ , se pi afɔle sami . ’
+Ejakaa i ba konɛ ma ba tsɛ yayami peeli , se pi dali . ”
+Tsa pi ní kɛkɛ nɛ nimli nɛ ɔmɛ ya ye ngɛ Mateo we ɔ mi , ejakaa “ a kpɛti nihi fuu ngɛ [ Yesu ] se nyɛɛe ” momo .
+Kekleekle ɔ , moo sɔle kɛ bi nile kɛ níhi a se kɔmi .
+Mɛni o kase ngɛ wesa he mahi nɛ a to he blɔ nya a mi nɛ o to kaa o kɛ ma tsu ní ?
+Nyɛmimɛ yi enyɔ nɛ a kɛ jua yelɔ ko ngɛ Baiblo mi sɛ gbi ɔ he susue ngɛ ma ko nɛ a tsɛɛ ke Tipitapa a mi
+LAHI : 38 , 31
+Mɛni ga womi nɛ bɔfo Paulo je suɔmi mi kɛ ha ngɛ je ɔ susumi ɔ he ?
+Mɛni ji je ɔ susumi ɔ eko , nɛ mɛni blɔ nɔ wa ma nyɛ maa gu kɛ kua ?
+Nyɛɛ hyɛ nyɛ he nɛ hi nɛ nɔ ko nɛ ko ngɔ je mi nile kɛ yaka sisimi kɛ ngɔ nyɛ nyɔguɛ ngɛ adesa kusumihi nya , ngɛ je ɔ mi sisije níhi a nya , se pi ngɛ Kristo blɔ fa mi . ”
+“ Ke i he we yi kaa Mawu ngɛ po , ma nyɛ ma pee nɔmlɔ kpakpa . ”
+( Kane La 10 : 4 . )
+( Kane Yeremia 10 : 23 . )
+“ Ke o be jami ko mi ɔ , o ma nyɛ ma ná bua jɔmi . ”
+( Kane Mateo 5 : 3 . )
+Yehowa ngɛ he blɔ kaa e woɔ wɔ mlaahi , ejakaa lɛ nɛ e bɔ wɔ .
+13 : 4 .
+Lɔ ɔ he ɔ , ke o hiɔ nɔ hɛ ngmɛ ha nɛ o nane ngɛ tɔ̃tɔ̃e ɔ , hiaa nɛ o sake ngɔ fɔ he . ”
+Yesu de ke : “ Nɔ ko be nyɛe maa pee nyɔguɛ kɛ ha nyɔmtsɛmɛ enyɔ ; ejakaa ke e ná we nɔ kake he ninyɛ nɛ e suɔ nɔ kpa a , lɛɛ e maa mɛtɛ nɔ kake he nɛ e ma kua nɔ kpa a .
+Nyɛ be nyɛe maa pee nyɔguɛhi kɛ ha Mawu , kɛ Ní Nami tsuo . ”
+( Kane 1 Tɛsalonika Bi 2 : 13 , 19 , 20 . )
+“ Adesahi nitsɛmɛ ma nyɛ ma tsu a haomi ɔmɛ a he ní . ”
+Kɛ o ma plɛ kɛ kua je ɔ susumi ɔ ha kɛɛ ?
+LAHI : 122 , 139
+Mɛni wa ma nyɛ maa pee kaa weku konɛ wa nine nɛ su kunimi yemi jlasi ɔ nɔ ?
+( b ) Mɛni yeɔ bua wɔ konɛ waa ngɔ wa hɛ kɛ ma kunimi yemi jlasi ɔ nɔ ?
+Ke wa ya je si fɔfɔɛhi nɛ a ngɛ oslaa mi ɔ , mɛni blɔ nɔ wa ma nyɛ maa gu kɛ po wa he piɛ ?
+Loko wa ma nyɛ maa gbe akɔnɔ yayahi ɔ , ja wa kua hɛja jemi nɛ je mi bami yaya ngɛ mi .
+Ke nɔ ko ngɛ nɔ́ ko nɛ e maa da nɔ kɛ tu munyu kɛ si nɔ kpa ko po ɔ , nyɛɛ ya nɔ nɛ nyɛ ná nyɛ sibi a he tsui nɛ nyɛɛ ngɔ kɛ pa nyɛ sibi faa .
+Kaa bɔ nɛ Yehowa ngɔ kɛ pa nyɛ faa a , e sa nɛ nyɛ hu nyɛɛ pee jã nɔuu .
+( Kane Fiɛlɔ 7 : 21 , 22 . )
+10 , 11 . ( a ) Mɛni he je nɛ oslaa ngɛ he kaa wa maa je hunga a ?
+Mawu Munyu ɔ de ke : “ Suɔmi toɔ e tsui si , nɛ e mi mi hi .
+Suɔmi ji hunga . ”
+23 : 16 - 18 ) Anɛ wa ma nyɛ ma je mi mi himi kɛ suɔmi kpo kaa bɔ nɛ Yonatan pee ɔ lo ?
+Nyɛ hunomɛ , nyɛɛ ya nɔ nɛ nyɛɛ suɔ nyɛ yi ɔmɛ nɛ nyɛ mi mi nɛ ko fu mɛ wawɛɛ .
+Nyɛ bimɛ , nyɛɛ bu nyɛ fɔli ɔmɛ tue ngɛ nɔ́ fɛɛ nɔ́ mi , ejakaa enɛ ɔ saa Nyɔmtsɛ ɔ hɛ mi saminya .
+Tsa pi be fɛɛ be .
+Ke huno ko nɛ e ji Kristofo no ɔ yo be asafo ɔ mi ɔ , mɛni e sa nɛ e pee konɛ e yo ɔ nɛ ná bumi kɛ ha lɛ ?
+( Hyɛ kuku 13 - 15 )
+Mawu Munyu ɔ de ke : ‘ Nɔ nɛ tu we munyu puu ɔ , juɛmitsɛ ji lɛ . Nɔ nɛ hɛ mi ka si ɔ , toɔ e tsui si . ’
+3 “ I Le Kaa E Maa Te Si ”
+Munyu nɛ ɔmɛ maa wo mo he wami nɛ hemi kɛ yemi nɛ o ngɛ kaa a ma tle ni gbogboe ɔmɛ si ɔ mi maa wa .
+11 : 11 .
+LAHI : 142 , 129
+Mɛni Baiblo mi sanehi ha nɛ Maata ná hɛ kɛ nɔ fɔmi ngɛ gbogboehi a si tlemi ɔ mi ?
+Mɛni o kɛ bua jɔmi ngɛ blɔ hyɛe kaa Maata ?
+E de ke : “ I le kaa e maa te si . ”
+17 : 8 - 16 ) Pee se ɔ , yo ɔ binyumu ɔ ba nu hiɔ , nɛ e gbo .
+( Kane 1 Matsɛmɛ 17 : 17 - 24 . )
+( Kane 2 Matsɛmɛ 4 : 32 - 37 . )
+Benɛ Kristofo no yo ko gbo ɔ , mɛni Petro pee kɛ ye bua ?
+Ligbi ko ɔ , bɔfo Paulo ya kpe ko ngɛ hiɔwe tsu ko mi ngɛ Troya , ngɛ he nɛ amlɔ nɛ ɔ , a tsɛɛ ke Turkey ɔ yiti je ngɛ pu sinɔ he blɔ .
+Jamɛ a be ɔ mi ɔ , niheyo ko nɛ a tsɛɛ lɛ ke Yutiko hii si ngɛ saflɛ ko nya nɛ e ngɛ lɛ tue bue .
+4 : 17 , 18 ) Jehanɛ hu ɔ , Yehowa tsɔɔ kaa ‘ Isak nɔ ’ jɔɔmi ɔ maa gu kɛ ba .
+12 : 23 ; La 89 : 48 ) Se enɛ ɔ tsɔɔ we kaa Mawu be nyɛe ma tle gbogboehi a si .
+( Kane Hiob 14 : 13 - 15 . )
+LAHI : 151 , 147
+( b ) Mɛni he je nɛ gbogboehi a si tlemi ɔ he hia wawɛɛ ɔ ?
+Se anɛ o ma de nɔ ɔ ke gbogboehi a si tlemi ɔ piɛɛ níhi nɛ o heɔ yeɔ wawɛɛ ɔ he lo ?
+( Kane 1 Korinto Bi 15 : 12 - 19 . )
+Yuda bi nɛ ɔmɛ he we yi kulaa kaa a tle gbogboehi a si .
+Ngɛ mɛni blɔ nɔ nɛ La 118 ɔ ba mi ngɛ Yesu blɔ fa mi ?
+“ Tsu fiali ɔmɛ ” kua Mesia a ( Hyɛ kuku 7 )
+Ngɛ mɛni blɔ nɔ nɛ Yesu ba pee ‘ kɔ̃ nya tɛ titli ’ ɔ ?
+Ke a kua Yesu , nɛ a gbe lɛ ɔ , lɛɛ kɛ e ba lɛ kɛɛ nɛ e ba pee ‘ kɔ̃ nya tɛ titli ’ ɔ ?
+( a ) Mɛni gbami lɛ ngɛ La 16 : 10 ?
+Nɔ nɛ o suɔ lɛ ɔ , o be e he ngmɛɛe nɛ e hɛ mi nɛ kpata . ”
+( Kane Ní Tsumi 2 : 29 - 32 . )
+( Kane Ní Tsumi 2 : 33 - 36 . )
+( Kane Ní Tsumi 13 : 32 - 37 , 42 . )
+Níhi fuu ngɛ nɛ kɔɔ “ be ɔmɛ aloo ligbi ɔmɛ nɛ Tsɛ ɔ to ngɛ lɛ nitsɛ e he wami nya a ” he , nɛ lɛ pɛ nɛ e le .
+Paulo tsɔɔ kaa “ a tle Kristo si kɛ je gbeje , lɛ ji kekle yiblii ngɛ nihi nɛ a nɔ gbenɔ mahe mi ɔmɛ a kpɛti . ”
+Mɛni maa ba nihi nɛ a pɔ mɛ nu ɔmɛ a kpɛti ni komɛ a nɔ ngɛ Kristo bami ɔ mi ?
+Ejakaa ke wa ngɛ hemi kɛ yemi kaa Yesu gbo nɛ e te si ekohu ɔ , lɛɛ jã kɛ̃ nɛ Mawu hu maa ngɔ nihi nɛ a nɔ gbenɔ mahe mi . . . ɔ kɛ piɛɛ e he kɛ ba . . . .
+Wɔ nihi nɛ wa ngɛ wami mi nɛ wa be gboe kɛ yaa si Nyɔmtsɛ ɔ bami ɔ , wa be ni nɛmɛ nɛ a nɔ gbenɔ mahe mi ɔmɛ a hlami sɛe ngɛ blɔ ko blɔ ko nɔ ; ejakaa Nyɔmtsɛ ɔ nitsɛ ma kple si kɛ je hiɔwe nɛ e ma tsɛ kɛ gbi nɛ he wa , . . . nɛ ni nɛmɛ nɛ a gbo ngɛ Kristo mi ɔ maa te si kekle .
+Nihi nɛ a pɔ mɛ nu nɛ a maa hi wami mi kɛ ya si be nɛ amanehlu ngua a maa ba a , ‘ a ma sa mɛ kɛ ho ngɛ bɔku ɔmɛ a mi . ’
+Felix Fajardo Nya Mi Munyu
+Ke o li peemi nɛ o kpale kɛ ba a , ma ku o nane ɔmɛ ngɛ o sisi . ”
+Ha nɛ ma tsɔɔ nya .
+A fɔ mi ngɛ July 29 , 1929 ɔ nɔ , nɛ i wa ngɛ kɔpe ko ngɛ Bulacan , ngɛ Philippines .
+Ye bua jɔ Baiblo ɔ kanemi he wawɛɛ , titli ɔ , Sane Kpakpa eywiɛ ɔmɛ .
+Jã nɛ i pee ɔ ha nɛ i ba ná suɔmi ɔ kaa ma kase Yesu . ​ — Yoh . 10 : 27 .
+Jamɛ a be ɔ , ye fɔli ɔmɛ de mi ke ma kpale kɛ ba we mi .
+Nyumu nɔkɔtɔma ko nɛ e ji Odasefo no ba wa we ɔ mi nɛ e ba tsɔɔ wɔ nɔ́ nɛ Baiblo ɔ de ngɛ “ nyagbe ligbi ɔmɛ ” a he .
+E fɔ wɔ nine kɛ ya Baiblo mi ní kasemi ko nɛ a maa pee ngɛ kɔpe ko nɛ ngɛ wa kasa nya a sisi .
+Jamɛ a nyɔ ɔ mi ɔ , wa sɛɛ Baiblo ɔ he ní hluu .
+I ha heto ke , “ Ee , i suɔ . ”
+I le kaa e sa nɛ ma sɔmɔ ‘ Nyɔmtsɛ ɔ nɛ ji Kristo . ’
+Wa ya pa ko nɛ e kɛ he nɛ wa ngɛ ɔ kɛ we ɔ he , nɛ a ya baptisi wɔ ni enyɔ ngɛ February 15 , 1946 .
+Nyɛminyumu Cruz weku ɔ de mi ke ma nyɛ ma ba hi a ngɔ ngɛ Angat .
+E tu munyu ɔ ngɛ Blɛfo gbi mi , nɛ pee se ɔ , i tsɔɔ sisi kpiti kɛ ya Tagalog gbi ɔ mi .
+I piɛɛ nyɛmimɛ nɛ a fɔ mɛ nine ɔ he .
+I teɔ si mɔtu mla , nɛ i ya yeɔ bua ngɛ kpata a mi .
+Benɛ i gbe sukuu ɔ nya a , a ha nɛ i kɛ be bɔɔ ya sɔmɔ kaa blɔ gbalɔ klɛdɛɛ ngɛ Bronx ngɛ New York City .
+Benɛ wa sɛ gba si himi mi se otsi pɛ ɔ , wa ya slaa asafo ko ngɛ Rapu Rapu zugba kpɔ ɔ nɔ .
+Benɛ Nyɛminyumu Albert Schroeder ngɛ munyu ko tue nɛ i ngɛ sisi tsɔɔe
+Nyumu ɔ nɛ e de wɔ ke ‘ Chinese bi lɛɛ a jua we nɔ́ ’ ɔ po jua e zugba kɛ ha wɔ .
+Enɛ ɔ ma nyɛ ma ha nɛ hɔ ɔ nɛ je sisi ngɛ fɔmi kotoku ɔ se ( ectopic ) , aloo e ma nyɛ maa je fɔmi kotoku ɔ se kɛ ya sɛ fɔmi kotoku ɔ mi .
+Enɛ ɔ ma ha nɛ hɔ ɔ aloo wami nɛ je sisi ɔ ma puɛ .
+Se IUD nɛ akɔblee be mi ɔ nya wɛ kaa enɛ ɔ . ”
+LAHI : 141 , 134
+Moo le ngmami klɔuklɔu ɔmɛ .
+Plɛ o yi mi nɛ o he ye .
+Pee juɛmitsɛ konɛ a he o yi wami .
+( a ) Mɛni nɔ ko ‘ yi mi nɛ a ma plɛ konɛ e he ye ’ ɔ tsɔɔ ?
+( b ) Mɛni ha nɛ wa le kaa a plɛ Timoteo yi mi nɛ e he sane kpakpa nɛ kɔɔ Yesu he ɔ ye ?
+Kekleekle ɔ , moo to o tsui si ha mɛ .
+( Kane Roma Bi 12 : 1 . )
+Ke e bi wɔ sane ɔ , wa bua jɔɔ .
+Ngɛ anɔkuale mi ɔ , ke e kplɛɛ nɔ́ ko nɔ , nɛ e bi we sane ngɛ he ɔ , e ma gba ye nya . ”
+Anɛ a nu bɔ nɛ Baiblo ɔ tsɔɔ mi ha a sisi lo ?
+Mɛni ji nɔ́ ko nɛ he hia nɛ e sa kaa o kɛ piɛɛ o ní tsɔɔmi he ?
+Nyɛmiyo ko nɛ a tsɛɛ lɛ ke Stephanie nɛ e ngɛ biyihi etɛ ɔ de ke : “ Benɛ nɛ ye bimɛ ɔmɛ wɛ ɔ , i bi ye he ke , ‘ Anɛ i bɔɔ mɔde kaa ma tsɔɔ ye bimɛ ɔmɛ nɔ́ he je nɛ i heɔ yeɔ kaa Yehowa ngɛ , e suɔ wɔ , nɛ e blɔ ɔmɛ da a lo ?
+Anɛ ye bimɛ ɔmɛ naa kaa i suɔ Yehowa niinɛ lo ? ’
+I be nyɛe ma hyɛ blɔ kaa ye bimɛ ɔmɛ ma he ye be mi nɛ imi nitsɛ i he we yi . ”
+Juɛmi se nya plɛmi ji kuasia jemi . ”
+Baiblo ɔ tsɔɔ kaa “ nɔ́ nɛ jokuɛwi suɔ peemi ji kuasia jemi . ”
+Juɛmi kaa jã a he hia kɛ ha yi wami hemi .
+( Kane Abɛ 24 : 14 . )
+Mɛni he je nɛ e he hia kaa fɔli nɛ a ya nɔ nɛ a ye bua a bimɛ ?
+( Hyɛ kuku 14 - 18 )
+( Kane Maako 12 : 30 . )
+Mɛni fɔli ma nyɛ maa pee kɛ ye bua a bimɛ konɛ a pee ‘ juɛmitsɛmɛ nɛ a he a yi wami ’ ?
+Yaa BAIBLO TSƆƆMIHI > BAIBLO KASEMI BLƆ NYA TOMI .
+LAHI : 133 , 135
+Kɛ o ma plɛ kɛ tsu mo nitsɛ o yi wami hemi he ní ha kɛɛ ?
+Mɛni he je nɛ baptisimi he hia a ?
+Anɛ mo hu o piɛɛ nimli nɛ ɔmɛ a he lo ?
+Mɛni he je nɛ e sa nɛ o kai enɛ ɔ ?
+Se ke e ngɛ wae , nɛ bɔmi nami he akɔnɔ nya bɔni wami ngɛ e mi ɔ , jamɛ a be ɔ nɛ e sa nɛ e ná nɔ mi mami kaa Yehowa mlaa amɛ nɛ e kɛ ma tsu ní ɔ ji nɔ́ nɛ da . ”
+( b ) Mɛni o ma nyɛ maa kase ngɛ Filipi Bi 4 : 11 - 13 ɔ mi ?
+Mɛni nɛ “ gbeye yemi kɛ he domi blibliibli ” nɛ o kɛ ma tsu o yi wami hemi ɔ he ní ɔ tsɔɔ ?
+Yehowa suɔ nɛ o pee e huɛ .
+( Hyɛ kuku 8 - 11 )
+Mɛni Baiblo kasemi níhi nɛ ye bua mo ngɛ o dɛ he ní kasemi mi ?
+How Can I Make Bible Reading Enjoyable ? ”
+( Kane Filipi Bi 4 : 6 . )
+Mo hu e ma nyɛ maa ye bua mo !
+Yesu de ke : “ Adesa ko be nyɛe maa ba ye ngɔ kaa ja Tsɛ ɔ , nɔ nɛ e tsɔ mi ɔ gbla lɛ . ”
+Mɛni ma nyɛ maa ye bua mo ?
+Enɛ ɔ he ɔ , i deɔ nɔ́ ko kaa , ‘ Lingmi nɛ i kɛ nɔ ko ngɛ Baiblo ɔ he ní sɛɛe ɔ , . . .
+’ Kɛkɛ ɔ , i kɛ ye munyu ɔ tsa nɔ .
+E ngɛ mi kaa sisije ɔ , tsa pi Baiblo ɔ nitsɛ he munyu nɛ i tuɔ mohu lɛɛ , se behi fuu ɔ , a kpɛti nihi fuu suɔ nɛ a maa le nɔ́ nɛ i peeɔ ke i kɛ nihi ngɛ Baiblo ɔ kasee .
+Be komɛ ɔ , a biɔ mi sanehi ngɛ he .
+I pɔɔ fiɛɛmi ngɛ blɔ nɛ ɔ nɔ , nɛ i na kaa e ngɛ mi ye buae wawɛɛ .
+Be fɛɛ be nɛ ma pee jã a , ye bua jɔɔ wawɛɛ ! ”
+Wɔ pɛ ji Odasefohi nɛ a le .
+Enɛ ɔ he ɔ , bɔ nɛ wa peeɔ wa ní ha a maa tsɔɔ kaa a maa bu wɔ tue aloo a be wɔ tue bue .
+Ke wa gboɔ zo , wa yeɔ gbeye , aloo e yeɔ ha wɔ kaa waa kɛ nihi maa sɛɛ wa hemi kɛ yemi ɔ he ní , aloo ke wa he kpokpoɔ be mi nɛ waa kɛ mɛ ngɛ wa hemi kɛ yemi ɔ he ní sɛɛe hu nɛɛ ?
+Ke e ba jã a , a maa na kaa wa be nɔ mi mami ngɛ nɔ́ nɛ wa ngɛ dee ɔ he .
+Akɛnɛ wa ná we kã he je ɔ , eko ɔ , a kɛ bua jɔmi be nɔ́ nɛ wa ngɛ dee ɔ nɔ kplɛɛe .
+Se ke waa kɛ kã kɛ bua jɔmi tu wa hemi kɛ yemi ɔ he munyu kaa bɔ nɛ waa kɛ nihi sɛɛɔ ní kpahi a he ní faa a , atsinyɛ jemi ko be he kaa a maa bu wɔ tue . ”
+Yesu de ke : “ Ke nɔ ko suɔ kaa e maa nyɛɛ ye se ɔ , e kua e he , nɛ e wo e sɛumi tso ɔ , nɛ e ya nɔ nɛ e nyɛɛ ye se . ”
+Mo susu nɔ hyɛmi nɔ́ nɛ ɔmɛ a he nɛ o hyɛ .
+© 2018 Watch Tower Bible and Tract Society of Pennsylvania
+27 Slɔɔto Nɛ Ngɛ Nimli A Kpɛti
+LAHI : 3 , 47
+Yesaya 40 : 26
+Mateo 11 : 28 - 30
+2 Korinto Bi 12 : 9 , 10
+Mɛni wa ma nyɛ maa kase kɛ je Yesaya 40 : 26 mi ?
+Kane Yesaya 40 : 26 .
+Kɛ ba si mwɔnɛ ɔ , nɔ ko nyɛ we nɛ e kane dodoe ɔmɛ tsuo nɛ ngɛ hiɔwe ɔ .
+Kɛ wa plɛɔ kɛ náa nɔ mi mami kaa Yehowa ma nyɛ ma ha wɔ he wami ha kɛɛ ?
+Kane Yesaya 40 : 28 .
+Kane Yesaya 40 : 29 .
+Yesu de hu ke : “ Nyɛ he mi maa jɔ nyɛ .
+Ejakaa ye kuɛpã tso ɔ tloomi wɛ , nɛ ye tlomi ɔ hu jiɔ we . ”
+Se ke wa bɔ mɔde nɛ wa ya , nɛ wa ba su we mi ɔ , kɛ wa nuɔ he ha kɛɛ ?
+Munyu tulɔ ɔ susu tue buli ɔmɛ a he , nɛ e kɛ mi mi jɔmi tu munyu , nɛ lɔ ɔ ha nɛ i fo ya .
+Enɛ ɔ ha nɛ i hɛli si kaa asafo mi kpehi a sisi ji he nɛ e sa kaa ma hi be fɛɛ be . ”
+Mɛni bɔfo Paulo ngɛ tsɔɔe benɛ e ngma ke : “ Ke i gbɔjɔ ɔ , kɛkɛ i ná he wami ” ɔ ?
+Kane Yesaya 40 : 30 .
+E la ke : “ Mo Mawu , o he wami nya a , ma nyɛ ma tu gbogbo kɛ ya tua ye he nyɛli , nɛ ma ye a nɔ . ”
+Kane Yesaya 40 : 31 .
+Ngɛ enɛ ɔ hu mi ɔ , Yehowa tsi we haomi ɔ nya .
+Nɔ hyɛmi nɔ́ kpa ko hu ji nɛ ɔ nɛ .
+Kane Efeso Bi 4 : 26 .
+Anɛ waa kɛ Baiblo ɔ ga womi ɔ ma tsu ní konɛ wa dla sane ɔ mla lo ?
+( Abɛ 15 : 23 ; Mat .
+O ma nyɛ maa je ní sɛɛmi ɔ sisi kikɛ : “ E peeɔ mi kaa imi nɛ i nui mo sisi , se benɛ o kɛ mi tu munyu hiɛ ɔ . . .
+Mo Yehowa , o gbla ye tue nyɔ kɛ pia . ’
+E ngma ke : “ Kɛkɛ nɛ i jaje ye he yayami ɔmɛ kɛ ha mo . . . nɛ mo hu o ngɔ ye he yayami ɔmɛ kɛ pa mi . ”
+“ Hyɛ bɔ nɛ e hi , bɔ nɛ e ngɛ fɛu , ke nyɛmimɛ pee kake kɛ hi si ! ” ​ — LA 133 : 1 .
+LAHI : 18 , 14
+yeɔ bua wɔ nitsɛmɛ ha kɛɛ ?
+Mɛni sane bimihi a ma ha heto ngɛ munyu nɛ ɔ mi ?
+( 4 ) Anɛ nyagbe Kaimi ko ngɛ nɛ wa maa yee lo ?
+( Kane 2 Korinto Bi 13 : 5 . )
+( Kane Yohane 3 : 16 ; 17 : 3 . )
+( a ) Mɛni Yesu sɔle kɛ bi benɛ a ye kekleekle Nyɔmtsɛ ɔ Gbɔkuɛ Niye Ní ɔ ?
+( b ) Mɛni tsɔɔ kaa Yehowa ha Yesu sɔlemi ɔ heto ?
+( Kane Yohane 17 : 20 , 21 . )
+( Kane Ezekiel 37 : 15 - 17 . )
+Mɛni wa ma nyɛ maa pee kɛ ye bua konɛ kake peemi nɛ ngɛ Mawu we bi a kpɛti ɔ nɛ hi si daa ?
+( Kane Mateo 18 : 35 . )
+Mɛni blɔ nɔ wa maa gu kɛ tsɔɔ kaa ‘ wa náa wa sibi a he tsui ngɛ suɔmi mi ’ ?
+Slɔɔto ngɛ munyu enyɔ nɛ ɔmɛ a kpɛti .
+Kɛ wa plɛ kɛ le kaa wa maa ye nyagbe Kaimi ko ha kɛɛ ?
+Kɛ wa plɛ kɛ le kɛɛ ?
+( Kane La 133 : 1 . )
+Nyɛmimɛ nyumuhi enyɔ kɛ a yihi nɛ a ji blɔ gbali ngɔ womihi kɛ ngɛ ɛloplee mi woe ngɛ Beni ngɛ Riberalta .
+LAHI : 80 , 50
+Mɛni he je nɛ Yehowa ngɛ blɔ hyɛe kaa wa ma ha lɛ wa ní kpakpahi ɔ ?
+Kɛ asafo ɔ ngɔɔ sika nɛ nihi kɛ yeɔ bua a kɛ tsuɔ ní ha kɛɛ ?
+YEHOWA ji Mawu nɛ haa nɔ nɔ́ faa .
+Kɛ asafo ɔ ngɔɔ sika nɛ nihi kɛ yeɔ bua a kɛ tsuɔ ní ha kɛɛ ?
+( Kane Abɛ 29 : 21 . )
+Behi fuu ɔ , wa li sika nɛ nɔ ko kɛ ha .
+( Kane 2 Korinto Bi 8 : 18 - 21 . )
+Jã nɔuu nɛ Yehowa asafo ɔ hu peeɔ .
+A ngɔɔ sika nɛ o haa a kɛ fĩɔ Matsɛ Yemi ní tsumi ɔ se ( Hyɛ kuku 14 - 16 )
+Enɛ ɔ he ɔ , be komɛ ɔ , e peeɔ wɔ kaa wa piɛɛ we Yehowa asafo ɔ he , nɛ enɛ ɔ haa nɛ wa hɛ jeɔ bɔ nɛ Yehowa ní tsumi ɔ yi ngɛ blie ha a nɔ .
+Se ke wa hyɛ JW Brɔɔdkastin ɔ , wa kaiɔ kaa wa ngɛ nyɛmimɛ babauu ngɛ je kɛ wɛ .
+Nyɛmimɛ nɛ waa kɛ mɛ ngɛ asafo mi ɔ bua jɔ JW Brɔɔdkastin ɔ he wawɛɛ .
+Wa pɔɔ numi nɛ wa nyɛmimɛ ɔmɛ deɔ ke , ke a hyɛ Brɔɔdkastin ɔ , e haa nɛ a nuɔ he kaa Blɔ Tsɔɔmi Ajla Toli ɔmɛ ngɛ a kasa nya haa .
+Amlɔ nɛ ɔ , a bua jɔ wawɛɛ kaa a piɛɛ Mawu asafo ɔ he . ”
+( Kane Abɛ 11 : 24 , 25 . )
+Kɛ níhi nɛ wa kase mwɔnɛ ɔ wo mo he wami ha kɛɛ ?
+
+‘ Nihi nɛ Yehowa ji a Mawu ɔ ngɛ bua jɔmi ! ’ ​ — LA 144 : 15 .
+LAHI : 111 , 109
+Jã nɛ Yehowa bɔ wɔ .
+Yesu de ke : “ E sa nɛ o suɔ o nyɛmi kaa bɔ nɛ o suɔ o he ɔ . ”
+Nyumu nɛ e suɔ e yo ɔ suɔ lɛ nitsɛ e he , ejakaa nyumu ko be nɛ e nyɛɔ lɛ nitsɛ e nɔmlɔ tso , mohu ɔ , e haa lɛ niye ní nɛ e fiɛ we e he . ”
+( Kane Roma Bi 12 : 3 . )
+Mɛni wa maa pee konɛ wa ko suɔ wa he tsɔ ?
+Paulo ngma ke , nihi maa pee “ sika suɔli . ”
+Jeha komɛ nɛ be ɔ , blɔ gbalɔ ko nɛ e ngɛ Ireland ɔ fiɛɛ kɛ ha nyumu ko .
+Mɛni Baiblo ɔ de ngɛ ní nami kɛ ohia he ?
+( Kane Fiɛlɔ 5 : 12 . )
+E ngma ke : ‘ Ke i ná ní kpɔtɔɔ ɔ , ma kua mo , nɛ ma de ke , “ Mɛnɔ kulaa ji Yehowa ? ” ’
+Ke pee ɔ , e deɔ ke e ngɛ nitsumitsɛ ko nɛ e se be !
+Amlɔ nɛ ɔ nɛ imi hu i ji blɔ gbalɔ ɔ , i kɛ lɛ tsuo wa ngɛ ní tsue ha nitsumitsɛ kake , nɛ ji Yehowa . ”
+Mɛni wa maa pee konɛ wa ko suɔ sika tsɔ ?
+( Hyɛ kuku 13 )
+E tsɔɔ kaa a sume Mawu kulaa . ”
+Mɛni wa maa pee konɛ wa ko suɔ hɛja jemi tsɔ ?
+LAHI : 127 , 101
+wa ko bu wa he pe ni kpahi ?
+( Kane 2 Timoteo 3 : 1 - 5 , 13 . )
+Wa le hu kaa suɔmi ‘ fĩɛ , nɛ e pee we pupuupu . ’
+Enɛ ɔ yeɔ bua mi nɛ i buɔ mɛ tue .
+I ba na kaa a susuɔ ye he , nɛ lɔ ɔ ha nɛ ye bua jɔ he kaa ma pee níhi nɛ ma ha a bua maa jɔ . ”
+Jã nɛ Mawu we bi ngɛ kɛ je blema .
+( Kane Yohane 13 : 34 , 35 . )
+Mɛni Yesu pee kɛ tsɔɔ kaa e suɔ ni kpahi ?
+( Kane Yesaya 11 : 6 , 7 . )
+O ma nyɛ maa kane nimli kaa jã a he sane ngɛ munyu nɛ ji “ Baiblo ɔ Tsakeɔ Nihi A Si Himi ” ngɛ jw.org .
+E sa nɛ wa ha nɛ ni kpahi nɛ a le kaa wa ji Yehowa Odasefohi .
+8 : 23 .
+3 Bu Mawu Tue Nɛ O Ná Hemi Kɛ Yemi Kaa Noa , Daniel Kɛ Hiob
+28 Bua Jɔmi Ji Su Nɛ Wa Náa Kɛ Jeɔ Mawu Ngɔ
+LAHI : 89 , 119
+Daniel hemi kɛ yemi ɔ ?
+Hiob hemi kɛ yemi ɔ ?
+9 , 10 . ( a ) Kɛ wa ma plɛ kɛ kase Noa hemi kɛ yemi ɔ kɛ e tue bumi ɔ ha kɛɛ ?
+( Kane Malaki 3 : 17 , 18 . )
+( b ) Kɛ Yehowa na Daniel ha kɛɛ ?
+( b ) Mɛni fɔli ma nyɛ maa kase ngɛ Daniel fɔli ɔmɛ a nɔ hyɛmi nɔ́ ɔ mi ?
+2 : 7 .
+( Kane Hiob 1 : 9 , 10 . )
+19 , 20 . ( a ) Kɛ wa ma plɛ kɛ kase Hiob hemi kɛ yemi kɛ e tue bumi ɔ ha kɛɛ ?
+LAHI : 126 , 150
+1 - 3 . ( a ) Mɛni maa ye bua wɔ konɛ waa ya nɔ nɛ waa ye Mawu anɔkuale ngɛ nyagbe ligbi nɛ ɔmɛ a mi ?
+( Kane Daniel 6 : 7 - 10 . )
+Pi Israel no ji Hiob .
+( Kane Hiob 31 : 24 - 28 . )
+( Kane La 11 : 5 ; 26 : 4 . )
+( La 1 : 1 - 3 ) Lɔ ɔ he ɔ , mo bi o he ke : ‘ Anɛ i le Yehowa kaa bɔ nɛ Noa , Daniel kɛ Hiob le lɛ ɔ lo ? ’
+Noa nɛnɛkasowa Enɔk kɛ “ Mawu hi si saminya e wami be ɔ tsuo . ”
+11 : 10 ) Yesu de ke : “ Nyɛ tsɛ Abraham kɛ bua jɔmi hyɛ blɔ kaa e maa na ye ligbi ɔ . ”
+I li bɔ nɛ ma kale wa bua jɔmi ɔ ha . ”
+Ejakaa wɔ ji nihi nɛ Mawu gu e mumi ɔ nɔ kɛ je mɛ kpo ngɔ tsɔɔ . ”
+Yesu de ke : “ I de nyɛ ní nɛ ɔmɛ bɔ nɛ pee nɛ ye bua jɔmi ɔ nɛ hi nyɛ mi konɛ nyɛ bua jɔmi ɔ nɛ e pi si . ”
+Yo ɔ fĩ duku nɛ a fĩɔ ngɛ a ma mi ɔ eko
+LAHI : 17 , 13
+Kɛ wa maa pee kɛɛ kɛ le kaa nɔ ko ji mumi mi nɔmlɔ ?
+( 3 ) Ke wa bɔ mɔde nɛ wa ná “ Kristo juɛmi ɔ , ” ngɛ mɛni blɔ nɔ nɛ lɔ ɔ maa ye bua wɔ konɛ waa pee mumi mi nimli ?
+( Kane 1 Korinto Bi 2 : 14 - 16 . )
+Paulo wo wɔ he wami konɛ waa pee mumi mi nimli .
+Mɛni Baiblo ɔ de ngɛ nihi nɛ a susuɔ mumi mi níhi a he ɔ he ?
+Kɛ wa ma plɛ kɛ ya wa hɛ mi ngɛ mumi mi ha kɛɛ ?
+Mɛni wa ma nyɛ maa kase ngɛ Yakob nɔ hyɛmi nɔ́ ɔ mi ?
+Mɛni wa ma nyɛ maa kase ngɛ Maria nɔ hyɛmi nɔ́ ɔ mi ?
+( Kane Luka 1 : 46 - 55 . )
+( Kane Yesaya 63 : 9 ; Maako 6 : 34 . )
+Nyɛmiyo ko nɛ a tsɛɛ lɛ ke Rachel , nɛ e ngɛ Brazil ɔ de ke : “ I dlaa ye he kaa bɔ nɛ nihi dlaa a he ha ngɛ je ɔ mi ɔ .
+Enɛ ɔ he ɔ , ye he dlami sɛ .
+Se anɔkuale ɔ nɛ i kase ɔ ye bua mi nɛ i ba pee mumi mi nɔmlɔ .
+I ná we lɛ gbɔjɔɔ kaa ma pee tsakemi , se tsakemi nɛ i pee ɔ ha nɛ i ngɛ bua jɔmi ngɛ si himi mi . ”
+Enɛ ɔ he je nɛ e sa kaa wa ná Yesu juɛmi ɔ nɛ .
+Yesu kaseli ɔmɛ de ke : ‘ Wɔ ji ní nɛ ɔmɛ tsuo a he odasefohi . ’
+Ke wa susuɔ níhi a he kaa Kristo ɔ , kɛ lɔ ɔ maa ye bua wɔ ha kɛɛ ?
+5 : 16 .
+LAHI : 22 , 75
+Kɛ Kristo juɛmi nɛ o ma ná a maa ye bua mo ngɛ o si himi mi ha kɛɛ ?
+E de ke : “ I pee we nɔ́ yayami ko , i peeɔ nɔ́ fɛɛ nɔ́ ngɛ asafo ɔ mi .
+I naa ye he kaa nɔ ko nɛ e nane pi si ngɛ Mawu jami mi , ejakaa i yaa kpe ɔmɛ tsuo , nɛ i nyɛɔ nɛ i sɔmɔɔ kaa blɔ gbali a walɔ si enyɔ loo si etɛ ko daa jeha .
+Se nyagba ko ngɛ . ”
+E de ke : “ I pee kaa nɔ ko nɛ e li nɔ́ ko .
+I de ye he ke , ‘ Ke imi ji ye yo ɔ yi ɔ , lɛɛ e sa nɛ ma bɔ ye he mɔde . ’ ”
+E de ke : “ I kase Baiblo ɔ saminya , nɛ i bɔni ní komɛ a sisi numi .
+Nɔ́ nɛ he hia pe kulaa ji kaa i kɛ Yehowa ba ná huɛ bɔmi nɛ e mi wa . ”
+( 3 ) Ke wa he wa ngɛ mumi mi ɔ , kɛ lɔ ɔ maa ye bua wɔ ngɛ wa si himi mi ha kɛɛ ?
+( b ) Mɛni he je nɛ wa kaseɔ Baiblo ɔ nɛ wa pueɔ wa yi mi tɛ ngɛ he ?
+( b ) Mɛni nɔ hyɛmi nɔ́ nɛ ngɛ Baiblo ɔ mi nɛ wa ma nyɛ maa kase ?
+12 , 13 . ( a ) Mɛni maa ye bua wɔ konɛ wa nyɛ nɛ waa ngɔ Roma Bi 15 : 5 ɔ kɛ tsu ní ?
+Wɔ hu wa ma nyɛ maa pee jã .
+( Kane 2 Petro 1 : 5 - 8 . )
+Ke wa susuɔ mumi mi níhi a he ɔ , kɛ lɔ ɔ maa ye bua wɔ ngɛ si himi mi ha kɛɛ ?
+Ke Yesu nɛ e kɛ si fɔfɔɛ nɛ ɔ kpe ɔ , kɛ e maa pee kɛɛ ?
+Mɛni “ ní tsumi gbogboehi ” nɛ e sa kaa wa kua ?
+Anɛ yi mi kpɔhi nɛ i mwɔ ɔ maa ye bua mi konɛ ma ngɔ mumi mi otihi kɛ ma ye hɛ mi lo ?
+Mumi mi otihi .
+Mɛni he je nɛ o suɔ nɛ o ya o hɛ mi ngɛ mumi mi ɔ ?
+3 Mɛni He Je Nɛ Baptisimi He Hia ?
+Bɔfo Petro wo Kristofohi nɛ a hi si ngɛ e be ɔ mi ɔ he wami ke : “ Nyɛɛ pee nyɛ sibi nibwɔ . ”
+Ke nɔ ko pee wɔ nibwɔ ɔ , mɛni wa ma nyɛ maa pee kɛ tsɔɔ kaa wa ji nibwɔ kpakpahi ?
+Kɛ e sa kaa waa pee wa ní ngɛ tsɔsemi nɛ e kɛ haa wɔ ɔ he ha kɛɛ ?
+Wa maa na sane bimi nɛ ɔmɛ a heto ngɛ munyu nɛ ɔmɛ a mi .
+“ Mɛni he je nɛ o ngɛ tsle toe ɔ ?
+Tee si , ha nɛ a baptisi mo . ” — NÍTS . 22 : 16 .
+LAHI : 51 , 135
+Kolose Bi 1 : 9 , 10
+Fiɛlɔ 12 : 1
+Yakobo 4 : 17
+Mɛni nɔ mi mami nɛ fɔli nɛ a ji Kristofohi suɔ nɛ a ná loko a baptisi a bimɛ ?
+Ye fɔli ɔmɛ kɛ mi sɛɛ ní si abɔ ejakaa a suɔ nɛ a le kaa i nu nɔ́ nɛ i yaa pee ɔ sisi saminya lo .
+Nyagbe kulaa a , ligbi nɛ i ngɛ blɔ hyɛe ɔ su .
+A baptisi mi ngɛ December 31 , 1934 . ”
+Kane Mateo 28 : 19 , 20 .
+5 , 6 . ( a ) Níhi nɛ Baiblo ɔ de ngɛ Timoteo he ɔ tsɔɔ wɔ mɛni ngɛ e baptisimi ɔ he ?
+( Kane Kolose Bi 1 : 9 , 10 . )
+( Kane Yakobo 4 : 17 . )
+Anɛ nɔ́ ko ngɛ nɛ e he hia pe enɛ ɔ lo ?
+E de Yehowa ke e bua jɔ wawɛɛ kaa e biyo ɔ ma e juɛmi nya si kaa e maa jɔɔ e wami nɔ kɛ ha lɛ Yehowa . ”
+LAHI : 52 , 41
+1 Petro 3 : 20 , 21
+Mateo 28 : 19 , 20
+Ní Tsumi 22 : 16
+( Kane 1 Petro 3 : 20 , 21 . )
+Kane Ní Tsumi 8 : 35 , 36 .
+Mɛni he je nɛ e sɛ nɛ waa nyɛ nɔ ko nɔ kaa e ha nɛ a baptisi lɛ ɔ ?
+Ke o ji fɔlɔ ɔ , eko ɔ , mo hu o bi o he sane nɛ ɔmɛ hyɛ . Eko ɔ , o bi ke : ‘ Anɛ ye bi ɔ nu baptisimi sisi nitsɛnitsɛ lo ?
+Kekleekle sane nɛ a biɔ mɛ ji , “ Ngɛ Yesu Kristo afɔle sami ɔ nya a , anɛ o pia o he ngɛ yayamihi nɛ o pee ɔmɛ a he , nɛ o jɔɔ o he nɔ ngɔ ha Yehowa kaa o maa pee e suɔmi nya ní lo ? ”
+LAHI : 100 , 87
+Kɛ nibwɔ nɛ a maa pee a sibi ɔ maa ye bua mɛ ha kɛɛ ?
+Ke wa ya asafo mi kpe ɔ , mɛni wa ma nyɛ maa pee kɛ pee nihi nibwɔ ?
+( Kane 3 Yohane 5 - 8 . )
+E de ke : “ Sisije ɔ , e ye ha mi kaa ma pee jã , ejakaa i sɛ gba si himi mi kɛ we , nɛ wa we ɔ hu klee we .
+Se nyɛmimɛ ɔmɛ nɛ wa ha nɛ a ba to wɔ ɔ ha nɛ wa ná bua jɔmi wawɛɛ .
+Wa ba na kaa ke nihi nɛ a sɛ gba si himi mi kɛ we pee kake kɛ ngɛ Yehowa sɔmɔe , nɛ a ngɔ mumi mi otihi kɛ ma a hɛ mi ɔ , a náa bua jɔmi . ”
+Mɛni he je nɛ e he hia nɛ o pee ni hehi nɛ a ba o we asafo ɔ mi ɔ nibwɔ ɔ ?
+( Kane Luka 10 : 41 , 42 . )
+E de ke : “ Jamɛ a be ɔ mi ɔ , wa wɛ tsɔ , wa be níhi a si kpami ko , nɛ wa hɛ jaa .
+I bɔ mɔde kaa ma ye bua lɛ se e yɛ nya .
+Maa pee gbɔkuɛ ngmlɛ kpaago kɛ fã a , nɔ ko ba si wa sinya .
+E nu kaa ma se sane kpakpa fiɛɛli komɛ ba , lɔ ɔ he ɔ , e ba konɛ e ba nya wa he .
+Waa kɛ lɛ ya tsu ɔ mi , nɛ wa ha lɛ nyu .
+Lɔ ɔ se ɔ , wa po tea nɛ wɔ tsuo wa nu .
+E ma nyɛ maa ba jã ngɛ yi mi tomi etɛ komɛ a he je .
+Ke nibwɔ peemi haa nɛ o hao ɔ , mo kai kaa pi mo pɛ nɛ o nuɔ he jã .
+Asafo mi nɔkɔtɔma ko nɛ e ngɛ Britain ɔ de ke : “ Ke o ngɛ nibwɔhi a se dlae ɔ , o he jɔɛ mo kulaa .
+Se akɛnɛ e ji wa jami ɔ fã he je ɔ , nyagbenyagbe ɔ , se nami kɛ bua jɔmi nɛ wa náa a pãa tsui yemi ɔ .
+Ke i fɔ̃ nɔ ko nine nɛ wa ná kɔfi bɔɔ ko , nɛ wa ngɛ ní sɛɛe ɔ , ye bua jɔɔ wawɛɛ . ”
+Asafo mi nɔkɔtɔma ko hu de ke : “ Ke i fɔ̃ nyɛmimɛ nine kɛ ba ye we ɔ mi ɔ , i náa he blɔ kɛ leɔ mɛ , nɛ i nuɔ mɛ sisi saminya , titli ɔ , bɔ nɛ a plɛ kɛ ba na anɔkuale ɔ . ”
+Nyɛmiyo ko nɛ e huno tsɔɔ sukuu bi ɔmɛ ní ɔ lɛ wo mi he wami .
+E de mi ke , ke e kɛ e huno nɛ e ji kpɔmi nɔ hyɛlɔ ɔ ya slaa asafohi , nɛ a ya to nyɛmimɛ nɛ a be he lo nya níhi tsɔ , se a kɛ Yehowa sɔmɔmi pee oti ngɛ a si himi mi , nɛ a pee a si himi kpokploo kaa bɔ nɛ mɛ hu a pee ɔ , jamɛ a otsi ɔ mi mohu nɛ a bua jɔɔ wawɛɛ .
+Nɔ́ nɛ e de ɔ ha nɛ i kai munyu ko nɛ ye yayo pɔɔ tumi benɛ i wɛ ɔ .
+( Kane Abɛ 25 : 21 , 22 . )
+Behi fuu ɔ , wetsɛ ɔ dlaa nubwɔ ɔ se saminya ( Hyɛ kuku 20 )
+La polɔ David bi ke : ‘ Yehowa , mɛnɔ maa hi o bo tsu ɔ mi ? ’
+Ngɛ he komɛ hu ɔ , a hyɛɛ blɔ kaa nɔ ɔ nɛ wo si loko e ba .
+Mɛni he je nɛ e he hia nɛ waa ‘ pee wa sibi nibwɔ ’ ɔ ?
+Se enɛ ɔmɛ tsuo jɔ̃ we wa kɔni mi .
+4 : 16 , 17 .
+Nyɛmimɛ nyumuhi enyɔ nɛ a ngɛ ní tsulɔ ko nɛ e hii si ngɛ brij ko nɔ dɛ womi hae ngɛ Kaštilac mɔ ɔ hɛ mi ngɛ he ko nɛ kɛ Split ma a he kɛ we .
+LAHI : 123 , 86
+O ma nyɛ ma puɛ nɔ́ ko . ”
+( Kane Tito 2 : 11 - 14 . )
+Asafo mi nɔkɔtɔma a de ke : “ Graham woɔ e he nɔ .
+E tuɔ nikɔtɔmahi nɛ a ye e sane ɔ a he munyu yaya .
+Lɔ ɔ he ɔ , benɛ wa je ní kasemi ɔ sisi bɔɔ pɛ nɛ wa susu ngmamihi nɛ tuɔ he nɔ womi kɛ nyagbahi nɛ jeɔ mi kɛ baa he .
+Mawu Munyu ɔ ba pee kaa ahuhuɛ kɛ ha Graham , nɛ e na su komɛ ngɛ e he nɛ hí kulaa !
+Tsakemi nɛ Graham pee ɔ sa kadimi wawɛɛ !
+Graham ba na kaa he nɔ womi kɛ nihi a tɔmi nɛ e hlaa a ba pee kaa ‘ plai ’ ngɛ e hɛ ngmɛ nɔ .
+Benɛ e yɔse kaa lɔ ɔ ji lɛ nitsɛ e nyagba a , e pee tsakemi mlamlaamla . E bɔni asafo mi kpehi yami , e kaseɔ Mawu Munyu ɔ saminya , nɛ e sɔleɔ daa ligbi .
+E de mi ke , ‘ I kase anɔkuale ɔ jeha babauu ji nɛ ɔ , nɛ i sɔmɔ kaa blɔ gbalɔ hyɛ .
+( Kane Luka 4 : 22 . )
+Bɔfo Petro de ke : “ Nyɛɛ hyɛ Mawu to kuu ɔ nɛ a kɛ wo nyɛ dɛ ɔ nɔ , nyɛ sɔmɔ kaa a nɔ hyɛli , pi ngɛ nɔ nyɛmi nya , se nyɛɛ je nyɛ tsui mi kɛ pee ngɛ Mawu hɛ mi ; pi ngɛ se nami nɛ ngɛ zo he suɔmi he je , se mohu kɛ bua jɔmi ; nyɛ ko pee nyɔmtsɛmɛ ngɛ ni nɛmɛ nɛ a ji Mawu we bi ɔmɛ a nɔ , mohu ɔ , nyɛɛ ngɔ nyɛ he kɛ pee nɔ hyɛmi níhi kɛ ha to kuu ɔ . ”
+( Kane Yesaya 11 : 9 . )
+LAHI : 56 , 89
+Mɛni blɔ nɔ fɔli maa gu kɛ tsɔɔ a bimɛ ní ngɛ Yehowa tsɔsemi mi ?
+( Kane Hebri Bi 12 : 5 - 11 . )
+Ngɛ mɛni blɔ nɔ nɛ jokuɛwi ma nyɛ maa kase bɔ nɛ a ma tsɔse a he ha ?
+4 , 5 . ( a ) Mɛni he je nɛ wa he nɛ wa ma tsɔse ɔ piɛɛ “ su ehe ɔ ” he ɔ ?
+( Kane Filipi Bi 4 : 13 . )
+Mɛni wa maa pee konɛ wa nyɛ nɛ waa kase Mawu Munyu ɔ saminya ?
+4 : 15 .
+8 - 10 .
+Moo bu Yehowa tue .
+Nyɛminyumu ko de ke : “ Ye bua jɔ bɔ nɛ ye fɔli ɔmɛ tsɔse mi ha a he .
+( b ) Kɛ weku ko ná Yehowa tue nɛ a bu ɔ he se ha kɛɛ ?
+Jeha komɛ a se ɔ , a ngɔ e biyo ɔ ekohu ngɛ asafo ɔ mi .
+Huɛ bɔmi nɛ ngɛ waa kɛ lɛ wa kpɛti amlɔ nɛ ɔ mi wa . ”
+( b ) Mɛni wa ma nyɛ maa pee konɛ asafo mi nikɔtɔma amɛ kɛ bua jɔmi nɛ tsu ní ?
+A kã we ye hɛ mi , nɛ a bui mi fɔ hulɔ , mohu ɔ , a wo mi he wami , nɛ i ná kã .
+Ke wa kpa asafo mi kpe , nɛ nikɔtɔma amɛ be deka po ɔ , ke e hí kulaa a , a kpɛti nɔ kake biɔ mi bɔ nɛ i ngɛ ha .
+Bɔ nɛ i ba ye je mi ha be ko nɛ be ɔ he je ɔ , ke pee ɔ , i nuɔ he kaa i sɛ ngɛ Mawu hɛ mi .
+Se Yehowa gu asafo mi nikɔtɔma amɛ a nɔ kɛ je suɔmi kpo kɛ tsɔɔ mi si abɔ .
+I sume nɛ nɔ́ ko nɛ je mi kɛ je Yehowa he hu . ”
+E ji o pee nɔ́ nɛ hi jinɛ i ko ná o he bua jɔmi .
+Se akɛnɛ o ya pee we nɔ́ nɛ hi ɔ , yayami buu si ngɛ o sinya a nya kaa lohwe dikalɔ nɛ e miɔ nɛ e maa tu mla mo .
+( Abɛ 1 : 24 - 31 ) Enɛ ɔ he ɔ , nyɛ ha nɛ waa ‘ bu tsɔsemi tue konɛ waa le ní . ’
+3 Nɔ́ Nɛ Haa Nɔ He Yemi Nitsɛnitsɛ
+Nihi nɛ a ngɛ je ɔ mi he tsuaa he ɔ ngɛ mɔde bɔe kaa a ma ná he yemi .
+Kɛ e sa kaa Kristofohi nɛ a na he yemi ha kɛɛ ?
+15 Moo Kase Yehowa , Mawu Nɛ Woɔ Nɔ He Wami ɔ
+8 : 36 .
+LAHI : 54 , 36
+Mɛni ji he yemi nɛ huzu ngɛ he ?
+Ngɛ mɛni blɔ nɔ nɛ he yemi nitsɛnitsɛ bɔ adesahi ?
+( Kane 1 Kronika 29 : 11 , 12 . )
+Ke adesahi ma nyɛ ma ná “ nɔ́ nɛ hi ” ɔ he se ɔ , ja a ná hemi kɛ yemi ngɛ Mawu mi nɛ a bu lɛ tue .
+Se ke a bui Mawu tue ɔ , Mawu maa ngmɛɛ a he konɛ mɛ nitsɛmɛ a hla nɔ́ nɛ hi kɛ nɔ́ nɛ hí . ’
+Adam kɛ Hawa pee a ní kaa ɛloplee kudɔlɔ ko nɛ e suɔ kaa e maa gu he nɛ lɛ nitsɛ e suɔ .
+Kɛ wa ma plɛ kɛ ná he yemi nitsɛnitsɛ ha kɛɛ ?
+E de ke : “ Ke nyɛ hi si ngɛ ye munyu ɔ nya a , lɛɛ ye kaseli nitsɛnitsɛmɛ ji nyɛ , nɛ nyɛ maa le anɔkuale ɔ , nɛ anɔkuale ɔ ma ha nɛ nyɛ maa ye nyɛ he . ”
+Se mɛni mi wa maa ye wa he ngɛ ?
+Ngɛ mɛni blɔ nɔ nɛ he yemi nɛ Yesu wo he si ɔ ma ha nɛ ‘ waa ye wa he nitsɛnitsɛ ’ ?
+( Kane Roma Bi 7 : 21 - 25 . )
+Mɛni ma ha nɛ waa ye wa he nitsɛnitsɛ ?
+( Kane Roma Bi 8 : 1 , 2 , 20 , 21 . )
+LAHI : 49 , 73
+( d ) Mɛni sane bimihi a he wa ma susu ?
+( Yaa MUNYU BIMIHI KƐ NÍHI A SI KPAMIHI > SI FIMI NGƐ KAHI A MI . )
+Mlaa ngmɛɔ níhi tsuo blɔ , se pi níhi tsuo nɛ fiaa nɔ kɛ maa si . ”
+Mɛni wa ma nyɛ maa kase ngɛ Noa kɛ e weku ɔ a he ?
+A hi nihi nɛ a je mi bami puɛ nɛ a peeɔ basabasa a kpɛti .
+Mɛni Yehowa fã wɔ ke waa pee mwɔnɛ ɔ ?
+( Kane Luka 4 : 18 , 19 . )
+Amlɔ nɛ ɔ , i ba nu ngmami nɛ ngɛ Yakobo 4 : 8 ɔ sisi saminya . E de ke : ‘ Nyɛɛ hɛ nyɛ kɛ su Mawu he , nɛ e maa hɛ lɛ kɛ su nyɛ he . ’
+Kpaako ye nine su bua jɔmi nɛ i ngɛ hlae ngɛ si himi mi ɔ nɔ . ”
+Nyɛminyumu ko kɛ e yo nɛ a ji blɔ gbali klɛdɛɛ nɛ a ngɛ fiɛɛe ngɛ kɔpe ko nɛ e kɛ Balykchy ma a he kɛ we ɔ mi
+NIHI NƐ A YA KAIMI Ɔ ( 2017 )
+LAHI : 7 , 3
+Mɛni Yesu kaseli ɔmɛ pee kɛ wo a nyɛmimɛ ɔmɛ he wami ?
+Ngɛ mɛni blɔ nɔ nɛ Yehowa wo Noa he wami ?
+( b ) Kɛ Yehowa wo e Bi ɔ he wami ha kɛɛ ?
+Sɛ o nyɔmtsɛ ɔ bua jɔmi ɔ mi . ”
+Ngɛ mɛni blɔ nɔ nɛ Hezekia wo tabo hɛ mi nyɛɛli ɔmɛ kɛ Yuda ma a he wami ?
+Enɛ ɔ ha nɛ Yɛfta tsui kpa tsɔ .
+Kɛ Petro ‘ wo e nyɛmimɛ ɔmɛ he wami ’ ha kɛɛ ?
+Se i kpa pɛɛ wawɛɛ ha mo konɛ o hemi kɛ yemi ɔ nɛ e ko ta ; nɛ ke o ná nɛ o kpale kɛ ba a , mo ba wo o nyɛmimɛ ɔmɛ he wami . ” ​ — Luka 22 : 31 , 32 .
+LAHI : 90 , 87
+Mɛnɔmɛ nɛ a ma nyɛ maa wo nyɛmimɛ Kristofohi he wami ?
+Mɛnɔmɛ nɛ wa ma nyɛ maa wo mɛ he wami mwɔnɛ ɔ , nɛ mɛni he je ?
+Kane Yesaya 32 : 1 , 2 .
+Ngɛ mɛni blɔ nɔ nɛ nikɔtɔmahi ma nyɛ maa wo nihi ga ngɛ blɔ nɛ woɔ nɔ he wami nɔ ?
+Lɔ ɔ he ɔ , o hɛ nɛ dɔ nɛ o tsake o tsui . ”
+Fɔli , anɛ nyɛ ngɛ nyɛ bimɛ bɔ nɛ a woɔ nɔ he wami ha tsɔɔe lo ?
+Lɔ ɔ ji nɔ́ nɛ i hia ngɛ jamɛ a be ɔ mi . E de mi ke lɛ hu e ya je ye si fɔfɔɛ ɔ mi hyɛ , nɛ enɛ ɔ ha nɛ i hɛwi hu . ”
+Matsɛ Solomon ngma ke : “ Munyu nɛ a tu ngɛ be nɛ sa mi ɔ , hyɛ bɔ nɛ e hi ha !
+Hɛ mi muɔ jɛɛ haa nɔ bua jɔɔ ; ja kɛ̃ manye munyu haa nɔ nɔ gbagba tee . ”
+LAHI : 135 , 144
+Mɛni he wa ma susu ngɛ munyu nɛ ɔ mi ?
+Ní kasemi nɛ ɔ maa tsɔɔ yi mi tomi etɛ he je .
+O ní tsumi ɔmɛ haa mi bua jɔmi ; Ma la kɛ bua jɔmi ngɛ o nine nya ní tsumi ɔmɛ a he . ’
+Ko susu kaa o wɛ nɛ lɔ ɔ he ɔ o be nyɛe maa ngɔ Mawu jami mi otihi kɛ ma o hɛ mi .
 Abɛ 21 : 5 de ke : “ Nɔ nɛ bɔɔ mɔde kɛ toɔ níhi a blɔ nya saminya a , e náa ní babauu [ aloo e yeɔ manye ] . ”
-Imi nitsɛ i na kaa Yehowa ye bua mi , nɛ e tsu ye hiami níhi a he ní ha mi .
-Munyu nɛ ɔ kɔɔ Kristofohi tsuo nɛ a hi si ngɛ kaseli ɔmɛ a be ɔ mi ɔ a he , nɛ mwɔnɛ ɔ , e kɔɔ wɔ hu wa he .
-E sɛ nɛ waa kɛ mɛ nɛ sa nya ngɛ a lakpa tsɔɔmi ɔmɛ eko fɛɛ eko he .
-Mɛni wa ma nyɛ maa pee konɛ lɔɔ nɛ ye bua nɛ kake peemi nɛ hi asafo ɔ mi ?
-( Yoshua 23 : 1 , 2 , 14 ) Yuda bi ɔmɛ be nyɛe maa je enɛ ɔ he atsinyɛ .
-Enɛ ɔ ji nɔ hyɛmi nɔ́ kpakpa nɛ e sa kaa waa kase . ​ — Mateo 5 : 43 - 48 .
+Ke o kɛ oti kpakpahi ma o hɛ mi mla a , o maa ye manye mla .
+Ke i ya yunivɛsiti nɛ i ba pee mlaa lelɔ ɔ , ma ná sika fuu mohu lɛɛ , se e he maa wa kaa ma ná ní tsumi ko nɛ e be ye be tsuo ngɔe . ”
+Anɛ o ma nyɛ ma sɔmɔ kaa blɔ gbalɔ lo ?
+Jã nɛ Luca pee .
+17 , 18 . ( a ) Mɛni si himi nɛ Yehowa suɔ kaa nihewi kɛ yihewi nɛ a ngɛ mwɔnɛ ɔ nɛ a ná ?
+Satan ji wa he nyɛlɔ .
+A fɔ mi ngɛ tso tsu ko mi ngɛ ma nyafii ko nɛ a tsɛɛ ke Liberty ɔ mi ngɛ Indiana ngɛ U.S.A .
+Ye se ɔ , a fɔ bi nyumuhi enyɔ kɛ biyo kake .
+BENƐ i ngɛ wae ɔ , i nɛ tsakemi tsɔ ko ngɛ wa ma a mi .
+A fɔ wɔ ni kpaago , nɛ i kase ngmɔ humi ngɛ ye jokuɛ mi
+A susu kaa ma nyɛ ma ba pee hɛ mi nyɛɛlɔ hwɔɔ se .
+Jehanɛ ɔ lɛɛ , a fɔ mi nine kaa ma ba Asafo Womi Mi Ní Kasemi nɛ ji kpe wayoo ko nɛ a peeɔ kɛ kaseɔ Baiblo ɔ eko .
+A peeɔ kpe nɛ ɔ ngɛ yihewi ɔmɛ a we ɔ mi .
+Benɛ i wɛ ɔ , i bi ye yayo ke , ‘ Mɛnɔmɛ ji Yehowa Odasefohi ? ’ Nɔ́ nɛ e de mi ji , “ Oo , a jaa nɔmoyo ko nɛ a tsɛɛ ke Yehowa . ”
+Se benɛ i bɔni ní kasemi ɔ , i ba na kaa mamoo pi jã ji sane ɔ kulaa !
+Jeha kake se ngɛ jeha 1958 ɔ mi ɔ , i ba pee blɔ gbalɔ .
+I pia we ye he kulaa kaa i ngɔ Gloria .
+Jamɛ a be ɔ mi ɔ , Gloria ji june , nɛ amlɔ nɛ ɔ hu ɔ , e ji june .
+E ha nɛ wa le kaa a ngɔɛ nihi nɛ a sɛ gba si himi mi ngɛ Betel hu .
+Wa nyɛmimɛ ɔmɛ lɛɛ , a kɛ wɔ hi si saminya , nɛ wa bua jɔ fiɛɛmi ní tsumi ɔ he !
+Imi hu i kɛ a biyo ɔ kɛ e huno kase ní .
+Nyɛminyumu ɔ yo ɔ , kɛ a biyo ɔ mwɔ a yi mi kpɔ kaa a ma sɔmɔ Yehowa , lɔ ɔ he ɔ , a ha nɛ a baptisi mɛ .
+Wa ná huɛmɛ ngɛ blɛfo li asafo ɔ mi .
+Kuu ko ngɛ nɛ a fĩ mi gbami kɛ basabasa peemi ɔ se nɛ a tsɛɛ mɛ ke Ku Klux Klan ( KKK ) , nɛ nihi le mɛ wawɛɛ .
+Ngɛ jeha 1962 ɔ mi ɔ , a fɔ mi nine kɛ ha Matsɛ Yemi Sɔmɔmi Sukuu nɛ a maa pee ngɛ South Lansing ngɛ New York ɔ eko .
+I ya tɛlifoo ní tsumi he ko ngɛ Pine Bluff ma a mi kaa ma ná ní tsumi lo .
+Ke a ngɔ mi ngɛ ní tsumi ɔ mi ɔ , ma pee kekleekle nɔmlɔ yumu nɛ a ngɔ lɛ ngɛ lejɛ ɔ .
+Kɛ ma pee kɛɛ ?
+Nyɛmiyo ɔ de mi ke , “ Moo ya sukuu ɔ nɛ o ya kase ní saminya , nɛ o ba tsɔɔ wɔ ní ! ”
+Gloria suɔ nɛ e de nyɛ níhi nɛ e kai benɛ wa ya sɔmɔ ngɛ Pine Bluff ɔ : “ Ye bua jɔ zugba kpɔ nɛ wa fiɛɛ ngɛ mi ɔ he wawɛɛ !
+I ná Baiblo kaseli maa pee 20 .
+Ke wa ya fiɛɛ ngɛ wehi a mi mɔtu ɔ , wa ya peeɔ Baiblo mi ní kasemi piani . Be komɛ ɔ , wa kpaa nyɔ mi ngmlɛ 11 .
+E ji anɔkuale .
+Jamɛ a be ɔ mi nɔuu nɛ a hla Nyɛminyumu Leon Weaver nɛ amlɔ nɛ ɔ , e ngɛ sɔmɔe kaa United States Asafo ɔ Ní Tsumi Kɔni ɔ Ajla Toli ɔmɛ a sanehi a he blɔ nya tolɔ ɔ hu kaa kpɔ mi nɔ hyɛlɔ .
+Benɛ i na kaa ma ba pee kpɔ mi nɔ hyɛlɔ ɔ , i ye gbeye .
+Jamɛ a be ɔ mi ɔ , tsɔsemi bɔɔ ko pɛ nɛ kpɔ mi nɔ hyɛli náa .
+R .
+Ligbi ko ɔ , KKK bi ɔmɛ bɔ sala ngɛ ma nɛ wa ngɛ sɔmɔe ngɛ mi ɔ mi ngɛ Tennessee .
+Wa bɔni sɔmɔmi ngɛ Betel ngɛ September nyɔhiɔ ɔ mi .
+Jamɛ a be ɔ mi ɔ , Gloria ji june , nɛ amlɔ nɛ ɔ hu ɔ , e ji june
+I kɛ Gloria wa bua jɔ Betel si himi he wawɛɛ .
+Ngɛ jeha 1999 ɔ mi ɔ , a hla mi kɛ piɛɛ Blɔ Tsɔɔmi Ajla Toli ɔmɛ a he .
+Yesaya 32 : 17 ɔ de ke : “ Dami sane nɛ ɔ kɛ tue mi jɔmi maa ba , nɛ a ma ná he jɔmi kɛ maa ya neneene . ”
+Nɔ́ nɛ ji enyɔ ɔ , e sa nɛ waa sɔle konɛ Mawu nɛ ha wɔ e mumi klɔuklɔu ɔ .
+Kɛ e pee kɛɛ kɛ ná su ehe nɛ ɔ ?
+Lɔ ɔ he ɔ , i nga lɛ ngɛ e je gbi ɔ mi .
+E pee lɛ nyakpɛ , kɛkɛ nɛ e bi mi ke , ‘ Mɛni kɛ mo ba hiɛ ɔ ? ’
+I de lɛ ke , ‘ I kpa mo pɛɛ , ma nyɛ ma na ma a nane mi dalɔ ɔ lo ? ’
+E fia ma a nane mi dalɔ ɔ ngɛ tɛlifoo nɔ . Benɛ e ba a , e nga mi ngɛ a gbi ɔ mi .
+Lɔ ɔ se benɛ i kɛ lɛ ngɛ tue mi jɔmi ní tsumi nɛ Odasefohi tsuɔ ɔ he ní sɛɛe ɔ , e bu mi tue saminya . ”
+“ Ngɛ ní nɛmɛ nɛ a ya pue zu nɛ hi ɔ nɔ ɔ blɔ fa mi ɔ , mɛ ji nihi nɛ . . . a kɛ hɛ mi miami woɔ yiblii ɔ nɛ . ” ​ — LUKA 8 : 15 .
+LAHI : 68 , 72
+Mɛni wa maa pee konɛ wa ko kpa yiblii womi ?
+( Moo hyɛ foni nɛ ngɛ ní kasemi ɔ sisije ɔ . ) ( b ) Mɛni Yesu de ngɛ fiɛɛmi ní tsumi ɔ nɛ e tsu ngɛ “ lɛ nitsɛ e ma mi ” ɔ he ?
+Ke a fia piani ngmlɛ 12 ɔ , kɛkɛ a pee blɛuu kɛ ho we mi ya .
+“ A hemi kɛ yemi ɔ woɔ mi he wami , nɛ e haa nɛ i fĩɔ si , nɛ i peeɔ kã ngɛ fiɛɛmi ní tsumi ɔ mi . ”
+“ A nɔ hyɛmi nɔ́ ɔ haa nɛ ye bua jɔɔ . ”
+Mɛni sane bimi etɛ a he wa ma susu , nɛ mɛni he je ?
+E de ke : “ I naa fiɛɛmi ní tsumi ɔ kaa e he wa , se ke i fiɛɛ we hu ɔ , mɛni ní tsumi ma tsu ? ”
+Kane Yohane 15 : 1 - 5 , 8 .
+Lɔ ɔ ji Mawu Matsɛ Yemi ɔ he sane kpakpa a nɛ wa ngɛ fiɛɛe ɔ nɛ .
+Kane Luka 8 : 5 - 8 , 11 - 15 .
+Kɛ waa kɛ ‘ hɛ mi miami woɔ yiblii ’ ha kɛɛ ?
+E ngma ke : “ Ngɛ anɔkuale mi ɔ , a yi wami hemi ji nɔ́ nɛ ye tsui suɔ nɛ i kpaa Mawu pɛɛ wawɛɛ kɛ haa mɛ ngɛ he .
+Kɛ wa ma plɛ kɛ kase Paulo ha kɛɛ ?
+Benɛ wa kpale kɛ ya a , nihi nɛ a pɔɔ bemi ngɛ lejɛ ɔ ba de wɔ ke , ‘ Wa na nyɛ kɛ .
+Wa hɛ ja ngɛ nyɛ he . ’ ”
+A deɔ wɔ ke wa ha mɛ wa womi tɛtlɛɛ ɔmɛ eko . ”
+Mɛni he je nɛ o fia o pɛɛ si kaa ‘ o kɛ hɛ mi miami maa wo yiblii ɔ ’ ?
+15 : 8 .
+LAHI : 53 , 60
+( Kane Yohane 15 : 1 , 8 . )
+Yesu de e bɔfo ɔmɛ ke : “ Nɔ́ nɛ e woɔ ye Tsɛ ɔ hɛ mi nyami ji kaa nyɛ maa ya nɔ maa wo yiblii babauu . ”
+( b ) Kɛ o naa he blɔ nɛ o ná kaa o ma ha nɛ Mawu biɛ ɔ he nɛ tsɔ ɔ ha kɛɛ ?
+Lɔ ɔ woɔ mi he wami nɛ i kpa we fiɛɛmi . ”
+( a ) Kaa bɔ nɛ Yohane 15 : 9 , 10 tsɔɔ ɔ , mɛni he je nɛ wa fiɛɛɔ ?
+Kane Yohane 15 : 9 , 10 .
+Mɛni wa maa pee kɛ tsɔɔ kaa wa suɔ nɛ waa hi Kristo suɔmi ɔ mi ?
+Ngɛ Baiblo ɔ mi ɔ , a tsɛ Noa ke “ fiɛɛlɔ . ”
+( Kane 2 Petro 2 : 5 . )
+( a ) Kaa bɔ nɛ Mateo 22 : 39 ɔ tsɔɔ ɔ , mɛni he je nɛ wa fiɛɛɔ ?
+Se ke wa ya fiɛɛ ha mɛ ɔ , a ma ná he blɔ kɛ nu sane kpakpa a . ”
+13 , 14 . ( a ) Mɛni nike ní nɛ a wo ta ngɛ Yoh . 15 : 11 ?
+Bua jɔmi .
+( Kane Yohane 15 : 11 . )
+( a ) Mɛni nike ní nɛ a wo ta ngɛ Yohane 14 : 27 ?
+Tue mi jɔmi .
+( Kane Yohane 14 : 27 . )
+( a ) Mɛni nike ní nɛ a wo ta ngɛ Yohane 15 : 15 ?
+( b ) Mɛni nɛ e sa nɛ bɔfo ɔmɛ nɛ a pee konɛ huɛ bɔmi nɛ ngɛ a kɛ Yesu a kpɛti ɔ nɛ hi si daa ?
+Huɛ bɔmi .
+( Kane Yohane 15 : 14 - 16 . )
+Wa ngɛ nɔ mi mami kaa ke wa sɔle kaa Yehowa nɛ ye bua wɔ ɔ , e ma ha heto ( Hyɛ kuku 18 )
+LAHI : 150 , 32
+Mɛni o kase ngɛ wa he nyɛlɔ ɔ he ?
+Bɔfo Petro kale Satan Abosiami kaa “ jata nɛ ngɛ huãe , ” nɛ Yohane hu tsɛ lɛ ke “ sinɔ ” kɛ “ drako . ”
+( Kane Yakobo 4 : 7 . )
+6 : 12 .
+( Abɛ 18 : 11 ) Nihi nɛ a he lakpa munyu nɛ ɔ ye ɔ ngɔɔ a be tsuo kɛ sɔmɔɔ “ Ní Nami ” mohu pe Mawu .
+E he hia nɛ waa le wa he nyɛlɔ ɔ saminya , se e sɛ nɛ wa ha nɛ e wo wa he gbeye .
+Ke wa te si kɛ wo lɛ ɔ , e maa tu wa nya fo .
+LAHI : 79 , 140
+Mɛni ji ta buli a he piɛ pomi níhi nɛ je Mawu ngɔ ɔ ?
+Kane Efeso Bi 6 : 14 .
+Nɛ ye fɔli kɛ ye huɛmɛ tsuo le kaa a ma nyɛ maa ngɔ a hɛ kɛ fɔ ye nɔ . ”
+Se , se nami fuu ngɛ jã nɛ o maa pee ɔ he : O ma ná bua jɔmi , o maa nu he kaa o hɛ kɛ su Yehowa he , nɛ nihi nɛ a suɔ mo ɔ maa bu mo . ”
+Anɔkuale nɛ ji mlɛ mi fimi nɔ́ ɔ ( Hyɛ kuku 3 - 5 )
+E ba su be ko ɔ , kã nɛ i ngɛ ɔ ba si , nɛ i hao . ”
+Ye juami bi komɛ kɛ tsopa yayahi bɔni ní tsumi , nɛ a ti ni komɛ hu kpa sukuu ɔ .
+Ke o na bɔ nɛ a si himi pee ha a , e ngɛ mɔbɔ .
+I na kaa Yehowa ngɛ wa he piɛ poe niinɛ . ”
+E de ke : “ I kaiɔ ye he kaa Yehowa biɛ ngɛ ye nɔ , nɛ ka amɛ nɛ i kɛ kpeɔ ɔ je Satan ngɔ .
+Be fɛɛ be nɛ ma ye ka ko nɔ ɔ , ye bua jɔɔ wawɛɛ . ”
+Dami nɛ ji gugue nɔ dama a ( Hyɛ kuku 6 - 8 )
+Kane Efeso Bi 6 : 15 .
+Ke i sɛ hlami dla ye he ɔ , i náa kã , nɛ i kɛ mɛ sɛɛɔ níhi nɛ maa ye bua mɛ ɔ he ní . ”
+I bɔɔ mɔde kaa ma kane munyuhi tsuo nɛ a ngma ha nihewi kɛ yihewi ɔ .
+Jã nɛ i peeɔ ɔ yeɔ bua mi nɛ i nyɛɔ tsɔɔ ye juami bi níhi nɛ ngɛ Baiblo ɔ mi aloo jw.org ɔ nɔ nɛ maa ye bua mɛ . ”
+Moo wo tokota a nɛ o pee klaalo ( Hyɛ kuku 9 - 11 )
+Mɛni ji Satan “ kɛ̃ɛ̃ mi bihi kɛ a he la ” a eko ?
+Kane Efeso Bi 6 : 16 .
+Se amlɔ nɛ ɔ , i dlaa ye he loko i yaa asafo mi kpehi , nɛ i bɔɔ mɔde kaa ma ha sane bimi enyɔ aloo etɛ ko heto .
+E be gbɔjɔɔ , se ke i pee jã a , i náa bua jɔmi .
+Nyɛmimɛ ɔmɛ hu woɔ mi he wami .
+Amlɔ nɛ ɔ lɛɛ , be fɛɛ be nɛ wa ma kpa asafo mi kpe ɔ , i nuɔ he kaa Yehowa suɔ mi . ”
+Hemi kɛ yemi nɛ ji tsɛ̃i ngua a ( Hyɛ kuku 12 - 14 )
+Kane Efeso Bi 6 : 17 .
+Yi wami hemi nɛ ji dade pɛɛ ɔ ( Hyɛ kuku 15 - 18 )
+Kɛ o maa pee kɛɛ konɛ o nyɛ nɛ o ngɔ Baiblo ɔ kɛ tsu ní saminya ?
+I yɔse kaa ke o kɛ Baiblo ɔ pɔɔ ní tsumi ngɛ fiɛɛmi mi , nɛ o ngɛ mɔde bɔe kaa o maa ye bua nihi ɔ , ni ɔmɛ a bua jɔɔ sɛ gbi ɔ he . ”
+Mumi ɔ klaate ɔ ( Hyɛ kuku 19 - 20 )
+Ngɛ Yehowa yemi kɛ buami nya a , wa ma nyɛ maa da si kpɛii nɛ waa hwu kɛ si Abosiami !
+( Kane Roma Bi 15 : 7 . )
+Kɛ Rehoboam tsu sane ɔ he ní ha kɛɛ ?
+Mɛni he je nɛ e pee jã a ?
+11 - 13 .
+( Kane Hebri Bi 11 : 24 - 27 . )
+DAA BLƆ GBALI
+( Kane 1 Korinto Bi 15 : 58 . )
+Yesu ye mluku .
+LAHI : 3 , 20
+Ke a ke waa suɔ wa sibi kaa nyɛmimɛ ɔ , mɛni lɔ ɔ tsɔɔ ?
+Mɛni he je nɛ e he hia wawɛɛ kaa wa maa ya nɔ maa suɔ wa sibi kaa nyɛmimɛ ɔ ?
+Kɛ wa ma plɛ kɛ suɔ wa sibi kaa nyɛmimɛ ha kɛɛ ?
+Mɛni he je nɛ Paulo ngma sɛ womi ya ha Kristofohi nɛ a hi Hebri ɔ ?
+( Kane Hebri Bi 10 : 36 - 39 . )
+Mɛni he je nɛ e sa kaa wa bua nɛ jɔ Hebri Bi ɔmɛ a womi ɔ he ɔ ?
+Mɛni ji jeha 2016 jeha ngmami ɔ , nɛ mɛni he je nɛ e sa saminya a ?
+Kɛ anɔkuale Kristofohi nu munyu nɛ ji nyɛɛ suɔ nyɛ sibi kaa nyɛmimɛ ɔ sisi ha kɛɛ ?
+Mɛni e he hia nɛ waa pee amlɔ nɛ ɔ loko haomi ngua a nɛ je sisi ?
+Mo ha nɛ wa susu blɔ nɛ ɔmɛ a kpɛti ekpa he nɛ waa hyɛ .
+Ke a ke waa pee nihi nibwɔ ɔ , mɛni e tsɔɔ ?
+“ Nyɛ ko jɔɔ nibwɔ peemi . ”
+( Kane Hebri Bi 13 : 2 . )
+Kɛ wa ma plɛ kɛ “ kai nihi nɛ a wo mɛ tsu ɔ ” ha kɛɛ ?
+“ Nyɛ kai nihi nɛ a wo mɛ tsu ɔ . ”
+( Kane Hebri Bi 13 : 3 . )
+Mɛni wa ma nyɛ maa pee konɛ wa gba si himi he nɛ tsɔ ?
+“ Nyɛ ha gba si himi he nɛ tsɔ . ”
+( Kane Hebri Bi 13 : 4 . )
+Mɛni blɔ nɔ lɛ ke wa bua jɔɔ níhi nɛ wa ngɛ ɔ he ɔ , lɔ ɔ maa ye bua wɔ nɛ wa je suɔmi kpo kɛ ha wa sibi kaa nyɛmimɛ ngɛ ?
+( Kane Hebri Bi 13 : 5 . )
+Ngɛ mɛni blɔ nɔ nɛ “ kã ” maa ye bua wɔ konɛ wa je suɔmi kpo kɛ ha wa sibi kaa nyɛmimɛ ?
+Kɛ wa ma plɛ kɛ je suɔmi kpo kɛ ha wa sibi daa kaa nyɛmimɛ ngɛ blɔhi fuu a nɔ ha kɛɛ ?
+LAHI : 53 , 18
+Mɛni suɔmi nɛ Kristo ngɛ ha wɔ ɔ woɔ wɔ he wami konɛ waa pee ?
+Mɛni blɔ nɔ suɔmi nɛ Mawu ngɛ kɛ ha wɔ ɔ woɔ wɔ he wami konɛ waa suɔ wa nyɛmimɛ ?
+Mɛni he je nɛ e sa kaa yayami nɛ Mawu kɛ paa a nɛ wo wɔ he wami konɛ waa ngɔ wa nyɛmimɛ a tɔmihi kɛ pa mɛ ɔ ?
+( Kane 2 Korinto Bi 1 : 20 . )
+Kɛ e sa kaa waa pee wa ní ngɛ suɔmi nɛ Kristo je kpo ha wɔ ɔ he ha kɛɛ , nɛ mɛni e sa kaa lɔ ɔ nɛ wo wɔ he wami nɛ waa pee ?
+Mɛni ji ní komɛ nɛ ma nyɛ ma puɛ wa je mi bami ?
+Mɛni sanehi wa ma nyɛ ma bi wa he ngɛ Kaimi be nɛ ɔ mi , nɛ mɛni heto ɔmɛ maa ye bua wɔ nɛ waa pee ?
+( Kane Luka 14 : 12 - 14 . )
+Mɛni e sa kaa wa yɔse ?
+Mɛni blɔ nɔ suɔmi nɛ Mawu ngɛ ha adesahi ɔ ye bua nyɛmiyo ko nɛ e nyɛ nɛ e kɛ nyɛmiyo kpa ko hi si saminya ?
+Ngɛ mɛni blɔ nɔ Mawu “ nike ní nɛ nɔ ko be nyɛe maa kale ” ɔ maa wo wɔ he wami ?
+LAHI : 5 , 14
+Mɛni ha nɛ Pentekoste ligbi ɔ pee ligbi klɛdɛɛ ɔ , nɛ kɛ níhi nɛ ya nɔ jamɛ a ligbi ɔ ha nɛ Ngmami ɔ mi gbami ba mi ha kɛɛ ?
+Kane Bɔfo Ɔmɛ A Ní Tsumi 2 : 2 - 4 .
+Kɛ wa plɛ kɛ le kaa tsa pi blɔ kake nɔ nɛ a guɔ kɛ pɔɔ nɔ nu ha kɛɛ ?
+Mɛni nihi tsuo nɛ a pɔ mɛ nu ɔ náa , nɛ kɛ lɔ ɔ haa a peeɔ a ní ha kɛɛ ?
+Tsaatsɛ ! ” Mawu mumi ɔ nitsɛ kɛ wɔ hu wa mumi ɔ yeɔ odase kaa Mawu bimɛ ji wɔ . ’
+Ke a pɔ nɔ ko nu ɔ , mɛni lɛ eko ɔ , e ma susu , se mɛni lɔ ɔ tsɔɔ we ?
+Ke a kɛ mumi klɔuklɔu ɔ pɔ nɔ ko nu ɔ , mɛni blɔ nɔ lɔ ɔ tsakeɔ nɔ ɔ susumi , nɛ mɛni ngɔɔ tsakemi nɛ ɔ kɛ baa ?
+Kɛ nihi nɛ a pɔ mɛ nu ɔ naa zugba a nɔ nɛ a ngɛ ɔ ha kɛɛ ?
+LAHI : 32 , 31
+Ngɛ mɛni blɔ nɔ Zakaria 8 : 23 ɔ ngɛ mi bae ?
+Mɛni he je nɛ wa be nyɛe maa le nimli 144,000 ɔ a kpɛti nihi tutuutu nɛ a piɛ ngɛ zugba a nɔ ɔ ?
+Mɛni kɔkɔ bɔmi nɛ e sa kaa nihi nɛ a pɔ mɛ nu ɔ nɛ a susu he kɛ hɛdɔ , nɛ mɛni he je ?
+Kɛ e sa kaa Kristofohi nɛ a pɔ mɛ nu ɔ nɛ bu a he ha kɛɛ ?
+Mɛni Kristofohi nɛ a pɔ mɛ nu ɔ hyɛ we blɔ , nɛ mɛni he je ?
+Mɛni he je nɛ e he hia nɛ o hyɛ saminya ngɛ bɔ nɛ o kɛ nihi nɛ a yeɔ abolo ɔ nɛ a nuɔ wai ɔ ngɛ Kaimi sisi ɔ hiɔ si ha a he ɔ ?
+( Hyɛ daka nɛ ji , “ Suɔmi ‘ Pee We Níhi Nɛ Sɛ́ . ’ ” )
+Yesu de e kaseli ɔmɛ ke : “ Nyɛ tsuo pɛpɛɛpɛ nyɛmimɛ ji nyɛ . ”
+Ke wa yuɔ wa he ngɛ nihi nɛ “ gbee nihi a yi mi ” ɔ a he ɔ , kɛ lɔ ɔ poɔ wa he piɛ ha kɛɛ ?
+Mɛni he je nɛ e sɛ kaa nihi nɛ a yeɔ abolo ɔ nɛ a nuɔ wai ɔ ngɛ Kaimi ɔ sisi ɔ a yibɔ nɛ ngɛ hɛ mi yae ɔ nɛ gba wa nya a ?
+‘ Yehowa le lɛ nitsɛ e nihi . ’
+Mɛni Baiblo de ngɛ nihi nɛ a pɔ mɛ nu nɛ a maa hi zugba a nɔ benɛ haomi ngua a maa je sisi ɔ he ?
+Mɛni lɛ e he hia nɛ waa le ngɛ nimli 144,000 nɛ Yehowa hla mɛ ɔ a he ?
+Ngɛ kaseli ɔmɛ a be ɔ mi ɔ , Kristofohi nɛ a pɔ mɛ nu ɔ a ti nihi bɔɔ pɛ nɛ a ha nɛ a ngma Kristofohi a Hela Ngmami ɔ .
+Mɛni o kase ngɛ munyu nɛ ɔ mi ?
+LAHI : 28 , 14
+haa nɛ huɛ bɔmi gbagbanii hiɔ waa kɛ Mawu kɛ ni kpahi wa kpɛti ɔ ?
+poɔ wa he piɛ ɔ ?
+E ngɛ mi kaa Yehowa ji Ope mohu lɛɛ , se mɛni e fɔ nihi nine kaa a ba pee ?
+Mɛni Yehowa de Adam ke e pee , nɛ mɛni he je ?
+Kaa nɔ hyɛmi nɔ́ ɔ , e ha Adam he blɔ kaa e wo lohwe ɔmɛ biɛ .
+Mɛni ni kpahi piɛɛ Mawu he kɛ tsu konɛ e yi mi tomi nɛ ba mi ?
+Mɛni wa ma nyɛ maa piɛɛ Yehowa he kɛ tsu , nɛ anɛ ke wa piɛɛ we e he ɔ , e be nyɛe ma tsu lo ?
+Bɔfo Paulo ngma ke : ‘ Akɛnɛ waa kɛ Mawu ngɛ ní tsue ɔ , wa kpa nyɛ pɛɛ , dloomi nɛ nyɛ ná kɛ je Mawu dɛ mi ɔ , nyɛ ko ha nɛ e pee yaka . ’
+Benɛ Mawu Bitɛte ɔ piɛɛ e Tsɛ ɔ he kɛ ngɛ ní tsue ɔ , kɛ e tsɔɔ kaa e pee e ní ha kɛɛ ?
+Franco nɛ e sɔmɔɔ ngɛ Italy ɔ hu de ke : “ Yehowa Munyu ɔ kɛ níhi nɛ e tsɔɔ wɔ ɔ , kaiɔ wɔ daa ligbi kaa e suɔ wɔ , nɛ nɔ́ tsuaa nɔ́ nɛ wa peeɔ kɛ haa lɛ ɔ he hia ke eko ɔ , e peeɔ wɔ kaa wa tsu we nɔ́ ko ha lɛ po .
+Enɛ ɔ he je ɔ , ke i piɛɛ Mawu he kɛ ngɛ ní tsue ɔ , ye bua jɔɔ nɛ ye tsui nɔɔ ye mi . ”
+Mɛni huɛ bɔmi hi Yehowa kɛ Yesu a kpɛti , nɛ mɛni he je ?
+Wa kase nɔ́ he je nɛ juɛmi ngɛ mi kaa waa kɛ wa hɛ maa fɔ e nɔ , nɛ waa kɛ e blɔ tsɔɔmi ma tsu ní ɔ .
+Mɛni he je nɛ huɛ bɔmi nɛ maa hi waa kɛ Yehowa kɛ wa nyɛmimɛ wa kpɛti ngɛ je ehe ɔ mi ɔ mi maa wa wawɛɛ nitsɛ ɔ ?
+Mɛni blɔ nɔ fiɛɛmi ní tsumi ɔ poɔ wa he piɛ ngɛ ?
+Fiɛɛmi ní tsumi ɔ yeɔ bua mi nɛ i bɔɔ mɔde kaa ma ba ye he si . E haa nɛ i ngɔɔ ye hɛ kɛ fɔɔ Yehowa kɛ ye nyɛmimɛ nyumuhi kɛ yihi ngɛ asafo ɔ mi ɔ a nɔ . ”
+Mɛni he je nɛ si nɛ wa fi kɛ ngɛ fiɛɛmi ní tsumi ɔ tsue ɔ tsɔɔ kaa Mawu mumi ɔ ngɛ wɔ ye buae ɔ ?
+Anɛ o maa ya nɔ ma tsu ní tsumi nɛ ɔ lo ?
+Mɛni tsakpa ngɛ fiɛɛmi ní tsumi ɔ kɛ yi mi nɛ Mawu to ngɛ adesahi a he ɔ a kpɛti ?
+Mɛni tsakpa ngɛ wa fiɛɛmi ní tsumi ɔ kɛ Mawu mlaa nɛ pe kulaa a , a kpɛti ?
+E ji he blɔ ngua nɛ wa ná kaa wa maa pee nɔ́ nɛ Yehowa ngɛ hlae ngɛ wa dɛ ɔ , konɛ waa piɛɛ wa Mawu ɔ he kɛ tsu ní ! ”
+Papaa kɛ Yayo bua jɔɛ Mawu jami he , se a de wɔ bimɛ ɔmɛ nɛ wa yibɔ ji kpaanyɔ ɔ kaa waa ya sɔlemi .
+Benɛ i kane ɔ , i na kaa Mawu biɛ ji Yehowa .
+E kɛ we nɛ a ngɔ blɔ nya ní tsumi kɛ wo ye dɛ kaa ma hyɛ asafo womi mi ní kasemi ɔ nɔ .
+I wo ye yayo kɛ ye nyɛmimɛ ɔmɛ he wami kaa a ba , nɛ mɛ tsuo a bɔni womi mi ní kasemi ɔ nɛ i hyɛɔ nɔ ɔ bami .
+Papaa lɛɛ e bua jɔɛ he .
+Otsi enyɔ se ɔ , a ngɔ mi kɛ ho kojomi he ya , nɛ kojolɔ ɔ de mi ke : “ Ke e je imi nɔ kake too ye he ɔ , ma wo mo tsu o wami be tsuo .
+Anɛ o ngɛ nya jemi ko lo ? ”
+I nyɛɛ kɛ ya su nyumu ko nɛ e je oblai nɛ lɛ hu a wo lɛ tsu ɔ he , nɛ wɔ ni enyɔ ɔmɛ wa daa si nɛ wa ngɛ saflɛ ko mi hyɛe .
+E bi mi ke , “ Nyumu kpiti , mɛni o pee nɛ a ngɔ mo kɛ ba hiɛ ɔ ? ”
+I de lɛ ke , “ I ji Yehowa Odasefo no . ”
+I de lɛ ke , “ Yehowa Odasefohi hwui ta , nɛ a gbi nɔ . ”
+I de lɛ ke , “ Dɛbi , juɛmi be mi . ”
+Kɛkɛ nɛ e de ke , “ A wo mi tsu ngɛ he kpa jeha 15 loko i ba hiɛ ɔ , nɛ jamɛ a be ɔ mi ɔ , i kane nyɛ womi ɔmɛ ekomɛ . ”
+Bɔ nɛ wa plɛ kɛ to fiɛɛmi ní tsumi ɔ he blɔ nya nɛ wa fiɛɛ ha ji nɛ ɔ nɛ .
+I de mɛ ke , “ E ngɛ mi jã mohu lɛɛ , se i be ta bulɔ pee . ”
+I tsɛ 2 Timoteo 2 : 3 ɔ se nɛ i de mɛ ke , “ I ji Kristo ta bulɔ momo . ”
+Lɔ ɔ se ɔ , e kɛ we nɛ i ya kpokpa nɔ kpe nɛ a pee ngɛ Cincinnati , ngɛ Ohio ɔ .
+I ngɛ huɛmɛ fuu ngɛ Betel kɛ asafo ɔ mi .
+I kase Mandarin China gbi ɔ bɔɔ ko , nɛ i kɛ bua jɔmi fiɛɛɔ kɛ haa China bi nɛ i kɛ kpeɔ ngɛ gbɛjegbɛ he ɔ .
+E nɔ otsi ɔ , yoyo ɔ ngɔ e fon ɔ kɛ ngɛ mi hae , nɛ e de mi ke , “ O kɛ China nɛ tu munyu . ”
+I de lɛ ke , “ I li nɔ ko ngɛ China . ”
+I kpale kɛ ba China . ”
+I bi lɛ ke , “ O kpale kɛ ho China ya lo ? ”
+Be bɔɔ se ɔ , i nɛ Katie nyɛmiyo ɔ hu .
+Ke Mawu suɔ ɔ , ye weku li kɛ ye huɛmɛ nɛ a gbo ɔ maa kpale kɛ ba wami mi ngɛ je ehe ɔ mi .
+LAHI : 51 , 22
+Ngɛ mɛni blɔ nɔ nile kɛ níhi a si kpami ha nɛ Abraham hemi kɛ yemi ɔ mi wa ?
+Mɛni Abraham pee konɛ huɛ bɔmi nɛ ngɛ e kɛ Mawu a kpɛti ɔ mi nɛ wa ?
+Mɛni blɔ nɔ o maa gu kɛ kase Abraham konɛ o kɛ Yehowa nɛ pee huɛ ?
+Eko ɔ , mɛni blɔ nɔ Abraham gu kɛ le Yehowa , nɛ kɛ nile nɛ e ná a ha nɛ e pee e ní ha kɛɛ ?
+Nile .
+Ngɛ mɛni blɔ nɔ níhi a si kpami nɛ Abraham ná a ha nɛ e hemi kɛ yemi ɔ mi wa ?
+Níhi a si kpami .
+Mɛni blɔ nɔ wa maa gu kɛ ná nile kɛ níhi a si kpami nɛ ma ha nɛ huɛ bɔmi nɛ ngɛ waa kɛ Yehowa wa kpɛti ɔ mi maa wa ?
+Mɛni he je nɛ Abraham hao ngɛ Sodom kɛ Gomora he ɔ , nɛ kɛ Yehowa plɛ kɛ ye bua lɛ ha kɛɛ ?
+Mɛni ji ní komɛ nɛ ma ha Abraham bua jɔmi ngɛ Paradeiso ɔ mi ?
+Mɛni o fia o pɛɛ si kaa o maa pee , nɛ mɛni he wa ma susu ngɛ munyu nɛ nyɛɛ se ɔ mi ?
+E ba kaa wa ti nɔ fɛɛ nɔ maa fia e pɛɛ si kaa e maa kase Abraham hemi kɛ yemi ɔ .
+( Kane Hebri Bi 6 : 10 - 12 . )
+Ngɛ munyu nɛ nyɛɛ enɛ ɔ se ɔ mi ɔ , wa ma susu anɔkualetsɛmɛ etɛ nɛ a kɛ Mawu bɔ huɛ gbagbanii ɔ a nɔ hyɛmi níhi nɛ a pee ɔ he .
+LAHI : 27 , 21
+Mɛni wa ma nyɛ maa kase ngɛ huɛ bɔmi nɛ hi Rut kɛ Mawu a kpɛti ɔ he ?
+Mɛni ha Matsɛ Hezekia pee Yehowa huɛ nɛ nyu bi ngɛ e kɛ lɛ a kpɛti ɔ ?
+Mɛni suhi nɛ Yesu nyɛ Maria je kpo nɛ lɔ ɔ ha e pee Yehowa huɛ ?
+( Kane Rut 2 : 12 . )
+Mɛni ma nyɛ maa ye bua nihi nɛ a ngɛ a nane si gblae kaa a maa jɔɔ a he nɔ ha Yehowa a ?
+Mo de wɔ Hezekia he sane .
+( b ) Mɛni he je nɛ e sɛ nɛ wa mi mi nɛ fu Mawu ɔ ?
+( d ) Mɛni he je nɛ e sɛ nɛ wa susu kaa weku mi nɛ wa je lɛ maa tsɔɔ kaa wa maa pee nimli kpakpahi loo nimli yayamihi ɔ ?
+Nihewi kɛ yihewi fuu kplɛɛ anɔkuale ɔ nɔ ngɛ weku mi nɛ a je ɔ tsuo se ( See paragraphs 9 , 10 )
+Mɛni he je nɛ Hezekia ji Yuda matsɛmɛ ɔmɛ nɛ a pee nɔ́ kpakpa a kpɛti nɔ kake ɔ ?
+( Kane 2 Matsɛmɛ 18 : 5 , 6 . )
+Mwɔnɛ ɔ , mɛni blɔ nɔ nɛ nihi fuu tsɔɔ kaa a ji Yehowa huɛmɛ kaa bɔ nɛ Hezekia pee ɔ ?
+Mɛni he je nɛ eko ɔ , ní tsumi nɛ a ha Maria a ngɛ kaa nɔ́ ko nɛ he wa wawɛɛ ɔ , se kɛ e pee e ní ngɛ nɔ́ nɛ bɔfo Gabriel de lɛ ɔ he ha kɛɛ ?
+Ngɛ si fɔfɔɛ enyɔ nɛ ɔmɛ tsuo a mi ɔ , Maria bu tue , e kai , nɛ e susu níhi nɛ e nu ɔmɛ a he . ​ — Kane Luka 2 : 16 - 19 , 49 , 51 .
+Mɛni blɔhi a nɔ nɛ wa ma nyɛ maa kase Maria hemi kɛ yemi ɔ ngɛ ?
+Eko ɔ , kɛ je be nɛ a baptisi mo kɛ ba si piɔ ɔ , o náa bua jɔmi ngɛ Yehowa sɔmɔmi mi .
+Mo kai kaa Yesu de ke : “ Nyɛ nihi tsuo nɛ nyɛ tloo tlomi nɛ pɔ tɔ nyɛ , nyɛɛ ba ye ngɔ , nɛ ma ha nɛ nyɛɛ jɔɔ nyɛ he .
+E de ke : “ E ngɛ mi kaa e peeɔ mi aywilɛho kaa ye yo ɔ nɔmlɔ tso mi he wami nami nɔ ngɛ gbɔe bɔɔbɔɔbɔɔ , nɛ e nɔ hyɛmi be gbɔjɔɔ ha mi mohu , se i ha we nɛ lɔ ɔ nɛ puɛ bua jɔmi nɛ i ngɛ náe ngɛ anɔkuale Mawu ɔ sɔmɔmi mi ɔ .
+Lemi nɛ i le kaa Yehowa lɛ ha nɛ i ngɛ wami mi , nɛ e bɔ adesa ngɛ yi mi tomi ko he je ɔ kɛkɛ po ha nɛ i ngɛ suɔmi nɛ mi kuɔ kɛ ha lɛ , nɛ i sɔmɔɔ lɛ kɛ ye tsui tsuo .
+I bɔɔ mɔde kaa ma ya fiɛɛmi be fɛɛ be , nɛ i haa nɛ Matsɛ Yemi ɔ he hɛ nɔ kami ɔ hiɔ ye juɛmi mi , konɛ ma ná bua jɔmi daa . ”
+Yehowa ha nɛ Yesu ngɔ e he kɛ sã afɔle ngɛ wa he je , konɛ wa nyɛ nɛ wa ná bua jɔmi .
+Ngɛ anɔkuale mi ɔ , “ Mawu suɔ je ɔ saminya , nɛ e ngɔ e Bi kake ɔ ngɔ ha , konɛ nɔ tsuaa nɔ nɛ heɔ lɛ yeɔ ɔ , e hɛ mi ko kpata , se mohu e ná neneene wami . ”
+Enɛ ɔ he ɔ , i jɔɔ ye he nɔ kɛ ha Yehowa , nɛ ngɛ jeha 28 sɔuu nɛ i kɛ tsu ní ɔ se ɔ , i ma ye juɛmi nya si kaa ma kpa ní tsumi ɔ , konɛ ma ngɔ ye he kɛ wo be tsuo sɔmɔmi ní tsumi ɔ mi . ”
+Anɛ o kai bɔ nɛ o baa o je mi ha loko o ba le Yehowa a lo ?
+Bɔfo Paulo kai Kristofohi nɛ a hi Roma a kaa ‘ jinɛ sa a , yayami ye mɛ nyɔguɛ , ’ se jehanɛ ɔ lɛɛ ‘ a ba bɔni nɔ́ nɛ da peemi . ’
+E sa nɛ enɛ ɔ nɛ ha wa bua nɛ jɔ !
+Jaime de ke : “ Bɔɔbɔɔbɔɔ ɔ , i ba kpa si kaa Tsɛ ko ngɛ nɛ e naa nɔ mɔbɔ .
+Kɛ je benɛ i bɔni Yehowa sɔmɔmi ɔ , ye bua jɔɔ wawɛɛ ngɛ si himi mi . ”
+LAHI : 43 , 31
+Mɛni Matsɛ Saul bi Yonatan pee nɛ tsɔɔ kaa e ye Yehowa anɔkuale ?
+Ke wa susu kaa e sɛ nɛ waa bu nɔ ko nɛ e hɛɛ blɔ nya a , mɛni wa ma nyɛ maa pee kɛ ye Mawu anɔkuale ?
+Ke nihi nui wɔ sisi aloo a kɛ wɔ ye sane yaya ko ɔ , mɛni wa ma nyɛ maa pee kɛ ye Yehowa anɔkuale ?
+Mɛni he je nɛ e ye ha Israel bi ɔmɛ kaa a maa ye Mawu anɔkuale be mi nɛ Saul ngɛ a nɔ yee ɔ ?
+Kɛ Yonatan kɛ e tsɛ ɔ hi si ha kɛɛ ?
+Ke wa ngɛ bumi kɛ ha nihi nɛ a hɛɛ blɔ nya a , mɛni blɔ nɔ lɔ ɔ tsɔɔ kaa wa yeɔ Mawu anɔkuale ngɛ ?
+( Kane Roma Bi 13 : 1 , 2 . )
+Mɛni blɔ nɔ suɔmi nɛ wa ngɛ ha Mawu ɔ yeɔ bua wɔ nɛ wa yeɔ lɛ anɔkuale ngɛ ?
+Ngɛ mɛni blɔ nɔ anɔkuale nɛ wa maa ye Mawu ɔ maa ye bua wɔ konɛ waa da nyagbahi nɛ waa kɛ kpeɔ ngɛ weku mi ɔ nya ?
+Mɛni Saul pee nɛ tsɔɔ kaa e ye Yonatan sane yaya ?
+Ke nyɛminyumu ko kɛ wɔ ye sane yaya ko ɔ , kɛ e sa kaa waa pee wa ní ha kɛɛ ?
+Mɛni o kase ngɛ munyu nɛ ɔ mi ?
+Mɛnɔ nɛ e sa kaa waa ye lɛ anɔkuale ?
+Mɛni he je nɛ e slo bɔ nɛ Yonatan pee e ní ngɛ David he ha ngɛ bɔ nɛ Abner hu pee e ní ngɛ David he ha a he kulaa a ?
+Mɛni suhi maa ye bua wɔ konɛ wa nyɛ nɛ waa ye Mawu anɔkuale , nɛ ngɛ mɛni blɔ nɔ ?
+Mɛni wa kaseɔ ngɛ susumi nɛ dɛ nɛ Abishai ná a he ?
+Kɛ nyɛmiyo ko plɛ kɛ ye Mawu anɔkuale ngɛ si himi nɛ mi wa mi ha kɛɛ ?
+Kɛ wa ma plɛ kɛ ná níhi nɛ Baiblo de ngɛ Abner , Absalom , kɛ Baruk a he ɔ he se ha kɛɛ ?
+Kɛ o ma plɛ kɛ ye Yehowa kɛ o huɛmɛ aloo o weku li tsuo anɔkuale ha kɛɛ ?
+Mɛni he je nɛ e biɔ nɛ Hushai nɛ pee kã konɛ e nyɛ nɛ e ye Mawu anɔkuale ɔ ?
+I sɔle konɛ Mawu nɛ wo mi kã nɛ ma nyɛ nɛ ma fĩ si .
+Amlɔ nɛ ɔ , a mi mi fumi ɔ nya ba si , enɛ ɔ he ɔ , i nyɛɔ ya slaa mɛ daa . ” ​ — Kane Abɛ 29 : 25 .
+Kɛ o ná munyu nɛ wa kase nɛ ɔ he se ha kɛɛ ?
+Ke e ba jã a , mɛni e sa kaa o pee ?
+Munyu nɛ ɔ hu maa tsɔɔ wɔ bɔ nɛ wa ma ha tsui si tomi nɛ gbe e ní tsumi nya kɛ pi si ha .
+LAHI : 3 , 54
+Mɛni blɔ nɔ Yefta kɛ e biyo ɔ a nɔ hyɛmi nɔ́ ɔ maa ye bua wɔ konɛ ní yayahi nɛ yaa nɔ ngɛ je ɔ mi ɔ nɛ ko he wa juɛmi ?
+Ke o kɛ nɔ ko ná sane ko ɔ , mɛni Baiblo sisi tomi mlaahi yeɔ bua mo kɛ tsuɔ he ní ?
+Kɛ ní kasemi nɛ ɔ wo mo he wami konɛ o ngɔ níhi kɛ sã afɔle ngɛ Matsɛ Yemi ɔ he ha kɛɛ ?
+Mɛni haomi nɛ Yefta kɛ e biyo ɔ kɛ kpe ?
+Mwɔnɛ ɔ , mɛni wa ma nyɛ maa kase ngɛ Yefta kɛ e biyo ɔ a nɔ hyɛmi nɔ́ ɔ mi ?
+Mwɔnɛ ɔ , mɛni ji ní komɛ nɛ yaa nɔ ngɛ je ɔ mi nɛ ma nyɛ ma he wa juɛmi , nɛ kɛ e sa kaa waa pee wa ní ha kɛɛ ?
+Mɛni si Yefta wo , nɛ mɛni lɔ ɔ biɔ kaa e pee ?
+Mɛni munyu nɛ Yefta tu nɛ a ngma ngɛ Manyadali 11 : 35 ɔ deɔ wɔ ngɛ hemi kɛ yemi nɛ e ngɛ ɔ he ?
+Mɛni kita lɛ wa ti nihi fuu kã , nɛ kɛ wa ma plɛ kɛ ye nɔ ha kɛɛ ?
+LAHI : 24 , 139
+Mɛni maa ye bua mo konɛ o nyɛ nɛ o to o tsui si ?
+Mɛnɔmɛ to a tsui si saminya nɛ wa ma nyɛ maa kase mɛ ?
+Ke a ke “ tsui si tomi nɛ gbe e ní tsumi nya kɛ pi si ” ɔ , mɛni lɔ ɔ tsɔɔ ?
+Wa he nyɛli ɔmɛ ekomɛ ji Satan , Satan je ɔ , kɛ mluku nɛ wa yi ɔ .
+( Kane Luka 21 : 19 . )
+Mɛni ji tsui si tomi ?
+Mɛni maa ye bua wɔ konɛ waa to wa tsui si ?
+Mɛni he je nɛ wa ma nyɛ ma de ke suɔmi ji nɔ́ nɛ woɔ nɔ he wami nɛ e toɔ e tsui si ɔ ?
+Yehowa ji “ Mawu nɛ haa nɔ toɔ e tsui si , nɛ e woɔ nɔ he wami . ”
+Yesu po kɛ si himi kaa jã kpe .
+Mɛni he je nɛ e sa kaa wa susu níhi a si kpamihi nɛ “ nihi nɛ to a tsui si wawɛɛ ɔ ” ná a he ɔ ?
+Wa ngɛ nihi fuu nɛ a to a tsui si nɛ wa ma nyɛ maa kase mɛ .
+Mɛni wa kaseɔ ngɛ kerub ɔmɛ nɛ a bu Eden abɔɔ he ɔ a he ?
+Mɛni ye bua Hiob nɛ e nyɛ da kahi nɛ e kɛ kpe ɔ a nya ?
+( Kane 2 Korinto Bi 1 : 6 . )
+“ A ya nɔ . . . nɛ a kɛ a he bɔ . ” ​ — BƆFO ƆMƐ A NÍ TSUMI 2 : 42 , NW .
+LAHI : 20 , 27
+bɔ nɛ asafo mi kpehi yeɔ bua wɔ ha .
+bɔ nɛ wa yeɔ bua nihi ha ke wa ya asafo mi kpehi .
+bɔ nɛ ke wa ya asafo mi kpehi ɔ , e peeɔ Yehowa ha .
+( Moo hyɛ foni nɛ ngɛ ní kasemi ɔ sisije ɔ . ) ( b ) Mɛni he wa ma susu ngɛ munyu nɛ ɔ mi ?
+Jamɛ a asafo mi kpe ɔ nɛ wa ya a wo wɔ he wami , nɛ wa hemi kɛ yemi ɔ hu mi wa . ”
+Ngɛ mɛni blɔ nɔ asafo mi kpehi woɔ wɔ he wami nɛ e wajeɔ wɔ ?
+Asafo mi kpehi woɔ wɔ he wami .
+( Kane Yohane 10 : 16 . )
+E ngɛ mi kaa ke i yaa asafo mi kpehi ɔ , ye nakutso , ye tsui , kɛ sikli hiɔ nɛ ngɛ ye he ɔ ha we nɛ ye he nɛ jɔ mi kulaa mohu lɛɛ , se be fɛɛ be nɛ ma ya a , i kɛ bua jɔmi baa we mi .
+Klama nɛ i kɛ woɔ ye tue mi konɛ ma nu nɔ́ saminya a , ha nɛ i nu nɔ fɛɛ nɔ gbi , nɛ imi hu i la eko .
+Mɛni blɔ nɔ asafo mi kpehi nɛ wa yaa yeɔ bua wɔ nɛ wa naa Yehowa si , wa woɔ e hɛ mi nyami , nɛ wa jeɔ e yi ngɛ ?
+Ke wa ye fami nɛ Yehowa fã wɔ kaa waa ya asafo mi kpehi ɔ nɔ ɔ , kɛ e peeɔ Yehowa ha kɛɛ ?
+Mɛni blɔ nɔ wa guɔ kɛ hɛɛ wɔ kɛ suu Yehowa kɛ Yesu a he ngɛ asafo mi kpehi a sisi ?
+Ngɛ mɛni blɔ nɔ nɛ ke wa yaa asafo mi kpehi ɔ , wa haa nɛ Mawu naa kaa wa suɔ kaa waa bu lɛ tue ?
+I suɔ kaa ma piɛɛ nihi nɛ suu Matsɛ Yemi Asa a nɔ kekle ɔ a he , nɛ ke e maa hi ɔ , ma piɛɛ nihi nɛ a maa kpɛ se kɛ je lejɛ ɔ a he .
+Bɔ́ ji jɔɔmi nɛ je Yehowa ngɔ .
+Muɔ nɔ : Roma sistahi a hihe ɔ nɛ ngɛ Zaragoza , ngɛ Spain ; hiɔ nɔ : Nácar - Colunga Baiblo ɔ
+I kai kaa i sɔle nɛ i de Yehowa ke , “ Yehowa , i naa mo si , kaa o ngmɛɛ we ye he , nɛ o ha mi he blɔhi fuu nɛ i na nɔ́ nɛ i ngɛ hlae ɔ , lɔ ɔ ji Baiblo ɔ mi anɔkuale nile ɔ . ”
+I bi lɛ ke : “ Mɛni Mawu hu ma de ? ”
+LAHI : 33 , 137
+Kɛ Yehowa naa adesa nɔ yemihi ha kɛɛ ?
+Ke e he wa ha wɔ kaa wa maa yu wa he ngɛ ma kudɔmi sanehi a he ɔ , mɛni e sa kaa waa pee ?
+Mɛni wa ma nyɛ maa kase ngɛ anɔkualetsɛmɛ nɛ a sɔmɔ Yehowa nɛ a yu a he ngɛ ma kudɔmi sanehi a he ɔ he ?
+Mɛni blɔ nɔ wa ma nyɛ maa gu kɛ bu Mawu kɛ adesa nɔ yeli tsuo tue ?
+Mɛni blɔ nɔ wa guɔ kɛ tsɔɔ kaa waa kɛ wa he wui je ɔ mi ma kudɔmi sanehi a mi ?
+( b ) Mɛni he je nɛ e sa nɛ wa dla wa he amlɔ nɛ ɔ kaa wa maa yu wa he ngɛ ma kudɔmi sanehi a he ɔ ?
+Kɛ e sa kaa waa kɛ amlaalo nane mi dali nɛ hi si ha kɛɛ ?
+Mɛni susumi lɛ e sɛ kaa wa ná ?
+Ke e he wa ha wɔ kaa wa maa yu wa he ngɛ ma kudɔmi sanehi a he ɔ , mɛni wa maa pee kɛ tsɔɔ kaa wa ‘ hɛ mi tɛ̃ , ’ se wa ngɛ “ kpoo ” ?
+( Kane Mateo 10 : 16 , 17 . )
+Ke waa kɛ nihi ngɛ ní sɛɛe ɔ , mɛni e sa kaa waa hyɛ wa he ngɛ he ?
+Wa munyu tutui .
+He lo nya níhi fuu a se dimi .
+Mɛni wa ma nyɛ maa kase ngɛ Mawu sɔmɔli anɔkualetsɛmɛ nɛ a yu a he ngɛ ma kudɔmi sanehi a he ɔ a he ?
+( b ) Mɛni o fia o pɛɛ si kaa o maa pee ?
+“ Abɛ 27 : 11 , Mateo 26 : 52 , kɛ Yohane 13 : 35 ɔ he nɛ i susuɔ ɔ wo mi he wami nɛ i nyɛ nɛ i kɛ ye he wui ta buli a ní tsumi mi .
+Ngmami nɛ ɔmɛ hu ye bua mi nɛ benɛ a ngɛ ye sane yee ɔ , ye tsui pui . ” ​ — Andriy , e je Ukraine .
+“ Yesaya 2 : 4 ɔ ye bua mi nɛ benɛ a nyɛ ye nɔ kaa ma ya ta a , i nyɛ nɛ i kua .
+“ Nyɛɛ kɛ nyɛmimɛ nɛ hi si ngɛ he jɔmi mi . ” ​ — MARKO 9 : 50 .
+LAHI : 39 , 35
+Mɛni ga Yesu wo nɛ maa ye bua wɔ konɛ waa je suɔmi mi kɛ dla waa kɛ nihi wa kpɛti sanehi ?
+Ke Kristofo no ko ngɛ e juɛmi pee kaa e ma dla e kɛ nihi a kpɛti sanehi ɔ , mɛni sanehi lɛ e sa kaa e bi e he ?
+Mɛni blɔ nɔ wa maa gu konɛ waa ngɔ blɔ etɛ nɛ a tsɔɔ ngɛ Mateo 18 : 15 - 17 ɔ kɛ dla waa kɛ nihi wa kpɛti pɛ komɛ ?
+Mɛni nyagbahi nɛ ni komɛ kɛ kpe nɛ a tu he munyu ngɛ Mose Kekleekle Womi ɔ mi , nɛ mɛni he je nɛ enɛ ɔ he hia wɔ ɔ ?
+Mɛni su lɛ pɔ he ngɛ je ɔ mi , nɛ mɛni je mi kɛ ba ?
+Mɛni blɔ nɔ Yesu tsɔɔ kaa nihi nɛ a gu kɛ dla a kɛ ni kpahi a kpɛti sanehi ?
+6 , 7 . ( a ) Mɛni he je nɛ e he hia kaa ke sane ko ngɛ waa kɛ nɔ ko wa kpɛti ɔ , e sa nɛ wa dla mla a ?
+( b ) Mɛni sanehi lɛ e sa kaa Yehowa we bi tsuo nɛ a bi a he ?
+Ke wa jeɔ he si bami mi nɛ wa sɔleɔ kaa wa hiɔwe Tsɛ ɔ nɛ ye bua wɔ ɔ , e maa pee jã . ​ — 1 Yohane 5 : 14 , 15 .
+Ke nɔ ko tɔ̃ wa nɔ ɔ , mɛni e sa kaa waa pee ?
+( Kane Abɛ 10 : 12 ; 1 Petro 4 : 8 . )
+( a ) Sisije ɔ , kɛ nyɛmiyo ko pee e ní ngɛ munyuhi nɛ nihi tu kɛ si lɛ ɔ he ha kɛɛ ?
+( b ) Mɛni Ngmami ɔ mi munyu nɛ ye bua nyɛmiyo ɔ nɛ e kɛ nihi hi si ngɛ tue mi jɔmi mi ?
+11 , 12 . ( a ) Ke Kristofo no ko na kaa e ‘ nyɛmi kɛ lɛ ngɛ sane ko ɔ , ’ kɛ e sa kaa e pee e ní ha kɛɛ ?
+“ Wɔ tsuo wa pɔɔ tɔmi peemi babauu . ”
+Kɛ nyɛminyumu ko nɛ e ji kpe sisi ní tsumi ko nɔ hyɛlɔ ɔ pee e ní ngɛ munyu nɛ nɔ ko ha lɛ ɔ he ha kɛɛ , nɛ mɛni wa ma nyɛ maa kase ngɛ e nɔ hyɛmi nɔ́ ɔ mi ?
+14 , 15 . ( a ) Mɛni be e sa kaa waa kɛ ga womi nɛ ngɛ Mateo 18 : 15 - 17 ɔ nɛ tsu ní ?
+( b ) Mɛni blɔ etɛ lɛ Yesu tsɔɔ kaa waa gu nɔ kɛ dla waa kɛ nihi wa kpɛti sanehi , nɛ ke o maa pee jã a , mɛni e sa kaa o kɛ ma o hɛ mi ?
+Mɛni tsɔɔ kaa e hi nɛ suɔmi hu ngɛ mi kaa waa kɛ Yesu ga womi ɔ ma tsu ní ?
+Ke wa “ hla tue mi jɔmi ” ɔ , mɛni jɔɔmihi lɛ wa ma ná ?
+LAHI : 141 , 17
+Sɛ gbi nɛ a fiɛɛɔ ɔ kɛ nɔ́ he je nɛ a fiɛɛɔ ɔ .
+Blɔhi a nɔ nɛ a guɔ kɛ fiɛɛɔ .
+He nɛ a fiɛɛ kɛ ya su .
+Ngɛ Yesu munyu nɛ ngɛ Mateo 24 : 14 ɔ nya a , mɛni sanehi wa ma nyɛ ma bi ?
+Ngɛ Mateo 28 : 19 , 20 ɔ nya a , mɛni níhi eywiɛ nɛ e sa kaa Yesu se nyɛɛli ɔmɛ nɛ a pee ?
+‘ Nimli nɛ a maa hɛ kaa a hɛɛ lo ’ ɔ biɔ mɛni peemi ?
+Mɛni sane bimi eywiɛ nɛ e he hia kaa wa ná a heto , nɛ mɛni he je ?
+Kane Luka 4 : 43 .
+Kɛ wa plɛ kɛ le kaa osɔfohi nɛ a ngɛ jamihi nɛ a tsɛɛ a he ke Kristofohi ɔ mi ɔ fiɛɛ we sɛ gbi nɛ e sa kaa a fiɛɛ ɔ ha kɛɛ ?
+Mɛni ji juɛmi nɛ ke nɔ ko hɛɛ kɛ ngɛ fiɛɛe ɔ e dɛ ?
+( Kane Bɔfo Ɔmɛ A Ní Tsumi 20 : 33 - 35 . )
+Mɛni blɔhi a nɔ nɛ Yesu kɛ e kaseli ɔmɛ gu kɛ fiɛɛ ?
+Ngɛ sane kpakpa fiɛɛmi ní tsumi ɔ blɔ fa mi ɔ , mɛni slɔɔto ngɛ sɔlemi ɔmɛ kɛ Yehowa we bi a kpɛti ?
+Mɛ pɛ ji nihi nɛ a fiɛɛɔ kaa kɛ je jeha 1914 ɔ mi ɔ , Yesu bɔni nɔ yemi kaa Matsɛ .
+Jije e sa kaa a fiɛɛ sane kpakpa a kɛ ya su ?
+Mɛni tsɔɔ kaa Yehowa Odasefohi ha nɛ gbami nɛ Yesu gba kaa a maa fiɛɛ ngɛ je ɔ mi tsuo ɔ ngɛ mi bae ?
+Ngɛ wa wɛbsaiti ɔ nɔ hu ɔ , o maa na níhi nɛ a pee ngɛ gbihi nɛ hiɛ pe 750 mi .
+Mɛni ha nɛ wa le kaa Mawu mumi ɔ ngɛ Yehowa Odasefohi a nɔ ɔ ?
+17 , 18 . ( a ) Mɛni he je nɛ wa ma nyɛ ma de kɛ nɔ mi mami kaa Yehowa Odasefohi nɛ a ngɛ Matsɛ Yemi ɔ he sane kpakpa a fiɛɛe ngɛ je kɛ wɛ mwɔnɛ ɔ ?
+( b ) Mɛni lɛ woɔ wɔ he wami nɛ wa yaa nɔ nɛ wa tsuɔ ní tsumi nɛ ɔ ?
+LAHI : 20 , 37
+Mɛni ma nyɛ ma ha nɛ wa be mumi mi niye ní komɛ a he se náe ?
+Mɛni ji ga womi komɛ nɛ maa ye bua wɔ konɛ wa ná Baiblo mi womi ɔmɛ tsuo a he se ?
+Kɛ wa ma plɛ kɛ ná munyuhi nɛ a ngma kɛ ha nihewi kɛ yihewi kɛ ma bi ɔ a he se ha kɛɛ ?
+1 , 2 . ( a ) Kɛ Yehowa Odasefohi peeɔ a ní ngɛ Baiblo ɔ he ha kɛɛ ?
+( b ) Mɛni Baiblo mi womi lɛ o bua jɔ he wawɛɛ ?
+3 , 4 . ( a ) Kɛ wa naa wa Baiblo kasemi womi ɔmɛ ha kɛɛ ?
+( b ) Mɛni womihi nɛ a peeɔ kɛ haa nimli pɔtɛɛ komɛ ?
+Mɛni nɛ ke wa peeɔ ɔ , wa ma ná nɔ mi mami kaa Yehowa bua maa jɔ wa he ?
+Mɛni he je nɛ e he hia kaa waa kane Baiblo ɔ kɛ juɛmi nɛ da a ?
+O kɛ juɛmi nɛ da nɛ kane .
+Kɛ ma plɛ kɛ ngɔ munyu nɛ ɔ ke ye bua ni kpahi ha kɛɛ ? ’
+( b ) Kɛ waa kɛ ma nyɛ maa ye bua ni kpahi hu ha kɛɛ ?
+12 , 13 . ( a ) Mɛni níhi a mi hlami lɛ waa kɛ womihi kɛ ní kpahi nɛ wa ngɛ ɔ ma nyɛ maa pee ?
+( b ) Mo ha nɔ hyɛmi nɔ́ ko nɛ tsɔɔ kaa ke wa le nɔ́ he je nɛ a ngma munyu ko ngɛ Baiblo ɔ mi ɔ , e maa ye bua wɔ konɛ waa nu níhi nɛ a mi kuɔ ɔ a sisi .
+Mo hla níhi a mi .
+Jije e ngma ngɛ nɛ mɛni be e ngma ?
+Mɛni blɔ nɔ nihewi kɛ yihewi náa womihi nɛ a peeɔ haa mɛ ɔ he se ngɛ , nɛ kɛ ni kpahi hu ma plɛ kɛ ná he se ha kɛɛ ?
+Nyɛ ha nɛ wa susu enɛ ɔ he nɔ hyɛmi ní bɔɔ komɛ a he nɛ waa hyɛ .
+Mɛni he je nɛ e sa kaa Kristofohi nɛ a wa a nɛ a kane munyuhi kɛ womihi nɛ a ngma kɛ ha nihewi kɛ yihewi ɔ ?
+Mɛni hu lɛ wa womi ɔmɛ yeɔ bua nihewi kɛ yihewi nɛ a peeɔ ?
+( Kane Fiɛlɔ 12 : 1 , 13 . )
+Ke wa kaneɔ womihi nɛ a peeɔ kɛ haa ma bi ɔ , mɛni se wa ma nyɛ ma ná ?
+Mɛni wa maa pee kɛ tsɔɔ kaa wa bua jɔɔ níhi nɛ Yehowa kɛ haa wɔ ɔ he ?
+LAHI : 11 , 22
+Mɛni blɔ nɔ nɛ yi mi kpɔhi nɛ wa mwɔɔ ɔ ma nyɛ ma kɔ ni kpahi a he ngɛ ?
+Ke Baiblo ɔ wui mlaa pɔtɛɛ ngɛ nɔ́ ko he ɔ , kɛ wa ma plɛ kɛ le Yehowa suɔmi nya ní ha kɛɛ ?
+Kɛ wa ma plɛ kɛ le Yehowa susumi ngɛ níhi a he saminya ha kɛɛ ?
+Mɛni ji Baiblo ɔ mi mlaa amɛ ekomɛ , nɛ ke waa kɛ tsu ní ɔ , kɛ wa náa he se ha kɛɛ ?
+2 , 3 . ( a ) Mɛni he je nɛ Baiblo ɔ wui wɔ mlaahi ngɛ nɔ́ tsuaa nɔ́ nɛ wa peeɔ ɔ he ɔ ?
+( b ) Mɛni sane bimihi a he nɛ wa ma susu ngɛ munyu nɛ ɔ mi ?
+Mɛni e sa kaa waa pee ke wa ngɛ yi mi kpɔ mwɔe ngɛ nɔ́ ko he ?
+Ke Baiblo ɔ wui mlaa pɔtɛɛ ko ngɛ sane ko he ɔ , mɛni blɔ nɔ wa ma nyɛ maa gu kɛ le nɔ́ nɛ Yehowa suɔ kaa waa pee ?
+( Kane Mateo 4 : 2 - 4 . )
+Mɛni maa ye bua wɔ konɛ waa pee juɛmi nɛ da ?
+Mɛni sanehi wa ma nyɛ ma bi wa he ke wa ngɛ Baiblo ɔ kanee aloo wa ngɛ kasee ?
+Mɛni blɔ nɔ wa Baiblo kasemi womihi kɛ asafo mi kpehi ma nyɛ maa ye bua wɔ konɛ waa le Yehowa susumi ngɛ níhi a he ?
+Mo ha nɔ hyɛmi nɔ́ ko nɛ tsɔɔ kaa ke wa le Yehowa susumi ngɛ níhi a he ɔ , e ma nyɛ maa ye bua wɔ konɛ waa pee juɛmi nɛ da .
+( Kane Luka 18 : 29 , 30 . )
+Kɛ wa ma plɛ ke le kaa bɔ nɛ tade ko ngɛ ha a sa Yehowa hɛ mi loo e sɛ e hɛ mi ?
+( d ) Mɛni blɔ nɔ e sa kaa waa gu kɛ mwɔ wa yi mi kpɔ ngɛ sanehi nɛ a he hia a a he ?
+( Kane 1 Mose 6 : 5 , 6 . )
+Ke wa pee juɛmi nɛ sa Yehowa hɛ mi ɔ , mɛni se wa náa ?
+Ngɛ anɔkuale mi ɔ , be fɛɛ be ɔ , nɔ́ ehe ko ngɛ nɛ wa ma nyɛ maa kase ngɛ Yehowa he .
+we mi ?
+LAHI : 29 , 52
+Ke a baptisi wɔ po ɔ , mɛni he je nɛ e sa nɛ waa ya nɔ nɛ waa pee tsakemihi ɔ ?
+Mɛni he je nɛ Mawu ngɛ blɔ hyɛe kaa e sa nɛ waa bɔ mɔde nɛ waa hwu kɛ si wa gbɔjɔmihi ɔ ?
+Mɛni wa ma nyɛ maa pee konɛ Mawu Munyu ɔ nɛ ya nɔ nɛ e tsake wa si himi ?
+1 - 3 . ( a ) Ke a baptisi wɔ po ɔ , mɛni tsakemihi nɛ eko ɔ , e maa ye ha wɔ kaa wa maa pee ?
+( b ) Ke e he wa ha wɔ kaa wa maa pee tsakemihi ɔ , mɛni sanehi nɛ wa ma nyɛ ma bi wa he ?
+Mɛni he je nɛ tsa pi be tsua be nɛ wa nyɛɔ peeɔ Yehowa suɔmi nya ní ɔ ?
+6 , 7 . ( a ) E ngɛ mi kaa wa yi mluku mohu lɛɛ , se mɛni he je waa kɛ Yehowa ma nyɛ maa pee huɛ ɔ ?
+( b ) Mɛni he je nɛ e sɛ nɛ e ye ha wɔ kaa wa ma bi Yehowa konɛ e ngɔ wa yayami kɛ pa wɔ ɔ ?
+Mɛni e sa kaa waa pee konɛ Baiblo ɔ nɛ ye bua wɔ nɛ waa ya nɔ nɛ waa pee tsakemihi , nɛ mɛni sanehi wa ma nyɛ ma bi wa he ?
+Mɛni he je nɛ Yehowa ngɛ blɔ hyɛe kaa waa bɔ mɔde wawɛɛ nɛ waa hwu kɛ si wa gbɔjɔmihi ɔ ?
+Mɛni wa ma nyɛ maa pee konɛ wa ná suhi nɛ Yehowa bua jɔ he ?
+( Hyɛ daka nɛ ji , “ Baiblo ɔ Kɛ Sɔlemi Tsake A Si Himi . ” )
+Ke wa nyɛ we nɛ waa pee tsakemihi mlamlaamla a , mɛni he je nɛ e sɛ nɛ lɔ ɔ nɛ wo wa kɔni mi nyu ɔ ?
+Mɛni ma ha nɛ wa ná nɔ mi mami kaa Baiblo ɔ ngɛ he wami nɛ ma nyɛ ma tsake wa si himi daa ?
+[ 1 ] ( kuku 1 ) A tsake biɛ ɔ .
+Maria Victoria suɔ sieku yemi .
+Russell : “ Nɔ́ nɛ ye bua mi ji kaa i sɔleɔ nɛ i kpaa Yehowa pɛɛ nɛ i kaneɔ Baiblo ɔ daa ligbi .
+Ye yi mi tɛ nɛ i pueɔ ngɛ 2 Petro 2 : 11 ɔ he , kɛ ga nɛ asafo mi nikɔtɔma amɛ woɔ mi ɔ ye bua mi wawɛɛ . ”
+Maria Victoria : “ I sɔle wawɛɛ kɛ ha Yehowa konɛ e ye bua mi nɛ ma nyɛ ma wo ye lilɛ kpã .
+Jehanɛ se hu ɔ , i na kaa e he hia nɛ ma yu ye he ngɛ nihi nɛ a yeɔ sieku ɔ a he .
+Kaa bɔ nɛ La 64 : 1 - 4 ɔ tsɔɔ ɔ , nihi sɔleɔ kaa Mawu nɛ po a he piɛ ngɛ nimli yayami komɛ a he .
+I ba nu sisi hu kaa ke i yaa nɔ nɛ e yeɔ nihi a he sieku ɔ , i be nɔ hyɛmi nɔ́ kpakpa pee , mohu ɔ , ma ha nɛ nihi maa gbe Yehowa biɛ ɔ he guɛ . ”
+Linda : “ I kase munyuhi nɛ ngɛ wa dɛ womi ɔmɛ a mi ɔ saminya konɛ ma nyɛ ma kɛ ha nihi .
