@@ -9,10 +9,11 @@ the Grade 5 and 6 science textbooks with a licence which allows adaptations,
 [CC BY](https://creativecommons.org/licenses/by/3.0/).
 
 If the data is further distributed or adapted, it needs to also be released
-under the [CC BY](https://creativecommons.org/licenses/by/3.0/) license, with
-credit to Siyavula for the content and Herman Kamper for the data compilation.
+under the same [CC BY](https://creativecommons.org/licenses/by/3.0/) license,
+with credit to Siyavula for the content and Herman Kamper for the data
+compilation.
 
-The data can be downloaded from:
+The compiled and pre-processed data can be downloaded from:
 https://www.kamperh.com/data/siyavula_en_af.noweb.3.zip
 
 
@@ -48,6 +49,12 @@ Example 4:
     Source:     what is clean water ?
     Reference:  wat is skoon water ?
     Hypothesis: wat is skoon ?
+
+Example 5:
+
+    Source:     try it out and see if this makes a difference .
+    Reference:  probeer dit en kyk of dit 'n verskil maak .
+    Hypothesis: probeer dit op en kyk as 'n verskil is .
 
 
 Contributors
