@@ -65,7 +65,7 @@ Resources/ examples:
 General papers about African languages or African language MT:
 
 - [Towards Neural Machine Translation for African Languages](https://arxiv.org/abs/1811.05467)
-
+- [A Focus on Neural Machine Translation for African Languages](https://arxiv.org/abs/1906.05685)
 Data gathering, corpus creation:
 
 - [cocohub.cc, tools for crowdsourcing parallel corpora](https://cocohub.cc/)
