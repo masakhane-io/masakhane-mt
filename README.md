@@ -112,7 +112,7 @@ Here is a link to a pull request that has the relevant things.
 
 ### 5. I've got a baseline. What do I do to improve it?
 
-Cool! So there are many ways to improve results. We're busy working on a wiki to aid that! Got ideas for this? Drop us a line!
+Cool! So there are many ways to improve results. We've highlighed a few of these in [this document](MT4LRL.md). Got other ideas? Drop us a line or submit a PR!
 
 # Code of Conduct
 
