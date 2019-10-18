@@ -60,7 +60,7 @@ Resources/ examples:
 - [Blog - Exploring Massively Multilingual, Massive Neural Machine Translation](https://ai.googleblog.com/2019/10/exploring-massively-multilingual.html)
 - [Blog - Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System](https://ai.googleblog.com/2016/11/zero-shot-translation-with-googles.html)
 
-### Miscellaneous other resources
+## Miscellaneous other resources
 
 General papers about African languages or African language MT:
 
