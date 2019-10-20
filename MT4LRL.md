@@ -62,10 +62,11 @@ Resources/ examples:
 
 ## Miscellaneous other resources
 
-General papers about African languages or African language MT:
+General papers and resources about African languages or African language MT:
 
 - [Towards Neural Machine Translation for African Languages](https://arxiv.org/abs/1811.05467)
 - [A Focus on Neural Machine Translation for African Languages](https://arxiv.org/abs/1906.05685)
+- [Parallel Corpora for bi-lingual English-Ethiopian Languages Statistical Machine Translation](https://ethionlp.github.io/publication/2018-08-23-solomon_mt)
 
 ## Data gathering, corpus creation:
 
