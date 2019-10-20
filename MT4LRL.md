@@ -71,7 +71,7 @@ General papers about African languages or African language MT:
 
 - [cocohub.cc, tools for crowdsourcing parallel corpora](https://cocohub.cc/)
 
-Research languages, language families, populations, known language resources online, etc. via:
+## Research languages, language families, populations, known language resources online, etc. via:
 
 - [OLAC](http://www.language-archives.org/)
 - [Glottolog](https://glottolog.org/)
