@@ -60,6 +60,16 @@ Resources/ examples:
 - [Blog - Exploring Massively Multilingual, Massive Neural Machine Translation](https://ai.googleblog.com/2019/10/exploring-massively-multilingual.html)
 - [Blog - Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System](https://ai.googleblog.com/2016/11/zero-shot-translation-with-googles.html)
 
+### Scenario #5 - You don't have any data for the source-target language pair, not even monolingual data, but you have a linguist or a speaker
+
+Papers:
+
+- [Apertium: a free/open-source platform for rule-based machine translation](http://www.springerlink.com/content/h134p1j73377071k/). *Machine Translation* 24(1) pp. 1--18
+
+Resources / examples:
+
+- [apertium.org](http://www.apertium.org)
+
 ## Miscellaneous other resources
 
 General papers and resources about African languages or African language MT:
