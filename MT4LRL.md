@@ -4,7 +4,21 @@ There are a wide variety of techniques to employ when trying to create a new mac
 
 ## Common scenarios
 
-### Scenario #1 - You don't have any parallel data for the source-target language pair, you only have monolingual target data
+### Scenario #1 - The data you have is super noisy (e.g., scraped from the web), and you aren't sure which sentence pairs are "good"
+
+Papers:
+
+- [Low-Resource Corpus Filtering using Multilingual Sentence Embeddings](https://arxiv.org/pdf/1906.08885.pdf)
+- [Findings of the WMT 2019 Shared Task on Parallel Corpus Filtering for Low-Resource Conditions](https://research.fb.com/publications/findings-of-the-wmt-2019-shared-task-on-parallel-corpus-filtering-for-low-resource-conditions/)
+
+Resources/ examples:
+
+- [Implementation - `fast_align` creates word alignments that can be used to score sentence pairs](https://github.com/clab/fast_align)
+- [Implementation - `zipporah` parallel corpus cleaner](https://github.com/hainan-xv/zipporah)
+- [Implementation - `bicleaner` parallel corpus cleaner](https://github.com/bitextor/bicleaner)
+- [Implementation - LASER Language-Agnostic SEntence Representations](https://github.com/facebookresearch/LASER)
+
+### Scenario #2 - You don't have any parallel data for the source-target language pair, you only have monolingual target data
 
 Papers:
 
@@ -16,7 +30,7 @@ Resources/ examples:
 
 - [Implementation - unsupervised MT (Facebook)](https://github.com/facebookresearch/UnsupervisedMT)
 
-### Scenario #2 - You only have a small amount of parallel data for the source-target language pair, but you have lots of parallel data for a related source-target language pair
+### Scenario #3 - You only have a small amount of parallel data for the source-target language pair, but you have lots of parallel data for a related source-target language pair
 
 Papers:
 
@@ -32,7 +46,7 @@ Resources/ examples:
 - [Video - rapid adaptation methods (Neubig)](https://vimeo.com/305207187)
 - [Implementation - transfer learning for low resource languages (Zorph)](https://github.com/isi-nlp/Zoph_RNN)
 
-### Scenario #3 - You only have a small amount of parallel data for the source-target language pair, but you have lots of monolingual data for the target and/or source language
+### Scenario #4 - You only have a small amount of parallel data for the source-target language pair, but you have lots of monolingual data for the target and/or source language
 
 Papers:
 
@@ -46,7 +60,7 @@ Resources/ examples:
 
 - [Video - About iterative backtranslation and dealing with "place" issues](https://youtu.be/5A6MlGfZni0)
 
-### Scenario #4 - You have a small amount of parallel data for the source-target language pair, but you also have a lot of parallel data for other language pairs
+### Scenario #5 - You have a small amount of parallel data for the source-target language pair, but you also have a lot of parallel data for other language pairs
 
 Papers:
 
@@ -60,7 +74,7 @@ Resources/ examples:
 - [Blog - Exploring Massively Multilingual, Massive Neural Machine Translation](https://ai.googleblog.com/2019/10/exploring-massively-multilingual.html)
 - [Blog - Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System](https://ai.googleblog.com/2016/11/zero-shot-translation-with-googles.html)
 
-### Scenario #5 - You don't have any data for the source-target language pair, not even monolingual data, but you have a linguist or a speaker
+### Scenario #6 - You don't have any data for the source-target language pair, not even monolingual data, but you have a linguist or a speaker
 
 Papers:
 
