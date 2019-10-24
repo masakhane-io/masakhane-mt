@@ -81,6 +81,8 @@ General papers and resources about African languages or African language MT:
 ## Data gathering, corpus creation:
 
 - [cocohub.cc, tools for crowdsourcing parallel corpora](https://cocohub.cc/)
+- [Bitextor tool for mining parallel corpora from websites](https://bitextor.readthedocs.io/en/latest/)
+- [CommonCrawl split by language](http://data.statmt.org/ngrams/raw/) If the language isn't supported by CLD2, build a language model then ask them to run a perplexity filter on CommonCrawl.  
 
 ## Research languages, language families, populations, known language resources online, etc. via:
 
