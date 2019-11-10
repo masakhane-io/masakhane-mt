@@ -13,28 +13,28 @@ Author: Kathleen Siminyu
 
 ## Analysis
 
-	- Example 1
+	Example 1
 ```sh
 	Source:     She became pregnant at the age of 17 .
  	Reference:  Alipata mimba akiwa na umri wa miaka 17 .
  	Hypothesis: Alikuwa na mimba akiwa na umri wa miaka 17 .
 ```
 
-	- Example 2
+	Example 2
 ```sh
 	Source:     The Bible does not promote credulity .
  	Reference:  Biblia haipendekezi wepesi wa kuamini bila ushuhuda .
  	Hypothesis: Biblia haisemi kwamba mtu ana sifa ya kukubali sababu .
 ```
 
-	- Example 3
+	Example 3
 ```sh
 	Source:     What are some things that cause anxiety , and what can anxiety result in ?
  	Reference:  Ni baadhi ya mambo gani yanayosababisha hangaiko , na hangaiko laweza kutokeza nini ?
  	Hypothesis: Ni mambo gani yanayosababisha mahangaiko , na mahangaiko yanaweza kukufanyaje ?
 ```
 
-	- Example 4
+	Example 4
 ```sh
 	Source:     Lots of hugs and kisses .
  	Reference:  Kukumbatia kwingi na busu nyingi .
