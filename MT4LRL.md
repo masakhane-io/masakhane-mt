@@ -39,6 +39,7 @@ Papers:
 - [Transfer Learning across Low-Resource, Related Languages for Neural Machine Translation](https://arxiv.org/abs/1708.09803)
 - [Transfer Learning for Low-Resource Neural Machine Translation](https://arxiv.org/pdf/1604.02201v1.pdf)
 - [Trivial Transfer Learning for Low-Resource Neural Machine Translation](https://arxiv.org/abs/1809.00357)
+- [Pivot-based Transfer Learning for Neural Machine Translation between Non-English Languages](https://arxiv.org/abs/1909.09524)
 
 Resources/ examples:
 
@@ -67,6 +68,7 @@ Papers:
 - [Massively Multilingual Neural Machine Translationin the Wild: Findings and Challenges](https://arxiv.org/pdf/1907.05019.pdf)
 - [Multilingual Neural Machine Translation With Soft Decoupled Encoding](https://arxiv.org/abs/1902.03499)
 - [Meta-Learning for Low-Resource Neural Machine Translation](https://arxiv.org/pdf/1808.08437.pdf)
+- [Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies](https://arxiv.org/abs/1905.05475)
 
 Resources/ examples:
 
