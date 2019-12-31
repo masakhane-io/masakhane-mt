@@ -8,8 +8,8 @@ Author: iroro orife
 
 ## Model
 
-	- Default Masakhane Transformer translation model.
-	- Link to google drive folder with models (https://drive.google.com/drive/folders/1-0REUw5fg_Y13wrKgE9RFD_iljOsXykr)
+- Default Masakhane Transformer translation model.
+- [Link to google drive folder with models](https://drive.google.com/open?id=1-0REUw5fg_Y13wrKgE9RFD_iljOsXykr)
 
 ## Analysis
 
