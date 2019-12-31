@@ -4,7 +4,7 @@ Author: iroro orife
 
 ## Data
 
-	- The JW300 dataset was used for training Urhobo
+	- The JW300 English-Urhobo dataset.
 
 ## Model
 
@@ -13,10 +13,21 @@ Author: iroro orife
 
 ## Analysis
 
- 	- Dataset requires more preprocessing to remove special characters and 
-	Scripture chapters/verse names & figures. This will make the model more generally 
-	useful outside of religious text translations.
+The dataset requires more preprocessing to remove special characters and Scripture chapters/verse names & figures. This will make the model more generally useful outside of religious text translations.
 
+Example 1
+```sh
+	Source:     But freedom from what ?
+	Reference:  Ẹkẹvuọvo , ẹdia vọ yen egbomọphẹ na che si ayen nu ?
+	Hypothesis: ( 1 Pita 3 : 1 ) Ẹkẹvuọvo , die yen egbomọphẹ 
+```
+
+Example 2
+```sh
+	Source:     Today he is serving at Bethel .
+	Reference:  Nonẹna , ọ ga vwẹ Bẹtẹl .
+	Hypothesis: Nonẹna , ọ ga vwẹ Bẹtẹl asaọkiephana .
+```
 
 # Results
 
