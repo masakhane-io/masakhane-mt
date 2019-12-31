@@ -13,12 +13,14 @@ Author: iroro orife
 
 ## Analysis
 
- 	- Dataset requires more preprocessing to remove special characters and Scripture chapters/verse names & figures. This will make the model more generally useful outside of religious text translations.
+ 	- Dataset requires more preprocessing to remove special characters and 
+	Scripture chapters/verse names & figures. This will make the model more generally 
+	useful outside of religious text translations.
 
 
 # Results
 
-	|  Tokenization  |  BLEU dev | BLEU test |
-	|------------|:-------------:|------:|
-	| BPE        |  15.91 | 28.82  |    
-	| Word-level |  11.80 | 22.39  | 
+Tokenization | BLEU dev | BLEU test
+--- | --- | ---
+BPE| 15.91 | 28.82
+Word-level | 11.80  | 22.39
