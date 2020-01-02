@@ -1,10 +1,10 @@
-# English to Fɔngbe
+# English to Tshiluba
 
-Author: Kevin DEGILA
+Author: Salomon KABONGO
 
 ## Data
 
-	- The JW300 English- Fɔngbe.
+	- The JW300 English- Tshiluba.
 
 ## Model
 
@@ -15,32 +15,32 @@ Author: Kevin DEGILA
 
 Example 1
 ```sh
-	Source:     I love pioneering in this territory .
- 	Reference:  Un yí wǎn nú gbexosin - alijitɔ́zɔ́ wiwa ɖò fí enɛ .
- 	Hypothesis: Un yí wǎn nú gbexosin - alijitɔ́zɔ́ ɖò fí e un ɖè é .
+	Source: JESUS set a pattern for all Christians by praying to his Father : “ Let , not my will , but yours take place . ”
+ 	Reference: YEZU wakashila bena Kristo bonso tshilejilu tshia kulonda pakalombaye Tatuende ne : ‘ Bualu buenjibue bu muudi musue , kabuenjibu bu mundi musue . ’
+ 	Hypothesis: YEZU mmushile bena Kristo bonso tshilejilu tshimpe pa kusambila Tatuende ne : ‘ Kanusankishidi disua dianyi , kadi nuenze bu mundi musue . ’
 ```
 
 Example 2
 ```sh
-	Source:     “ Too numerous to recount ” are the “ wonderful works ” we can thank and praise Jehovah for daily !
- 	Reference:  “ Nùjiwǔ ” e Jehovah bló bɔ mǐ sixu dokú tɔn n’i bo lɛ́ kpa susu n’i ayihɔngbe ayihɔngbe é “ sukpɔ́ ” tawun .
- 	Hypothesis: “ Togun Mawu tɔn ” jiwǔ tawun , bɔ mǐ sixu dokú nú Jehovah , bo dokú n’i .
+	Source: Because his brothers were jealous and hated him , they forced him to leave the land that legally belonged to him .
+ 	Reference: Bu muvua bana babu bamumvuile mukawu ne bamukine , bakamuenzeja bua kumbuka mu buloba buvua bumpianyi buende .
+ 	Hypothesis: Bu muvua bana babu ne mukawu ne bamukine , bakamusaka bua kumbuka mu buloba buvua bumusaka bua kumushiya .
 ```
 
 Example 3
 ```sh
-	Source:     Some Christian parents serving in a foreign - language field have come to realize that their children’s interest in the truth has waned .
- 	Reference:  Mɛjitɔ́ Klisanwun e ɖò sinsɛnzɔ́ wà wɛ ɖò ayǐ e jí è nɔ dó gbè ɖevo ɖè lɛ é ɖé lɛ wá ɖ’ayi wu ɖɔ jlǒ e vǐ emitɔn lɛ ɖó nú nugbǒ ɔ é ɖò ɖiɖekpo wɛ .
- 	Hypothesis: Mɛjitɔ́ Klisanwun ɖé lɛ nɔ sɛ̀n sinsɛnzɔ́ ɖò xá e mɛ vǐ yetɔn lɛ nɔ dó gbè ɖevo mɛ é ɖé lɛ mɔ ɖɔ nugbǒ ɔ ɖó kpɔ́ .
+	Source: So that Moses would understand His ways , Jehovah made it clear that although he does not approve of sin , he is slow to anger .
+ 	Reference: Bua kujadika ne : Mose uvua mua kumvua bimpe njila Yende , Yehowa wakaleja patoke ne : nansha mudiye kayi wanyisha mpekatu , kêna ukuata tshiji lubilu .
+ 	Hypothesis: Nunku , Yehowa wakaleja patoke ne : nansha muvuaye kayi wanyisha mpekatu , kêna ukuata tshiji lubilu to .
 ```
 
 Example 4
 ```sh
-	Source:     You certainly recognize that Jewish man as the one who came to be known as the apostle Paul .
- 	Reference:  É ɖò wɛn ɖɔ a tuùn nya Jwifu enɛ e è wá ylɔ ɖɔ mɛsɛ́dó Pɔlu é .
- 	Hypothesis: É ɖò wɛn ɖɔ a tuùn ɖɔ Jwifu e wá tuùn mɛsɛ́dó Pɔlu é wɛ nyí mɛsɛ́dó Pɔlu .
+	Source: I am confident that they are in Jehovah’s memory awaiting the resurrection .
+ 	Reference: Ndi mutuishibue ne : Yehowa mmubalame mu meji bua kubabisha ku lufu .
+ 	Hypothesis: Ndi mushindike ne : badi mu tshivulukilu tshia Yehowa bua kuindila dibika dia bafue .
 ```
+
 # Results
-	- BLEU train: 20.28
-	- BLEU dev: 21.61
-	- BLEU test: 31.07
+	- BLEU dev: 29.96
+	- BLEU test: 42.52
