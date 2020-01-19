@@ -11,17 +11,17 @@ Author: Adewale Akinfaderin
 
 ## Model
 
- - Default Masakhane Transformer translation model.
- - Link to google drive folder with model [here](https://drive.google.com/drive/folders/1vukbwb6wqs3WDNsUVfuMr02gctiXMTqq?usp=sharing)
- - Updates on future experiments and other methods can be seen [here](https://github.com/WalePhenomenon/Hausa-NMT)
+	- Default Masakhane Transformer translation model.
+	- Link to google drive folder with model [here](https://drive.google.com/drive/folders/1vukbwb6wqs3WDNsUVfuMr02gctiXMTqq?usp=sharing)
+	- Updates on future experiments and other methods can be seen [here](https://github.com/WalePhenomenon/Hausa-NMT)
 
 ## Analysis
 
 Example 1
 ```sh
-	Source:     She became pregnant at the age of 17 .
- 	Reference:  Alipata mimba akiwa na umri wa miaka 17 .
- 	Hypothesis: Alikuwa na mimba akiwa na umri wa miaka 17 .
+	Source: “ If possible , ” the Scriptures counsel us , “ as far as it depends upon you , be peaceable with all men . ”
+ 	Reference: Nassosi ya ba mu wannan shawarar : “ Idan ya yiwu , ku zama lafiya da dukan mutane , gwargwadon iyawarku . ” 
+ 	Hypothesis: Littafi Mai Tsarki ya ce : “ Idan ya yiwu , ” wato , “ idan ya yiwu , ku zauna lafiya da dukan mutane . ”
 ```
 
 Example 2
@@ -42,7 +42,5 @@ Example 3
 	- BLEU train: 35.88
 	- BLEU dev: 38.26
 	- BLEU test: 41.11
-
-
 
 
