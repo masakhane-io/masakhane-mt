@@ -1,10 +1,10 @@
-# English to Amharic
+# English to Shona
 
-Author: Musie Meressa Berhe
+Author: Blessing K. Sibanda
 
 ## Data
 
-	- I use the JW300 data.
+	- JW300 data.
 
 ## Model
 
@@ -14,5 +14,5 @@ Author: Musie Meressa Berhe
 
 	- TODO
 # Results
-	- BLEU dev: 1.89
-	- BLEU test: 1.40
+	- BLEU dev: 25.04
+	- BLEU test: 30.84
