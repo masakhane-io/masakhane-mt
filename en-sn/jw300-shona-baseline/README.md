@@ -9,6 +9,7 @@ Author: Blessing K. Sibanda
 ## Model
 
 	- Default Masakhane Transformer translation model.
+	- Link to google drive folder with models (https://drive.google.com/open?id=1-L4itdc63yLHf7OyFdT16xcraJ-jzoTn)
 
 ## Analysis
 
