@@ -1,5 +1,10 @@
 # Masakhane - A living machine translation project for Africans, by Africans
 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+[![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/masakhane-nlp/shared_invite/enQtODM3ODA3ODE0ODIwLTAyYzg3M2E3Nzg4Y2I3NzgxNDg4MmNlZDE4OTBjMzBjMjg4NTcxMWZlYTg3ZDljMTU4M2FjOTk3MDVjOWM2NGM)
+![Slack Status](https://img.shields.io/twitter/follow/MasakhaneMt?label=Follow&style=social)
+
+
 We need African researchers from ACROSS the continent to join our effort in building translation models for African languages. Masakhane means "We Build Together" in isiZulu. Phase 1 consists of getting baseline translation results for as many languages as possible. Phase 2 consists of combining all our powers and doing some transfer learning to get significant improvement on the models. 
 
 First, we encourage you read up on our website: [masakhane.io](https://masakhane.io)
@@ -112,7 +117,7 @@ Here is a link to a pull request that has the relevant things.
 
 ### 5. I've got a baseline. What do I do to improve it?
 
-Cool! So there are many ways to improve results. We're busy working on a wiki to aid that! Got ideas for this? Drop us a line!
+Cool! So there are many ways to improve results. We've highlighed a few of these in [this document](MT4LRL.md). Got other ideas? Drop us a line or submit a PR!
 
 # Code of Conduct
 
