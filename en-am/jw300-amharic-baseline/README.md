@@ -5,6 +5,7 @@ Author: Musie Meressa Berhe
 ## Data
 
 	- I use the JW300 data.
+	- Code to scrape JW.org. Click the [Link](https://github.com/msquarme/Parallel-Corpus/blob/master/Scraping.py "Scraping JW.org") 
 
 ## Model
 
@@ -14,5 +15,5 @@ Author: Musie Meressa Berhe
 
 	- TODO
 # Results
-	- BLEU dev: 1.89
-	- BLEU test: 1.40
+	- BLEU dev: 2.18
+	- BLEU test: 2.03
