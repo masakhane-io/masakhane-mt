@@ -75,7 +75,13 @@ In order for us to consider your result submission official, we need a couple of
 
 3. A README.md that describes the (a) the data used - esp important if it's a combination of sources (b) any interesting changes to the model (c) maybe some analysis of some sentences of the final model
 
-4. The model itself. This can be in the form of a google drive or dropbox link. We will be finding a home for our trained models soon
+4. The model itself. This can be in the form of a google drive or dropbox link. We will be finding a home for our trained models soon. 
+For models to be used for transfer learning, further trained, or deployed, you need to provide:
+    1. a checkpoint with the parameters (`.ckpt` file),
+    2. the source and target vocabulary (`src_vocab.txt`, `trg_vocab.txt`),
+    3. the configuration file (`config.yaml`), 
+    4. and if applicable: the BPE codes or scripts for your pre-processing pipeline.
+Joey NMT saves the first three in the model directory.
 
 5. The results - the train, dev, and test set BLEU score
 
