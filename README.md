@@ -9,6 +9,8 @@ We need African researchers from ACROSS the continent to join our effort in buil
 
 First, we encourage you read up on our website: [masakhane.io](https://masakhane.io)
 
+All language pairs that we currently have benchmarks for can be found [here](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline)
+
 ## Outcomes
 
 1. Put African NLP on the map by publishing a paper at a top-tier NLP conference featuring as many languages and countries and researchers as possible. 
