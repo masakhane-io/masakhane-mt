@@ -17,5 +17,6 @@
 | English | Tigrigna | 14.88  | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ti/tigmix-baseline) |
 | English | Setswana |  19.66   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-tn/autshumato-baseline) |
 | English | Xitsonga |  4.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ts) |
-| English | Urhobo |  36.74   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
+| English | Urhobo |  28.82   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-urh/jw300-baseline) |
+| English | Yoroba |  36.74   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
 | English | isiZulu |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
