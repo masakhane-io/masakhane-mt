@@ -2,7 +2,7 @@
 
 
 
-| Source | Target | Test BLEU | Link |
+| Source | Target | Best Test BLEU | Link |
 ---------|--------|-----------|------|
 | English | Afrikaans | 19.56 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-af/autshumato-baseline) |
 | English | Amharic | 2.03 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-am/jw300-amharic-baseline) |
