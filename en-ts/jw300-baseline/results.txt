@@ -1,2 +1,7 @@
+FOR BPE = 4000
 2020-01-12 16:25:16,568  dev bleu:  35.07 [Beam search decoding with beam size = 5 and alpha = 1.0]
 2020-01-12 16:26:05,704 test bleu:  44.15 [Beam search decoding with beam size = 5 and alpha = 1.0]
+
+FOR BPE = 4000
+2020-01-27 16:29:25,128  dev bleu:  39.01 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2020-01-27 16:30:14,464 test bleu:  46.41 [Beam search decoding with beam size = 5 and alpha = 1.0]
