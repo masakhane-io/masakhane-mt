@@ -1,46 +1,37 @@
-# English to Isoko
+# English to Ẹ̀sán
 
 Author: iroro orife
 
 ## Data
 
-	- The JW300 English-Isoko dataset.
+	- The JW300 English-Ẹ̀sán (ish) dataset.
 
 ## Model
 
 - Default Masakhane Transformer translation model.
-- [Link to google drive folder with models](https://drive.google.com/drive/folders/1r3A75C0Tzy67JdMF-_msaXwB3sNoQnmZ)
+- [Link to google drive folder with models](https://drive.google.com/drive/folders/1FhIlYmQVlVBCUL5t_BJv6fOcVdAGHqZg)
 
 ## Analysis
 
-The dataset requires more preprocessing to remove special characters and Scripture chapters/verse names & figures. This will make the model more generally useful outside of religious text translations. More precisely, we intend to clean up the following types of sentences:
-```
-	( Se 1 Pita 1 : 22 . )
-	[ 1 ] ( edhe - ẹme avọ 1 ) 
-	( Se Nehemaya 13 : 23 , 24 . )
-	( b ) Ẹvẹ ma sai ro le utee mai tobọ ?
-	( Se Ahwo Rom 15 : 1 , 2 . )
-	( Se Eviavia 21 : 3 - 6 . )
-	( Se 1 Jọn 5 : 14 , 15 . )
-```
+The dataset requires more preprocessing to remove special characters and Scripture chapters/verse names & figures. Also it is very small, which is the primary limiting factor on being able to learn anything useful.
 
 Example 1
 ```sh
-	Source:     Still , words of apology are a strong force toward making peace .
-	Reference:  Ghele na , eme unu - uwou u re fi obọ họ gaga evaọ eruo udhedhẹ .
-	Hypothesis: Ghele na , eme unu - uwou yọ ẹgba ologbo nọ ma re ro ru udhedhẹ .
+	Source:     In contrast with the people who show the widespread lack of love today , those who worship Jehovah have genuine love for their fellow man .
+	Reference:  Ene ga iJehova ẹlẹnan wo mhọn oyẹẹ da ibo ele , ele bha diabe ene iga Jehova ne bha hoẹmhọn ibo ele .
+	Hypothesis: Ene ẹbho ne bunbun wo manman ha mhọn urẹọbhọ da ẹbho n
 ```
 
 Example 2
 ```sh
-	Source:     We can even ask God to ‘ create in us a pure heart . ’
-	Reference:  Ma rẹ sae tubẹ yare Ọghẹnẹ re ọ ‘ kẹ omai eva efuafo . ’
-	Hypothesis: Ma rẹ sae tubẹ yare Ọghẹnẹ re ọ ‘ ma omai eva efuafo . ’
+	Source:     We should also strive to help others spiritually .
+	Reference:  Ahamiẹn mhan re ẹghe bhi otọ rẹ ha luẹ iBaibo , yẹ deba ene gene guanọ nin ele ga iJehova ha muobọ , ọ dẹ rẹkpa mhan rẹ ziẹn ikolu nin mhan bi Jehova koko mhọnlẹn .
+	Hypothesis: Mhan dẹ sabọ rẹkpa mhan rẹ sabọ ha mhọn urẹọbhọ bọsi eria .
 ```
 
 # Results
 
 Tokenization | BLEU dev | BLEU test
 --- | --- | ---
-BPE| 32.58 | 38.05
-Word-level | 32.38  | 38.91
+BPE| 4.94 | 6.25
+Word-level | 3.39  | 5.30
