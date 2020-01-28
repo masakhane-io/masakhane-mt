@@ -104,6 +104,11 @@ Once you have all of the above, please create a pull request into the repository
       - test.src
       - test.tgt
       - results.txt
+      - src_vocab.txt
+      - trg_vocab.txt
+      - src.bpe
+      - [trg.bpe if the bpe model is not joint with src]
+      - config.yaml
       - any other files, if you have any
 ```
 
@@ -116,6 +121,10 @@ Example:
     - test.xh
     - test.en
     - results.txt
+    - src_vocab.txt
+    - trg_vocab.txt
+    - en-xh.4000.bpe
+    - config.yaml
     - preprocessing.py
 ```
 
