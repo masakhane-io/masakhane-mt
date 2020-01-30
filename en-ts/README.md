@@ -1,9 +1,11 @@
 # English [en] to Xitsonga [ts]
 
-Author: [Vukosi Marivate](https://github.com/vukosim)
+Authors: 
+* [Vukosi Marivate](https://github.com/vukosim)
+* [Laura Martinus](https://github.com/lauramartinus)
 
 ## Data
-	- Used JW300 data.
+	- TBD
 
 ## Model
 
@@ -15,5 +17,4 @@ Author: [Vukosi Marivate](https://github.com/vukosim)
 	-TODO
 
 ## Results
-	- BLEU dev:   4.37
-	- BLEU test:  4.44
+
