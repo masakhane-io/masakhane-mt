@@ -9,6 +9,8 @@ We need African researchers from ACROSS the continent to join our effort in buil
 
 First, we encourage you read up on our website: [masakhane.io](https://masakhane.io)
 
+All language pairs that we currently have benchmarks for can be found [here](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline)
+
 ## Outcomes
 
 1. Put African NLP on the map by publishing a paper at a top-tier NLP conference featuring as many languages and countries and researchers as possible. 
@@ -75,7 +77,13 @@ In order for us to consider your result submission official, we need a couple of
 
 3. A README.md that describes the (a) the data used - esp important if it's a combination of sources (b) any interesting changes to the model (c) maybe some analysis of some sentences of the final model
 
-4. The model itself. This can be in the form of a google drive or dropbox link. We will be finding a home for our trained models soon
+4. The model itself. This can be in the form of a google drive or dropbox link. We will be finding a home for our trained models soon. 
+For models to be used for transfer learning, further trained, or deployed, you need to provide:
+    1. a checkpoint with the parameters (`.ckpt` file),
+    2. the source and target vocabulary (`src_vocab.txt`, `trg_vocab.txt`),
+    3. the configuration file (`config.yaml`), 
+    4. and if applicable: the BPE codes or scripts for your pre-processing pipeline.
+Joey NMT saves the first three in the model directory.
 
 5. The results - the train, dev, and test set BLEU score
 
@@ -96,6 +104,11 @@ Once you have all of the above, please create a pull request into the repository
       - test.src
       - test.tgt
       - results.txt
+      - src_vocab.txt
+      - trg_vocab.txt
+      - src.bpe
+      - [trg.bpe if the bpe model is not joint with src]
+      - config.yaml
       - any other files, if you have any
 ```
 
@@ -108,6 +121,10 @@ Example:
     - test.xh
     - test.en
     - results.txt
+    - src_vocab.txt
+    - trg_vocab.txt
+    - en-xh.4000.bpe
+    - config.yaml
     - preprocessing.py
 ```
 
