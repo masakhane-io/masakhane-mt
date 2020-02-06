@@ -4,7 +4,8 @@
 
 | Source | Target | Best Test BLEU | Link |
 ---------|--------|-----------|------|
-| English | Afrikaans | 19.56 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-af/autshumato-baseline) |
+| English | Afrikaans (Autshumato) | 19.56 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-af/autshumato-baseline) |
+| English | Afrikaans (JW300) | 45.48 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-af/jw300-baseline) |
 | English | Amharic | 2.03 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-am/jw300-amharic-baseline) |
 | English | Fon | 31.07 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-fon/jw300-baseline) |
 | English | Hausa | 41.11 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ha/opus_en_ha_baseline) |
