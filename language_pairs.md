@@ -2,9 +2,10 @@
 
 
 
-| Source | Target | Test BLEU | Link |
+| Source | Target | Best Test BLEU | Link |
 ---------|--------|-----------|------|
-| English | Afrikaans | 19.56 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-af/autshumato-baseline) |
+| English | Afrikaans (Autshumato) | 19.56 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-af/autshumato-baseline) |
+| English | Afrikaans (JW300) | 45.48 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-af/jw300-baseline) |
 | English | Amharic | 2.03 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-am/jw300-amharic-baseline) |
 | English | Fon | 31.07 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-fon/jw300-baseline) |
 | English | Hausa | 41.11 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ha/opus_en_ha_baseline) |
@@ -17,5 +18,6 @@
 | English | Tigrigna | 14.88  | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ti/tigmix-baseline) |
 | English | Setswana |  19.66   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-tn/autshumato-baseline) |
 | English | Xitsonga |  4.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ts) |
-| English | Urhobo |  36.74   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
+| English | Urhobo |  28.82   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-urh/jw300-baseline) |
+| English | Yoroba |  36.74   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
 | English | isiZulu |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
