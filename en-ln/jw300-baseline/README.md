@@ -9,11 +9,7 @@ Author: Murhabazi B. Espoir
 ## Model
 
 	- Default Masakhane Transformer translation model.
-<<<<<<< HEAD
-	- The model can be found [here](Will Put Link TO Gdrive soon)
-=======
-	- THe model can be found [here](./models/enln_transformer/best.ckpt)
->>>>>>> 2c0c3b6... add english lingala baseline
+	- The model can be found [here](https://drive.google.com/open?id=1w-4aejEmCVpqIAa7xYw2sJVfMLNMVeKK)
 
 ## Analysis
 
@@ -35,11 +31,7 @@ Example 2
 Example 3
 ```ln
 	Source:     asked an Awake ! writer .
-<<<<<<< HEAD
     Reference:  Mokomi moko ya Lamuká !
-=======
- 	Reference: Bua kujadika ne : Mose uvua mua kumvua bimpe njila Yende , Reference:  Mokomi moko ya Lamuká !
->>>>>>> 2c0c3b6... add english lingala baseline
  	Hypothesis: etunaki ye ete : “ Nakosala nini ? ”
 ```
 # Results
