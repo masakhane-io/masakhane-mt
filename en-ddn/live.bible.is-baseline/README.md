@@ -42,7 +42,7 @@ Example #3
         Hypothesis: Zɑ Sɑmɑri lɑɑbu bɔrɔ boobo nɑɑne ɑ̀ gɑɑ kɑ Yesu mɑɑ sendɑ sɑbu sɛ. À nɑɑne ɑ̀ gɑɑ no ɑ̀ cii bɔrɔ kulu kɑ ɑ̀ sɛ ɑ go sendi hɛ kulu kɑ ɑ̀ sɛ ndɑ hɛ kulu kɑ ɑ̀ ci lɑɑli li boobo.
 ````
 
-#Results
+## Results
 
       - BLEU train : 14.18
       - BLEU dev : 13.32
