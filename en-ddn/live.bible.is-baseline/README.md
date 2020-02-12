@@ -28,14 +28,14 @@ Example 1
         Hypothesis: A nyɑizei, n mɑ wɔne cii ɑ sɛ, Kpei, Setɑm. N mɑ n bine yeenɑndi kɑ n bine yom kɔnkɔm.
 ````
 
-Example #2
+Example 2
 ````sh
         Source:     if so be that God is one, and he shall justify the circumcision by faith, and the uncircumcision through faith.
         Reference:  Ikpɛ fɔlɔnku yɑ gɑ bɑnguize yom cɛɑndi susu nɑɑne gɑɑ. À go zɑm kɑ dɑmbɑnguize yom mo cɛɑndi susu nɑɑne gɑɑ.
         Hypothesis: Zɑngɑ yɑ no Ikpɛ go hungu, ngɑ kɑ ɑ̀ gɑ cɛɑndi susu. À gɑ bɔrɔ cɛɑndi susu. À gɑ nɑɑne nɑɑne gɑɑ nɑɑne gɑɑ, nɑɑne kɑ ɑ̀ gɑ nɑɑne cini.
 ````
 
-Example #3
+Example 3
 ````sh
         Source:     And from that city many of the Samaritans believed on him because of the word of the woman, who testified, He told me all things that ever I did.
         Reference:  Wɑngɑrɑ ngɑ di, Sɑmɑriɑncɛ boobo nɑɑne Yesu gɑɑ weibɔrɔ di sendɑ sɑbu sɛ. Weibɔrɔ di tɛ sɛdɑ kɑ cii: Hɛ kulu kɑ ɑ jinɑ kɑ tɛ, ɑ̀ nɑ ɑ̀ cii ɑ sɛ.
