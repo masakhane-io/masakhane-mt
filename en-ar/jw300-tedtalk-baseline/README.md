@@ -9,6 +9,8 @@ Author:
 * The JW300 English-Arabic (bin) dataset.
 * The [TED-Multilingual-Parallel-Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) English Arabic dataset	
 
+## Test Data
+the test data files for evaluating the model was not taken from the repo like the rest of the baselines but instead taken as a portion from the total merged datasets and in hte same size of the entries in test.en-any.en.  
 
 ## Model
 
