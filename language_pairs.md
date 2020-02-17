@@ -30,3 +30,4 @@
 | English | Yoroba |  36.74   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
 | English | isiZulu (Autshumato) |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
 | English | isiXhosa (Autshumato) | 13.32 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-xh/autshumato-baseline) |
+| French | Swahili Congo | 33.73 | [link](https://github.com/masakhane-io/masakhane/tree/master/fr-swc/french-swahili_drc_baseline) |
