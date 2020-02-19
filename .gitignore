@@ -1,0 +1,6 @@
+.venv
+.env
+__pycache__
+**best.ckpt
+***.ckpt
+***.ipynb_checkpoints/
