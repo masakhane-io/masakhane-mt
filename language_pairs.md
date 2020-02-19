@@ -41,4 +41,4 @@
 | Efik | English | 33.68 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/efi-en/jw300-baseline) |
 | Hausa | English | 25.27 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/ha-en/opus_ha_en_baseline) |
 | Yoruba  | English |  39.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/yo-en/jw300-baseline) |
-| French | Lingala | 39.81 | [link](https://github.com/masakhane-io/masakhane/tree/master/fr-ln/french-lingala-baseline)
+| French | Lingala | 39.81 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-ln/french-lingala-baseline)
