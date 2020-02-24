@@ -1,0 +1,2 @@
+2020-02-20 16:51:25,414 -  dev bleu:  23.22 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2020-02-20 16:52:45,303 - test bleu:  32.64 [Beam search decoding with beam size = 5 and alpha = 1.0]
