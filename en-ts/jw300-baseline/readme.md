@@ -21,3 +21,7 @@ Author: Laura Martinus
 
 	- Note: It is probably best to train this model for longer, as it timed out on Google Colab
 	- Note: Will likely benefit from optimising the number of BPE codes
+
+	Ran with BPE set to 40 000 instead of 4 000 and got the following:
+	- BLEU dev: 39.01
+	- BLEU test: 46.41
