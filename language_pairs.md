@@ -15,6 +15,7 @@
 | English | Shona | 30.84  | [link](https://github.com/masakhane-io/masakhane/tree/master/en-sn/jw300-shona-baseline) |
 | English | kiSwahili | 48.94  | [link](https://github.com/masakhane-io/masakhane/tree/master/en-sw/jw300-baseline) |
 | English | Tigrigna | 14.88  | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ti/tigmix-baseline) |
+| English | Sesotho  | 41.23 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-st)
 | English | Setswana |  19.66   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-tn/autshumato-baseline) |
 | English | Xitsonga |  4.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ts) |
 | English | Urhobo |  28.82   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-urh/jw300-baseline) |
