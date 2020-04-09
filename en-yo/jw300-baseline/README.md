@@ -4,7 +4,7 @@ Author: Jamiil Toure Ali
 
 ## Data
 
-	- The JW300 English-Urhobo dataset.
+	- The JW300 English-Yoruba dataset.
 
 ## Model
 
@@ -13,7 +13,7 @@ Author: Jamiil Toure Ali
 
 ## Analysis
 
-Need to fine tune the model by playing with the parameter.
+TO DO
 
 Example 1
 ```sh
