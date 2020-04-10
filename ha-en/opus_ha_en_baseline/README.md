@@ -13,7 +13,7 @@ Author: Moshooo O. Yekini
 
 	- Default Masakhane Transformer translation model.
 	- Link to google drive folder with model [here](https://drive.google.com/open?id=1q8gPqJM8NGLuweosN1aqRnMxnOywrZM7)
-	- Updates on future experiments and other methods can be seen [here](https://github.com/WalePhenomenon/Hausa-NMT)
+	- Updates on future experiments and other methods can be seen [here](https://github.com/wallmosh/masakhane/blob/master/ha-en/opus_ha_en_baseline/Hausa_English_NMT.ipynb)
 
 ## Analysis
 
