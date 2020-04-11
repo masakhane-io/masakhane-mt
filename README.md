@@ -11,6 +11,9 @@ First, we encourage you read up on our website: [masakhane.io](https://masakhane
 
 All language pairs that we currently have benchmarks for can be found [here](https://github.com/masakhane-io/masakhane/tree/master/language_pairs.md)
 
+[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/0)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/0)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/1)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/1)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/2)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/2)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/3)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/3)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/4)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/4)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/5)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/5)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/6)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/6)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/7)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/7)
+
+
 ## Outcomes
 
 1. Put African NLP on the map by publishing a paper at a top-tier NLP conference featuring as many languages and countries and researchers as possible.
