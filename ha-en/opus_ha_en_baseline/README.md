@@ -43,8 +43,10 @@ Example #3
 ```
 
 # Results
-	- BLEU train: 25.63
-	- BLEU dev: 26.01
-	- BLEU test:  26.77
+	- BLEU train: 24.57
+	- BLEU dev: 24.95
+	- BLEU test:  25.27
 
+# BPE links:
+	- https://drive.google.com/open?id=1cdkMb0H0qtGpb82taLJJs9Dj7mAUR8V0
 
