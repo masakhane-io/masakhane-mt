@@ -9,7 +9,7 @@ Author: Blessing Itoro Bassey, Kolawole Tajudeen
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- Link to google drive folder with model(https://drive.google.com/open?id=13RntIvcOm7zRPNZr0Ot_8U8fyBs5XBfF)
+	- Link to google drive folder with model(https://drive.google.com/open?id=16VErWlive6wjNsp3rZX4D22g2RNA5_wx)
 
 ## Analysis
 
