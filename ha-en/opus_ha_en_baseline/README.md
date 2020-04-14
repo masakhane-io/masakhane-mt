@@ -43,8 +43,8 @@ Example #3
 ```
 
 # Results
-	- BLEU train: 24.57
-	- BLEU dev: 24.95
-	- BLEU test:  25.27
+	- BLEU train: 25.63
+	- BLEU dev: 26.01
+	- BLEU test:  26.77
 
 
