@@ -34,7 +34,7 @@
 | English | isiXhosa (JW300) | 6.00 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-xh/jw300-baseline) |
 | English | Xitsonga (JW300) |  4.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ts) |
 | English | Xitsonga (Autshumato) | 13.54 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ts/autshumato-baseline) |
-| English | Yoruba |  38.62   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
-| Yoruba  | English |  39.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
+| English | Yoruba |  38.62   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline-improve) |
+| Yoruba  | English |  39.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/yo-en/jw300-baseline) |
 | English | isiZulu (Autshumato) |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
 | Hausa | English | 25.27 | [link](https://github.com/masakhane-io/masakhane/tree/master/ha-en/opus_ha_en_baseline) |
