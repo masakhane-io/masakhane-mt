@@ -44,3 +44,6 @@ Example 4
 # Results
 	- BLEU dev :  31.00 
 	- BLEU test : 33.48
+
+# BPES
+	- [Link to google drive folder with bpes ](https://drive.google.com/open?id=1--6wtxWhAtQq32cVNSZvZxGOgfukDJ7m)
