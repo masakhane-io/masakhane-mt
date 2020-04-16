@@ -8,6 +8,7 @@
 | English | Afrikaans (JW300) | 45.48 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-af/jw300-baseline) |
 | English | Amharic | 2.03 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-am/jw300-amharic-baseline) |
 | English | Dendi | 22.30 | [link](https://github.com/Jamiil92/masakhane/tree/master/en-ddn/live.bible.is-baseline) |
+| English | Efik | 33.48 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-efi/jw300-baseline) |
 | English | Ẹ̀dó | 12.49 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-bin/jw300-baseline) |
 | English | Ẹ̀sán | 6.25 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ish/jw300-baseline) |
 | English | Fon | 31.07 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-fon/jw300-baseline) |
@@ -36,4 +37,5 @@
 | English | Xitsonga (Autshumato) | 13.54 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ts/autshumato-baseline) |
 | English | Yoruba |  36.74   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
 | English | isiZulu (Autshumato) |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
+| Efik | English | 33.68 | https://github.com/masakhane-io/masakhane/tree/master/efi-en/jw300-baseline |
 | Hausa | English | 25.27 | [link](https://github.com/masakhane-io/masakhane/tree/master/ha-en/opus_ha_en_baseline) |
