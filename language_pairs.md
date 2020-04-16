@@ -36,3 +36,4 @@
 | English | Xitsonga (Autshumato) | 13.54 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ts/autshumato-baseline) |
 | English | Yoruba |  36.74   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
 | English | isiZulu (Autshumato) |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
+| Hausa | English | 25.27 | [link](https://github.com/masakhane-io/masakhane/tree/master/ha-en/opus_ha_en_baseline) |
