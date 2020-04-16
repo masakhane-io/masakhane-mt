@@ -1,4 +1,4 @@
-# English to Efik
+# Efik to English
 
 Author: Blessing Itoro Bassey, Kolawole Tajudeen
 
