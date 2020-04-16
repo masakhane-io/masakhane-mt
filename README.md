@@ -2,7 +2,6 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/masakhane-nlp/shared_invite/enQtODM3ODA3ODE0ODIwLTAyYzg3M2E3Nzg4Y2I3NzgxNDg4MmNlZDE4OTBjMzBjMjg4NTcxMWZlYTg3ZDljMTU4M2FjOTk3MDVjOWM2NGM)
-![Slack Status](https://img.shields.io/twitter/follow/MasakhaneMt?label=Follow&style=social)
 
 
 We need African researchers from ACROSS the continent to join our effort in building translation models for African languages. Masakhane means "We Build Together" in isiZulu. Phase 1 consists of getting baseline translation results for as many languages as possible. Phase 2 consists of combining all our powers and doing some transfer learning to get significant improvement on the models.
@@ -10,6 +9,12 @@ We need African researchers from ACROSS the continent to join our effort in buil
 First, we encourage you read up on our website: [masakhane.io](https://masakhane.io)
 
 All language pairs that we currently have benchmarks for can be found [here](https://github.com/masakhane-io/masakhane/tree/master/language_pairs.md)
+
+Want to understand our progress so far? Check out our [paper](https://arxiv.org/pdf/2003.11529)
+
+## Hall of Fame for our Contributors
+[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/0)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/0)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/1)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/1)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/2)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/2)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/3)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/3)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/4)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/4)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/5)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/5)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/6)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/6)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/7)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/7)
+
 
 ## Outcomes
 
