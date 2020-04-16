@@ -48,3 +48,7 @@ Example 4
 Tokenization | BLEU dev | BLEU test
 --- | --- | ---
 BPE| 30.48 | 39.44
+
+## BPE
+
+- [Link to google drive folder with bpes](https://drive.google.com/open?id=1Og5bjxC6Je4d_qzp6XwayWy1nNp5_F5q)
