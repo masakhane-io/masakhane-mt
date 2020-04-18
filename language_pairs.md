@@ -19,6 +19,7 @@
 | English | Kimbundu | 32.76 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-kmb/jw300-baseline) |
 | English | Kikuyu | 36.06  | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ki/jw300-baseline) |  
 | English | Lingala | 48.64 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ln/jw300-baseline) |
+| English | Luo | 32.64 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-luo/jw300-baseline) |
 | English | Nigerian Pidgin |  24.29   | [link](https://github.com/masakhane-io/masakhane/tree/master/en_pcm/jw300-baseline) |
 | English | Northern Sotho (Autshumato) | 19.56  | [link](https://github.com/masakhane-io/masakhane/tree/master/en-nso/autshumato-baseline) |
 | English | Northorn Sotho (JW300) | 15.40 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-nso/jw300-baseline) |
