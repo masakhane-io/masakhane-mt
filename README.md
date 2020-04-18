@@ -3,39 +3,33 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/masakhane-nlp/shared_invite/enQtODM3ODA3ODE0ODIwLTAyYzg3M2E3Nzg4Y2I3NzgxNDg4MmNlZDE4OTBjMzBjMjg4NTcxMWZlYTg3ZDljMTU4M2FjOTk3MDVjOWM2NGM)
 
+**MASAKHANE** is research effort for machine translation for African languages that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for building open baseline translation results for African languages.
 
-We need African researchers from ACROSS the continent to join our effort in building translation models for African languages. Masakhane means "We Build Together" in isiZulu. Phase 1 consists of getting baseline translation results for as many languages as possible. Phase 2 consists of combining all our powers and doing some transfer learning to get significant improvement on the models.
+Website: [masakhane.io](https://masakhane.io)
 
-First, we encourage you read up on our website: [masakhane.io](https://masakhane.io)
+## Goals
 
-All language pairs that we currently have benchmarks for can be found [here](https://github.com/masakhane-io/masakhane/tree/master/language_pairs.md)
+- **For Africa**: To build and facilitate a community of NLP researchers, connect and grow it, spurring and sharing further research, build helpful tools for applications in government, medicine, science and education, to enable language preservation and increase its global visibility and relevance. 
 
-Want to understand our progress so far? Check out our [paper](https://arxiv.org/pdf/2003.11529)
+- **For NLP Research**: To build data sets and tools to facilitate NLP research on African languages, and to pose new research problems to enrich the NLP research landscape.
+
+- **For the global researchers community**: To discover best practices for distributed research, to be applied by other emerging research communities.
+
 
 ## Hall of Fame for our Contributors
 [![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/0)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/0)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/1)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/1)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/2)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/2)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/3)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/3)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/4)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/4)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/5)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/5)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/6)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/6)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/7)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/7)
 
+## Progress
 
-## Outcomes
+- Look at our submitted benchmarks [here](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
+- Check out our [paper](https://arxiv.org/pdf/2003.11529) to be published at AfricaNLP Workshop @ ICLR 2020
+- Check out papers written by our participants [here](https://github.com/masakhane-io/masakhane/blob/master/publications.md)
+- Find our more about our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
+- Read our [weekly meeting notes](https://github.com/masakhane-io/masakhane/tree/master/meetingsummaries)
 
-1. Put African NLP on the map by publishing a paper at a top-tier NLP conference featuring as many languages and countries and researchers as possible.
-2. Faciliate the development of an NLP community in Africa
+## How can I contribute?
 
-3. Spur research and focus on African languages, by providing a starting point for other researchers to begin
-
-## To officially join the project
-This is so we can feature you on our webpage [masakhane.io](https://masakhane.io), google group and invite you to our weekly meetings & slack. This aims to faciliate your participation in the movement. Please email the following to masakhanetranslation@gmail.com:
-
-- Your Full Name
-- A preferred social media link
-- The language(s) you'll be working on (or your general relevant specialty - if you're an expert at machine translation and - would like to boost the community through that)
-- A picture
-- Your affiliation and role.
-
-
-## What can I contribute?
-
-There are many ways to contribute to Masakhane
+There are many ways to contribute to **MASAKHANE**.
 
 1. Contribute a trained model and related code for your language
 2. Contribute analysis of data/models for any African languages. You do not need any technical experience for this! If you're a linguist, we can pair you up with a machine translation practitioner and you can help contribute analysis
@@ -44,8 +38,30 @@ There are many ways to contribute to Masakhane
 5. Help administrate! Working with so many researchers can be quite a challenge!
 6. Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
 7. Help document our discussions, progress. This is VERY much needed
+8. Join our weekly meetings, provide advice or ideas
+9. Provide expertise 
 
-## Getting Started
+Want more details? Check out our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
+
+## How do I join?
+
+1. Join our [Slack](https://join.slack.com/t/masakhane-nlp/shared_invite/enQtODM3ODA3ODE0ODIwLTAyYzg3M2E3Nzg4Y2I3NzgxNDg4MmNlZDE4OTBjMzBjMjg4NTcxMWZlYTg3ZDljMTU4M2FjOTk3MDVjOWM2NGM)
+2. Request to join our [Google Group](https://groups.google.com/forum/#!forum/masakhane-mt)
+
+3. This is so we can feature you on our webpage [masakhane.io](https://masakhane.io). Please email the following to masakhanetranslation@gmail.com:
+    - Your Full Name
+    - A preferred social media link
+    - The language(s) you'll be working on (or your general relevant specialty - if you're an expert at machine translation and - would like to boost the community through that)
+    - A picture
+    - Your affiliation and role.
+
+*Please be patient with a response via our email address, we're very behind on our administration, in the time of COVID-19.*
+
+
+## Building your first machine translation model
+
+Typically, if you have some programming experience, we encourage you to start on your journey with Masakhane, by building a baseline for your language. 
+**Feeling nervous to submit or not sure where to start? Please join our weekly meeting and we will pair you with a mentor!**
 
 ### 1. Have a look at the example code
 We have an [example colab notebook](https://github.com/jaderabbit/masakhane/blob/master/starter_notebook.ipynb) which trains a model for English-to-Zulu translation. Open it in [Google Colab](google colab) - you can select it by going to the GitHub section when opening a new project.
@@ -62,9 +78,7 @@ We also provide a script for easy downloading and BPE-preprocessing of JW300 dat
 
 #### Can't find your language in the JW300 dataset?
 
-Then we still have some options! Our community has been searching wide and far! Drop us a mail and we'll get you onboarded on our slack: masakhanetranslation@gmail.com. We will be updating our wiki with other resources as we find them!
-
-If nothing comes from that, then we're working with CocoHub.cc
+Then we still have some options! Our community has been searching wide and far! Join our slack and google group to discuss a way forward! 
 
 ### 3. Run the notebook!
 
