@@ -20,4 +20,6 @@
 | English | Xitsonga |  4.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-ts) |
 | English | Urhobo |  28.82   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-urh/jw300-baseline) |
 | English | Yoroba |  36.74   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-yo/jw300-baseline) |
-| English | isiZulu |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
+| English | isiZulu (Autshumato)|  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
+| English | isiZulu (JW300)|  4.87 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
+
