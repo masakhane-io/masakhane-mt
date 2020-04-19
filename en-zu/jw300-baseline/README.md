@@ -35,3 +35,4 @@ JW300 : English-Zulu
 >
 > 2019-11-13 07:44:24,289 test bleu:   4.87 [Beam search decoding with beam size = 5 and alpha = 1.0]`
 
+Download model weights from : [here](https://drive.google.com/open?id=1-QLxP7xLqu-AqDQkm1XaCtDEex1Oseo0)
