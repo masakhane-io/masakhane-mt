@@ -112,11 +112,12 @@ Once you have all of the above, please create a pull request into the repository
 
 #### Structure of my PR:
 
- Also see this as an example for the structure of your contribution
+Also see this as an example for the structure of your contribution
 
- Structure:
+Structure:
  ```
- /<src-lang>-<tgt-lang>
+/benchmarks
+  /<src-lang>-<tgt-lang>
     /<technique> -- this could be "jw300-baseline" or "fine-tuned-baseline" or "nig-newspaper-dataset"
       - notebook.ipynb
       - README.md
@@ -133,18 +134,19 @@ Once you have all of the above, please create a pull request into the repository
 
 Example:
 ```
-/en-xh
-  /xhnavy-data-baseline
-    - notebook.ipynb
-    - README.md
-    - test.xh
-    - test.en
-    - results.txt
-    - src_vocab.txt
-    - trg_vocab.txt
-    - en-xh.4000.bpe
-    - config.yaml
-    - preprocessing.py
+/benchmarks
+  /en-xh
+    /xhnavy-data-baseline
+      - notebook.ipynb
+      - README.md
+      - test.xh
+      - test.en
+      - results.txt
+      - src_vocab.txt
+      - trg_vocab.txt
+      - en-xh.4000.bpe
+      - config.yaml
+      - preprocessing.py
 ```
 
 Here is a link to a pull request that has the relevant things.
