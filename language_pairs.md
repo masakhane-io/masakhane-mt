@@ -29,7 +29,7 @@
 | English | kiSwahili | 48.94  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sw/jw300-baseline) |
 | English | Tigrigna (JW300) | 4.02 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ti/jw300-tigrigna-baseline) |
 | English | Tigrigna (JW300+Tatoeba+more) | 14.88  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ti/tigmix-baseline) |
-| English | Tiv | 44.70 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en_tiv/jw300-baseline) |
+| English | Tiv | 44.70 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-tiv/jw300-baseline) |
 | English | Tshiluba | 42.52 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-lua/jw300-baseline) |
 | English | Urhobo |  28.82   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-urh/jw300-baseline) |
 | English | isiXhosa (Autshumato) | 13.32 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-xh/autshumato-baseline) |
