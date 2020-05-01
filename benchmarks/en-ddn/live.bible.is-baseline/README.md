@@ -9,7 +9,7 @@ Author: Jamiil Toure Ali
 ## Model
 
 - Default Masakhane Transformer translation model.
-- [Link to google drive folder with models](https://drive.google.com/file/d/10gRY0Z-awPLJRsCYhfuRvn1RsDWg7ifH/view?usp=sharing)
+- [Link to google drive folder with models](https://drive.google.com/open?id=1fwkEXIcjbN9m2Egb7GjD-E1Wvw0P26CX)
 
 ## Analysis
 
