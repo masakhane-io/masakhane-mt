@@ -1,6 +1,8 @@
 # Initiatives
 
-Every week we have more ideas, and more impromptu projects that emerge. Keen on any initiatives? Join our slack and find the respective group
+Every week we have more ideas, and more impromptu projects that emerge. Keen on any initiatives? Join our slack and find the respective group.
+
+Working on a Masakhane initiative that is not listed here? Please add it with a PR :heart:
 
 | Initiative                     | Description                                                                                                            | Slack Group            |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------|
