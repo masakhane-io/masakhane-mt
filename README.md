@@ -26,10 +26,11 @@ Website: [masakhane.io](https://masakhane.io)
 
 ## Progress
 
-- Look at our submitted benchmarks [here](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
+- Look at our submitted machine translation benchmarks [here](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
 - Check out our [paper](https://arxiv.org/pdf/2003.11529) to be published at AfricaNLP Workshop @ ICLR 2020
 - Check out papers written by our participants [here](https://github.com/masakhane-io/masakhane/blob/master/publications.md)
 - Find our more about our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
+- Look at our list of [community documents](https://github.com/masakhane-io/masakhane/blob/master/community-documents.md)
 - Read our [weekly meeting notes](https://github.com/masakhane-io/masakhane/tree/master/meetingsummaries)
 
 ## How can I contribute?
