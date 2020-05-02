@@ -37,15 +37,15 @@ Website: [masakhane.io](https://masakhane.io)
 
 There are many ways to contribute to **MASAKHANE**.
 
-1. Contribute a trained model and related code for your language
-2. Contribute analysis of data/models for any African languages. You do not need any technical experience for this! If you're a linguist, we can pair you up with a machine translation practitioner and you can help contribute analysis
-3. Contribute to documentation or the base "notebook" that will improve the experience of others
-4. Provide advice or help tune models for their languages and datasets
-5. Help administrate! Working with so many researchers can be quite a challenge!
-6. Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
-7. Help document our discussions, progress. This is VERY much needed
-8. Join our weekly meetings, provide advice or ideas
-9. Provide expertise 
+1. **TRAIN A MODEL** - Contribute a trained model and related code for your language
+2. **ANALYSIS** - Contribute analysis of data/models for any African languages. You do not need any technical experience for this! If you're a linguist, we can pair you up with a machine translation practitioner and you can help contribute analysis
+3. **DATA** - Help build or find datasets for your language
+4. **DOCUMENTATION** - Help document our discussions, progress. This is VERY much needed. Or contribute to documentation of the base "notebook" that will improve the experience of others
+5. **MENTORSHIP** - Provide advice or help tune models for their languages and datasets, or help people get started
+6. **ADMIN** - Working with so many researchers can be quite a challenge! Help out with administrative tasks
+7. **COMPUTE** - Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
+8. **BRAINSTORM** Join our weekly meetings, provide advice or ideas
+
 
 Want more details? Check out our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
 
