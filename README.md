@@ -32,6 +32,7 @@ Website: [masakhane.io](https://masakhane.io)
 - Find our more about our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
 - Look at our list of [community documents](https://github.com/masakhane-io/masakhane/blob/master/community-documents.md)
 - Read our [weekly meeting notes](https://github.com/masakhane-io/masakhane/tree/master/meetingsummaries)
+- Follow our publication on [Medium](https://medium.com/masakhane)
 
 ## How can I contribute?
 
@@ -45,7 +46,7 @@ There are many ways to contribute to **MASAKHANE**.
 6. **ADMIN** - Working with so many researchers can be quite a challenge! Help out with administrative tasks
 7. **COMPUTE** - Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
 8. **BRAINSTORM** Join our weekly meetings, provide advice or ideas
-
+9. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, contributing to our [Medium publication](https://medium.com/masakhane), or engaging with media outlets
 
 Want more details? Check out our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
 
