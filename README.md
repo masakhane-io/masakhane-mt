@@ -47,6 +47,7 @@ There are many ways to contribute to **MASAKHANE**.
 7. **COMPUTE** - Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
 8. **BRAINSTORM** Join our weekly meetings, provide advice or ideas
 9. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, contributing to our [Medium publication](https://medium.com/masakhane), or engaging with media outlets
+10. **MLOps & ML Engineering** - Do you enjoy delving into the MLOps side of machine learning? Are you a software developer looking to hone-in on your ML engineer abilities? Join us to help build tools to support out reproducability, data gathering, and model sharing!
 
 Want more details? Check out our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
 
