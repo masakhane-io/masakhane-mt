@@ -4,6 +4,8 @@ Every week we have more ideas, and more impromptu projects that emerge. Keen on 
 
 Working on a Masakhane initiative that is not listed here? Please add it with a PR :heart:
 
+Keen to help on any of these initiatives? Please see our [message board](https://github.com/masakhane-io/message-board)
+
 | Initiative                     | Description                                                                                                            | Slack Group            |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------|
 | Benchmarks                     | Continued expansion and iterations on our language benchmarks as documented on the main GitHUB README                  | #benchmarks            |
