@@ -1,4 +1,4 @@
- # Masakhane - A living machine translation project for Africans, by Africans
+ # Masakhane - A living collection of NLP projects for Africans, by Africans
 
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
@@ -8,7 +8,7 @@
 <img src="https://pbs.twimg.com/profile_images/1255858628986384384/d7Lk9I-w_400x400.jpg" >
 </div>
 
-**MASAKHANE** is an research effort for machine translation for African languages that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for building open baseline translation results for African languages.
+**MASAKHANE** is an research effort for NLP for African languages that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for building open baseline NLP results for African languages.
 
 Website: [masakhane.io](https://masakhane.io)
 
