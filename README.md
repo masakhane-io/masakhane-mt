@@ -1,9 +1,14 @@
-# Masakhane - A living machine translation project for Africans, by Africans
+ # Masakhane - A living collection of NLP projects for Africans, by Africans
+
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/masakhane-nlp/shared_invite/enQtODM3ODA3ODE0ODIwLTAyYzg3M2E3Nzg4Y2I3NzgxNDg4MmNlZDE4OTBjMzBjMjg4NTcxMWZlYTg3ZDljMTU4M2FjOTk3MDVjOWM2NGM)
 
-**MASAKHANE** is an research effort for machine translation for African languages that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for building open baseline translation results for African languages.
+<div align="center">
+<img src="https://pbs.twimg.com/profile_images/1255858628986384384/d7Lk9I-w_400x400.jpg" >
+</div>
+
+**MASAKHANE** is an research effort for NLP for African languages that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for building open baseline NLP results for African languages.
 
 Website: [masakhane.io](https://masakhane.io)
 
@@ -21,25 +26,28 @@ Website: [masakhane.io](https://masakhane.io)
 
 ## Progress
 
-- Look at our submitted benchmarks [here](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
+- Look at our submitted machine translation benchmarks [here](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
 - Check out our [paper](https://arxiv.org/pdf/2003.11529) to be published at AfricaNLP Workshop @ ICLR 2020
 - Check out papers written by our participants [here](https://github.com/masakhane-io/masakhane/blob/master/publications.md)
 - Find our more about our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
+- Look at our list of [community documents](https://github.com/masakhane-io/masakhane/blob/master/community-documents.md)
 - Read our [weekly meeting notes](https://github.com/masakhane-io/masakhane/tree/master/meetingsummaries)
+- Follow our publication on [Medium](https://medium.com/masakhane)
 
 ## How can I contribute?
 
 There are many ways to contribute to **MASAKHANE**.
 
-1. Contribute a trained model and related code for your language
-2. Contribute analysis of data/models for any African languages. You do not need any technical experience for this! If you're a linguist, we can pair you up with a machine translation practitioner and you can help contribute analysis
-3. Contribute to documentation or the base "notebook" that will improve the experience of others
-4. Provide advice or help tune models for their languages and datasets
-5. Help administrate! Working with so many researchers can be quite a challenge!
-6. Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
-7. Help document our discussions, progress. This is VERY much needed
-8. Join our weekly meetings, provide advice or ideas
-9. Provide expertise 
+1. **TRAIN A MODEL** - Contribute a trained model and related code for your language
+2. **ANALYSIS** - Contribute analysis of data/models for any African languages. You do not need any technical experience for this! If you're a linguist, we can pair you up with a machine translation practitioner and you can help contribute analysis
+3. **DATA** - Help build or find datasets for your language
+4. **DOCUMENTATION** - Help document our discussions, progress. This is VERY much needed. Or contribute to documentation of the base "notebook" that will improve the experience of others
+5. **MENTORSHIP** - Provide advice or help tune models for their languages and datasets, or help people get started
+6. **ADMIN** - Working with so many researchers can be quite a challenge! Help out with administrative tasks
+7. **COMPUTE** - Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more!
+8. **BRAINSTORM** Join our weekly meetings, provide advice or ideas
+9. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, contributing to our [Medium publication](https://medium.com/masakhane), or engaging with media outlets
+10. **MLOps & ML Engineering** - Do you enjoy delving into the MLOps side of machine learning? Are you a software developer looking to hone-in on your ML engineer abilities? Join us to help build tools to support out reproducability, data gathering, and model sharing!
 
 Want more details? Check out our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
 
@@ -112,11 +120,12 @@ Once you have all of the above, please create a pull request into the repository
 
 #### Structure of my PR:
 
- Also see this as an example for the structure of your contribution
+Also see this as an example for the structure of your contribution
 
- Structure:
+Structure:
  ```
- /<src-lang>-<tgt-lang>
+/benchmarks
+  /<src-lang>-<tgt-lang>
     /<technique> -- this could be "jw300-baseline" or "fine-tuned-baseline" or "nig-newspaper-dataset"
       - notebook.ipynb
       - README.md
@@ -133,18 +142,19 @@ Once you have all of the above, please create a pull request into the repository
 
 Example:
 ```
-/en-xh
-  /xhnavy-data-baseline
-    - notebook.ipynb
-    - README.md
-    - test.xh
-    - test.en
-    - results.txt
-    - src_vocab.txt
-    - trg_vocab.txt
-    - en-xh.4000.bpe
-    - config.yaml
-    - preprocessing.py
+/benchmarks
+  /en-xh
+    /xhnavy-data-baseline
+      - notebook.ipynb
+      - README.md
+      - test.xh
+      - test.en
+      - results.txt
+      - src_vocab.txt
+      - trg_vocab.txt
+      - en-xh.4000.bpe
+      - config.yaml
+      - preprocessing.py
 ```
 
 Here is a link to a pull request that has the relevant things.
