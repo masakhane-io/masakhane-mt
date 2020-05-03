@@ -9,7 +9,7 @@ Author: Murhabazi B. Espoir
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- The model can be found [here](https://drive.google.com/open?id=tobeUpdated)
+	- The model can be found <a href="http://34.66.168.159/french_lingala_espoir/models/frln_transformer/340000.ckpt">Here</a>
 
 ## Analysis
 
