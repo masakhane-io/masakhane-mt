@@ -10,7 +10,7 @@ Author: Kevin DEGILA
 
 	- Default Masakhane Transformer translation model.
 	- Link to google drive folder with model(https://drive.google.com/open?id=11doYa-jfV9pwgqP9xQGbD2CYYQJ5ey9P)
-
+	- Link to other files created : https://drive.google.com/open?id=1-3IJsH2KlN8aMEO3RCFu40B_lmRdvL06
 ## Analysis
 
 Example 1
