@@ -1,0 +1,85 @@
+
+name: "enti_transformer"
+
+data:
+    src: "en"
+    trg: "ti"
+    train: "data/enti/train.bpe"
+    dev:   "data/enti/dev.bpe"
+    test:  "data/enti/test.bpe"
+    level: "bpe"
+    lowercase: False
+    max_sent_length: 100
+    src_vocab: "data/enti/vocab.txt"
+    trg_vocab: "data/enti/vocab.txt"
+
+testing:
+    beam_size: 5
+    alpha: 1.0
+
+training:
+    #load_model: "models/enti_transformer/12000.ckpt" # if given, load a pre-trained model from this checkpoint
+    random_seed: 42
+    optimizer: "adam"
+    normalization: "tokens"
+    adam_betas: [0.9, 0.999] 
+    scheduling: "noam"            # Try switching from plateau to Noam scheduling
+    learning_rate_factor: 0.5       # factor for Noam scheduler (used with Transformer)
+    learning_rate_warmup: 1000      # warmup steps for Noam scheduler (used with Transformer)
+    patience: 8
+    decrease_factor: 0.7
+    loss: "crossentropy"
+    learning_rate: 0.0002
+    learning_rate_min: 0.00000001
+    weight_decay: 0.0
+    label_smoothing: 0.1
+    batch_size: 4096
+    batch_type: "token"
+    eval_batch_size: 3600
+    eval_batch_type: "token"
+    batch_multiplier: 1
+    early_stopping_metric: "ppl"
+    epochs: 14 # TODO: Decrease for when playing around and checking of working. Around 30 is sufficient to check if its working at all
+    validation_freq: 400 # Decrease this for testing
+    logging_freq: 100
+    eval_metric: "bleu"
+    model_dir: "models/enti_transformer"
+    overwrite: True
+    shuffle: True
+    use_cuda: True
+    max_output_length: 100
+    print_valid_sents: [0, 1, 2, 3]
+    keep_last_ckpts: 3
+
+model:
+    initializer: "xavier"
+    bias_initializer: "zeros"
+    init_gain: 1.0
+    embed_initializer: "xavier"
+    embed_init_gain: 1.0
+    tied_embeddings: True
+    tied_softmax: True
+    encoder:
+        type: "transformer"
+        num_layers: 6
+        num_heads: 8
+        embeddings:
+            embedding_dim: 512
+            scale: True
+            dropout: 0.
+        # typically ff_size = 4 x hidden_size
+        hidden_size: 512
+        ff_size: 2048
+        dropout: 0.3
+    decoder:
+        type: "transformer"
+        num_layers: 6
+        num_heads: 8
+        embeddings:
+            embedding_dim: 512
+            scale: True
+            dropout: 0.
+        # typically ff_size = 4 x hidden_size
+        hidden_size: 512
+        ff_size: 2048
+        dropout: 0.3
