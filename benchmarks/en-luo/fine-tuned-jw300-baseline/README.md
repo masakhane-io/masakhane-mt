@@ -1,4 +1,4 @@
-# English to Swahili
+# English to Luo
 
 Author: Kathleen Siminyu
 
