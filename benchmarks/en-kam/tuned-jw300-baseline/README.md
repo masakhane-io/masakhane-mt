@@ -8,7 +8,7 @@ Author: Kathleen Siminyu
 
 ## Model
   
-	- Link to google drive folder with model(https://drive.google.com/open?id=1kjb2hXaSaG-Esl_SHJIptTZ9-Gw-er6f)
+	- Link to google drive folder with model(https://drive.google.com/open?id=1Y7Judrp0bakZh6mN5ScMOJ3pLr3knD2W)
 
 ## Analysis
 	- Tried out different BPE settings and managed some improvements on the baseline. Highest BLEU score I recorded was at BPE 25000. It might be worth exploring different bpe settings for the source 		and target languages. Results from different settings included in the analysis below.
