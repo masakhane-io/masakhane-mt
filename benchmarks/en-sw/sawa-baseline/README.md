@@ -17,6 +17,10 @@ Swahili sentences - 33.6k
 
 ## Model
 Default Masakhane transformer model (Using JoeyNMT)
+Link  to model:
+```sh
+https://drive.google.com/open?id=1QRltbbrPCR1r5_8bDrB5KzZr3KjAxiyT
+```
 
 ## Analysis
 
