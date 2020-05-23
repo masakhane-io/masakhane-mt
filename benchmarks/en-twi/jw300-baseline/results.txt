@@ -1,0 +1,4 @@
+2020-05-22 01:00:00,491 Hello! This is Joey-NMT.
+2020-05-22 01:00:30,322  dev bleu:  29.72 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2020-05-22 01:01:02,207 test bleu:  34.57 [Beam search decoding with beam size = 5 and alpha = 1.0]
+
