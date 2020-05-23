@@ -15,18 +15,19 @@
 | English | Hausa | 41.11 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ha/opus_en_ha_baseline) |
 | English | Igbo | 34.85 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ig/jw300-baseline) |
 | English | Isoko | 38.91 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-iso/jw300-baseline) |
-| English | Kamba | 24.96 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-kam/jw300-baseline) |
+| English | Kamba | 27.90 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-kam/tuned-jw300-baseline) |
 | English | Kimbundu | 32.76 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-kmb/jw300-baseline) |
-| English | Kikuyu | 36.06  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ki/jw300-baseline) |  
+| English | Kikuyu | 37.85  | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-ki/tuned-jw300-baseline) |  
 | English | Lingala | 48.64 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ln/jw300-baseline) |
-| English | Luo | 32.64 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-luo/jw300-baseline) |
+| English | Luo | 34.33 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-luo/fine-tuned-jw300-baseline) |
 | English | Nigerian Pidgin |  24.29   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-pcm/jw300-baseline) |
 | English | Northern Sotho (Autshumato) | 19.56  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-nso/autshumato-baseline) |
 | English | Northorn Sotho (JW300) | 15.40 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-nso/jw300-baseline) |
 | English | Sesotho  | 41.23 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-st)
 | English | Setswana |  19.66   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-tn/autshumato-baseline) |
 | English | Shona | 30.84  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sn/jw300-shona-baseline) |
-| English | kiSwahili | 48.94  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sw/jw300-baseline) |
+| English | kiSwahili (JW300) | 51.70  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sw/fine-tuned-jw300-baseline) |
+| English | kiSwahili (SAWA) | 3.60 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-sw/sawa-baseline) |
 | English | Tigrigna (JW300) | 4.02 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ti/jw300-tigrigna-baseline) |
 | English | Tigrigna (JW300+Tatoeba+more) | 14.88  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ti/tigmix-baseline) |
 | English | Tiv | 44.70 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-tiv/jw300-baseline) |
@@ -39,7 +40,7 @@
 | English | Xitsonga (Autshumato) | 13.54 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ts/autshumato-baseline) |
 | English | Yoruba |  38.62   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-yo/jw300-baseline-improve) |
 | English | isiZulu (Autshumato) |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-zu/autshumato-baseline) |
-| English | isiZulu (JW300)|  4.87 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
+| English | isiZulu (JW300)|  4.87 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-zu/jw300-baseline) |
 | Efik | English | 33.68 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/efi-en/jw300-baseline) |
 | Hausa | English | 25.27 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/ha-en/opus_ha_en_baseline) |
 | Yoruba  | English |  39.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/yo-en/jw300-baseline) |

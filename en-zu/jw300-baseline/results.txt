@@ -1,3 +1,0 @@
-2019-11-13 07:43:32,728 Hello! This is Joey-NMT.
-2019-11-13 07:44:03,502  dev bleu:  13.64 [Beam search decoding with beam size = 5 and alpha = 1.0]
-2019-11-13 07:44:24,289 test bleu:   4.87 [Beam search decoding with beam size = 5 and alpha = 1.0]
