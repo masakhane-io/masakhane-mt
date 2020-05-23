@@ -40,7 +40,7 @@
 | English | Xitsonga (Autshumato) | 13.54 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ts/autshumato-baseline) |
 | English | Yoruba |  38.62   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-yo/jw300-baseline-improve) |
 | English | isiZulu (Autshumato) |  1.96   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-zu/autshumato-baseline) |
-| English | isiZulu (JW300)|  4.87 | [link](https://github.com/masakhane-io/masakhane/tree/master/en-zu/autshumato-baseline) |
+| English | isiZulu (JW300)|  4.87 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-zu/jw300-baseline) |
 | Efik | English | 33.68 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/efi-en/jw300-baseline) |
 | Hausa | English | 25.27 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/ha-en/opus_ha_en_baseline) |
 | Yoruba  | English |  39.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/yo-en/jw300-baseline) |
