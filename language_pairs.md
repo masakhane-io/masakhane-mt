@@ -1,6 +1,7 @@
 # Current Language Pairs
 
-
+- Total number of unique language pairs: 37
+- Total number of benchmarks: 43
 
 | Source | Target | Best Test BLEU | Link |
 ---------|--------|-----------|------|
@@ -27,6 +28,7 @@
 | English | Sesotho  | 41.23 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-st)
 | English | Setswana |  19.66   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-tn/autshumato-baseline) |
 | English | Shona | 30.84  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sn/jw300-shona-baseline) |
+| English | Southern Ndebele | 26.61  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-nr/jw300-baseline) |
 | English | kiSwahili (JW300) | 51.70  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sw/fine-tuned-jw300-baseline) |
 | English | kiSwahili (SAWA) | 3.60 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-sw/sawa-baseline) |
 | English | Tigrigna (JW300) | 4.02 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ti/jw300-tigrigna-baseline) |
@@ -45,4 +47,5 @@
 | Efik | English | 33.68 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/efi-en/jw300-baseline) |
 | Hausa | English | 25.27 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/ha-en/opus_ha_en_baseline) |
 | Yoruba  | English |  39.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/yo-en/jw300-baseline) |
+| French | Lingala | 39.81 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-ln/french-lingala-baseline)
 | French | Swahili Congo | 33.73 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-swc/french-swahili_drc_baseline) |
