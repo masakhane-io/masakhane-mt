@@ -1,5 +1,5 @@
 ## Data 
-JW300 : English-Ndebele
+JW300 : English-Southern Ndebele
 
 ## Model Architecture
   ### Text Preprocessing
