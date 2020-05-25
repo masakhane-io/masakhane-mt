@@ -1,7 +1,7 @@
 # Current Language Pairs
 
-- Total number of unique language pairs: 37
-- Total number of benchmarks: 43
+- Total number of unique language pairs: 38
+- Total number of benchmarks: 45
 
 | Source | Target | Best Test BLEU | Link |
 ---------|--------|-----------|------|
@@ -28,6 +28,7 @@
 | English | Sesotho  | 41.23 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-st)
 | English | Setswana |  19.66   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-tn/autshumato-baseline) |
 | English | Shona | 30.84  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sn/jw300-shona-baseline) |
+| English | Southern Ndebele |  4.01 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-nr/ari-jw300-baseline) |
 | English | Southern Ndebele | 26.61  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-nr/jw300-baseline) |
 | English | kiSwahili (JW300) | 51.70  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sw/fine-tuned-jw300-baseline) |
 | English | kiSwahili (SAWA) | 3.60 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-sw/sawa-baseline) |
