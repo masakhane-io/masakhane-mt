@@ -27,5 +27,5 @@ JW300 : English-Southern Ndebele
 >
 >2019-11-28 13:39:12,496 test bleu:   4.01 [Beam search decoding with beam size = 5 and alpha = 1.0]
 
-Download model weights from : [here](https://drive.google.com/open?id=11uI8GOx0meBiEAv7sHrLVF1sjkiSIZ0g)
+Download model weights from : [here](https://drive.google.com/open?id=1TQ0-QU6HbFNqIGaVmkQSpBJztWOA42O3)
 .
