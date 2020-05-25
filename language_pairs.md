@@ -1,7 +1,7 @@
 # Current Language Pairs
 
-Total number of unique language pairs: 
-Total number of benchmarks:
+- Total number of unique language pairs: 37
+- Total number of benchmarks: 43
 
 | Source | Target | Best Test BLEU | Link |
 ---------|--------|-----------|------|
