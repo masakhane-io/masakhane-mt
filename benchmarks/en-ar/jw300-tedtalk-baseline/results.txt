@@ -1,0 +1,16 @@
+Steps: 364800	Loss: 58637.08203	PPL: 8.02098	bleu: 12.35948	LR: 0.00030000	*
+Steps: 425600	Loss: 57791.82812	PPL: 7.78383	bleu: 12.04040	LR: 0.00030000	*
+Steps: 486400	Loss: 56922.39844	PPL: 7.54720	bleu: 12.62519	LR: 0.00030000	*
+Steps: 547200	Loss: 56194.96875	PPL: 7.35476	bleu: 13.14656	LR: 0.00030000	*
+Steps: 608000	Loss: 55519.81250	PPL: 7.18054	bleu: 13.45213	LR: 0.00030000	*
+Steps: 668800	Loss: 55189.95703	PPL: 7.09693	bleu: 13.42099	LR: 0.00030000	*
+Steps: 729600	Loss: 54744.81641	PPL: 6.98564	bleu: 13.93490	LR: 0.00030000	*
+Steps: 790400	Loss: 54561.55469	PPL: 6.94033	bleu: 14.00730	LR: 0.00030000	*
+Steps: 851200	Loss: 54034.48438	PPL: 6.81165	bleu: 13.46862	LR: 0.00030000	*
+Steps: 912000	Loss: 53710.49219	PPL: 6.73373	bleu: 14.14789	LR: 0.00030000	*
+
+
+dev and test results
+2020-02-10 11:03:36,380  dev bleu:  15.45 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2020-02-10 11:07:02,304 test bleu:   9.28 [Beam search decoding with beam size = 5 and alpha = 1.0]
+
