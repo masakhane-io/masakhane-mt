@@ -1,6 +1,7 @@
 # Current Language Pairs
 
-
+Total number of unique language pairs: 
+Total number of benchmarks:
 
 | Source | Target | Best Test BLEU | Link |
 ---------|--------|-----------|------|
