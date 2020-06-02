@@ -1,4 +1,5 @@
 # English to Nzema
+The Nzema are an Akan people numbering about 328,700, of whom 262,000 live in southwestern Ghana and 66,700 live in the southeast of Côte d'Ivoire. In Ghana the Nzema area is divided into three electoral districts of Nzema East Municipal also referred to as Evalue Gwira, Ellembele District and Nzema West, which is also referred to as Jomoro District of Ghana. Their language is also known as Nzima (in Ghana) or Appolo (in the Ivory Coast).Wikepedia
 
 Author: Salomey OSEI
 
