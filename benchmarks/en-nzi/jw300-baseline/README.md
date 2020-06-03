@@ -10,7 +10,7 @@ Author: Salomey OSEI
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- Link to google drive folder with model(https://drive.google.com/drive/folders/1WfTLClVQs-wBO7fveVM842-oDPHeT4Oh?usp=sharing)
+	- Link to google drive folder with model(https://drive.google.com/drive/folders/1YlrPVJuNmCQqO83cwraSPFXYoeO7gVqp?usp=sharing)
 
 ## Analysis
 
@@ -42,6 +42,6 @@ Example 4
 ```
 
 # Results
-	- BLEU dev :  23.49 
-	- BLEU test : 35.53
+	- BLEU dev :  23.08 
+	- BLEU test : 35.67
 
