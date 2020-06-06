@@ -1,0 +1,3 @@
+dev bleu:  34.99 [Beam search decoding with beam size = 5 and alpha = 1.0]
+test bleu:  17.61 [Beam search decoding with beam size = 5 and alpha = 1.0]
+
