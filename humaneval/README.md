@@ -1,8 +1,8 @@
 This folder contains corrected (post-edited/pe-d) translations from Maskhane JoeyNMT models (https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks, June 2020).
 
 There are two English sources that are translated into the African languages:
-    1) Covid survey: https://coronasurveys.org/
-    2) TED talks: the Multitarget TED Talks Task (http://www.cs.jhu.edu/~kevinduh/a/multitarget-tedtalks/) 
+1. Covid survey: https://coronasurveys.org/
+2. TED talks: the Multitarget TED Talks Task (http://www.cs.jhu.edu/~kevinduh/a/multitarget-tedtalks/) 
 
 The files are named according to the source, the language, annotator id for multiple annoators, and sentence numbers for TED talks.
 Example: "pe_yo_ted_1-40_81-120.tsv" - Yoruba translations of TED talks, sentences 1-40 and 81-120.
