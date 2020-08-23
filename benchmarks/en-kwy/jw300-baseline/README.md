@@ -1,39 +1,38 @@
 # English to Lingala
 
-Author: Murhabazi B. Espoir
+Author: Berthine Nyunga Mpinda
 
 ## Data
 
-	- The JW300 English- Lingala.
+	- The JW300 English- Kikongo.
 
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- The model can be found [here](https://drive.google.com/open?id=1w-4aejEmCVpqIAa7xYw2sJVfMLNMVeKK)
-
+	
 ## Analysis
 
 Example 1
 ```ln
-    Source:     Jehovah Is Exalted
-    Reference:  Yehova akumisami
-    Hypothesis: Yehova atombwami
+    Source:     Gone will be the need for hospitals and medications .
+    Reference:  Ke vekala mfunu a tupitalu ko ngatu nlongo .
+    Hypothesis: O muntu kafwete tambula nzenza ye mboka .
 	
 ```
 
 Example 2
 ```ln
-	Source:     He goes to an Escuela Nueva , or New School , that has a flexible program designed to help children to catch up if they have to miss a few days ’ school ​ — a common occurrence , especially at harvest time .
-    Reference:  Akendeke kelasi na Escuela Nueva , to eteyelo ya sika , oyo ezali na manáka ya pɛtɛɛ mpo na kosunga bana ete bázonga nsima te ata soki bazangisi kelasi na boumeli ya mwa mikolo , likambo liyaka mbala na mbala , mingimingi na ntango ya kobuka mbuma .
-    Hypothesis: Azali kokende na Ecuela Nueva , to na Eteyelo ya Sika , oyo ezali na programɛ moko ya malamu mpenza oyo ebongisami mpo na kosalisa bana bázwa ekateli soki basengeli kozanga mwa mikolo , elingi koloba makambo oyo esalemaka mingi , mingimingi na eleko ya kobuka mbuma .
+	Source:     Such a circumstance can be very distressing .
+    Reference:  Such a circumstance can be very distressing .
+    Hypothesis: E diambu diadi dilenda kendalala .
 ```
 
 Example 3
 ```ln
-	Source:     asked an Awake ! writer .
-    Reference:  Mokomi moko ya Lamuká !
- 	Hypothesis: etunaki ye ete : “ Nakosala nini ? ”
+	Source:    If you are unsure of the answers to any of these questions , you may request a copy of the brochure What Does God Require of Us ?
+Reference:  Nkia nkanikinu miakaka mia Nkand’a Nzambi milenda wokesa e kiese muna nzo ?
+Hypothesis: Avo ke tuna ye mvutu za yuvu yayi ko , nga olenda lomba lusadisu lwa finkanda - nkanda O Nzambi Adieyi Kieleka Kevavanga kwa Yeto ? ”
 ```
 # Results
-	- BLEU dev :   32.74
-	- BLEU test :  48.64
+	- BLEU dev :   26.69
+	- BLEU test :  36.28
