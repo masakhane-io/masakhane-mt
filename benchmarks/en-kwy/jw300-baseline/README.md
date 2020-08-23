@@ -22,16 +22,16 @@ Example 1
 
 Example 2
 ```ln
-	Source:     Such a circumstance can be very distressing .
+    Source:     Such a circumstance can be very distressing .
     Reference:  Such a circumstance can be very distressing .
     Hypothesis: E diambu diadi dilenda kendalala .
 ```
 
 Example 3
 ```ln
-	Source:    If you are unsure of the answers to any of these questions , you may request a copy of the brochure What Does God Require of Us ?
-Reference:  Nkia nkanikinu miakaka mia Nkand’a Nzambi milenda wokesa e kiese muna nzo ?
-Hypothesis: Avo ke tuna ye mvutu za yuvu yayi ko , nga olenda lomba lusadisu lwa finkanda - nkanda O Nzambi Adieyi Kieleka Kevavanga kwa Yeto ? ”
+    Source:    If you are unsure of the answers to any of these questions , you may request a copy of the brochure What Does God Require of Us ?
+   Reference:  Nkia nkanikinu miakaka mia Nkand’a Nzambi milenda wokesa e kiese muna nzo ?
+   Hypothesis: Avo ke tuna ye mvutu za yuvu yayi ko , nga olenda lomba lusadisu lwa finkanda - nkanda O Nzambi Adieyi Kieleka Kevavanga kwa Yeto ? ”
 ```
 # Results
 	- BLEU dev :   26.69

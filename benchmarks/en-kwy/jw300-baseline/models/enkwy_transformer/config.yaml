@@ -1,24 +1,24 @@
 
-name: "enln_transformer"
+name: "enkwy_transformer"
 
 data:
     src: "en"
-    trg: "ln"
-    train: "data/enln/train.bpe"
-    dev:   "data/enln/dev.bpe"
-    test:  "data/enln/test.bpe"
+    trg: "kwy"
+    train: "data/enkwy/train.bpe"
+    dev:   "data/enkwy/dev.bpe"
+    test:  "data/enkwy/test.bpe"
     level: "bpe"
     lowercase: False
     max_sent_length: 100
-    src_vocab: "data/enln/vocab.txt"
-    trg_vocab: "data/enln/vocab.txt"
+    src_vocab: "data/enkwy/vocab.txt"
+    trg_vocab: "data/enkwy/vocab.txt"
 
 testing:
     beam_size: 5
     alpha: 1.0
 
 training:
-    #load_model: "en-ln-baseline/models/enln_transformer/1.ckpt" # if uncommented, load a pre-trained model from this checkpoint
+    #load_model: "/content/drive/My Drive/masakhane/en-kwy-baseline/models/enkwy_transformer/1.ckpt" # if uncommented, load a pre-trained model from this checkpoint
     random_seed: 42
     optimizer: "adam"
     normalization: "tokens"
@@ -43,7 +43,7 @@ training:
     validation_freq: 1000          # TODO: Set to at least once per epoch.
     logging_freq: 100
     eval_metric: "bleu"
-    model_dir: "models/enln_transformer"
+    model_dir: "models/enkwy_transformer"
     overwrite: False               # TODO: Set to True if you want to overwrite possibly existing models. 
     shuffle: True
     use_cuda: True
