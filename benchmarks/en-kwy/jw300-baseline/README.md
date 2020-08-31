@@ -1,4 +1,4 @@
-# English to Lingala
+# English to Kikongo
 
 Author: Berthine Nyunga Mpinda
 
@@ -9,6 +9,7 @@ Author: Berthine Nyunga Mpinda
 ## Model
 
 	- Default Masakhane Transformer translation model.
+	- The model can be found [here](https://drive.google.com/file/d/101PotGLqO3yXMLnK-9m4aoxvgPK78aqR/view?usp=sharing)
 	
 ## Analysis
 
@@ -23,7 +24,7 @@ Example 1
 Example 2
 ```ln
     Source:     Such a circumstance can be very distressing .
-    Reference:  Such a circumstance can be very distressing .
+    Reference:  Ediadi dilenda kikilu kutukendeleka .
     Hypothesis: E diambu diadi dilenda kendalala .
 ```
 
