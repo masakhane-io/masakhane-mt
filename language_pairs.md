@@ -3,6 +3,9 @@
 - Total number of unique language pairs: 38
 - Total number of benchmarks: 45
 
+Training data for the models reported below comes from [JW300](http://opus.nlpl.eu/JW300.php) unless indicated otherwise (in brackets). For details about data source, preprocessing, training configurations etc. check the notebooks provided in the folders linked for each language pair.
+The Test BLEU score is computed on the JW300 [test sets](https://github.com/masakhane-io/masakhane-mt/tree/master/jw300_utils/test) with [SacreBLEU](https://github.com/mjpost/sacrebleu) (`tokenize=None` to maintain the original JW300 tokenization). 
+
 | Source | Target | Best Test BLEU | Link |
 ---------|--------|-----------|------|
 | English | Afrikaans (Autshumato) | 19.56 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-af/autshumato-baseline) |
