@@ -166,9 +166,9 @@ Here is a link to a pull request that has the relevant things.
 
 Cool! So there are many ways to improve results. We've highlighed a few of these in [this document](MT4LRL.md). Got other ideas? Drop us a line or submit a PR!
 
-# Notes about Models
+# Notes about Model Deployment
 
-We'd like to highlight how none of the trained models are suitable for production usage. In our paper [here](https://arxiv.org/pdf/2010.02353.pdf) we explore the performance effects of training such a model on the JW300 datasets - the models are still unable to generalize to non-religious domains. 
+**We'd like to highlight how NONE of the trained models are suitable for production usage**.  In our paper [here](https://arxiv.org/pdf/2010.02353.pdf) we explore the performance effects of training such a model on the JW300 datasets - the models are still unable to generalize to non-religious domains. **It cam be harmful to deploy a model.**. These models aim to serve as **WORK IN PROGRESS** to spur more research, and to better understand the failure of such systems.
 
 
 # Code of Conduct
