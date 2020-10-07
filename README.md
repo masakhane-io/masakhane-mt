@@ -26,6 +26,7 @@ Website: [masakhane.io](https://masakhane.io)
 
 ## Progress
 
+- See our pre-print to be published at Findings of EMNLP 2020 [here](https://arxiv.org/pdf/2010.02353.pdf)
 - Look at our submitted machine translation benchmarks [here](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
 - Check out our [paper](https://arxiv.org/pdf/2003.11529) to be published at AfricaNLP Workshop @ ICLR 2020
 - Check out papers written by our participants [here](https://github.com/masakhane-io/masakhane-community/blob/master/publications.md)
@@ -164,6 +165,11 @@ Here is a link to a pull request that has the relevant things.
 ### 5. I've got a baseline. What do I do to improve it?
 
 Cool! So there are many ways to improve results. We've highlighed a few of these in [this document](MT4LRL.md). Got other ideas? Drop us a line or submit a PR!
+
+# Notes about Models
+
+We'd like to highlight how none of the trained models are suitable for production usage. In our paper [here](https://arxiv.org/pdf/2010.02353.pdf) we explore the performance effects of training such a model on the JW300 datasets - the models are still unable to generalize to non-religious domains. 
+
 
 # Code of Conduct
 
