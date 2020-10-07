@@ -168,7 +168,7 @@ Cool! So there are many ways to improve results. We've highlighed a few of these
 
 # Notes about Model Deployment
 
-**We'd like to highlight how NONE of the trained models are suitable for production usage**.  In our paper [here](https://arxiv.org/pdf/2010.02353.pdf) we explore the performance effects of training such a model on the JW300 datasets - the models are still unable to generalize to non-religious domains. **It cam be harmful to deploy a model.**. These models aim to serve as **WORK IN PROGRESS** to spur more research, and to better understand the failure of such systems.
+**We'd like to highlight how NONE of the trained models are suitable for production usage**.  In our paper [here](https://arxiv.org/pdf/2010.02353.pdf) we explore the performance effects of training such a model on the JW300 datasets - the models are still unable to generalize to non-religious domains. **As a rule, one should never deploy an NLP model in a domain that it has not been trained for. And even if it IS trained on the relevant domain, a model should be analysed in detail to understand the biases and potential harms**. These models aim to serve as **WORK IN PROGRESS** to spur more research, and to better understand the failure of such systems.
 
 
 # Code of Conduct
