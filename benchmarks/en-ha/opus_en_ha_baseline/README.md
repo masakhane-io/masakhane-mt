@@ -12,7 +12,7 @@ Author: Adewale Akinfaderin
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- Link to google drive folder with model [here](https://drive.google.com/drive/folders/1vukbwb6wqs3WDNsUVfuMr02gctiXMTqq?usp=sharing)
+	- Link to google drive folder with model [here](https://drive.google.com/drive/folders/1ARrGTpVSgXY7ceiiUyMeG1LK0kcpLS4M?usp=sharing)
 	- Updates on future experiments and other methods can be seen [here](https://github.com/WalePhenomenon/Hausa-NMT)
 
 ## Analysis
