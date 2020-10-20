@@ -12,6 +12,7 @@ The Test BLEU score is computed on the JW300 [test sets](https://github.com/masa
 | English | Afrikaans (JW300) | 45.48 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-af/jw300-baseline) |
 | English | Amharic | 2.03 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-am/jw300-amharic-baseline) |
 | English | Arabic (TED, custom) | 9.28 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ar/jw300-tedtalk-baseline) |
+| English | Cinyanja | 30 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-nya/jw-300-baseline) |
 | English | Dendi | 22.30 | [link](https://github.com/Jamiil92/masakhane/tree/master/en-ddn/live.bible.is-baseline) |
 | English | Efik | 33.48 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-efi/jw300-baseline) |
 | English | Ẹ̀dó | 12.49 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-bin/jw300-baseline) |
