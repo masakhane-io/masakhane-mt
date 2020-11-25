@@ -26,12 +26,13 @@ Website: [masakhane.io](https://masakhane.io)
 
 ## Progress
 
+- See our pre-print to be published at Findings of EMNLP 2020 [here](https://arxiv.org/pdf/2010.02353.pdf)
 - Look at our submitted machine translation benchmarks [here](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
 - Check out our [paper](https://arxiv.org/pdf/2003.11529) to be published at AfricaNLP Workshop @ ICLR 2020
-- Check out papers written by our participants [here](https://github.com/masakhane-io/masakhane/blob/master/publications.md)
-- Find our more about our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
-- Look at our list of [community documents](https://github.com/masakhane-io/masakhane/blob/master/community-documents.md)
-- Read our [weekly meeting notes](https://github.com/masakhane-io/masakhane/tree/master/meetingsummaries)
+- Check out papers written by our participants [here](https://github.com/masakhane-io/masakhane-community/blob/master/publications.md)
+- Find our more about our [current initiatives](https://github.com/masakhane-io/masakhane-community/blob/master/initiatives.md)
+- Look at our list of [community documents](https://github.com/masakhane-io/masakhane-community/blob/master/community-documents.md)
+- Read our [weekly meeting notes](https://github.com/masakhane-io/masakhane-community/tree/master/meetingsummaries)
 - Follow our publication on [Medium](https://medium.com/masakhane)
 
 ## How can I contribute?
@@ -72,8 +73,8 @@ Typically, if you have some programming experience, we encourage you to start on
 **Feeling nervous to submit or not sure where to start? Please join our weekly meeting and we will pair you with a mentor!**
 
 ### 1. Have a look at the example code
-We have an [example colab notebook](https://github.com/jaderabbit/masakhane/blob/master/starter_notebook.ipynb) which trains a model for English-to-Zulu translation. Open it in [Google Colab](google colab) - you can select it by going to the GitHub section when opening a new project.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/masakhane-io/masakhane-mt/blob/master/starter_notebook.ipynb)  
+We have an [example colab notebook](https://github.com/jaderabbit/masakhane/blob/master/starter_notebook.ipynb) which trains a model for English-to-Zulu translation. You can select it by going to the GitHub section when opening a new project.
 
 ### 2. Finding data for my language?!
 
@@ -164,6 +165,11 @@ Here is a link to a pull request that has the relevant things.
 ### 5. I've got a baseline. What do I do to improve it?
 
 Cool! So there are many ways to improve results. We've highlighed a few of these in [this document](MT4LRL.md). Got other ideas? Drop us a line or submit a PR!
+
+# Notes about Model Deployment
+
+**We'd like to highlight how NONE of the trained models are suitable for production usage**.  In our paper [here](https://arxiv.org/pdf/2010.02353.pdf) we explore the performance effects of training such a model on the JW300 datasets - the models are still unable to generalize to non-religious domains. **As a rule, one should never deploy an NLP model in a domain that it has not been trained for. And even if it IS trained on the relevant domain, a model should be analysed in detail to understand the biases and potential harms**. These models aim to serve as **WORK IN PROGRESS** to spur more research, and to better understand the failure of such systems.
+
 
 # Code of Conduct
 

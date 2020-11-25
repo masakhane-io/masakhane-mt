@@ -1,0 +1,4 @@
+2020-07-12 22:31:35,573 Hello! This is Joey-NMT.
+/pytorch/aten/src/ATen/native/BinaryOps.cpp:81: UserWarning: Integer division of tensors using div or / is deprecated, and in a future release div will perform true division as in Python 3. Use true_divide or floor_divide (// in Python) instead.
+2020-07-12 22:32:01,727  dev bleu:  17.72 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2020-07-12 22:32:46,046 test bleu:  30.09 [Beam search decoding with beam size = 5 and alpha = 1.0]
