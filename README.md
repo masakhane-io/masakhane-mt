@@ -174,3 +174,16 @@ Cool! So there are many ways to improve results. We've highlighed a few of these
 # Code of Conduct
 
 See [Code of Conduct](https://github.com/jaderabbit/masakhane/blob/master/CODE_OF_CONDUCT.md)
+
+# Reference
+
+Bibtex
+```
+@article{nekoto2020participatory,
+  title={Participatory research for low-resourced machine translation: A case study in african languages},
+  author={{$\forall$}, { } and Nekoto, Wilhelmina and Marivate, Vukosi and Matsila, Tshinondiwa and Fasubaa, Timi and Kolawole, Tajudeen and Fagbohungbe, Taiwo and Akinola, Solomon Oluwole and Muhammad, Shamsuddee Hassan and Kabongo, Salomon and Osei, Salomey and others},
+  journal={Findings of EMNLP},
+  year={2020}
+}
+```
+
