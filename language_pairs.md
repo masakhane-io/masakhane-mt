@@ -1,7 +1,7 @@
 # Current Language Pairs
 
-- Total number of unique language pairs: 39
-- Total number of benchmarks: 46
+- Total number of unique language pairs: 40
+- Total number of benchmarks: 47
 
 Training data for the models reported below comes from [JW300](http://opus.nlpl.eu/JW300.php) unless indicated otherwise (in brackets). For details about data source, preprocessing, training configurations etc. check the notebooks provided in the folders linked for each language pair.
 The Test BLEU score is computed on the JW300 [test sets](https://github.com/masakhane-io/masakhane-mt/tree/master/jw300_utils/test) with [SacreBLEU](https://github.com/mjpost/sacrebleu) (`tokenize=None` to maintain the original JW300 tokenization). 
@@ -42,6 +42,7 @@ The Test BLEU score is computed on the JW300 [test sets](https://github.com/masa
 | English | Tiv | 44.70 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-tiv/jw300-baseline) |
 | English | Tshiluba | 42.52 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-lua/jw300-baseline) |
 | English | Tshivenda | 49.57 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-ve/jw300-baseline) |
+| English | Twi | 34.57 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-twi/jw300-baseline) |
 | English | Urhobo |  28.82   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-urh/jw300-baseline) |
 | English | isiXhosa (Autshumato) | 13.32 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-xh/autshumato-baseline) |
 | English | isiXhosa (JW300) | 6.00 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-xh/jw300-baseline) |
