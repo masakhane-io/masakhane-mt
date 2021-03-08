@@ -73,8 +73,8 @@ Typically, if you have some programming experience, we encourage you to start on
 **Feeling nervous to submit or not sure where to start? Please join our weekly meeting and we will pair you with a mentor!**
 
 ### 1. Have a look at the example code
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/masakhane-io/masakhane-mt/blob/master/starter_notebook.ipynb)  
-We have an [example colab notebook](https://github.com/jaderabbit/masakhane/blob/master/starter_notebook.ipynb) which trains a model for English-to-Zulu translation. You can select it by going to the GitHub section when opening a new project.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/masakhane-io/masakhane-mt/blob/master/starter_notebook_into_English_training.ipynb)  
+We have an [example colab notebook](https://github.com/masakhane-io/masakhane-mt/blob/master/starter_notebook_into_English_training.ipynb) which trains a model for English-to-Zulu translation. You can select it by going to the GitHub section when opening a new project.
 
 ### 2. Finding data for my language?!
 
