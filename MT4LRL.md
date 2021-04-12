@@ -45,7 +45,7 @@ Resources/ examples:
 
 - [Implementation - rapid adaptation methods (Neubig)](https://github.com/neubig/rapid-adaptation)
 - [Video - rapid adaptation methods (Neubig)](https://vimeo.com/305207187)
-- [Implementation - transfer learning for low resource languages (Zorph)](https://github.com/isi-nlp/Zoph_RNN)
+- [Implementation - transfer learning for low resource languages (Zoph)](https://github.com/isi-nlp/Zoph_RNN)
 
 ### Scenario #4 - You only have a small amount of parallel data for the source-target language pair, but you have lots of monolingual data for the target and/or source language
 
