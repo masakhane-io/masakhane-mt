@@ -9,7 +9,7 @@ Author: Murhabazi B. Espoir
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- The model can be found [here](https://drive.google.com/open?id=1w-4aejEmCVpqIAa7xYw2sJVfMLNMVeKK)
+	- The model can be found [here](https://drive.google.com/file/d/1Sp6Qq3B-qj1kT1xATESGPqPc1meYQKk1/view?usp=sharing)
 
 ## Analysis
 
