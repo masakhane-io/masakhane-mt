@@ -15,7 +15,7 @@ Since many people have french as their official language I found that it may be 
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- The model can be found <a href="http://34.66.168.159/french_kiswhahili_espoir/fr-swc-baseline_v2/models/frswc_transformer/best.ckpt">Here</a>
+	- The model can be found <a href="https://drive.google.com/file/d/1vX_sCG1mIILcaENS_2MYdSAFfJqcZrez/view?usp=sharing">Here</a>
 
 ## Analysis
 
