@@ -10,7 +10,7 @@
 
 **MASAKHANE** is an research effort for NLP for African languages that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. This GitHub repository houses the data, code, results and research for building open baseline NLP results for African languages.
 
-Website: [masakhane.io](https://masakhane.io)
+Website: [masakhane.io](https://www.masakhane.io)
 
 ## Goals
 
