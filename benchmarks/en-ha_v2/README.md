@@ -9,7 +9,7 @@ Author: Tunde Ajayi
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- Link to google drive folder with model [here](https://drive.google.com/file/d/1spmmBVGc9riVK7H3f6GlUjh9oxMgShFf/view?usp=sharing)
+	- Link to google drive folder with model [here](https://drive.google.com/drive/folders/1I3BmK4-en5hdvTzWOF4gfK60e2_slowF?usp=sharing)
 	
 ## Analysis
 

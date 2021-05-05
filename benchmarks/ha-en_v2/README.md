@@ -9,7 +9,7 @@ Author: Tunde Ajayi
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- Link to google drive folder with model [here](https://drive.google.com/file/d/1_ettveHb-NSUZBL2KNJ1s_6bI-xEqL1b/view?usp=sharing)
+	- Link to google drive folder with model [here](https://drive.google.com/drive/folders/1tt9kmMQGmD2e1bLDARnPfdcZ-a2gOkYZ?usp=sharing)
 	
 ## Analysis
 
@@ -18,6 +18,7 @@ Example 0
 	Source: ( Romawa 12 : 18 ) Kuma za su sami kwanciyar hankali don suna bin ƙa’idodin Littafi Mai Tsarki . — Ishaya 48 : 18 .
  	Reference: They experience peace in their lives by applying Bible principles . ​ — Isaiah 48 : 18 .
  	Hypothesis: And they will find security because they heed Bible principles . ​ — Isaiah 48 : 18 .
+```
 
 Example 1
 ```sh
