@@ -36,7 +36,7 @@ The Test BLEU score is computed on the JW300 [test sets](https://github.com/masa
 | English | Southern Ndebele | 26.61  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-nr/jw300-baseline) | :x: |
 | English | kiSwahili (JW300) | 51.70  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-sw/fine-tuned-jw300-baseline) | :heavy_check_mark: |
 | English | kiSwahili (SAWA) | 3.60 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-sw/sawa-baseline) | :x: |
-| English | kiSwahili (SAWA+JW300) | 17.61 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-sw/sawa%2Bjw300_baseline) |
+| English | kiSwahili (SAWA+JW300) | 17.61 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-sw/sawa%2Bjw300_baseline) | :x: |
 | English | Tigrigna (JW300) | 4.02 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ti/jw300-tigrigna-baseline) | :x: |
 | English | Tigrigna (JW300+Tatoeba+more) | 14.88  | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-ti/tigmix-baseline) | :x: |
 | English | Tiv | 44.70 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/en-tiv/jw300-baseline) | :x: |
