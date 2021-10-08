@@ -1,4 +1,4 @@
-# English to Nigerian Pidgin
+# Nigerian Pidgin to English
 
 Author: Olatomiwa Akinlaja
 
