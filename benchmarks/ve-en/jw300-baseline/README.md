@@ -17,6 +17,8 @@ The notebook contains the results of training the smaller model too, but the lar
 
 ## Analysis
 At the end of the training, the results were:
+
+
 Example 1
 ```
 Source:     Vhukuma , luvalo lwa ‘ muthu wa nga ngomu ’ lu nga kha ḓi ri xedza .
@@ -32,11 +34,7 @@ Hypothesis: • How can we benefit from the training Jesus gave to his disciples
 Example 3
 ```
 Source:     Zwenezwo zwi ḓo ita uri ri kone u ḓivha phambano vhukati ha zwo lugaho na zwi songo lugaho na u dovha ra ḓivha phambano vhukati ha vhutsilu na vhuṱali . — Vhaheb . 5 : 14 ; Vhaef . 5 : 15 .
-
-
 Reference:  To remain blameless in today ’ s complex and wicked world , we must train our “ powers of discernment ” so that we can distinguish not just right from wrong but also wise from unwise. — Heb . 5 : 14 ; Eph . 5 : 15 .
-
-
 Hypothesis: That will enable us to know the difference between right and wrong and to know the difference between foolishness and wisdom and discreet peated. — Heb . 5 : 14 ; Eph . 5 : 15 .
 
 ```
