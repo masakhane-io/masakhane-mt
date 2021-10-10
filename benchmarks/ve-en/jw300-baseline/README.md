@@ -8,7 +8,7 @@ Author: Michael Beukman
 
 ## Model
 
-- Default Masakhane Transformer translation model, [into-english notebook](https://github.com/masakhane-io/masakhane-mt/blob/master/starter_notebook_into_English_training.ipynb), with some changes, specifically changing the model parameters to be larger, as specified in the TODOs
+- Default Masakhane Transformer translation model, [into-english notebook](https://github.com/masakhane-io/masakhane-mt/blob/master/starter_notebook_into_English_training.ipynb), with some changes, specifically changing the model parameters to be larger, as specified in the TODOs. We trained for 30 epochs.
 - [Link to google drive folder with models](https://drive.google.com/drive/folders/1YbmCF-xjT-bprVM0F7Sdr2Dj9kK8v_eP?usp=sharing)
 
 
