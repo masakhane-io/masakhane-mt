@@ -1,9 +1,9 @@
-## ENGLISH TO SWAHILI
-Author:  Sackey Freshia
+## Nigerian Pidgin to English
+Author:  Arnol Fokam
 ## DATA
 
 ```sh
-- The JW300 English-Swahili dataset
+- The JW300 English-Nigerian Pidgin dataset
 ```
 
 ## Model
@@ -13,38 +13,37 @@ Transformer model (Using JoeyNMT)
 Link  to model:
 
 ```sh
-https://drive.google.com/file/d/1XB00wUjQsZL81GeCLreE5Iclss4m7LgY/view?usp=sharing
+https://drive.google.com/drive/folders/1-E-FCHU1-ELacdJHLQt5vUhB8Xp1XQDc?usp=sharing
 ```
 
 ## Analysis
 
 Example 1
 ```sh
-Source:     Katika mwaka wa 1997 wasichana 90,000 walipata mimba huko Uingereza .
-Reference:  There were almost 90,000 conceptions to teenagers in England in 1997 .
-Hypothesis: In 1997 90,000 girls became pregnant in Britain .
+Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+Hypothesis: Jehovah specifically inspired Ezekiel to write on two sticks .
 ```
 Example 2
 ```sh 
-
-Source:     Lazima ujikakamue kujua kile isemacho Biblia kusudi usadikishwe na kutegemeka kwake .
-Reference:  You must exert yourself to find out what the Bible says so as to be convinced of its reliability .
-Hypothesis: You must decide to know what the Bible says to be convinced and reliable to him .
+Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+Hypothesis: BEING FORE , I have always enjoyed teaching Bible truths .
 ```
 Example 3
 ```sh
-Source:     Kwenye kituo kikuu katika jiji la Strasbourg , ambalo ni makao ya Mahakama ya Ulaya ya Haki za Kibinadamu , wasafiri walipanga foleni wakisubiri kupata nakala yao .
-Reference:  In Strasbourg , home of the European Court of Human Rights , travelers at the central station line up patiently to receive their copy .
-Hypothesis: At the center in the city of Strasbourg , a European Court of Human Rights , travelers arranged to send up in waiting for their copy .
+Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+Reference:  What “ silly ” things to do in such a Catholic country !
+Hypothesis: But it was as a Catholic country , which was as the none of Ireland , “ hurtful to get air . ”
 ```
 Example 4
 ```sh
-Source:     Kukumbatia kwingi na busu nyingi .
-Reference:  Lots of hugs and kisses .
-Hypothesis: Membering many and discreet .
+Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+Hypothesis: In 1987 , a brother asked me to look for a public message in Balykchy .
 ```
 
 ## RESULTS
-- BLEU train: 36.14
-- BLEU dev: 36.08
-- BLEU test: 48.79
+- BLEU train: 21.43
+- BLEU dev: 21.56
+- BLEU test: 32.55
