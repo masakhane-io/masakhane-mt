@@ -1,0 +1,19 @@
+2021-10-10 13:08:20,669 - INFO - root - Hello! This is Joey-NMT (version 1.3).
+2021-10-10 13:08:20,669 - INFO - joeynmt.data - Building vocabulary...
+2021-10-10 13:08:20,970 - INFO - joeynmt.data - Loading dev data...
+2021-10-10 13:08:20,982 - INFO - joeynmt.data - Loading test data...
+2021-10-10 13:08:21,035 - INFO - joeynmt.data - Data loaded.
+2021-10-10 13:08:21,055 - INFO - joeynmt.prediction - Process device: cuda, n_gpu: 1, batch_size per device: 3600
+2021-10-10 13:08:21,055 - INFO - joeynmt.prediction - Loading model from models/tnen_reverse_transformer/47000.ckpt
+2021-10-10 13:08:24,531 - INFO - joeynmt.model - Building an encoder-decoder model...
+2021-10-10 13:08:25,321 - INFO - joeynmt.model - Enc-dec model built.
+2021-10-10 13:08:25,473 - INFO - joeynmt.prediction - Decoding on dev set (data/tnen/dev.bpe.en)...
+2021-10-10 13:09:25,069 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-10 13:09:25,069 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-10 13:09:25,069 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-10 13:09:25,075 - INFO - joeynmt.prediction -  dev bleu[13a]:  35.00 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2021-10-10 13:09:25,075 - INFO - joeynmt.prediction - Decoding on test set (data/tnen/test.bpe.en)...
+2021-10-10 13:10:51,728 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-10 13:10:51,728 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-10 13:10:51,728 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-10 13:10:51,741 - INFO - joeynmt.prediction - test bleu[13a]:  41.22 [Beam search decoding with beam size = 5 and alpha = 1.0]
