@@ -12,6 +12,7 @@ Author: Michael Beukman
 - [Link to google drive folder with models](https://drive.google.com/drive/folders/1XOgy2VNkQ_7oDWvW2EKiaJvNGf13qT29?usp=sharing)
 
 
+Note, the final config provided here has a load_model directive, which was created by the notebook, and is still reproducible.
 
 ## Analysis
 At the end of the training, the results were:
