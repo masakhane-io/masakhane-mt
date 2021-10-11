@@ -22,7 +22,7 @@ Example 0
 
 Example 1
 ```sh
-	ource:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
 	Hypothesis: BEING THE Bible truth was a real real understanding .
 ```
