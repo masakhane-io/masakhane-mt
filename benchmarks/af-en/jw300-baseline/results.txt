@@ -1,0 +1,2 @@
+2021-10-10 05:59:31,826 - INFO - joeynmt.prediction -  dev bleu[13a]:  51.47 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2021-10-10 06:01:47,043 - INFO - joeynmt.prediction - test bleu[13a]:  57.22 [Beam search decoding with beam size = 5 and alpha = 1.0]
