@@ -9,8 +9,9 @@ Student Number: 1603701
 
 ## Model
 
-	- Masakhane Reverse Machine Translation - Transformer.
-	- [Link to google drive folder with models] (https://drive.google.com/drive/folders/1jK2ur0rb_iWPB0Q9tUfX2F5x2LXAU1Lp?usp=sharing)
+Masakhane Reverse Machine Translation - Transformer.
+
+Link to google drive folder with [models](https://drive.google.com/drive/folders/1jK2ur0rb_iWPB0Q9tUfX2F5x2LXAU1Lp?usp=sharing)
 
 ## Analysis
 
@@ -26,9 +27,7 @@ Example 1
 Example 2
 ```
 	Source:     UPawulos wabongoza amaKristu awayekhonza nawo esithi : “ Nizeke kade umsindo kubo bonke . ” ( 1 Tesalonika 5 : 14 ) Ekubeni sonke singafezekanga yaye sisenza iimpazamo , ngokuqinisekileyo sifuna abantu babe nomonde kuthi , bazeke kade umsindo xa sibaphatha ngendlela engafanelekanga .
-
 	Reference:  Paul urged fellow Christians : “ Be long-suffering toward all . ” ( 1 Thessalonians 5 : 14 ) Since all of us are imperfect and make mistakes , surely we want people to be patient with us , to be long-suffering when we err in our dealings with them .
-	
 	Hypothesis: Paul urged Christians to serve him : “ You must be long-suffering to all . ” ( 1 Thessalonians 5 : 14 ) Since all of us are imperfect and make mistakes , we certainly want men to be patient to us , even when we treat the wrong way .
 ```
 
