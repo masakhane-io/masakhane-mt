@@ -1,0 +1,3 @@
+2021-10-14 14:56:24,225 - INFO - root - Hello! This is Joey-NMT (version 1.3).
+2021-10-14 14:57:58,936 - INFO - joeynmt.prediction -  dev bleu[13a]:  28.55 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2021-10-14 15:00:02,097 - INFO - joeynmt.prediction - test bleu[13a]:  34.80 [Beam search decoding with beam size = 5 and alpha = 1.0]
