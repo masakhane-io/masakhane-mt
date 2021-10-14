@@ -1,15 +1,15 @@
-# English to Shona
+# Shona to Shona
 
-Author: Blessing Sibanda
+Author: Walter Musara
 
 ## Data
 
-	- The JW300 English - Shona.
+	- The JW300 Shona - English.
 
 ## Model
 
 	- Default Masakhane Transformer translation model.
-	- The model https://drive.google.com/file/d/11L2-AEBpGbAUepLM0-R5Bd81R9vnqno0/view?usp=sharing 
+	- The model https://drive.google.com/drive/folders/10VNcq8jmB49wat8LSawoyVdsWPry1lUd?usp=sharing 
 
 ## Analysis
 
@@ -35,5 +35,5 @@ Hypothesis: Do Not Expect to Be Have Everything
 
 
 # Results
-	- BLEU dev :   33.36 
-	- BLEU test :  38.42
+	- BLEU dev :   20.69
+	- BLEU test :  25.02
