@@ -38,7 +38,7 @@ Example 4
 ```sh
 	Source: Moprofesara Rudolf Schenkel , mophologi wa tlhaselo ya tšhukudu yo go boletšwego ka yena pejana o lla ka therešo ya gore motho o itirile lenaba le nnoši leo tšhukudu e nago le lona .
  	Reference: Professor Rudolf Schenkel , the survivor of the rhino charge described earlier , laments the fact that man has made himself the only enemy the rhino has .
- 	Hypothesis: Ndi mushindike ne : badi mu tshivulukilu tshia Yehowa bua kuindila dibika dia bafue .
+ 	Hypothesis: Professor Rudolf Schenkel , a primarily relief mentioned earlier charges the fact that a person has a solid enemy .
 ```
 
 # Results
