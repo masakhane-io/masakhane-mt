@@ -17,7 +17,7 @@ Example 0
 ```sh
 	Source:     My pa was die groepkneg , die term wat destyds gebruik is vir die broer wat die leiding in ’ n gemeente geneem het .
 	Reference:  Father was the company servant , the term then used for the one taking the lead in a congregation .
-	Hypothesis: My father was the group servant , the term used then for the brother who took the lead in a congregation .
+	Hypothesis: Father was the group servant , the term used at that time for the brother who took the lead in a congregation .
 ```
 
 Example 2
@@ -38,9 +38,9 @@ Example 4
 ```sh
 	Source:     HOEKOM MOET ONS GEESTELIKE DOELWITTE STEL ?
 	Reference:  WHY SET SPIRITUAL GOALS ?
-	Hypothesis: HOW DOLD MOTHER WE WE DOLD SECTED ?
+	Hypothesis: HOW DOLE MOST WE US GEESTELICE DOELWITS STEL ?
 ```
 
 # Results
-	- BLEU dev :  44.15
-	- BLEU test : 52.19
+	- BLEU dev :  44.44
+	- BLEU test : 52.38
