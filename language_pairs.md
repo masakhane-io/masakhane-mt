@@ -1,6 +1,6 @@
 # Current Language Pairs
 
-- Total number of unique language pairs: 40
+- Total number of unique language pairs: 44
 - Total number of benchmarks: 47
 
 Training data for the models reported below comes from [JW300](http://opus.nlpl.eu/JW300.php) unless indicated otherwise (in brackets). For details about data source, preprocessing, training configurations etc. check the notebooks provided in the folders linked for each language pair.
