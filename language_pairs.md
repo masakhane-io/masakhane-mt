@@ -1,7 +1,7 @@
 # Current Language Pairs
 
-- Total number of unique language pairs: 40
-- Total number of benchmarks: 47
+- Total number of unique language pairs: 44
+- Total number of benchmarks: 52
 
 Training data for the models reported below comes from [JW300](http://opus.nlpl.eu/JW300.php) unless indicated otherwise (in brackets). For details about data source, preprocessing, training configurations etc. check the notebooks provided in the folders linked for each language pair.
 The Test BLEU score is computed on the JW300 [test sets](https://github.com/masakhane-io/masakhane-mt/tree/master/jw300_utils/test) with [SacreBLEU](https://github.com/mjpost/sacrebleu) (`tokenize=None` to maintain the original JW300 tokenization). 
@@ -57,4 +57,7 @@ The Test BLEU score is computed on the JW300 [test sets](https://github.com/masa
 | French | Lingala | 39.81 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-ln/french-lingala-baseline) | :x: |
 | French | Swahili Congo | 33.73 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-swc/french-swahili_drc_baseline) | :x: |
 | Nigerian Pidgin | English | 24.95 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/pcm-en/jw300-baseline) | :x: |
+| Tshivenda | English | 46.82 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/ve-en/jw300-baseline) | :x: |
+| Southern Ndebele | English | 40.56 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/nr-en/jw300-baseline) | :x: |
+| Afrikaans (JW300) | English | 57.22 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/af-en/jw300-baseline) | :x: |
 
