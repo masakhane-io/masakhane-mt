@@ -1,0 +1,588 @@
+2021-10-08 14:50:40,359 - INFO - root - Hello! This is Joey-NMT (version 1.3).
+2021-10-08 14:50:40,388 - INFO - joeynmt.data - Loading training data...
+2021-10-08 14:50:40,656 - INFO - joeynmt.data - Building vocabulary...
+2021-10-08 14:50:40,928 - INFO - joeynmt.data - Loading dev data...
+2021-10-08 14:50:40,939 - INFO - joeynmt.data - Loading test data...
+2021-10-08 14:50:40,959 - INFO - joeynmt.data - Data loaded.
+2021-10-08 14:50:40,959 - INFO - joeynmt.model - Building an encoder-decoder model...
+2021-10-08 14:50:41,207 - INFO - joeynmt.model - Enc-dec model built.
+2021-10-08 14:50:42,204 - DEBUG - tensorflow - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2021-10-08 14:50:42,347 - DEBUG - h5py._conv - Creating converter from 7 to 5
+2021-10-08 14:50:42,347 - DEBUG - h5py._conv - Creating converter from 5 to 7
+2021-10-08 14:50:42,347 - DEBUG - h5py._conv - Creating converter from 7 to 5
+2021-10-08 14:50:42,348 - DEBUG - h5py._conv - Creating converter from 5 to 7
+2021-10-08 14:50:42,879 - INFO - joeynmt.training - Total params: 12099072
+2021-10-08 14:50:42,880 - DEBUG - joeynmt.training - Trainable parameters: ['decoder.layer_norm.bias', 'decoder.layer_norm.weight', 'decoder.layers.0.dec_layer_norm.bias', 'decoder.layers.0.dec_layer_norm.weight', 'decoder.layers.0.feed_forward.layer_norm.bias', 'decoder.layers.0.feed_forward.layer_norm.weight', 'decoder.layers.0.feed_forward.pwff_layer.0.bias', 'decoder.layers.0.feed_forward.pwff_layer.0.weight', 'decoder.layers.0.feed_forward.pwff_layer.3.bias', 'decoder.layers.0.feed_forward.pwff_layer.3.weight', 'decoder.layers.0.src_trg_att.k_layer.bias', 'decoder.layers.0.src_trg_att.k_layer.weight', 'decoder.layers.0.src_trg_att.output_layer.bias', 'decoder.layers.0.src_trg_att.output_layer.weight', 'decoder.layers.0.src_trg_att.q_layer.bias', 'decoder.layers.0.src_trg_att.q_layer.weight', 'decoder.layers.0.src_trg_att.v_layer.bias', 'decoder.layers.0.src_trg_att.v_layer.weight', 'decoder.layers.0.trg_trg_att.k_layer.bias', 'decoder.layers.0.trg_trg_att.k_layer.weight', 'decoder.layers.0.trg_trg_att.output_layer.bias', 'decoder.layers.0.trg_trg_att.output_layer.weight', 'decoder.layers.0.trg_trg_att.q_layer.bias', 'decoder.layers.0.trg_trg_att.q_layer.weight', 'decoder.layers.0.trg_trg_att.v_layer.bias', 'decoder.layers.0.trg_trg_att.v_layer.weight', 'decoder.layers.0.x_layer_norm.bias', 'decoder.layers.0.x_layer_norm.weight', 'decoder.layers.1.dec_layer_norm.bias', 'decoder.layers.1.dec_layer_norm.weight', 'decoder.layers.1.feed_forward.layer_norm.bias', 'decoder.layers.1.feed_forward.layer_norm.weight', 'decoder.layers.1.feed_forward.pwff_layer.0.bias', 'decoder.layers.1.feed_forward.pwff_layer.0.weight', 'decoder.layers.1.feed_forward.pwff_layer.3.bias', 'decoder.layers.1.feed_forward.pwff_layer.3.weight', 'decoder.layers.1.src_trg_att.k_layer.bias', 'decoder.layers.1.src_trg_att.k_layer.weight', 'decoder.layers.1.src_trg_att.output_layer.bias', 'decoder.layers.1.src_trg_att.output_layer.weight', 'decoder.layers.1.src_trg_att.q_layer.bias', 'decoder.layers.1.src_trg_att.q_layer.weight', 'decoder.layers.1.src_trg_att.v_layer.bias', 'decoder.layers.1.src_trg_att.v_layer.weight', 'decoder.layers.1.trg_trg_att.k_layer.bias', 'decoder.layers.1.trg_trg_att.k_layer.weight', 'decoder.layers.1.trg_trg_att.output_layer.bias', 'decoder.layers.1.trg_trg_att.output_layer.weight', 'decoder.layers.1.trg_trg_att.q_layer.bias', 'decoder.layers.1.trg_trg_att.q_layer.weight', 'decoder.layers.1.trg_trg_att.v_layer.bias', 'decoder.layers.1.trg_trg_att.v_layer.weight', 'decoder.layers.1.x_layer_norm.bias', 'decoder.layers.1.x_layer_norm.weight', 'decoder.layers.2.dec_layer_norm.bias', 'decoder.layers.2.dec_layer_norm.weight', 'decoder.layers.2.feed_forward.layer_norm.bias', 'decoder.layers.2.feed_forward.layer_norm.weight', 'decoder.layers.2.feed_forward.pwff_layer.0.bias', 'decoder.layers.2.feed_forward.pwff_layer.0.weight', 'decoder.layers.2.feed_forward.pwff_layer.3.bias', 'decoder.layers.2.feed_forward.pwff_layer.3.weight', 'decoder.layers.2.src_trg_att.k_layer.bias', 'decoder.layers.2.src_trg_att.k_layer.weight', 'decoder.layers.2.src_trg_att.output_layer.bias', 'decoder.layers.2.src_trg_att.output_layer.weight', 'decoder.layers.2.src_trg_att.q_layer.bias', 'decoder.layers.2.src_trg_att.q_layer.weight', 'decoder.layers.2.src_trg_att.v_layer.bias', 'decoder.layers.2.src_trg_att.v_layer.weight', 'decoder.layers.2.trg_trg_att.k_layer.bias', 'decoder.layers.2.trg_trg_att.k_layer.weight', 'decoder.layers.2.trg_trg_att.output_layer.bias', 'decoder.layers.2.trg_trg_att.output_layer.weight', 'decoder.layers.2.trg_trg_att.q_layer.bias', 'decoder.layers.2.trg_trg_att.q_layer.weight', 'decoder.layers.2.trg_trg_att.v_layer.bias', 'decoder.layers.2.trg_trg_att.v_layer.weight', 'decoder.layers.2.x_layer_norm.bias', 'decoder.layers.2.x_layer_norm.weight', 'decoder.layers.3.dec_layer_norm.bias', 'decoder.layers.3.dec_layer_norm.weight', 'decoder.layers.3.feed_forward.layer_norm.bias', 'decoder.layers.3.feed_forward.layer_norm.weight', 'decoder.layers.3.feed_forward.pwff_layer.0.bias', 'decoder.layers.3.feed_forward.pwff_layer.0.weight', 'decoder.layers.3.feed_forward.pwff_layer.3.bias', 'decoder.layers.3.feed_forward.pwff_layer.3.weight', 'decoder.layers.3.src_trg_att.k_layer.bias', 'decoder.layers.3.src_trg_att.k_layer.weight', 'decoder.layers.3.src_trg_att.output_layer.bias', 'decoder.layers.3.src_trg_att.output_layer.weight', 'decoder.layers.3.src_trg_att.q_layer.bias', 'decoder.layers.3.src_trg_att.q_layer.weight', 'decoder.layers.3.src_trg_att.v_layer.bias', 'decoder.layers.3.src_trg_att.v_layer.weight', 'decoder.layers.3.trg_trg_att.k_layer.bias', 'decoder.layers.3.trg_trg_att.k_layer.weight', 'decoder.layers.3.trg_trg_att.output_layer.bias', 'decoder.layers.3.trg_trg_att.output_layer.weight', 'decoder.layers.3.trg_trg_att.q_layer.bias', 'decoder.layers.3.trg_trg_att.q_layer.weight', 'decoder.layers.3.trg_trg_att.v_layer.bias', 'decoder.layers.3.trg_trg_att.v_layer.weight', 'decoder.layers.3.x_layer_norm.bias', 'decoder.layers.3.x_layer_norm.weight', 'decoder.layers.4.dec_layer_norm.bias', 'decoder.layers.4.dec_layer_norm.weight', 'decoder.layers.4.feed_forward.layer_norm.bias', 'decoder.layers.4.feed_forward.layer_norm.weight', 'decoder.layers.4.feed_forward.pwff_layer.0.bias', 'decoder.layers.4.feed_forward.pwff_layer.0.weight', 'decoder.layers.4.feed_forward.pwff_layer.3.bias', 'decoder.layers.4.feed_forward.pwff_layer.3.weight', 'decoder.layers.4.src_trg_att.k_layer.bias', 'decoder.layers.4.src_trg_att.k_layer.weight', 'decoder.layers.4.src_trg_att.output_layer.bias', 'decoder.layers.4.src_trg_att.output_layer.weight', 'decoder.layers.4.src_trg_att.q_layer.bias', 'decoder.layers.4.src_trg_att.q_layer.weight', 'decoder.layers.4.src_trg_att.v_layer.bias', 'decoder.layers.4.src_trg_att.v_layer.weight', 'decoder.layers.4.trg_trg_att.k_layer.bias', 'decoder.layers.4.trg_trg_att.k_layer.weight', 'decoder.layers.4.trg_trg_att.output_layer.bias', 'decoder.layers.4.trg_trg_att.output_layer.weight', 'decoder.layers.4.trg_trg_att.q_layer.bias', 'decoder.layers.4.trg_trg_att.q_layer.weight', 'decoder.layers.4.trg_trg_att.v_layer.bias', 'decoder.layers.4.trg_trg_att.v_layer.weight', 'decoder.layers.4.x_layer_norm.bias', 'decoder.layers.4.x_layer_norm.weight', 'decoder.layers.5.dec_layer_norm.bias', 'decoder.layers.5.dec_layer_norm.weight', 'decoder.layers.5.feed_forward.layer_norm.bias', 'decoder.layers.5.feed_forward.layer_norm.weight', 'decoder.layers.5.feed_forward.pwff_layer.0.bias', 'decoder.layers.5.feed_forward.pwff_layer.0.weight', 'decoder.layers.5.feed_forward.pwff_layer.3.bias', 'decoder.layers.5.feed_forward.pwff_layer.3.weight', 'decoder.layers.5.src_trg_att.k_layer.bias', 'decoder.layers.5.src_trg_att.k_layer.weight', 'decoder.layers.5.src_trg_att.output_layer.bias', 'decoder.layers.5.src_trg_att.output_layer.weight', 'decoder.layers.5.src_trg_att.q_layer.bias', 'decoder.layers.5.src_trg_att.q_layer.weight', 'decoder.layers.5.src_trg_att.v_layer.bias', 'decoder.layers.5.src_trg_att.v_layer.weight', 'decoder.layers.5.trg_trg_att.k_layer.bias', 'decoder.layers.5.trg_trg_att.k_layer.weight', 'decoder.layers.5.trg_trg_att.output_layer.bias', 'decoder.layers.5.trg_trg_att.output_layer.weight', 'decoder.layers.5.trg_trg_att.q_layer.bias', 'decoder.layers.5.trg_trg_att.q_layer.weight', 'decoder.layers.5.trg_trg_att.v_layer.bias', 'decoder.layers.5.trg_trg_att.v_layer.weight', 'decoder.layers.5.x_layer_norm.bias', 'decoder.layers.5.x_layer_norm.weight', 'encoder.layer_norm.bias', 'encoder.layer_norm.weight', 'encoder.layers.0.feed_forward.layer_norm.bias', 'encoder.layers.0.feed_forward.layer_norm.weight', 'encoder.layers.0.feed_forward.pwff_layer.0.bias', 'encoder.layers.0.feed_forward.pwff_layer.0.weight', 'encoder.layers.0.feed_forward.pwff_layer.3.bias', 'encoder.layers.0.feed_forward.pwff_layer.3.weight', 'encoder.layers.0.layer_norm.bias', 'encoder.layers.0.layer_norm.weight', 'encoder.layers.0.src_src_att.k_layer.bias', 'encoder.layers.0.src_src_att.k_layer.weight', 'encoder.layers.0.src_src_att.output_layer.bias', 'encoder.layers.0.src_src_att.output_layer.weight', 'encoder.layers.0.src_src_att.q_layer.bias', 'encoder.layers.0.src_src_att.q_layer.weight', 'encoder.layers.0.src_src_att.v_layer.bias', 'encoder.layers.0.src_src_att.v_layer.weight', 'encoder.layers.1.feed_forward.layer_norm.bias', 'encoder.layers.1.feed_forward.layer_norm.weight', 'encoder.layers.1.feed_forward.pwff_layer.0.bias', 'encoder.layers.1.feed_forward.pwff_layer.0.weight', 'encoder.layers.1.feed_forward.pwff_layer.3.bias', 'encoder.layers.1.feed_forward.pwff_layer.3.weight', 'encoder.layers.1.layer_norm.bias', 'encoder.layers.1.layer_norm.weight', 'encoder.layers.1.src_src_att.k_layer.bias', 'encoder.layers.1.src_src_att.k_layer.weight', 'encoder.layers.1.src_src_att.output_layer.bias', 'encoder.layers.1.src_src_att.output_layer.weight', 'encoder.layers.1.src_src_att.q_layer.bias', 'encoder.layers.1.src_src_att.q_layer.weight', 'encoder.layers.1.src_src_att.v_layer.bias', 'encoder.layers.1.src_src_att.v_layer.weight', 'encoder.layers.2.feed_forward.layer_norm.bias', 'encoder.layers.2.feed_forward.layer_norm.weight', 'encoder.layers.2.feed_forward.pwff_layer.0.bias', 'encoder.layers.2.feed_forward.pwff_layer.0.weight', 'encoder.layers.2.feed_forward.pwff_layer.3.bias', 'encoder.layers.2.feed_forward.pwff_layer.3.weight', 'encoder.layers.2.layer_norm.bias', 'encoder.layers.2.layer_norm.weight', 'encoder.layers.2.src_src_att.k_layer.bias', 'encoder.layers.2.src_src_att.k_layer.weight', 'encoder.layers.2.src_src_att.output_layer.bias', 'encoder.layers.2.src_src_att.output_layer.weight', 'encoder.layers.2.src_src_att.q_layer.bias', 'encoder.layers.2.src_src_att.q_layer.weight', 'encoder.layers.2.src_src_att.v_layer.bias', 'encoder.layers.2.src_src_att.v_layer.weight', 'encoder.layers.3.feed_forward.layer_norm.bias', 'encoder.layers.3.feed_forward.layer_norm.weight', 'encoder.layers.3.feed_forward.pwff_layer.0.bias', 'encoder.layers.3.feed_forward.pwff_layer.0.weight', 'encoder.layers.3.feed_forward.pwff_layer.3.bias', 'encoder.layers.3.feed_forward.pwff_layer.3.weight', 'encoder.layers.3.layer_norm.bias', 'encoder.layers.3.layer_norm.weight', 'encoder.layers.3.src_src_att.k_layer.bias', 'encoder.layers.3.src_src_att.k_layer.weight', 'encoder.layers.3.src_src_att.output_layer.bias', 'encoder.layers.3.src_src_att.output_layer.weight', 'encoder.layers.3.src_src_att.q_layer.bias', 'encoder.layers.3.src_src_att.q_layer.weight', 'encoder.layers.3.src_src_att.v_layer.bias', 'encoder.layers.3.src_src_att.v_layer.weight', 'encoder.layers.4.feed_forward.layer_norm.bias', 'encoder.layers.4.feed_forward.layer_norm.weight', 'encoder.layers.4.feed_forward.pwff_layer.0.bias', 'encoder.layers.4.feed_forward.pwff_layer.0.weight', 'encoder.layers.4.feed_forward.pwff_layer.3.bias', 'encoder.layers.4.feed_forward.pwff_layer.3.weight', 'encoder.layers.4.layer_norm.bias', 'encoder.layers.4.layer_norm.weight', 'encoder.layers.4.src_src_att.k_layer.bias', 'encoder.layers.4.src_src_att.k_layer.weight', 'encoder.layers.4.src_src_att.output_layer.bias', 'encoder.layers.4.src_src_att.output_layer.weight', 'encoder.layers.4.src_src_att.q_layer.bias', 'encoder.layers.4.src_src_att.q_layer.weight', 'encoder.layers.4.src_src_att.v_layer.bias', 'encoder.layers.4.src_src_att.v_layer.weight', 'encoder.layers.5.feed_forward.layer_norm.bias', 'encoder.layers.5.feed_forward.layer_norm.weight', 'encoder.layers.5.feed_forward.pwff_layer.0.bias', 'encoder.layers.5.feed_forward.pwff_layer.0.weight', 'encoder.layers.5.feed_forward.pwff_layer.3.bias', 'encoder.layers.5.feed_forward.pwff_layer.3.weight', 'encoder.layers.5.layer_norm.bias', 'encoder.layers.5.layer_norm.weight', 'encoder.layers.5.src_src_att.k_layer.bias', 'encoder.layers.5.src_src_att.k_layer.weight', 'encoder.layers.5.src_src_att.output_layer.bias', 'encoder.layers.5.src_src_att.output_layer.weight', 'encoder.layers.5.src_src_att.q_layer.bias', 'encoder.layers.5.src_src_att.q_layer.weight', 'encoder.layers.5.src_src_att.v_layer.bias', 'encoder.layers.5.src_src_att.v_layer.weight', 'src_embed.lut.weight']
+2021-10-08 14:50:42,881 - WARNING - joeynmt.training - `keep_last_ckpts` option is outdated. Please use `keep_best_ckpts`, instead.
+2021-10-08 14:50:45,028 - INFO - joeynmt.helpers - cfg.name                           : pcmen_reverse_transformer
+2021-10-08 14:50:45,029 - INFO - joeynmt.helpers - cfg.data.src                       : pcm
+2021-10-08 14:50:45,029 - INFO - joeynmt.helpers - cfg.data.trg                       : en
+2021-10-08 14:50:45,029 - INFO - joeynmt.helpers - cfg.data.train                     : data/pcmen/train.bpe
+2021-10-08 14:50:45,029 - INFO - joeynmt.helpers - cfg.data.dev                       : data/pcmen/dev.bpe
+2021-10-08 14:50:45,029 - INFO - joeynmt.helpers - cfg.data.test                      : data/pcmen/test.bpe
+2021-10-08 14:50:45,029 - INFO - joeynmt.helpers - cfg.data.level                     : bpe
+2021-10-08 14:50:45,029 - INFO - joeynmt.helpers - cfg.data.lowercase                 : False
+2021-10-08 14:50:45,029 - INFO - joeynmt.helpers - cfg.data.max_sent_length           : 100
+2021-10-08 14:50:45,030 - INFO - joeynmt.helpers - cfg.data.src_vocab                 : data/pcmen/vocab.txt
+2021-10-08 14:50:45,030 - INFO - joeynmt.helpers - cfg.data.trg_vocab                 : data/pcmen/vocab.txt
+2021-10-08 14:50:45,030 - INFO - joeynmt.helpers - cfg.testing.beam_size              : 5
+2021-10-08 14:50:45,030 - INFO - joeynmt.helpers - cfg.testing.alpha                  : 1.0
+2021-10-08 14:50:45,030 - INFO - joeynmt.helpers - cfg.training.random_seed           : 42
+2021-10-08 14:50:45,030 - INFO - joeynmt.helpers - cfg.training.optimizer             : adam
+2021-10-08 14:50:45,030 - INFO - joeynmt.helpers - cfg.training.normalization         : tokens
+2021-10-08 14:50:45,030 - INFO - joeynmt.helpers - cfg.training.adam_betas            : [0.9, 0.999]
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.scheduling            : plateau
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.patience              : 5
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.learning_rate_factor  : 0.5
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.learning_rate_warmup  : 1000
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.decrease_factor       : 0.7
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.loss                  : crossentropy
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.learning_rate         : 0.0003
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.learning_rate_min     : 1e-08
+2021-10-08 14:50:45,031 - INFO - joeynmt.helpers - cfg.training.weight_decay          : 0.0
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.label_smoothing       : 0.1
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.batch_size            : 4096
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.batch_type            : token
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.eval_batch_size       : 3600
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.eval_batch_type       : token
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.batch_multiplier      : 1
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.early_stopping_metric : ppl
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.epochs                : 30
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.validation_freq       : 1000
+2021-10-08 14:50:45,032 - INFO - joeynmt.helpers - cfg.training.logging_freq          : 100
+2021-10-08 14:50:45,033 - INFO - joeynmt.helpers - cfg.training.eval_metric           : bleu
+2021-10-08 14:50:45,033 - INFO - joeynmt.helpers - cfg.training.model_dir             : models/pcmen_reverse_transformer
+2021-10-08 14:50:45,033 - INFO - joeynmt.helpers - cfg.training.overwrite             : True
+2021-10-08 14:50:45,033 - INFO - joeynmt.helpers - cfg.training.shuffle               : True
+2021-10-08 14:50:45,033 - INFO - joeynmt.helpers - cfg.training.use_cuda              : True
+2021-10-08 14:50:45,033 - INFO - joeynmt.helpers - cfg.training.max_output_length     : 100
+2021-10-08 14:50:45,033 - INFO - joeynmt.helpers - cfg.training.print_valid_sents     : [0, 1, 2, 3]
+2021-10-08 14:50:45,033 - INFO - joeynmt.helpers - cfg.training.keep_last_ckpts       : 3
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.initializer              : xavier
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.bias_initializer         : zeros
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.init_gain                : 1.0
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.embed_initializer        : xavier
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.embed_init_gain          : 1.0
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.tied_embeddings          : True
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.tied_softmax             : True
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.encoder.type             : transformer
+2021-10-08 14:50:45,034 - INFO - joeynmt.helpers - cfg.model.encoder.num_layers       : 6
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.encoder.num_heads        : 4
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.encoder.embeddings.embedding_dim : 256
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.encoder.embeddings.scale : True
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.encoder.embeddings.dropout : 0.2
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.encoder.hidden_size      : 256
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.encoder.ff_size          : 1024
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.encoder.dropout          : 0.3
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.decoder.type             : transformer
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.decoder.num_layers       : 6
+2021-10-08 14:50:45,035 - INFO - joeynmt.helpers - cfg.model.decoder.num_heads        : 4
+2021-10-08 14:50:45,036 - INFO - joeynmt.helpers - cfg.model.decoder.embeddings.embedding_dim : 256
+2021-10-08 14:50:45,036 - INFO - joeynmt.helpers - cfg.model.decoder.embeddings.scale : True
+2021-10-08 14:50:45,036 - INFO - joeynmt.helpers - cfg.model.decoder.embeddings.dropout : 0.2
+2021-10-08 14:50:45,036 - INFO - joeynmt.helpers - cfg.model.decoder.hidden_size      : 256
+2021-10-08 14:50:45,036 - INFO - joeynmt.helpers - cfg.model.decoder.ff_size          : 1024
+2021-10-08 14:50:45,036 - INFO - joeynmt.helpers - cfg.model.decoder.dropout          : 0.3
+2021-10-08 14:50:45,036 - INFO - joeynmt.helpers - Data set sizes: 
+	train 20886,
+	valid 1000,
+	test 2101
+2021-10-08 14:50:45,036 - INFO - joeynmt.helpers - First training example:
+	[SRC] And this time , dem adver@@ ti@@ se im talk for new@@ sp@@ ap@@ er for B@@ el@@ fast and D@@ u@@ bl@@ in . Brother Russell sey the people listen well well to im talk about the faith wey Abraham get and the blessing wey human being go get for front .
+	[TRG] Russell re@@ coun@@ ted that the “ au@@ di@@ ences were very atten@@ tive ” to the sub@@ ject “ The O@@ a@@ th@@ -@@ B@@ ound Promi@@ se ” about Abraham ’ s faith and the future blessings for mankind .
+2021-10-08 14:50:45,037 - INFO - joeynmt.helpers - First 10 words (src): (0) <unk> (1) <pad> (2) <s> (3) </s> (4) . (5) , (6) the (7) to (8) dey (9) and
+2021-10-08 14:50:45,037 - INFO - joeynmt.helpers - First 10 words (trg): (0) <unk> (1) <pad> (2) <s> (3) </s> (4) . (5) , (6) the (7) to (8) dey (9) and
+2021-10-08 14:50:45,037 - INFO - joeynmt.helpers - Number of Src words (types): 4058
+2021-10-08 14:50:45,037 - INFO - joeynmt.helpers - Number of Trg words (types): 4058
+2021-10-08 14:50:45,037 - INFO - joeynmt.training - Model(
+	encoder=TransformerEncoder(num_layers=6, num_heads=4),
+	decoder=TransformerDecoder(num_layers=6, num_heads=4),
+	src_embed=Embeddings(embedding_dim=256, vocab_size=4058),
+	trg_embed=Embeddings(embedding_dim=256, vocab_size=4058))
+2021-10-08 14:50:45,042 - INFO - joeynmt.training - Train stats:
+	device: cuda
+	n_gpu: 1
+	16-bits training: False
+	gradient accumulation: 1
+	batch size per device: 4096
+	total batch size (w. parallel & accumulation): 4096
+2021-10-08 14:50:45,042 - INFO - joeynmt.training - EPOCH 1
+2021-10-08 14:51:19,672 - INFO - joeynmt.training - Epoch   1, Step:      100, Batch Loss:     5.560523, Tokens per Sec:     4095, Lr: 0.000300
+2021-10-08 14:51:54,839 - INFO - joeynmt.training - Epoch   1, Step:      200, Batch Loss:     5.336477, Tokens per Sec:     4017, Lr: 0.000300
+2021-10-08 14:52:29,643 - INFO - joeynmt.training - Epoch   1, Step:      300, Batch Loss:     5.177825, Tokens per Sec:     4089, Lr: 0.000300
+2021-10-08 14:52:48,939 - INFO - joeynmt.training - Epoch   1: total training loss 1931.47
+2021-10-08 14:52:48,939 - INFO - joeynmt.training - EPOCH 2
+2021-10-08 14:53:04,440 - INFO - joeynmt.training - Epoch   2, Step:      400, Batch Loss:     4.817913, Tokens per Sec:     4107, Lr: 0.000300
+2021-10-08 14:53:38,984 - INFO - joeynmt.training - Epoch   2, Step:      500, Batch Loss:     4.672880, Tokens per Sec:     4158, Lr: 0.000300
+2021-10-08 14:54:14,190 - INFO - joeynmt.training - Epoch   2, Step:      600, Batch Loss:     4.469553, Tokens per Sec:     4048, Lr: 0.000300
+2021-10-08 14:54:49,152 - INFO - joeynmt.training - Epoch   2, Step:      700, Batch Loss:     4.427566, Tokens per Sec:     4070, Lr: 0.000300
+2021-10-08 14:54:51,912 - INFO - joeynmt.training - Epoch   2: total training loss 1621.92
+2021-10-08 14:54:51,913 - INFO - joeynmt.training - EPOCH 3
+2021-10-08 14:55:24,227 - INFO - joeynmt.training - Epoch   3, Step:      800, Batch Loss:     4.350362, Tokens per Sec:     4032, Lr: 0.000300
+2021-10-08 14:55:58,879 - INFO - joeynmt.training - Epoch   3, Step:      900, Batch Loss:     4.159319, Tokens per Sec:     4236, Lr: 0.000300
+2021-10-08 14:56:33,765 - INFO - joeynmt.training - Epoch   3, Step:     1000, Batch Loss:     4.192660, Tokens per Sec:     4115, Lr: 0.000300
+2021-10-08 14:58:04,303 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 14:58:04,303 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 14:58:04,303 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 14:58:04,309 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 14:58:04,744 - INFO - joeynmt.training - Example #0
+2021-10-08 14:58:04,744 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 14:58:04,744 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', '’', 's', 'Witnesses', 'was', 'a', 'brother', 'of', 'the', 'Bible', '’', 's', 'Witnesses', '.']
+2021-10-08 14:58:04,744 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 14:58:04,745 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 14:58:04,745 - INFO - joeynmt.training - 	Hypothesis: Jehovah ’ s Witnesses was a brother of the Bible ’ s Witnesses .
+2021-10-08 14:58:04,745 - INFO - joeynmt.training - Example #1
+2021-10-08 14:58:04,745 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 14:58:04,745 - DEBUG - joeynmt.training - 	Raw hypothesis: ['“', 'I', 'was', 'a', 'Bible', ',', 'I', 'have', 'a', 'Bible', ',', '”', 'I', 'have', 'a', 'Bible', ',', '”', 'I', 'have', 'a', 'Bible', '’', 's', 'people', '.']
+2021-10-08 14:58:04,745 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 14:58:04,745 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 14:58:04,746 - INFO - joeynmt.training - 	Hypothesis: “ I was a Bible , I have a Bible , ” I have a Bible , ” I have a Bible ’ s people .
+2021-10-08 14:58:04,746 - INFO - joeynmt.training - Example #2
+2021-10-08 14:58:04,746 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 14:58:04,746 - DEBUG - joeynmt.training - 	Raw hypothesis: ['The', 'apostle', 'I', 'was', 'a', 'years', ',', '“', 'I', 'was', 'a', 'years', ',', '”', 'I', 'was', 'a', 'years', ',', '”', 'I', 'was', 'a', 'years', '.', '”']
+2021-10-08 14:58:04,746 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 14:58:04,746 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 14:58:04,746 - INFO - joeynmt.training - 	Hypothesis: The apostle I was a years , “ I was a years , ” I was a years , ” I was a years . ”
+2021-10-08 14:58:04,746 - INFO - joeynmt.training - Example #3
+2021-10-08 14:58:04,747 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 14:58:04,747 - DEBUG - joeynmt.training - 	Raw hypothesis: ['I', 'was', 'a', 'years', ',', 'I', 'was', 'a', 'years', ',', 'I', 'had', 'to', 'be', 'a', 'Bible', ',', 'and', 'I', 'have', 'a', 'Bible', ',', 'and', 'I', 'have', 'a', 'Bible', '.']
+2021-10-08 14:58:04,747 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 14:58:04,747 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 14:58:04,747 - INFO - joeynmt.training - 	Hypothesis: I was a years , I was a years , I had to be a Bible , and I have a Bible , and I have a Bible .
+2021-10-08 14:58:04,747 - INFO - joeynmt.training - Validation result (greedy) at epoch   3, step     1000: bleu:   1.70, loss: 98871.7656, ppl:  59.5687, duration: 90.9818s
+2021-10-08 14:58:25,638 - INFO - joeynmt.training - Epoch   3: total training loss 1501.88
+2021-10-08 14:58:25,638 - INFO - joeynmt.training - EPOCH 4
+2021-10-08 14:58:38,944 - INFO - joeynmt.training - Epoch   4, Step:     1100, Batch Loss:     4.066632, Tokens per Sec:     4061, Lr: 0.000300
+2021-10-08 14:59:13,714 - INFO - joeynmt.training - Epoch   4, Step:     1200, Batch Loss:     4.055077, Tokens per Sec:     4061, Lr: 0.000300
+2021-10-08 14:59:48,528 - INFO - joeynmt.training - Epoch   4, Step:     1300, Batch Loss:     3.956891, Tokens per Sec:     4112, Lr: 0.000300
+2021-10-08 15:00:23,789 - INFO - joeynmt.training - Epoch   4, Step:     1400, Batch Loss:     3.965754, Tokens per Sec:     4084, Lr: 0.000300
+2021-10-08 15:00:28,947 - INFO - joeynmt.training - Epoch   4: total training loss 1432.35
+2021-10-08 15:00:28,947 - INFO - joeynmt.training - EPOCH 5
+2021-10-08 15:00:58,659 - INFO - joeynmt.training - Epoch   5, Step:     1500, Batch Loss:     3.869399, Tokens per Sec:     4016, Lr: 0.000300
+2021-10-08 15:01:33,647 - INFO - joeynmt.training - Epoch   5, Step:     1600, Batch Loss:     3.809641, Tokens per Sec:     4062, Lr: 0.000300
+2021-10-08 15:02:08,679 - INFO - joeynmt.training - Epoch   5, Step:     1700, Batch Loss:     3.712185, Tokens per Sec:     4133, Lr: 0.000300
+2021-10-08 15:02:31,873 - INFO - joeynmt.training - Epoch   5: total training loss 1362.67
+2021-10-08 15:02:31,874 - INFO - joeynmt.training - EPOCH 6
+2021-10-08 15:02:43,584 - INFO - joeynmt.training - Epoch   6, Step:     1800, Batch Loss:     3.770144, Tokens per Sec:     4241, Lr: 0.000300
+2021-10-08 15:03:18,641 - INFO - joeynmt.training - Epoch   6, Step:     1900, Batch Loss:     3.643311, Tokens per Sec:     4093, Lr: 0.000300
+2021-10-08 15:03:53,767 - INFO - joeynmt.training - Epoch   6, Step:     2000, Batch Loss:     3.636609, Tokens per Sec:     4040, Lr: 0.000300
+2021-10-08 15:04:50,367 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:04:50,367 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:04:50,367 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:04:50,373 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:04:50,797 - INFO - joeynmt.training - Example #0
+2021-10-08 15:04:50,797 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:04:50,798 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', '’', 's', 'Word', 'was', 'a', 'few', 'of', 'the', 'apostle', 'Paul', '’', 's', 'letter', '.']
+2021-10-08 15:04:50,798 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:04:50,798 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:04:50,798 - INFO - joeynmt.training - 	Hypothesis: Jehovah ’ s Word was a few of the apostle Paul ’ s letter .
+2021-10-08 15:04:50,798 - INFO - joeynmt.training - Example #1
+2021-10-08 15:04:50,798 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:04:50,798 - DEBUG - joeynmt.training - 	Raw hypothesis: ['“', 'I', 'was', 'a', 'few', 'of', 'the', 'Bible', ',', 'I', 'was', 'a', 'Bible', ',', 'I', 'was', 'a', 'Bible', '.']
+2021-10-08 15:04:50,798 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:04:50,798 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:04:50,799 - INFO - joeynmt.training - 	Hypothesis: “ I was a few of the Bible , I was a Bible , I was a Bible .
+2021-10-08 15:04:50,799 - INFO - joeynmt.training - Example #2
+2021-10-08 15:04:50,799 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:04:50,799 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'the', 'United', 'States', ',', 'he', 'was', 'a', 'few', 'years', ',', '“', 'the', 'city', 'of', 'the', 'city', 'of', 'the', 'city', 'of', 'the', 'city', 'of', 'the', 'city', 'of', 'the', 'city', '.', '”']
+2021-10-08 15:04:50,799 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:04:50,799 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:04:50,799 - INFO - joeynmt.training - 	Hypothesis: But the United States , he was a few years , “ the city of the city of the city of the city of the city of the city . ”
+2021-10-08 15:04:50,799 - INFO - joeynmt.training - Example #3
+2021-10-08 15:04:50,800 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:04:50,800 - DEBUG - joeynmt.training - 	Raw hypothesis: ['For', '19@@', '7', ',', 'I', 'was', 'a', 'brother', ',', 'I', 'was', 'a', 'brother', 'who', 'was', 'a', 'new', 'brother', ',', 'and', 'I', 'was', 'a', 'new', 'language', '.']
+2021-10-08 15:04:50,800 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:04:50,800 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:04:50,800 - INFO - joeynmt.training - 	Hypothesis: For 197 , I was a brother , I was a brother who was a new brother , and I was a new language .
+2021-10-08 15:04:50,800 - INFO - joeynmt.training - Validation result (greedy) at epoch   6, step     2000: bleu:   6.84, loss: 87481.9766, ppl:  37.1998, duration: 57.0327s
+2021-10-08 15:05:25,360 - INFO - joeynmt.training - Epoch   6, Step:     2100, Batch Loss:     3.679582, Tokens per Sec:     4039, Lr: 0.000300
+2021-10-08 15:05:32,505 - INFO - joeynmt.training - Epoch   6: total training loss 1315.95
+2021-10-08 15:05:32,505 - INFO - joeynmt.training - EPOCH 7
+2021-10-08 15:05:59,612 - INFO - joeynmt.training - Epoch   7, Step:     2200, Batch Loss:     3.733191, Tokens per Sec:     4132, Lr: 0.000300
+2021-10-08 15:06:34,243 - INFO - joeynmt.training - Epoch   7, Step:     2300, Batch Loss:     3.399341, Tokens per Sec:     4164, Lr: 0.000300
+2021-10-08 15:07:09,043 - INFO - joeynmt.training - Epoch   7, Step:     2400, Batch Loss:     3.365553, Tokens per Sec:     4125, Lr: 0.000300
+2021-10-08 15:07:34,869 - INFO - joeynmt.training - Epoch   7: total training loss 1269.09
+2021-10-08 15:07:34,869 - INFO - joeynmt.training - EPOCH 8
+2021-10-08 15:07:43,602 - INFO - joeynmt.training - Epoch   8, Step:     2500, Batch Loss:     3.398207, Tokens per Sec:     4083, Lr: 0.000300
+2021-10-08 15:08:18,420 - INFO - joeynmt.training - Epoch   8, Step:     2600, Batch Loss:     3.464490, Tokens per Sec:     4021, Lr: 0.000300
+2021-10-08 15:08:53,270 - INFO - joeynmt.training - Epoch   8, Step:     2700, Batch Loss:     3.294611, Tokens per Sec:     4106, Lr: 0.000300
+2021-10-08 15:09:28,143 - INFO - joeynmt.training - Epoch   8, Step:     2800, Batch Loss:     3.483829, Tokens per Sec:     4182, Lr: 0.000300
+2021-10-08 15:09:37,409 - INFO - joeynmt.training - Epoch   8: total training loss 1222.03
+2021-10-08 15:09:37,409 - INFO - joeynmt.training - EPOCH 9
+2021-10-08 15:10:03,261 - INFO - joeynmt.training - Epoch   9, Step:     2900, Batch Loss:     3.506596, Tokens per Sec:     4100, Lr: 0.000300
+2021-10-08 15:10:38,237 - INFO - joeynmt.training - Epoch   9, Step:     3000, Batch Loss:     3.451477, Tokens per Sec:     3974, Lr: 0.000300
+2021-10-08 15:11:34,365 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:11:34,365 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:11:34,365 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:11:34,371 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:11:34,855 - INFO - joeynmt.training - Example #0
+2021-10-08 15:11:34,855 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:11:34,855 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', '’', 's', 'words', 'was', 'the', 'apostle', 'Paul', '’', 's', 'words', 'to', 'the', 'apostle', 'Paul', 'was', 'a', 'man', '.']
+2021-10-08 15:11:34,856 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:11:34,856 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:11:34,856 - INFO - joeynmt.training - 	Hypothesis: Jehovah ’ s words was the apostle Paul ’ s words to the apostle Paul was a man .
+2021-10-08 15:11:34,856 - INFO - joeynmt.training - Example #1
+2021-10-08 15:11:34,856 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:11:34,856 - DEBUG - joeynmt.training - 	Raw hypothesis: ['WHEN', 'I', 'have', 'been', 'a', 'few', 'years', ',', 'I', 'learned', 'that', 'I', 'was', 'a', 'Bible', 'study', '.']
+2021-10-08 15:11:34,856 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:11:34,856 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:11:34,856 - INFO - joeynmt.training - 	Hypothesis: WHEN I have been a few years , I learned that I was a Bible study .
+2021-10-08 15:11:34,857 - INFO - joeynmt.training - Example #2
+2021-10-08 15:11:34,857 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:11:34,857 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'when', 'the', 'city', 'of', 'the', 'city', 'of', 'the', 'country', ',', 'he', 'was', 'not', 'a', 'small', 'b@@', 'ra@@', 'se', '.', '”']
+2021-10-08 15:11:34,857 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:11:34,857 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:11:34,857 - INFO - joeynmt.training - 	Hypothesis: But when the city of the city of the country , he was not a small brase . ”
+2021-10-08 15:11:34,857 - INFO - joeynmt.training - Example #3
+2021-10-08 15:11:34,857 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:11:34,857 - DEBUG - joeynmt.training - 	Raw hypothesis: ['In', '19@@', '7', ',', 'I', 'asked', 'me', 'to', 'ask', 'my', 'brother', 'to', 'be', 'a', 'brother', 'who', 'was', 'a', 'brother', 'who', 'had', 'been', 'a', 'brother', 'who', 'had', 'been', 'a', 'brother', '.']
+2021-10-08 15:11:34,857 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:11:34,857 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:11:34,858 - INFO - joeynmt.training - 	Hypothesis: In 197 , I asked me to ask my brother to be a brother who was a brother who had been a brother who had been a brother .
+2021-10-08 15:11:34,858 - INFO - joeynmt.training - Validation result (greedy) at epoch   9, step     3000: bleu:   9.78, loss: 80082.3516, ppl:  27.3966, duration: 56.6199s
+2021-10-08 15:12:09,656 - INFO - joeynmt.training - Epoch   9, Step:     3100, Batch Loss:     3.411510, Tokens per Sec:     4063, Lr: 0.000300
+2021-10-08 15:12:38,117 - INFO - joeynmt.training - Epoch   9: total training loss 1197.17
+2021-10-08 15:12:38,117 - INFO - joeynmt.training - EPOCH 10
+2021-10-08 15:12:44,283 - INFO - joeynmt.training - Epoch  10, Step:     3200, Batch Loss:     3.432391, Tokens per Sec:     4207, Lr: 0.000300
+2021-10-08 15:13:19,273 - INFO - joeynmt.training - Epoch  10, Step:     3300, Batch Loss:     3.383160, Tokens per Sec:     4050, Lr: 0.000300
+2021-10-08 15:13:54,473 - INFO - joeynmt.training - Epoch  10, Step:     3400, Batch Loss:     3.177166, Tokens per Sec:     4099, Lr: 0.000300
+2021-10-08 15:14:29,100 - INFO - joeynmt.training - Epoch  10, Step:     3500, Batch Loss:     3.350120, Tokens per Sec:     4122, Lr: 0.000300
+2021-10-08 15:14:40,436 - INFO - joeynmt.training - Epoch  10: total training loss 1151.85
+2021-10-08 15:14:40,437 - INFO - joeynmt.training - EPOCH 11
+2021-10-08 15:15:03,713 - INFO - joeynmt.training - Epoch  11, Step:     3600, Batch Loss:     3.181664, Tokens per Sec:     4077, Lr: 0.000300
+2021-10-08 15:15:38,326 - INFO - joeynmt.training - Epoch  11, Step:     3700, Batch Loss:     3.180197, Tokens per Sec:     4075, Lr: 0.000300
+2021-10-08 15:16:13,019 - INFO - joeynmt.training - Epoch  11, Step:     3800, Batch Loss:     3.198435, Tokens per Sec:     4164, Lr: 0.000300
+2021-10-08 15:16:43,211 - INFO - joeynmt.training - Epoch  11: total training loss 1134.85
+2021-10-08 15:16:43,211 - INFO - joeynmt.training - EPOCH 12
+2021-10-08 15:16:47,687 - INFO - joeynmt.training - Epoch  12, Step:     3900, Batch Loss:     3.207196, Tokens per Sec:     4117, Lr: 0.000300
+2021-10-08 15:17:22,653 - INFO - joeynmt.training - Epoch  12, Step:     4000, Batch Loss:     3.227337, Tokens per Sec:     4104, Lr: 0.000300
+2021-10-08 15:18:17,398 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:18:17,398 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:18:17,399 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:18:17,405 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:18:17,861 - INFO - joeynmt.helpers - delete models/pcmen_reverse_transformer/1000.ckpt
+2021-10-08 15:18:17,889 - INFO - joeynmt.training - Example #0
+2021-10-08 15:18:17,890 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:18:17,890 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', '’', 's', 'words', 'that', 'he', 'had', 'to', 'be', 'the', 'king', 'of', 'the', 'king', '.']
+2021-10-08 15:18:17,890 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:18:17,890 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:18:17,890 - INFO - joeynmt.training - 	Hypothesis: Jehovah ’ s words that he had to be the king of the king .
+2021-10-08 15:18:17,890 - INFO - joeynmt.training - Example #1
+2021-10-08 15:18:17,890 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:18:17,890 - DEBUG - joeynmt.training - 	Raw hypothesis: ['WHEN', 'I', 'have', 'been', 'a', 'few', 'years', ',', 'I', 'learned', 'the', 'Bible', 'study', 'with', 'the', 'Bible', '.']
+2021-10-08 15:18:17,890 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:18:17,890 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:18:17,891 - INFO - joeynmt.training - 	Hypothesis: WHEN I have been a few years , I learned the Bible study with the Bible .
+2021-10-08 15:18:17,891 - INFO - joeynmt.training - Example #2
+2021-10-08 15:18:17,891 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:18:17,891 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'when', 'the', 'missionary', 'in', 'the', 'city', 'of', 'the', 'country', ',', 'the', 'brothers', 'who', 'said', ':', '“', 'I', 'will', 'be', 'af@@', 'raid', '.', '”']
+2021-10-08 15:18:17,891 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:18:17,891 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:18:17,891 - INFO - joeynmt.training - 	Hypothesis: But when the missionary in the city of the country , the brothers who said : “ I will be afraid . ”
+2021-10-08 15:18:17,891 - INFO - joeynmt.training - Example #3
+2021-10-08 15:18:17,891 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:18:17,891 - DEBUG - joeynmt.training - 	Raw hypothesis: ['In', '19@@', '8@@', '7', ',', 'I', 'asked', 'me', 'to', 'say', 'that', 'I', 'would', 'be', 'able', 'to', 'study', 'the', 'Bible', '.']
+2021-10-08 15:18:17,891 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:18:17,892 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:18:17,892 - INFO - joeynmt.training - 	Hypothesis: In 1987 , I asked me to say that I would be able to study the Bible .
+2021-10-08 15:18:17,892 - INFO - joeynmt.training - Validation result (greedy) at epoch  12, step     4000: bleu:  12.32, loss: 75513.3750, ppl:  22.6815, duration: 55.2381s
+2021-10-08 15:18:52,480 - INFO - joeynmt.training - Epoch  12, Step:     4100, Batch Loss:     3.125303, Tokens per Sec:     4074, Lr: 0.000300
+2021-10-08 15:19:27,316 - INFO - joeynmt.training - Epoch  12, Step:     4200, Batch Loss:     3.226292, Tokens per Sec:     4068, Lr: 0.000300
+2021-10-08 15:19:41,841 - INFO - joeynmt.training - Epoch  12: total training loss 1113.03
+2021-10-08 15:19:41,841 - INFO - joeynmt.training - EPOCH 13
+2021-10-08 15:20:02,089 - INFO - joeynmt.training - Epoch  13, Step:     4300, Batch Loss:     2.942074, Tokens per Sec:     4053, Lr: 0.000300
+2021-10-08 15:20:36,672 - INFO - joeynmt.training - Epoch  13, Step:     4400, Batch Loss:     3.099507, Tokens per Sec:     4036, Lr: 0.000300
+2021-10-08 15:21:11,495 - INFO - joeynmt.training - Epoch  13, Step:     4500, Batch Loss:     3.084876, Tokens per Sec:     4113, Lr: 0.000300
+2021-10-08 15:21:45,031 - INFO - joeynmt.training - Epoch  13: total training loss 1094.30
+2021-10-08 15:21:45,032 - INFO - joeynmt.training - EPOCH 14
+2021-10-08 15:21:45,739 - INFO - joeynmt.training - Epoch  14, Step:     4600, Batch Loss:     3.023015, Tokens per Sec:     4012, Lr: 0.000300
+2021-10-08 15:22:20,571 - INFO - joeynmt.training - Epoch  14, Step:     4700, Batch Loss:     3.171682, Tokens per Sec:     4070, Lr: 0.000300
+2021-10-08 15:22:55,321 - INFO - joeynmt.training - Epoch  14, Step:     4800, Batch Loss:     3.212114, Tokens per Sec:     4172, Lr: 0.000300
+2021-10-08 15:23:30,077 - INFO - joeynmt.training - Epoch  14, Step:     4900, Batch Loss:     2.894963, Tokens per Sec:     4069, Lr: 0.000300
+2021-10-08 15:23:47,099 - INFO - joeynmt.training - Epoch  14: total training loss 1058.39
+2021-10-08 15:23:47,100 - INFO - joeynmt.training - EPOCH 15
+2021-10-08 15:24:05,069 - INFO - joeynmt.training - Epoch  15, Step:     5000, Batch Loss:     3.010407, Tokens per Sec:     4090, Lr: 0.000300
+2021-10-08 15:24:57,442 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:24:57,442 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:24:57,443 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:24:57,449 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:24:57,890 - INFO - joeynmt.helpers - delete models/pcmen_reverse_transformer/2000.ckpt
+2021-10-08 15:24:57,917 - INFO - joeynmt.training - Example #0
+2021-10-08 15:24:57,917 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:24:57,917 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', '’', 's', 'words', 'was', 'the', 'first', 'of', 'the', 'two', 'two', 'two', 'two', 'two', 'two', 'men', '.']
+2021-10-08 15:24:57,917 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:24:57,917 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:24:57,917 - INFO - joeynmt.training - 	Hypothesis: Jehovah ’ s words was the first of the two two two two two two men .
+2021-10-08 15:24:57,918 - INFO - joeynmt.training - Example #1
+2021-10-08 15:24:57,918 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:24:57,918 - DEBUG - joeynmt.training - 	Raw hypothesis: ['WHEN', 'I', 'have', 'been', 'a', 'few', 'years', ',', 'I', 'learned', 'that', 'I', 'learned', 'the', 'Bible', '.']
+2021-10-08 15:24:57,918 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:24:57,918 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:24:57,918 - INFO - joeynmt.training - 	Hypothesis: WHEN I have been a few years , I learned that I learned the Bible .
+2021-10-08 15:24:57,918 - INFO - joeynmt.training - Example #2
+2021-10-08 15:24:57,918 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:24:57,918 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'when', 'the', 'city', 'of', 'the', 'city', 'of', 'the', 'country', ',', 'the', 'brothers', 'were', '“', 'a', 'man', '.', '”']
+2021-10-08 15:24:57,918 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:24:57,918 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:24:57,919 - INFO - joeynmt.training - 	Hypothesis: But when the city of the city of the country , the brothers were “ a man . ”
+2021-10-08 15:24:57,919 - INFO - joeynmt.training - Example #3
+2021-10-08 15:24:57,919 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:24:57,919 - DEBUG - joeynmt.training - 	Raw hypothesis: ['In', '19@@', '8@@', '7', ',', 'I', 'asked', 'me', 'to', 'give', 'a', 'Bible', 'study', 'with', 'the', 'Bible', ',', 'who', 'was', 'a', 'man', 'who', 'had', 'a', 'lot', 'of', 'our', 'own', '.']
+2021-10-08 15:24:57,919 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:24:57,919 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:24:57,919 - INFO - joeynmt.training - 	Hypothesis: In 1987 , I asked me to give a Bible study with the Bible , who was a man who had a lot of our own .
+2021-10-08 15:24:57,919 - INFO - joeynmt.training - Validation result (greedy) at epoch  15, step     5000: bleu:  13.33, loss: 72271.8203, ppl:  19.8370, duration: 52.8500s
+2021-10-08 15:25:32,669 - INFO - joeynmt.training - Epoch  15, Step:     5100, Batch Loss:     3.016834, Tokens per Sec:     4115, Lr: 0.000300
+2021-10-08 15:26:07,420 - INFO - joeynmt.training - Epoch  15, Step:     5200, Batch Loss:     3.057505, Tokens per Sec:     4134, Lr: 0.000300
+2021-10-08 15:26:42,148 - INFO - joeynmt.training - Epoch  15, Step:     5300, Batch Loss:     3.008931, Tokens per Sec:     4111, Lr: 0.000300
+2021-10-08 15:26:42,604 - INFO - joeynmt.training - Epoch  15: total training loss 1045.38
+2021-10-08 15:26:42,604 - INFO - joeynmt.training - EPOCH 16
+2021-10-08 15:27:16,749 - INFO - joeynmt.training - Epoch  16, Step:     5400, Batch Loss:     2.902063, Tokens per Sec:     4016, Lr: 0.000300
+2021-10-08 15:27:51,642 - INFO - joeynmt.training - Epoch  16, Step:     5500, Batch Loss:     2.791152, Tokens per Sec:     4111, Lr: 0.000300
+2021-10-08 15:28:26,477 - INFO - joeynmt.training - Epoch  16, Step:     5600, Batch Loss:     3.095061, Tokens per Sec:     4111, Lr: 0.000300
+2021-10-08 15:28:46,368 - INFO - joeynmt.training - Epoch  16: total training loss 1035.59
+2021-10-08 15:28:46,369 - INFO - joeynmt.training - EPOCH 17
+2021-10-08 15:29:01,360 - INFO - joeynmt.training - Epoch  17, Step:     5700, Batch Loss:     2.904300, Tokens per Sec:     4181, Lr: 0.000300
+2021-10-08 15:29:36,481 - INFO - joeynmt.training - Epoch  17, Step:     5800, Batch Loss:     3.020577, Tokens per Sec:     4053, Lr: 0.000300
+2021-10-08 15:30:11,136 - INFO - joeynmt.training - Epoch  17, Step:     5900, Batch Loss:     2.847354, Tokens per Sec:     4069, Lr: 0.000300
+2021-10-08 15:30:45,818 - INFO - joeynmt.training - Epoch  17, Step:     6000, Batch Loss:     2.804284, Tokens per Sec:     4088, Lr: 0.000300
+2021-10-08 15:31:42,327 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:31:42,327 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:31:42,327 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:31:42,333 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:31:42,799 - INFO - joeynmt.helpers - delete models/pcmen_reverse_transformer/3000.ckpt
+2021-10-08 15:31:42,822 - INFO - joeynmt.training - Example #0
+2021-10-08 15:31:42,822 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:31:42,822 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', 'told', 'Job', 'that', 'he', 'was', 'written', 'in', 'the', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'men', '.']
+2021-10-08 15:31:42,823 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:31:42,823 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:31:42,823 - INFO - joeynmt.training - 	Hypothesis: Jehovah told Job that he was written in the two two two two two two two two two men .
+2021-10-08 15:31:42,823 - INFO - joeynmt.training - Example #1
+2021-10-08 15:31:42,823 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:31:42,823 - DEBUG - joeynmt.training - 	Raw hypothesis: ['WHEN', 'I', 'have', 'been', 'a', 'time', ',', 'I', 'have', 'learned', 'the', 'truth', 'about', 'the', 'Bible', '.']
+2021-10-08 15:31:42,823 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:31:42,823 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:31:42,823 - INFO - joeynmt.training - 	Hypothesis: WHEN I have been a time , I have learned the truth about the Bible .
+2021-10-08 15:31:42,823 - INFO - joeynmt.training - Example #2
+2021-10-08 15:31:42,824 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:31:42,824 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'when', 'the', 'city', 'of', 'the', 'city', ',', 'he', 'was', '“', 'a', 'man', ',', '”', 'he', 'said', ',', '“', 'I', 'will', 'be', 'able', 'to', 'be', 'destro@@', 'yed', '.', '”']
+2021-10-08 15:31:42,824 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:31:42,824 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:31:42,824 - INFO - joeynmt.training - 	Hypothesis: But when the city of the city , he was “ a man , ” he said , “ I will be able to be destroyed . ”
+2021-10-08 15:31:42,824 - INFO - joeynmt.training - Example #3
+2021-10-08 15:31:42,824 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:31:42,824 - DEBUG - joeynmt.training - 	Raw hypothesis: ['In', '19@@', '8@@', '7', ',', 'I', 'asked', 'me', 'to', 'be', 'a', 'brother', 'who', 'had', 'to', 'be', 'a', 'good', 'news', 'of', 'the', 'B@@', 'aly@@', 'k@@', 'k@@', 'y', '.']
+2021-10-08 15:31:42,824 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:31:42,824 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:31:42,825 - INFO - joeynmt.training - 	Hypothesis: In 1987 , I asked me to be a brother who had to be a good news of the Balykky .
+2021-10-08 15:31:42,825 - INFO - joeynmt.training - Validation result (greedy) at epoch  17, step     6000: bleu:  13.91, loss: 69820.8906, ppl:  17.9257, duration: 57.0066s
+2021-10-08 15:31:46,943 - INFO - joeynmt.training - Epoch  17: total training loss 1017.12
+2021-10-08 15:31:46,943 - INFO - joeynmt.training - EPOCH 18
+2021-10-08 15:32:17,615 - INFO - joeynmt.training - Epoch  18, Step:     6100, Batch Loss:     2.807644, Tokens per Sec:     4053, Lr: 0.000300
+2021-10-08 15:32:51,987 - INFO - joeynmt.training - Epoch  18, Step:     6200, Batch Loss:     2.692262, Tokens per Sec:     4189, Lr: 0.000300
+2021-10-08 15:33:27,107 - INFO - joeynmt.training - Epoch  18, Step:     6300, Batch Loss:     2.794302, Tokens per Sec:     4103, Lr: 0.000300
+2021-10-08 15:33:49,535 - INFO - joeynmt.training - Epoch  18: total training loss 995.70
+2021-10-08 15:33:49,535 - INFO - joeynmt.training - EPOCH 19
+2021-10-08 15:34:01,621 - INFO - joeynmt.training - Epoch  19, Step:     6400, Batch Loss:     2.699540, Tokens per Sec:     4097, Lr: 0.000300
+2021-10-08 15:34:36,271 - INFO - joeynmt.training - Epoch  19, Step:     6500, Batch Loss:     2.745111, Tokens per Sec:     4153, Lr: 0.000300
+2021-10-08 15:35:10,982 - INFO - joeynmt.training - Epoch  19, Step:     6600, Batch Loss:     2.875279, Tokens per Sec:     4081, Lr: 0.000300
+2021-10-08 15:35:45,767 - INFO - joeynmt.training - Epoch  19, Step:     6700, Batch Loss:     2.664949, Tokens per Sec:     4083, Lr: 0.000300
+2021-10-08 15:35:52,113 - INFO - joeynmt.training - Epoch  19: total training loss 985.08
+2021-10-08 15:35:52,113 - INFO - joeynmt.training - EPOCH 20
+2021-10-08 15:36:20,198 - INFO - joeynmt.training - Epoch  20, Step:     6800, Batch Loss:     2.620672, Tokens per Sec:     4082, Lr: 0.000300
+2021-10-08 15:36:54,633 - INFO - joeynmt.training - Epoch  20, Step:     6900, Batch Loss:     2.788773, Tokens per Sec:     4114, Lr: 0.000300
+2021-10-08 15:37:29,462 - INFO - joeynmt.training - Epoch  20, Step:     7000, Batch Loss:     2.728528, Tokens per Sec:     4087, Lr: 0.000300
+2021-10-08 15:38:29,786 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:38:29,786 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:38:29,787 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:38:29,794 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:38:30,262 - INFO - joeynmt.helpers - delete models/pcmen_reverse_transformer/4000.ckpt
+2021-10-08 15:38:30,282 - INFO - joeynmt.training - Example #0
+2021-10-08 15:38:30,282 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:38:30,282 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', 'told', 'Ezekiel', 'that', 'he', 'was', 'written', 'to', 'the', 'two', 'two', 'two', 'men', '.']
+2021-10-08 15:38:30,282 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:38:30,282 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:38:30,282 - INFO - joeynmt.training - 	Hypothesis: Jehovah told Ezekiel that he was written to the two two two men .
+2021-10-08 15:38:30,283 - INFO - joeynmt.training - Example #1
+2021-10-08 15:38:30,283 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:38:30,283 - DEBUG - joeynmt.training - 	Raw hypothesis: ['BE@@', 'ING', 'THE', 'Bible', 'truth', 'was', 'a', 'wonderful', 'sense', 'of', 'truth', '.']
+2021-10-08 15:38:30,283 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:38:30,283 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:38:30,283 - INFO - joeynmt.training - 	Hypothesis: BEING THE Bible truth was a wonderful sense of truth .
+2021-10-08 15:38:30,283 - INFO - joeynmt.training - Example #2
+2021-10-08 15:38:30,283 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:38:30,283 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'in', 'Ireland', 'was', 'not', 'a', 'small', 'land', ',', 'but', 'he', 'was', '“', 'a', 'sword', '”', 'to', 'the', 'land', '.']
+2021-10-08 15:38:30,283 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:38:30,283 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:38:30,283 - INFO - joeynmt.training - 	Hypothesis: But in Ireland was not a small land , but he was “ a sword ” to the land .
+2021-10-08 15:38:30,284 - INFO - joeynmt.training - Example #3
+2021-10-08 15:38:30,284 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:38:30,284 - DEBUG - joeynmt.training - 	Raw hypothesis: ['In', '19@@', '8@@', '7', ',', 'I', 'asked', 'me', 'to', 'see', 'that', 'I', 'would', 'be', 'a', 'person', 'who', 'is', 'a', 'message', 'in', 'B@@', 'aly@@', 'k@@', 'y', '.']
+2021-10-08 15:38:30,284 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:38:30,284 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:38:30,284 - INFO - joeynmt.training - 	Hypothesis: In 1987 , I asked me to see that I would be a person who is a message in Balyky .
+2021-10-08 15:38:30,284 - INFO - joeynmt.training - Validation result (greedy) at epoch  20, step     7000: bleu:  15.14, loss: 68279.9141, ppl:  16.8194, duration: 60.8215s
+2021-10-08 15:38:55,667 - INFO - joeynmt.training - Epoch  20: total training loss 973.67
+2021-10-08 15:38:55,668 - INFO - joeynmt.training - EPOCH 21
+2021-10-08 15:39:04,673 - INFO - joeynmt.training - Epoch  21, Step:     7100, Batch Loss:     2.674500, Tokens per Sec:     4098, Lr: 0.000300
+2021-10-08 15:39:39,900 - INFO - joeynmt.training - Epoch  21, Step:     7200, Batch Loss:     2.733599, Tokens per Sec:     4090, Lr: 0.000300
+2021-10-08 15:40:15,005 - INFO - joeynmt.training - Epoch  21, Step:     7300, Batch Loss:     2.686156, Tokens per Sec:     4184, Lr: 0.000300
+2021-10-08 15:40:49,549 - INFO - joeynmt.training - Epoch  21, Step:     7400, Batch Loss:     2.819429, Tokens per Sec:     4182, Lr: 0.000300
+2021-10-08 15:40:57,293 - INFO - joeynmt.training - Epoch  21: total training loss 945.01
+2021-10-08 15:40:57,294 - INFO - joeynmt.training - EPOCH 22
+2021-10-08 15:41:24,210 - INFO - joeynmt.training - Epoch  22, Step:     7500, Batch Loss:     2.473390, Tokens per Sec:     4241, Lr: 0.000300
+2021-10-08 15:41:58,746 - INFO - joeynmt.training - Epoch  22, Step:     7600, Batch Loss:     2.613206, Tokens per Sec:     4061, Lr: 0.000300
+2021-10-08 15:42:33,318 - INFO - joeynmt.training - Epoch  22, Step:     7700, Batch Loss:     2.515924, Tokens per Sec:     4160, Lr: 0.000300
+2021-10-08 15:42:59,257 - INFO - joeynmt.training - Epoch  22: total training loss 943.94
+2021-10-08 15:42:59,258 - INFO - joeynmt.training - EPOCH 23
+2021-10-08 15:43:07,555 - INFO - joeynmt.training - Epoch  23, Step:     7800, Batch Loss:     2.812173, Tokens per Sec:     4200, Lr: 0.000300
+2021-10-08 15:43:41,961 - INFO - joeynmt.training - Epoch  23, Step:     7900, Batch Loss:     2.622741, Tokens per Sec:     4177, Lr: 0.000300
+2021-10-08 15:44:16,482 - INFO - joeynmt.training - Epoch  23, Step:     8000, Batch Loss:     2.674592, Tokens per Sec:     4097, Lr: 0.000300
+2021-10-08 15:45:13,955 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:45:13,955 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:45:13,955 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:45:13,962 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:45:14,418 - INFO - joeynmt.helpers - delete models/pcmen_reverse_transformer/5000.ckpt
+2021-10-08 15:45:14,442 - INFO - joeynmt.training - Example #0
+2021-10-08 15:45:14,442 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:45:14,442 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', 'told', 'Ezekiel', 'that', 'he', 'was', 'written', 'in', 'the', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'men', '.']
+2021-10-08 15:45:14,442 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:45:14,443 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:45:14,443 - INFO - joeynmt.training - 	Hypothesis: Jehovah told Ezekiel that he was written in the two two two two two two two two two two two men .
+2021-10-08 15:45:14,443 - INFO - joeynmt.training - Example #1
+2021-10-08 15:45:14,443 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:45:14,443 - DEBUG - joeynmt.training - 	Raw hypothesis: ['BE@@', 'ING', 'THE', 'Bible', 'Students', 'had', 'been', 'a', 'lot', 'of', 'truth', '.']
+2021-10-08 15:45:14,443 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:45:14,443 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:45:14,443 - INFO - joeynmt.training - 	Hypothesis: BEING THE Bible Students had been a lot of truth .
+2021-10-08 15:45:14,443 - INFO - joeynmt.training - Example #2
+2021-10-08 15:45:14,443 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:45:14,444 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'the', 'Catholic', 'of@@', 'fic@@', 'er', 'was', 'a', 'small', 'land', ',', '“', 'I', 'will', 'be', 'able', 'to', 'be', 'a', 'man', '.', '”']
+2021-10-08 15:45:14,444 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:45:14,444 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:45:14,444 - INFO - joeynmt.training - 	Hypothesis: But the Catholic officer was a small land , “ I will be able to be a man . ”
+2021-10-08 15:45:14,444 - INFO - joeynmt.training - Example #3
+2021-10-08 15:45:14,444 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:45:14,444 - DEBUG - joeynmt.training - 	Raw hypothesis: ['In', '19@@', '8@@', '7', ',', 'a', 'brother', 'told', 'me', 'that', 'I', 'would', 'be', 'like', 'a', 'man', 'in', 'B@@', 'aly@@', 'k@@', 'y', '.']
+2021-10-08 15:45:14,444 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:45:14,444 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:45:14,444 - INFO - joeynmt.training - 	Hypothesis: In 1987 , a brother told me that I would be like a man in Balyky .
+2021-10-08 15:45:14,444 - INFO - joeynmt.training - Validation result (greedy) at epoch  23, step     8000: bleu:  15.67, loss: 66928.7500, ppl:  15.9057, duration: 57.9624s
+2021-10-08 15:45:49,580 - INFO - joeynmt.training - Epoch  23, Step:     8100, Batch Loss:     2.848715, Tokens per Sec:     4075, Lr: 0.000300
+2021-10-08 15:45:59,720 - INFO - joeynmt.training - Epoch  23: total training loss 935.85
+2021-10-08 15:45:59,720 - INFO - joeynmt.training - EPOCH 24
+2021-10-08 15:46:24,249 - INFO - joeynmt.training - Epoch  24, Step:     8200, Batch Loss:     2.571934, Tokens per Sec:     4169, Lr: 0.000300
+2021-10-08 15:46:59,350 - INFO - joeynmt.training - Epoch  24, Step:     8300, Batch Loss:     2.582818, Tokens per Sec:     4076, Lr: 0.000300
+2021-10-08 15:47:34,072 - INFO - joeynmt.training - Epoch  24, Step:     8400, Batch Loss:     2.526541, Tokens per Sec:     4095, Lr: 0.000300
+2021-10-08 15:48:02,898 - INFO - joeynmt.training - Epoch  24: total training loss 918.71
+2021-10-08 15:48:02,899 - INFO - joeynmt.training - EPOCH 25
+2021-10-08 15:48:09,335 - INFO - joeynmt.training - Epoch  25, Step:     8500, Batch Loss:     2.566980, Tokens per Sec:     4213, Lr: 0.000300
+2021-10-08 15:48:44,333 - INFO - joeynmt.training - Epoch  25, Step:     8600, Batch Loss:     2.530961, Tokens per Sec:     4090, Lr: 0.000300
+2021-10-08 15:49:19,135 - INFO - joeynmt.training - Epoch  25, Step:     8700, Batch Loss:     2.568308, Tokens per Sec:     4183, Lr: 0.000300
+2021-10-08 15:49:53,785 - INFO - joeynmt.training - Epoch  25, Step:     8800, Batch Loss:     2.679702, Tokens per Sec:     4096, Lr: 0.000300
+2021-10-08 15:50:04,698 - INFO - joeynmt.training - Epoch  25: total training loss 902.99
+2021-10-08 15:50:04,698 - INFO - joeynmt.training - EPOCH 26
+2021-10-08 15:50:28,159 - INFO - joeynmt.training - Epoch  26, Step:     8900, Batch Loss:     2.472636, Tokens per Sec:     4132, Lr: 0.000300
+2021-10-08 15:51:03,050 - INFO - joeynmt.training - Epoch  26, Step:     9000, Batch Loss:     2.372608, Tokens per Sec:     4078, Lr: 0.000300
+2021-10-08 15:52:04,611 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:52:04,611 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:52:04,611 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:52:04,618 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:52:05,070 - INFO - joeynmt.helpers - delete models/pcmen_reverse_transformer/6000.ckpt
+2021-10-08 15:52:05,096 - INFO - joeynmt.training - Example #0
+2021-10-08 15:52:05,097 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:52:05,097 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', 'was', 'written', 'to', 'the', 'two', 'two', 'two', 'two', 'two', 'men', '.']
+2021-10-08 15:52:05,097 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:52:05,097 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:52:05,097 - INFO - joeynmt.training - 	Hypothesis: Jehovah was written to the two two two two two men .
+2021-10-08 15:52:05,097 - INFO - joeynmt.training - Example #1
+2021-10-08 15:52:05,097 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:52:05,097 - DEBUG - joeynmt.training - 	Raw hypothesis: ['BE@@', 'ING', 'I', 'have', 'been', 'a', 'time', 'to', 'learn', 'the', 'truth', '.']
+2021-10-08 15:52:05,097 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:52:05,097 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:52:05,098 - INFO - joeynmt.training - 	Hypothesis: BEING I have been a time to learn the truth .
+2021-10-08 15:52:05,098 - INFO - joeynmt.training - Example #2
+2021-10-08 15:52:05,098 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:52:05,098 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'the', 'Catholic', 'Catholic', 'Catholic', 'was', 'a', 'little', 'little', 'little', ',', 'he', 'was', '“', 'a', 'struggle', '”', 'to', 'get', 'up', '.']
+2021-10-08 15:52:05,098 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:52:05,098 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:52:05,098 - INFO - joeynmt.training - 	Hypothesis: But the Catholic Catholic Catholic was a little little little , he was “ a struggle ” to get up .
+2021-10-08 15:52:05,098 - INFO - joeynmt.training - Example #3
+2021-10-08 15:52:05,098 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:52:05,098 - DEBUG - joeynmt.training - 	Raw hypothesis: ['In', '19@@', '8@@', '7', ',', 'one', 'brother', 'told', 'me', 'that', 'I', 'would', 'be', 'a', 'person', 'who', 'would', 'be', 'like', 'a', 'group', 'of', 'the', 'B@@', 'aly@@', 'k@@', 'y', '.']
+2021-10-08 15:52:05,099 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:52:05,099 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:52:05,099 - INFO - joeynmt.training - 	Hypothesis: In 1987 , one brother told me that I would be a person who would be like a group of the Balyky .
+2021-10-08 15:52:05,099 - INFO - joeynmt.training - Validation result (greedy) at epoch  26, step     9000: bleu:  16.19, loss: 65669.7031, ppl:  15.0991, duration: 62.0494s
+2021-10-08 15:52:39,863 - INFO - joeynmt.training - Epoch  26, Step:     9100, Batch Loss:     2.544616, Tokens per Sec:     4132, Lr: 0.000300
+2021-10-08 15:53:08,608 - INFO - joeynmt.training - Epoch  26: total training loss 894.71
+2021-10-08 15:53:08,608 - INFO - joeynmt.training - EPOCH 27
+2021-10-08 15:53:14,562 - INFO - joeynmt.training - Epoch  27, Step:     9200, Batch Loss:     2.376797, Tokens per Sec:     4116, Lr: 0.000300
+2021-10-08 15:53:49,414 - INFO - joeynmt.training - Epoch  27, Step:     9300, Batch Loss:     2.713434, Tokens per Sec:     4091, Lr: 0.000300
+2021-10-08 15:54:24,498 - INFO - joeynmt.training - Epoch  27, Step:     9400, Batch Loss:     2.504378, Tokens per Sec:     4059, Lr: 0.000300
+2021-10-08 15:54:59,394 - INFO - joeynmt.training - Epoch  27, Step:     9500, Batch Loss:     2.682125, Tokens per Sec:     4151, Lr: 0.000300
+2021-10-08 15:55:11,465 - INFO - joeynmt.training - Epoch  27: total training loss 887.54
+2021-10-08 15:55:11,466 - INFO - joeynmt.training - EPOCH 28
+2021-10-08 15:55:34,274 - INFO - joeynmt.training - Epoch  28, Step:     9600, Batch Loss:     2.380604, Tokens per Sec:     4149, Lr: 0.000300
+2021-10-08 15:56:08,948 - INFO - joeynmt.training - Epoch  28, Step:     9700, Batch Loss:     2.374189, Tokens per Sec:     4160, Lr: 0.000300
+2021-10-08 15:56:44,121 - INFO - joeynmt.training - Epoch  28, Step:     9800, Batch Loss:     2.507071, Tokens per Sec:     3999, Lr: 0.000300
+2021-10-08 15:57:14,106 - INFO - joeynmt.training - Epoch  28: total training loss 876.07
+2021-10-08 15:57:14,107 - INFO - joeynmt.training - EPOCH 29
+2021-10-08 15:57:18,958 - INFO - joeynmt.training - Epoch  29, Step:     9900, Batch Loss:     2.455578, Tokens per Sec:     4127, Lr: 0.000300
+2021-10-08 15:57:54,066 - INFO - joeynmt.training - Epoch  29, Step:    10000, Batch Loss:     2.316791, Tokens per Sec:     4158, Lr: 0.000300
+2021-10-08 15:58:47,647 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 15:58:47,647 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 15:58:47,647 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 15:58:47,654 - INFO - joeynmt.training - Hooray! New best validation result [ppl]!
+2021-10-08 15:58:48,073 - INFO - joeynmt.helpers - delete models/pcmen_reverse_transformer/7000.ckpt
+2021-10-08 15:58:48,094 - INFO - joeynmt.training - Example #0
+2021-10-08 15:58:48,094 - DEBUG - joeynmt.training - 	Raw source:     ['Jehovah', 'tell', 'Ezekiel', 'sey', 'make', 'e', 'write', 'on', 'top', 'two', 'stick', '.']
+2021-10-08 15:58:48,095 - DEBUG - joeynmt.training - 	Raw hypothesis: ['Jehovah', 'told', 'Ezekiel', 'that', 'he', 'was', 'written', 'on', 'two', 'two', 'two', 'two', 'two', 'men', '.']
+2021-10-08 15:58:48,095 - INFO - joeynmt.training - 	Source:     Jehovah tell Ezekiel sey make e write on top two stick .
+2021-10-08 15:58:48,095 - INFO - joeynmt.training - 	Reference:  Jehovah told his prophet Ezekiel to write on two sticks .
+2021-10-08 15:58:48,095 - INFO - joeynmt.training - 	Hypothesis: Jehovah told Ezekiel that he was written on two two two two two men .
+2021-10-08 15:58:48,095 - INFO - joeynmt.training - Example #1
+2021-10-08 15:58:48,095 - DEBUG - joeynmt.training - 	Raw source:     ['BE@@', 'F@@', 'OR@@', 'E', 'that', 'time', ',', 'I', 'don', 'dey', 'like', 'the', 'truth', 'wey', 'I', 'dey', 'learn', 'from', 'Bible', '.']
+2021-10-08 15:58:48,095 - DEBUG - joeynmt.training - 	Raw hypothesis: ['BE@@', 'ING', 'THE', 'Bible', 'truth', 'was', 'a', 'real', 'real', 'understanding', '.']
+2021-10-08 15:58:48,095 - INFO - joeynmt.training - 	Source:     BEFORE that time , I don dey like the truth wey I dey learn from Bible .
+2021-10-08 15:58:48,095 - INFO - joeynmt.training - 	Reference:  MY INTEREST in Bible truth had already been aroused earlier .
+2021-10-08 15:58:48,095 - INFO - joeynmt.training - 	Hypothesis: BEING THE Bible truth was a real real understanding .
+2021-10-08 15:58:48,095 - INFO - joeynmt.training - Example #2
+2021-10-08 15:58:48,096 - DEBUG - joeynmt.training - 	Raw source:     ['But', 'because', 'Ireland', 'na', 'Catholic', 'country', ',', 'e', 'come', 'be', 'like', 'sey', ',', '‘', 'trouble', 'dey', 'sleep', 'y@@', 'ang@@', 'a', 'go', 'wake', 'am', '.', '’']
+2021-10-08 15:58:48,096 - DEBUG - joeynmt.training - 	Raw hypothesis: ['But', 'in', 'Ireland', 'was', 'a', 'Catholic', ',', 'the', 'Catholic', ',', '“', 'I', 'was', 'sick', '.', '”']
+2021-10-08 15:58:48,096 - INFO - joeynmt.training - 	Source:     But because Ireland na Catholic country , e come be like sey , ‘ trouble dey sleep yanga go wake am . ’
+2021-10-08 15:58:48,096 - INFO - joeynmt.training - 	Reference:  What “ silly ” things to do in such a Catholic country !
+2021-10-08 15:58:48,096 - INFO - joeynmt.training - 	Hypothesis: But in Ireland was a Catholic , the Catholic , “ I was sick . ”
+2021-10-08 15:58:48,096 - INFO - joeynmt.training - Example #3
+2021-10-08 15:58:48,096 - DEBUG - joeynmt.training - 	Raw source:     ['For', '19@@', '8@@', '7', ',', 'one', 'brother', 'tell', 'me', 'sey', 'make', 'I', 'go', 'check', 'one', 'person', 'wey', 'like', 'our', 'message', 'for', 'B@@', 'aly@@', 'k@@', 'ch@@', 'y', '.']
+2021-10-08 15:58:48,096 - DEBUG - joeynmt.training - 	Raw hypothesis: ['In', '19@@', '8@@', '7', ',', 'one', 'brother', 'told', 'me', 'that', 'I', 'would', 'be', 'a', 'person', 'who', 'is', 'in', 'B@@', 'aly@@', 'k@@', 'y', '.']
+2021-10-08 15:58:48,096 - INFO - joeynmt.training - 	Source:     For 1987 , one brother tell me sey make I go check one person wey like our message for Balykchy .
+2021-10-08 15:58:48,096 - INFO - joeynmt.training - 	Reference:  In 1987 a brother asked me to visit an interested person living in the town of Balykchy .
+2021-10-08 15:58:48,096 - INFO - joeynmt.training - 	Hypothesis: In 1987 , one brother told me that I would be a person who is in Balyky .
+2021-10-08 15:58:48,097 - INFO - joeynmt.training - Validation result (greedy) at epoch  29, step    10000: bleu:  17.12, loss: 64648.2734, ppl:  14.4748, duration: 54.0299s
+2021-10-08 15:59:22,576 - INFO - joeynmt.training - Epoch  29, Step:    10100, Batch Loss:     2.418180, Tokens per Sec:     4161, Lr: 0.000300
+2021-10-08 15:59:57,376 - INFO - joeynmt.training - Epoch  29, Step:    10200, Batch Loss:     2.557573, Tokens per Sec:     4098, Lr: 0.000300
+2021-10-08 16:00:10,635 - INFO - joeynmt.training - Epoch  29: total training loss 868.86
+2021-10-08 16:00:10,635 - INFO - joeynmt.training - EPOCH 30
+2021-10-08 16:00:32,116 - INFO - joeynmt.training - Epoch  30, Step:    10300, Batch Loss:     2.364865, Tokens per Sec:     4105, Lr: 0.000300
+2021-10-08 16:01:06,936 - INFO - joeynmt.training - Epoch  30, Step:    10400, Batch Loss:     2.204972, Tokens per Sec:     4125, Lr: 0.000300
+2021-10-08 16:01:41,702 - INFO - joeynmt.training - Epoch  30, Step:    10500, Batch Loss:     2.369370, Tokens per Sec:     4133, Lr: 0.000300
+2021-10-08 16:02:13,137 - INFO - joeynmt.training - Epoch  30: total training loss 862.56
+2021-10-08 16:02:13,137 - INFO - joeynmt.training - Training ended after  30 epochs.
+2021-10-08 16:02:13,137 - INFO - joeynmt.training - Best validation result (greedy) at step    10000:  14.47 ppl.
+2021-10-08 16:02:13,161 - INFO - joeynmt.prediction - Process device: cuda, n_gpu: 1, batch_size per device: 3600
+2021-10-08 16:02:13,161 - INFO - joeynmt.prediction - Loading model from models/pcmen_reverse_transformer/10000.ckpt
+2021-10-08 16:02:13,364 - INFO - joeynmt.model - Building an encoder-decoder model...
+2021-10-08 16:02:13,609 - INFO - joeynmt.model - Enc-dec model built.
+2021-10-08 16:02:13,681 - INFO - joeynmt.prediction - Decoding on dev set (data/pcmen/dev.bpe.en)...
+2021-10-08 16:04:24,901 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 16:04:24,902 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 16:04:24,902 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 16:04:24,906 - INFO - joeynmt.prediction -  dev bleu[13a]:  17.09 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2021-10-08 16:04:24,907 - INFO - joeynmt.prediction - Translations saved to: models/pcmen_reverse_transformer/00010000.hyps.dev
+2021-10-08 16:04:24,907 - INFO - joeynmt.prediction - Decoding on test set (data/pcmen/test.bpe.en)...
+2021-10-08 16:07:24,590 - WARNING - sacrebleu - That's 100 lines that end in a tokenized period ('.')
+2021-10-08 16:07:24,590 - WARNING - sacrebleu - It looks like you forgot to detokenize your test data, which may hurt your score.
+2021-10-08 16:07:24,590 - WARNING - sacrebleu - If you insist your data is detokenized, or don't care, you can suppress this message with the `force` parameter.
+2021-10-08 16:07:24,601 - INFO - joeynmt.prediction - test bleu[13a]:  24.95 [Beam search decoding with beam size = 5 and alpha = 1.0]
+2021-10-08 16:07:24,602 - INFO - joeynmt.prediction - Translations saved to: models/pcmen_reverse_transformer/00010000.hyps.test

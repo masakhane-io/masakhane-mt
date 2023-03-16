@@ -14,7 +14,7 @@ Authors of the corrected translations (Masakhane members):
 - fon_covid: Jamiil Toure ALI
 - ha_covid: Ricky Macharm & Wale Akinfaderin
 - ha_ted: Wale Akinfaderin
-- ig_covid: Chris Emezue
+- ig_covid: Chris Emezue & G.M.T Emezue
 - ig_ted: Ignatius Ezeani
 - luo_ted: Perez Ogayo
 - pcm_covid: Orevaoghene Ahia
