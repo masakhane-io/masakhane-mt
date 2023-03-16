@@ -53,6 +53,8 @@ The Test BLEU score is computed on the JW300 [test sets](https://github.com/masa
 | English | isiZulu (JW300)|  4.87 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/en-zu/jw300-baseline) | :x: |
 | Efik | English | 33.68 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/efi-en/jw300-baseline) | :x: |
 | Hausa | English | 25.27 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/ha-en/opus_ha_en_baseline) | :x: |
+| Shona | English | 38.42 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/sn-en/jw300-baseline) | :x: |
+| Swahili | English | 48.79 | [link](https://github.com/masakhane-io/masakhane-mt/tree/master/benchmarks/sw-en) | :x: |
 | Yoruba  | English |  39.44   | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/yo-en/jw300-baseline) | :heavy_check_mark: |
 | French | Lingala | 39.81 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-ln/french-lingala-baseline) | :x: |
 | French | Swahili Congo | 33.73 | [link](https://github.com/masakhane-io/masakhane/tree/master/benchmarks/fr-swc/french-swahili_drc_baseline) | :x: |
