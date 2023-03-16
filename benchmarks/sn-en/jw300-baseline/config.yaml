@@ -1,24 +1,24 @@
 
-name: "snen_reverse_transformer"
+name: "ensn_reverse_transformer"
 
 data:
-    src: "sn"
-    trg: "en"
-    train: "data/snen/train.bpe"
-    dev:   "data/snen/dev.bpe"
-    test:  "data/snen/test.bpe"
+    src: "en"
+    trg: "sn"
+    train: "data/ensn/train.bpe"
+    dev:   "data/ensn/dev.bpe"
+    test:  "data/ensn/test.bpe"
     level: "bpe"
     lowercase: False
     max_sent_length: 100
-    src_vocab: "data/snen/vocab.txt"
-    trg_vocab: "data/snen/vocab.txt"
+    src_vocab: "data/ensn/vocab.txt"
+    trg_vocab: "data/ensn/vocab.txt"
 
 testing:
     beam_size: 5
     alpha: 1.0
 
 training:
-    #load_model: "/content/drive/My Drive/masakhane/sn-en-baseline/models/snen_transformer/1.ckpt" # if uncommented, load a pre-trained model from this checkpoint
+    #load_model: "/content/drive/My Drive/masakhane/en-sn-baseline/models/ensn_transformer/1.ckpt" # if uncommented, load a pre-trained model from this checkpoint
     random_seed: 42
     optimizer: "adam"
     normalization: "tokens"
@@ -39,11 +39,11 @@ training:
     eval_batch_type: "token"
     batch_multiplier: 1
     early_stopping_metric: "ppl"
-    epochs: 5                  # TODO: Decrease for when playing around and checking of working. Around 30 is sufficient to check if its working at all
+    epochs: 1                  # TODO: Decrease for when playing around and checking of working. Around 30 is sufficient to check if its working at all
     validation_freq: 1000          # TODO: Set to at least once per epoch.
     logging_freq: 100
     eval_metric: "bleu"
-    model_dir: "models/snen_reverse_transformer"
+    model_dir: "models/ensn_reverse_transformer"
     overwrite: True              # TODO: Set to True if you want to overwrite possibly existing models. 
     shuffle: True
     use_cuda: True
